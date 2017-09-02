@@ -1,7 +1,0 @@
-Username: Test2024, 
-Age: 25, 
-Nationality: Questcapeutfoutre, 
-Gender: female, 
-IA: 4, 
-CS: 4, 
-E-Mail: test2024@gmail.com, 

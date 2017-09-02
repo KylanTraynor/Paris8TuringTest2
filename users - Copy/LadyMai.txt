@@ -1,6 +1,0 @@
-Username: LadyMai
-Age: 231
-Gender: female
-IA: 
-CS: 1
-E-Mail: marinabelcher1992@gmail.com

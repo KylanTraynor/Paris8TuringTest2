@@ -1,6 +1,0 @@
-Username: DragonFood
-Age: 32
-Gender: male
-IA: 5
-CS: 7
-E-Mail: dragonfood@gmail.com

@@ -1,2 +1,0 @@
-<span id="time-span">16:02:13</span><span id="name-span">Andrew</span>Blah 
-<span id="time-span">16:02:15</span><span id="name-span">Andrew</span>Blah 

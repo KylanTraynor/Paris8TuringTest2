@@ -1,6 +1,0 @@
-Username: psyduck14
-Age: 24
-Gender: female
-IA: 4
-CS: 3
-E-Mail: lzielin@uwo.ca

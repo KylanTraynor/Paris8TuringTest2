@@ -1,6 +1,0 @@
-Username: Lady
-Age: 31
-Gender: female
-IA: 3
-CS: 2
-E-Mail: ashzidi@hotmail.com

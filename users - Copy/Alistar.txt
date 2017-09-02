@@ -1,6 +1,0 @@
-Username: Alistar
-Age: 24
-Gender: female
-IA: 1
-CS: 7
-E-Mail: Discord

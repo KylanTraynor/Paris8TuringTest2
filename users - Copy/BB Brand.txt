@@ -1,6 +1,0 @@
-Username: BB Brand
-Age: 25
-Gender: male
-IA: 6
-CS: 4
-E-Mail: paladincache@gmail.com

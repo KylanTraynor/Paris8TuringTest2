@@ -1,6 +1,0 @@
-Username: Ryanbillybod
-Age: 20
-Gender: male
-IA: 1
-CS: 1
-E-Mail: 

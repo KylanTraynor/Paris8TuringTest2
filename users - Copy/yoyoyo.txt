@@ -1,6 +1,0 @@
-Username: yoyoyo
-Age: 18
-Gender: female
-IA: 1
-CS: 1
-E-Mail: neverscream17@gmail.com

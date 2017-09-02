@@ -1,6 +1,0 @@
-Username: Mushussu
-Age: 20
-Gender: male
-IA: 4
-CS: 3
-E-Mail: 

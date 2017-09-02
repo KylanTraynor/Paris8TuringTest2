@@ -1,6 +1,0 @@
-Username: Pikachubolt
-Age: 18
-Gender: female
-IA: 4
-CS: 2
-E-Mail: kingtaym@gmail.com

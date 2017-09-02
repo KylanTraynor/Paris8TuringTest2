@@ -1,6 +1,0 @@
-Username: Renly
-Age: 18
-Gender: male
-IA: 6
-CS: 5
-E-Mail: mavthelgtfox@gmail.com

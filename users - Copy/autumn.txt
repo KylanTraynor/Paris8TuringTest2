@@ -1,6 +1,0 @@
-Username: autumn
-Age: 20
-Gender: female
-IA: 6
-CS: 7
-E-Mail: 
