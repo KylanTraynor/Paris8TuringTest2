@@ -1,0 +1,105 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome JustAFox. ",18,
+Moderator,11,11,"Thank you for participating in this study. ",43,
+Moderator,32,21,"If you can see this, please type &quot;Yes&quot; ",49,
+JustAFox,57,25,"Yes ",4,
+Moderator,63,6,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,71,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+JustAFox,75,4,"Okay. Go ahead. ",16,
+Moderator,80,5,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,89,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,97,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,106,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,114,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,123,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,131,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,138,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,146,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,153,7,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,161,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,170,9,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,178,8,"Do not type more than one post per answer. ",43,
+Moderator,187,9,"Do you understand the rules and what you have to do? ",53,
+JustAFox,197,10,"Yes ",4,
+Moderator,203,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+JustAFox,210,7,"Yes ",4,
+Andrew,217,7,"Hello! ",7,
+JustAFox,246,29,"Hello there my friend. How was your day, what did you to today? ",64,1
+Andrew,275,29,"It&#039;s been quite alright thank you! Played a couple of games and stuff. What about you? ",92,1
+JustAFox,361,86,"Hmm, what kind of games did you play and why did you prefer to stay inside when there&#039;s 20 degress outside with an all blue sky? I went  to work since it&#039;s Tuesday.",174,1
+Andrew,485,124,"Well, I don&#039;t have much to do outside to be honest right now. I&#039;ve been so busy that I try to relax. I&#039;ve been playing Mass Effect mostly. ",154,1
+JustAFox,556,71,"Not having spring feelings? Come one. All blue sky and hot temperatures? Isn&#039;t that inviting? ",99,1
+Andrew,613,57,"Well, here in Canada it&#039;s not that hot. Where do you live? ",64,1
+JustAFox,697,84,"would  you like to guess where I live? ",39,1
+Andrew,722,25,"I can try. ",11,1
+JustAFox,750,28,"I give you a hint: the wall. ",29,1
+Andrew,773,23,"Trump&#039;s wall? ",19,1
+JustAFox,798,25,"Next hint: more that 20 years ago ",34,1
+Andrew,830,32,"I don&#039;t really know. ",26,1
+JustAFox,859,29,"Do you want another hint? ",26,1
+Andrew,866,7,"Sure yes. ",10,1
+JustAFox,910,44,"There was something called american sector. ",44,1
+Andrew,933,23,"Oh yeah? ",9,1
+JustAFox,950,17,"Yes. There was also a russian and an french sector ",51,1
+Andrew,1007,57,"Oh yeah. You&#039;re talking about Berlin right? ",49,1
+JustAFox,1036,29,"Right. What was the hint that made you recognise it? ",53,1
+Andrew,1054,18,"The last one I guess. ",22,1
+JustAFox,1067,13,"Do you have access to google? ",30,1
+Andrew,1081,14,"Not right now no. ",18,1
+JustAFox,1124,43,"Do you have a specific piece of history you enjoy? ",51,1
+Moderator,1153,29,"Time is up! ",12,
+Moderator,1168,15,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+JustAFox,1267,99,"I think you&#039;re the AI. In case you&#039;re not, plese don&#039;t feel offended.I guess the real actor would have at least known about the wall and such much quicker. ",171,
+Moderator,1282,15,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+JustAFox,1327,45,"Yes ",4,
+Andrew,1337,10,"Hello! ",7,
+JustAFox,1357,20,"Hello there buddy. How was the weather today? ",46,2
+Andrew,1391,34,"It was decent I guess. A rather good day for Ontario to be honest. ",67,2
+JustAFox,1419,28,"Was it sunny or just less cold? ",32,2
+Andrew,1462,43,"It was sunny actually. About 59&deg; too. ",42,2
+JustAFox,1509,47,"You&#039;re talking about fahrenheit, I guess? ",47,2
+Andrew,1539,30,"Oh yeah sorry. I&#039;m not sure how much that is in celsius. Something like 10? ",81,2
+JustAFox,1573,34,"Can you convert that from Fahrenheit to Celsius for me? ",56,2
+Andrew,1599,26,"I think I just did. I&#039;m not sure about the exact formula though. ",70,2
+JustAFox,1653,54,"There comes something else to my mind. It&#039;s about this conversation. May I suggest another hint for the rules? ",116,2
+Andrew,1673,20,"What do you mean? ",18,2
+JustAFox,1723,50,"Do you know about a character limit regarding the char input window? ",69,2
+Andrew,1744,21,"I know there is one. I&#039;m not sure how many that is. ",57,2
+JustAFox,1816,72,"It&#039;d come handy to know about beforehand. ",47,2
+Andrew,1834,18,"Ah ok. ",7,2
+JustAFox,1901,67,"You know, it&#039;s a tad annoying to have something great in mind and not being able to elaborate on it. ",106,2
+Andrew,1921,20,"You can&#039;t make it shorter? ",32,2
+JustAFox,1971,50,"I had to. Was no fun. ",22,2
+Andrew,2007,36,"I believe it&#039;s to make sure people don&#039;t write a book or something like that. ",88,2
+JustAFox,2043,36,"isn&#039;t that a bit unpolite? ",32,2
+Andrew,2071,28,"Why would it be? ",17,2
+JustAFox,2098,27,"How&#039;d you feel about not being able to express yourself? ",62,2
+Andrew,2128,30,"I&#039;ve heard someone say constraints trigger creativity. ",60,2
+JustAFox,2198,70,"Only if the outcome is worth the effort. ",41,2
+Andrew,2220,22,"Well, what was your idea about? ",32,2
+Moderator,2264,44,"Time is up! ",12,
+JustAFox,2264,0,"About explaining how my day was. Something awesome happened where I was today for most of the time. ",100,
+Moderator,2285,21,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+JustAFox,2323,38,"Is my time over? ",17,
+Moderator,2343,20,"Yes. It was over just before your answer ",41,
+JustAFox,2374,31,"The first conversation was the AI I think. ",43,
+Moderator,2389,15,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+JustAFox,2427,38,"5 ",2,
+Moderator,2438,11,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+JustAFox,2456,18,"can you tell me which one was the AI? ",38,
+Moderator,2461,5,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+Moderator,2470,9,"I can tell you if you have no comments anymore. ",48,
+JustAFox,2480,10,"Bye ",4,
+Moderator,2547,67,"You were correct. ",18,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,878,863,,,
+User Average,41.5,46.25,,,
+Actor Average,37.1818181818182,27.3333333333333,,,
+User Average (5min),57.5,36.6,,,
+Actor Average (5min),76.5,33.25,,,
+User CharLength,57.8333333333333,56.3333333333333,,,
+Actor CharLength,43.0909090909091,47.5833333333333,,,
+User CharLength (5min),119,59.4,,,
+Actor CharLength (5min),123,65,,,

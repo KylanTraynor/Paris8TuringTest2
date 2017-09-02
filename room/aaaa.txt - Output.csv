@@ -1,0 +1,118 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+aaaa,0,0,hello ,6,
+Moderator,1,1,Hello aaaa ,11,
+Moderator,10,9,Thank you for participating in this study. ,43,
+aaaa,10,0,how are you? ,13,
+Moderator,19,9,I&#039;m good thanks. ,22,
+Moderator,26,7,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,37,11,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,51,14,You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ,131,
+Moderator,59,8,You&#039;ll be talking to him twice. ,37,
+Moderator,68,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,77,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,86,9,We will call the Human and the Artificial Intelligence the Actors. ,67,
+Moderator,94,8,The order in which you&#039;ll be talking to each Actor is random. ,67,
+Moderator,102,8,You will not be talking twice with the same Actor. ,51,
+Moderator,129,27,Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ,120,
+Moderator,136,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,152,16,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,162,10,Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ,91,
+Moderator,171,9,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,178,7,Do not type more than one post per answer. ,43,
+Moderator,185,7,Do you understand the rules and what you have to do? ,53,
+aaaa,194,9,yes ,4,
+Moderator,208,14,Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ,102,
+aaaa,217,9,yes ,4,
+Andrew,229,12,Hello! ,7,
+aaaa,235,6,hi ,3,1
+Andrew,240,5,How are you doing? ,19,1
+aaaa,247,7,GREAT!!! ,9,1
+Andrew,262,15,Wow nice! ,10,1
+aaaa,281,19,WELL... ,8,1
+Andrew,291,10,What? ,6,1
+aaaa,297,6,i dunno ,8,1
+Andrew,307,10,What makes you feel so great? ,30,1
+aaaa,318,11,LIFE ,5,1
+Andrew,329,11,Just in general? ,17,1
+aaaa,337,8,Yea ,4,1
+Andrew,355,18,Damn that&#039;s cool. I wish I could say the same. ,52,1
+aaaa,392,37,Are you a real person? ,23,1
+Andrew,399,7,Well yeah. ,11,1
+aaaa,422,23,How does air feel? ,19,1
+Andrew,446,24,"Like air, I guess. I don&#039;t really know. ",45,1
+aaaa,466,20,Thats what i would say ,23,1
+Andrew,486,20,What are you up to? ,20,1
+aaaa,506,20,Talkin to you... ,17,1
+Andrew,523,17,"I can see that, but I mean, after that. ",40,1
+aaaa,565,42,What do you mean after that? ,29,1
+Andrew,594,29,You&#039;re not going to be talking to me all day right? Any plans for what you&#039;ll be doing later? ,104,1
+aaaa,617,23,Sleeping ,9,1
+Andrew,630,13,Is it late for you? ,20,1
+aaaa,644,14,About 6pm ,10,1
+Andrew,693,49,Same as me then. I&#039;ll probably just watch Netflix or something like that later. ,85,1
+aaaa,715,22,sounds like a plan! ,20,1
+Andrew,732,17,Do you watch shows? ,20,1
+aaaa,774,42,Yes  3 tbe ,11,1
+Andrew,827,53,Which ones? I&#039;m quite into House of Cards right now. ,58,1
+aaaa,848,21,STOP ,5,1
+Moderator,860,12,Conversation interrupted ,25,
+Moderator,878,18,Which actor do you think you&#039;ve been talking to? ,54,
+aaaa,898,20,A human ,8,
+Moderator,939,41,Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ,146,
+aaaa,948,9,yes ,4,
+Andrew,967,19,Hello! ,7,
+aaaa,0,7,Hi ,3,2
+Andrew,5,5,How are you doing? ,19,2
+aaaa,16,11,great...i guess ,16,2
+Andrew,33,17,That doesn&#039;t sound that great. ,36,2
+aaaa,44,11,No..no it doesn&#039;t ,23,2
+Andrew,52,8,What&#039;s wrong? ,19,2
+aaaa,63,11,I dunno ,8,2
+Andrew,73,10,Just bored? ,12,2
+aaaa,85,12,No ,3,2
+Andrew,104,19,Ah ok. ,7,2
+aaaa,132,28,Well this person was like mad at me and I was mad at that person ,65,2
+Andrew,163,31,Why were they mad at you? ,26,2
+aaaa,184,21,Because I was mad at them ,26,2
+Andrew,203,19,"Like, no reason at all? ",24,2
+aaaa,241,38,NO  ,4,2
+Andrew,266,25,"Don&#039;t get mad at me, alright. ",35,2
+aaaa,283,17,Ooops srry caps ,16,2
+Andrew,301,18,"No worries, oh right. ",22,2
+aaaa,325,24,oh right...? ,13,2
+Andrew,351,26,"Like, it&#039;s nothing. ",25,2
+aaaa,379,28,Whats nothing? ,15,2
+Andrew,415,36,I thought you were mad at me and you used caps. ,48,2
+aaaa,-84967,-86356,oH YEA THAT ,12,
+Andrew,-84952,15,"There you go again, yeah. ",26,
+aaaa,-84902,50,Well i suck at typing sometimes. ,33,
+Andrew,-84861,41,"I can see that, yeah. ",22,
+aaaa,-84788,73,The house of cards ,19,
+Andrew,-84774,14,What? ,6,
+aaaa,-84765,9,Good show! ,11,
+Andrew,-84751,14,Oh yeah it really is! ,22,
+aaaa,-84684,67,I mean my friends say so..I hav n&#039;t watched,48,
+Andrew,-84664,20,What kind of shows do you watch? ,33,
+aaaa,-84637,27,All kinds ,10,
+Andrew,-84590,47,Is there any you&#039;re currently into? ,41,
+aaaa,-84547,43,Well you first ,15,
+Andrew,-84533,14,I&#039;m actually watching House of Cards. ,43,
+Moderator,-84522,11,Time is up! ,12,
+Moderator,-84509,13,Which actor do you think you&#039;ve been talking to in the first conversation?  ,81,
+aaaa,-84444,65,bot ,4,
+Moderator,-84426,18,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+aaaa,-84397,29,4 ,2,
+Moderator,-84390,7,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,-84382,8,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,613,415,,,
+User Average,20.0625,18.9090909091,,,
+Actor Average,19.8666666667,19.4545454545,,,
+User Average (5min),15.7,17.3333333333,,,
+Actor Average (5min),13.7,16.75,,,
+User CharLength,12.6875,17.4545454545,,,
+Actor CharLength,35.8,24.8181818182,,,
+User CharLength (5min),11.9,18.2222222222,,,
+Actor CharLength (5min),25,22.25,,,

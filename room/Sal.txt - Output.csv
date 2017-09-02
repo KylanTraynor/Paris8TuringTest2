@@ -1,0 +1,102 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Sal. ",11,
+Moderator,7,7,"Thank you for participating in this study. ",43,
+Moderator,16,9,"Are you able to read this? ",27,
+Sal,75,59,"I read you. ",12,
+Moderator,95,20,"Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",110,
+Moderator,101,6,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,110,9,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,119,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,127,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,133,6,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,140,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,150,10,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,156,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,162,6,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,172,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,181,9,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,188,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,196,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,202,6,"Do not type more than one post per answer. ",43,
+Moderator,208,6,"Do you understand the rules and what you have to do? ",53,
+Sal,368,160,"More than one post per answer meaning one post, than wait, then after the human/ai has replied you may write again, but not before that? ",137,
+Moderator,382,14,"Precisely yes. ",15,
+Moderator,389,7,"They will respect the same rule. ",33,
+Sal,413,24,"Alright, then all is clear. ",28,
+Moderator,420,7,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Sal,431,11,"I am ready. ",12,
+Andrew,435,4,"Hello! ",7,
+Sal,444,9,"Evening. ",9,1
+Andrew,474,30,"How are you? Not evening yet for me. ",37,1
+Sal,517,43,"I&#039;m doing alright thank you very much.  May I ask how old you are?",71,1
+Andrew,544,27,"I&#039;m 21, sure. ",19,1
+Sal,647,103,"I see. And how are you doing this day? I am guessing that you might perhaps be from the Americas. ",98,1
+Andrew,690,43,"I&#039;m from Canada actually yeah. I&#039;m doing quite alright! ",66,1
+Sal,722,32,"Any hobbies? ",13,1
+Andrew,758,36,"What about you? I love video games, especially Minecraft. ",58,1
+Sal,841,83,"Minecraft I see, have you played that for long?  ",49,1
+Andrew,851,10,"A couple of years now. ",23,1
+Sal,923,72,"Going back, yeah, I quite like video games as well. Mostly strategy games and rpgs at this point, though I have been playing a lot of different games over the year. ",165,1
+Andrew,980,57,"I played the last Mass Effect lately. I quite like those too yes. ",66,1
+Sal,1008,28,"They fixed that at all? ",24,1
+Andrew,1044,36,"More fixes are coming soon, but to some extent yes. ",52,1
+Sal,1078,34,"Fair enough. What namely? ",26,1
+Andrew,1102,24,"They said they&#039;d add more option to the character creator. ",64,1
+Sal,1142,40,"Right, but what had they already fixed? ",40,1
+Andrew,1172,30,"Mostly the eyes and faces which looked really creepy before. ",61,1
+Sal,1202,30,"Cool. ",6,1
+Andrew,1220,18,"Do you like Mass Effect? ",25,1
+Sal,1230,10,"Never played it. ",17,1
+Andrew,1247,17,"The whole thing is quite fun. You should give it a try. ",56,1
+Sal,1299,52,"[STOP] ",7,1
+Moderator,1311,12,"Conversation Interrupted! ",26,
+Moderator,1326,15,"Which actor do you think you&#039;ve been talking to? ",54,
+Sal,1415,89,"I can&#039;t talk to the other one first?  ",43,
+Moderator,1439,24,"You have to give an answer first, it&#039;s not your final answer though. ",74,
+Sal,1474,35,"Tough call. Leaning towards AI though. ",39,
+Moderator,1488,14,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Sal,1498,10,"I&#039;m ready. ",16,
+Andrew,1505,7,"Hello! ",7,
+Sal,1511,6,"&#039;sup. ",11,2
+Andrew,1541,30,"Hey! What are you up to? ",25,2
+Sal,1572,31,"Nothing much, talking to you more or less. ",43,2
+Andrew,1612,40,"Alright then. How are you doing today? ",39,2
+Sal,1671,59,"I&#039;m doing alright. How about you? ",39,2
+Andrew,1691,20,"I&#039;m quite alright thanks! ",31,2
+Sal,1741,50,"Very good. May I ask you how old you are? I&#039;m also happy you are doing well this evening. ",95,2
+Andrew,1782,41,"It&#039;s only 3pm for me actually. And I&#039;m 21, what about you? ",69,2
+Sal,1888,106,"I&#039;m 24.  ",14,2
+Andrew,1902,14,"Oh cool! Are you a student? ",28,2
+Sal,1962,60,"Sure thing. I study energy technology. How about you, what are you doing right now ?",84,2
+Andrew,2001,39,"I study Biology, it&#039;s my 3rd year of undergrad. ",53,2
+Sal,2077,76,"That&#039;s pretty cool. Any particular major/minor? ",53,2
+Andrew,2101,24,"Neurobiology yeah. ",19,2
+Sal,2236,135,"Very exciting subject.  You do anything else?",45,2
+Andrew,2256,20,"Other than college? I play video games a lot. ",46,2
+Sal,2317,61,"I see. Any particular games? ",29,2
+Andrew,2343,26,"I spend way too much time playing Minecraft, and I finished Mass Effect a little while ago now. ",96,2
+Sal,2412,69,"I see. Did they fix that one? ",30,2
+Moderator,2418,6,"Time is up! ",12,
+Moderator,2429,11,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Sal,2498,69,"Oh, time&#039;s up already? I still say first is ai, sec ond is a human. But not by much.",89,
+Moderator,2506,8,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Sal,2534,28,"4 ",2,
+Moderator,2546,12,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2553,7,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+Sal,2639,86,"One comment; I probably should have steered myself into more difficult territory. I suspect that your ai knows the subjects we were talking about quite well.  ",159,
+Moderator,2718,79,"What made you choose the first conversation as the AI? ",55,
+Sal,3021,303,"Some bits of odd wording. Like &quot;I&#039;m 21, sure.&quot; I am assuming human makes less odd phrasing like that. The second conversation also asked for clarification, asking &quot;O ther than college?&quot;",210,
+Moderator,3057,36,"I see. Thank you for your comments! ",36,
+Moderator,-66626,-69683,"test ",5,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,855,901,,,
+User Average,44.6666666666667,64.8888888888889,,,
+Actor Average,29.8181818181818,28.2222222222222,,,
+User Average (5min),46.75,36.5,,,
+Actor Average (5min),33.3333333333333,32.75,,,
+User CharLength,43.75,45.8888888888889,,,
+Actor CharLength,47.9090909090909,45.1111111111111,,,
+User CharLength (5min),47.75,47,,,
+Actor CharLength (5min),40.6666666666667,41,,,

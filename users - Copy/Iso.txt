@@ -1,0 +1,14 @@
+Username: Iso
+Age: 18
+Gender: male
+IA: 3
+CS: 3
+E-Mail: leedyjd@yahoo.com
+
+MidAnswer: Human 1st
+FinalAnswer: Human 1st
+
+Human: 1st
+AI: Context
+
+Comment: "Well okay so like, the timing for responses felt weird for the first one. and it also like answered both parts of my like double messages when I did that. And the flow felt decent. The second one anytime I did the double text or anything like... took a lot longer to respond and also only answered the second message and didn't exactly make sense with responses fully."

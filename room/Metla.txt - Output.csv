@@ -1,0 +1,113 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Metla. ",15,
+Moderator,29,29,"Thank you for participating in this study. ",43,
+Moderator,39,10,"If you can see this, please say &quot;yes&quot;. ",49,
+Metla,45,6,"Yes ",4,
+Moderator,51,6,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,59,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,69,10,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,78,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,89,11,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,98,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,106,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,115,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,123,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,132,9,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,140,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,147,7,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,156,9,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,164,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,171,7,"Do not type more than one post per answer. ",43,
+Moderator,181,10,"Do you understand the rules and what you have to do? ",53,
+Metla,189,8,"Yes ",4,
+Moderator,196,7,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Metla,207,11,"Yes ",4,
+Andrew,211,4,"Hello! ",7,1
+Metla,221,10,"Good day Andrew ",16,1
+Andrew,234,13,"How are you doing? ",19,1
+Metla,245,11,"I&#039;m fine thanks, what about you? ",38,1
+Andrew,257,12,"I&#039;m doing alright. What&#039;s up? ",40,1
+Metla,273,16,"The sky of course! ",19,1
+Andrew,287,14,"What&#039;s down then? ",23,1
+Metla,307,20,"The ground  I guess.",20,1
+Andrew,333,26,"Fair enough. What are you up to? ",33,1
+Metla,351,18,"I was about to play some Overwatch really. ",43,1
+Andrew,366,15,"I&#039;ve never played that. ",29,1
+Metla,384,18,"You should try, do you like FPS? ",33,1
+Andrew,396,12,"It really depends on the game. ",31,1
+Metla,420,24,"Which games do you like then? ",30,1
+Andrew,442,22,"Minecraft and RPGs mostly, like Mass Effect. ",45,1
+Metla,484,42,"I&#039;ve not played minecraft for years... mh, so much nostalgia about it ",75,1
+Andrew,499,15,"Maybe you should try it again. ",31,1
+Metla,516,17,"I don&#039;t like to play it alone ",35,1
+Andrew,536,20,"It does get quite boring alone yeah. ",37,1
+Metla,557,21,"What&#039;s your favourite item on minecraft? ",46,1
+Andrew,574,17,"Elytras. ",9,1
+Metla,604,30,"And why? ",9,1
+Andrew,624,20,"They let you fly around. It&#039;s really cool. ",48,1
+Metla,651,27,"Ok let&#039;s talk about something else, do you like sports? ",61,1
+Andrew,670,19,"I&#039;m not a huge fan no. You? ",33,1
+Metla,699,29,"I used to play watrerpolo for 8 years ",38,1
+Andrew,736,37,"Oh nice! That actually seems to be a fun one. ",46,1
+Metla,774,38,"Mh, so what do you do in your free time?  ",42,1
+Andrew,795,21,"I mostly play games honestly. ",30,1
+Metla,849,54,"Mh nice nice, and have you heard of the first head trasplant? I t will happens in december",90,1
+Andrew,876,27,"Uh. That sounds way too weird. ",31,1
+Metla,884,8,"How so? ",8,1
+Andrew,894,10,"How is it possible? ",20,1
+Metla,1022,128,"The will be freezing the head at a temperature of -40&deg;C, they will connect it to the body of a brain-dead patient, connect all the nerves and bones. And then send in coma the patient. ",188,1
+Andrew,1065,43,"Where are they doing that? ",27,1
+Moderator,1125,60,"Time is up! ",12,
+Moderator,1137,12,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Metla,1173,36,"Human I guess ",14,
+Moderator,1185,12,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Metla,1199,14,"I&#039;m ready ",15,
+Andrew,1202,3,"Hello! ",7,
+Metla,1221,19,"Hello to you as well ",21,2
+Andrew,1227,6,"How are you doing? ",19,2
+Metla,1243,16,"I&#039;m fine, thanks, what about you, mister Andrew? ",54,2
+Andrew,1263,20,"I&#039;m doing quite alright. What&#039;s up? ",46,2
+Metla,1296,33,"Nothing just chilling, and chatting with you, what are you up to? ",66,2
+Andrew,1323,27,"I&#039;m not sure yet. I&#039;ll probably be playing games in a bit or something like that. ",92,2
+Metla,1337,14,"Ok, have you ever heard of metallica? ",38,2
+Andrew,1361,24,"The band? Yeah I have. I only really know one of their song though. ",68,2
+Metla,1371,10,"Which song? ",12,2
+Andrew,1433,62,"Actually I mistook it for another band, nevermind. I just know the name. I&#039;ve probably heard some of their songs but I can&#039;t recall any. ",147,2
+Metla,1515,82,"You probably have heard sometimes &quot;Enter Sandman&quot; and &quot;Nothing else matters&quot;, but you don&#039;t know that metallica has  written them",154,2
+Andrew,1548,33,"That&#039;s probably the case yes. I mistook it with Cascada, but that&#039;s really not the same style. ",105,2
+Metla,1652,104,"They are... totally the opposite, sort of ",42,2
+Andrew,1674,22,"Yeah I know. Does Cascada even still exist? ",44,2
+Metla,1689,15,"I don&#039;t think so ",22,2
+Andrew,1722,33,"That might explain why I&#039;ve only ever heard one song of them. Have you ever heard some symphonic metal? ",109,2
+Metla,1777,55,"Not really my style, I prefer trash metal and folk metal ",57,2
+Andrew,1813,36,"Alright I see. Do you play video games? ",40,2
+Metla,1841,28,"Yes,  I do",10,2
+Andrew,1849,8,"Which ones do you like? ",24,2
+Metla,1862,13,"Overwatch and League of legends are my favourite ",49,2
+Andrew,1884,22,"I&#039;ve never played any of those, but I&#039;ve definitely heard about them a lot. ",86,2
+Metla,1905,21,"In a good or in a bad way? ",27,2
+Andrew,1936,31,"I think mostly good. Especially League of Legends. ",51,2
+Metla,1969,33,"What have you heard of it? ",27,2
+Andrew,2014,45,"Nothing too specific. But I know a lot of people who play it and enjoy doing so. ",81,2
+Metla,2067,53,"What about you, tell me about your favourite games and why they can be called as such ",86,2
+Andrew,2116,49,"Minecraft eats a lot of my time. I love building things in it. And Mass Effect lately, mostly for the depth of the characters in it. ",133,2
+Moderator,2126,10,"Time is up! ",12,
+Moderator,2137,11,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Metla,2158,21,"In my opinion the first was human and the second the IA ",56,
+Moderator,2175,17,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Metla,2199,24,"Let&#039;s say 4 ",17,
+Moderator,2205,6,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2227,22,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+Metla,2262,35,"You should listen more Metallica, that&#039;s the only tip I can give you, have a nice day! ",92,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,854,895,,,
+User Average,30.0588235294118,35.4285714285714,,,
+Actor Average,20.1764705882353,29.8571428571429,,,
+User Average (5min),19.5555555555556,29,,,
+Actor Average (5min),16.125,27.8,,,
+User CharLength,46.5294117647059,47.5,,,
+Actor CharLength,31.2941176470588,74.6428571428571,,,
+User CharLength (5min),34.3333333333333,57.5,,,
+Actor CharLength (5min),31.375,74.4,,,

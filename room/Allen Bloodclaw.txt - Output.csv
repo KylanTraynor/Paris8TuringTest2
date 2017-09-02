@@ -1,0 +1,127 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Allen Bloodclaw. ",23,
+Allen Bloodclaw,1,1,"Hello, world ^^ ",16,
+Moderator,11,10,"Thank you for participating in this study. ",43,
+Allen Bloodclaw,19,8,"You welcome ",12,
+Moderator,29,10,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,38,9,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Allen Bloodclaw,39,1,"Nice ",5,
+Moderator,47,8,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,54,7,"You&#039;ll be talking to him twice. ",37,
+Moderator,63,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,72,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,80,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,88,8,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Allen Bloodclaw,93,5,"I have to guess, rigth? ",24,
+Allen Bloodclaw,96,3,"told beforehand ",16,
+Moderator,100,4,"Yes ",4,
+Moderator,102,2,"You will not be talking twice with the same Actor. ",51,
+Moderator,113,11,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,122,9,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,130,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,137,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Allen Bloodclaw,145,8,"Pretty easy. At least the rules  ",33,
+Moderator,148,3,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,158,10,"Do not type more than one post per answer. ",43,
+Allen Bloodclaw,160,2,"Understood ",11,
+Moderator,171,11,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. ",87,
+Allen Bloodclaw,179,8,"ok ",3,
+Andrew,186,7,"Hello! ",7,
+Allen Bloodclaw,194,8,"Hello, there ",13,1
+Andrew,201,7,"How are you doing? ",19,1
+Allen Bloodclaw,224,23,"Fine, but some part of my body hurts. Can you guess it? ",56,1
+Andrew,238,14,"Not really. ",12,1
+Allen Bloodclaw,256,18,"Its one of my limbs ",20,1
+Andrew,266,10,"Your arm? ",10,1
+Allen Bloodclaw,275,9,"lower, I think ",15,1
+Andrew,284,9,"Your leg then? ",15,1
+Allen Bloodclaw,304,20,"which of three? ",16,1
+Andrew,332,28,"Right, the left one? ",21,1
+Allen Bloodclaw,380,48,"You guessed right. It could be the middle one too. ",51,1
+Andrew,386,6,"Kinky. ",7,1
+Allen Bloodclaw,425,39,"I am.  ",7,1
+Andrew,432,7,"What happened to it? ",21,1
+Allen Bloodclaw,478,46,"Soccer issues. But now lets go for the important thing. You know about the Issac Asimov rules, talking about robots right? ",123,1
+Andrew,498,20,"Uh I&#039;ve heard about them. ",31,1
+Allen Bloodclaw,535,37,"It is told that robots are meant to obey humans. So, with this told, are you a robot? ",86,1
+Andrew,551,16,"Nope. ",6,1
+Allen Bloodclaw,607,56,"Ok. Then, you say that you are the human with that sentence right? ",67,1
+Andrew,628,21,"Yup! ",5,1
+Allen Bloodclaw,665,37,"Ok. lets check your knowledge. Do you like memes? ",50,1
+Andrew,686,21,"Some are quite good yeah. ",26,1
+Allen Bloodclaw,717,31,"Well, with what porpouse is used the meme Absolutely barbaric? ",63,1
+Andrew,799,82,"I guess when it&#039;s related to something rough, or a big clash. ",67,1
+Allen Bloodclaw,848,49,"Totally wrong. it shows the dislike of other daily routines or actions, mocking about them. ",92,1
+Andrew,863,15,"Sounds like you&#039;re an expert. ",35,1
+Allen Bloodclaw,888,25,"Call me Memelord from now, if you like ",39,1
+Andrew,895,7,"Fair enough. ",13,1
+Allen Bloodclaw,930,35,"Ok, then. Can you tell me the root  of one, please",50,1
+Andrew,961,31,"1. ",3,1
+Allen Bloodclaw,976,15,"Good, and the root of negative one? ",36,1
+Andrew,992,16,"I. ",3,1
+Allen Bloodclaw,1072,80,"Well, you are wrong, it does not exist, the root of a negative number its an imaginative one, not into a real numeric group. ",125,1
+Andrew,1086,14,"That&#039;s why I answered I. ",30,1
+Moderator,1101,15,"Time is up! ",12,
+Allen Bloodclaw,1124,23,"Aw... Im pretty sure he is human, but lets jump to the other anyways ",69,
+Moderator,1127,3,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Allen Bloodclaw,1144,17,"Aw... Im pretty sure he is human, but lets jump to the other anyways ",69,
+Moderator,1173,29,"Alright. we&#039;ll start the next conversation. Andrew will start again, then you&#039;ll have 15 minutes after your answer. ",126,
+Andrew,1190,17,"Hello! ",7,
+Allen Bloodclaw,1195,5,"Hello again ",12,2
+Andrew,1211,16,"How are you doing? ",19,2
+Allen Bloodclaw,1231,20,"Fine, thanks. Can you help me with something? ",46,2
+Andrew,1241,10,"I can at least try. What is it? ",32,2
+Allen Bloodclaw,1270,29,"I want you to count with me. Ill start, ok? One, one... ",56,2
+Andrew,1283,13,"one, one, one? ",15,2
+Allen Bloodclaw,1302,19,"Wrong. Ill give you a hint. One, one, two... ",45,2
+Andrew,1328,26,"That&#039;s a weird way of counting, but sure: two, two, three, three, four, four... ",85,2
+Allen Bloodclaw,1350,22,"Wrong again. One, one, two, three, five... ",43,2
+Andrew,1363,13,"Oh really, Fibonacci. ",22,2
+Allen Bloodclaw,1371,8,"There you go ",13,2
+Andrew,1401,30,"height, thirteen... ",20,2
+Allen Bloodclaw,1445,44,"Thanks, is enough. Now, I want you to do the regresive coount of the Fibonacci count. Start, please. ",101,2
+Andrew,1478,33,"Uh, starting from? ",19,2
+Allen Bloodclaw,1507,29,"You are doing things harder for me. I have to guess if you are a bot. Can I ask you something? ",95,2
+Andrew,1532,25,"Fair enough. What do you want to ask? ",38,2
+Allen Bloodclaw,1545,13,"What is the meaning of the meme Absolutely barbaric? ",53,2
+Andrew,1591,46,"I have no idea. When someone got burned? ",41,2
+Allen Bloodclaw,1632,41,"Not really. But somehow you are right.  ",40,2
+Andrew,1657,25,"I didn&#039;t know that memes were supposed to have an actual meaning without context. ",87,2
+Allen Bloodclaw,1681,24,"You are the human, right? ",26,2
+Andrew,1691,10,"Of course I am. ",16,2
+Allen Bloodclaw,1709,18,"Its not a real question, Im pretty sure you are ",48,2
+Andrew,1735,26,"Thank you very much. It&#039;s heart warming. ",46,2
+Allen Bloodclaw,1786,51,"I guess. Could you tell me what the common program Hello world does in programation? ",85,2
+Andrew,1816,30,"Say hello world? I&#039;m not really into programing. ",54,2
+Allen Bloodclaw,1839,23,"You got it right anyways!  ",27,2
+Andrew,1847,8,"Woohoo. ",8,2
+Allen Bloodclaw,1893,46,"So, can you locate Gibraltar on the map? Is just enough if you name the continent. ",83,2
+Andrew,1956,63,"Ugh, Spain or Morocco. I&#039;m not sure on which side the city is. ",68,2
+Allen Bloodclaw,1972,16,"I said continent. ",18,2
+Andrew,1982,10,"Then Europe or Africa. ",23,2
+Allen Bloodclaw,2008,26,"Not Mars? Its a beautiful star. ",32,2
+Andrew,2021,13,"Wait what? ",11,2
+Allen Bloodclaw,2066,45,"Could you replace every noun on the last sentence with my name? ",64,2
+Moderator,2102,36,"Time is up! ",12,
+Moderator,2115,13,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Allen Bloodclaw,2130,15,"The first one is the bot. Second one is the human. ",51,
+Moderator,2136,6,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Allen Bloodclaw,2142,6,"6 ",2,
+Moderator,2150,8,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months. ",167,
+Allen Bloodclaw,2160,10,"Thanks ^^ ",10,
+Moderator,2166,6,"If you have comments you want to share, feel free to do so now, otherwise, you can now close this window. ",106,
+Allen Bloodclaw,2210,44,"Ok. does the bot have a dictionary with just words, or he uses databases like Google or similar? ",97,
+Moderator,2262,52,"I can&#039;t answer questions here. It should only be comments. ",64,
+Allen Bloodclaw,2306,44,"Oh, then, just thanks for this quality time, and hope this works to improve the IA field ^^ ",92,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,892,871,,,
+User Average,33.8823529411765,26.6111111111111,,,
+Actor Average,19.0588235294118,23.3529411764706,,,
+User Average (5min),26.375,21,,,
+Actor Average (5min),11.5714285714286,20.1428571428571,,,
+User CharLength,53.4705882352941,49.2777777777778,,,
+Actor CharLength,19.0588235294118,35.5294117647059,,,
+User CharLength (5min),37.625,45.1428571428571,,,
+Actor CharLength (5min),15,30.2857142857143,,,

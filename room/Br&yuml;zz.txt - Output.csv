@@ -1,0 +1,90 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Br&yuml;zz! ",18,
+Moderator,10,10,"Thank you for participating in this study. ",43,
+Moderator,25,15,"Are you able to read this? ",27,
+Br&yuml;zz,33,8,"Yes, I am. ",11,
+Moderator,42,9,"Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,50,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,61,11,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,71,10,"You&#039;ll be talking to him twice. ",37,
+Moderator,79,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,87,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,94,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,99,5,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,107,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,113,6,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,121,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,128,7,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,136,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,143,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,149,6,"Do not type more than one post per answer. ",43,
+Moderator,156,7,"Do you understand the rules and what you have to do? ",53,
+Br&yuml;zz,160,4,"Yes, I do. ",11,
+Moderator,168,8,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Br&yuml;zz,173,5,"Yep! ",5,
+Andrew,180,7,"Hello! ",7,
+Br&yuml;zz,187,7,"Heyah! How are you ? ",21,1
+Andrew,197,10,"I&#039;m doing alright! What about you? ",40,1
+Br&yuml;zz,215,18,"I&#039;m doing fairly well, thanks. Any good news recently ? ",61,1
+Andrew,265,50,"Well, I&#039;d say summer break! You? ",38,1
+Br&yuml;zz,327,62,"My studies will conclude with a paid job. No more classes nor homeworks ! It will help having more free time. And money, of course. ",132,1
+Andrew,359,32,"Oh that&#039;s fantastic! I can&#039;t wait to reach that point too. What will you be doing? ",93,1
+Br&yuml;zz,407,48,"I&#039;ll be hired as a developer, mostly working with Java and a bit with React Native. I do not know if you know what those are, may you want me to describe those a bit ? ",173,1
+Andrew,449,42,"Yeah I don&#039;t know much about coding. I study Biology. ",59,1
+Br&yuml;zz,549,100,"Then I may ask what you&#039;re specificaly studying in Biology once I am done, I&#039;m curious. React Native is a JavaScript, using, such as Java both are languages about using objects and their  properties.",209,1
+Andrew,650,101,"I&#039;m not sure I understood what you just said. What does React Native do exactly? And right now I&#039;m just in my 3rd year, so not very exciting. ",152,1
+Br&yuml;zz,734,84,"I forgot some words, my bad. React Native allows to create cross-platform mobile apps using javascript. It&#039;s pretty neat. How long will your studies last  ?",161,1
+Andrew,822,88,"Oh so you&#039;re making apps for phones and tablets? That&#039;s cool. My studies will probably last for at least 6 more years, with the master and phd. Good thing that I like studying. ",187,1
+Br&yuml;zz,872,50,"Indeed, that is a long time. Then I do suppose you found your way! This is good. What do you hope to work as when you are done with it ? ",137,1
+Andrew,917,45,"I hope to do research on the brain. I&#039;m mostly aiming for neurobiology, to try to understand how we learn things, in its biological aspect. ",145,1
+Br&yuml;zz,1002,85,"This sounds very interresting. I hope you will discover how this does work, it might help with robotics and, what a coincidence, AI , I think. Am I right ?",155,1
+Moderator,1053,51,"Time is up! ",12,
+Moderator,1097,44,"Which actor do you think you&#039;ve been talking to? ",54,
+Br&yuml;zz,1112,15,"The Human. ",11,
+Moderator,1137,25,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Br&yuml;zz,1147,10,"Yes, I am! ",11,
+Andrew,1153,6,"Hello! ",7,
+Br&yuml;zz,1158,5,"Heyah ! How are you ? ",22,2
+Andrew,1171,13,"I&#039;m doing alright! What about you? ",40,2
+Br&yuml;zz,1196,25,"I&#039;m doing well, thanks. Is there something you would like to talk about ? ",79,2
+Andrew,1236,40,"What are you up to? I&#039;m not really sure actually. ",55,2
+Br&yuml;zz,1271,35,"It&#039;s a bit of the same thing here, so. .. What is your current hobby ?",75,2
+Andrew,1316,45,"Mostly Minecraft, I tend to play games a lot. ",46,2
+Br&yuml;zz,1371,55,"Don&#039;t play too much games unless you plan to make a job out of it. I&#039;m talking from my experience, I do get headaches when I play too much. On my side I draw stuff and play video  games too.",200,2
+Andrew,1451,80,"What kind of things do you draw? Yeah I can understand why you&#039;d say that. I&#039;m fairly resilient to headaches actually though. ",136,2
+Br&yuml;zz,1510,59,"I hope you&#039;ll get better soon then. About my drawings, I&#039;m trying, sometime succeeding, at drawing dragons, ponies and anything that comes in my mind and tempts me. Do you happen to draw? ",198,2
+Andrew,1559,49,"I do, but not very often. ",26,2
+Br&yuml;zz,1598,39,"It&#039;s still something. Have you played the last Fire Emblem game ? ",71,2
+Andrew,1632,34,"I don&#039;t think I&#039;ve played any Fire Emblem actually. ",62,2
+Br&yuml;zz,1680,48,"That&#039;s not a bad thing. Beside Minecraft, what do you play to ? ",69,2
+Andrew,1722,42,"That&#039;s about it, and I&#039;ve finished the last Mass Effect a little while ago. ",86,2
+Br&yuml;zz,1770,48,"Was it good ? I heard it was a bit glitchy here and there and close to Dragon Age in a way. &quot;Go from A to B, talk to this person then come back&quot; stuff ",161,2
+Andrew,1818,48,"Despite all the glitches I still loved it, but yeah it was a bit like that. ",76,2
+Br&yuml;zz,1852,34,"Too bad some glitches didn&#039;t make it perfect. At least you had a good time! ",81,2
+Andrew,1887,35,"I loved Dragon Age too anyway. Yeah. ",37,2
+Br&yuml;zz,1920,33,"I do not know what topic I could set up. Any idea ? ",52,2
+Andrew,1955,35,"Well, are you a student? ",25,2
+Br&yuml;zz,1976,21,"Yes I am, but soon my studies will be over. Are you ? ",54,2
+Andrew,2011,35,"What did you study? Yeah actually. I&#039;m in Biology. ",56,2
+Br&yuml;zz,2054,43,"I&#039;m studying IT, mostly development stuff. What are you specifically studying in Biology ? ",96,2
+Moderator,2064,10,"Time is up! ",12,
+Moderator,2077,13,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Br&yuml;zz,2088,11,"The Human ",10,
+Moderator,2095,7,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Br&yuml;zz,2101,6,"5 ",2,
+Moderator,2110,9,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2117,7,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+Br&yuml;zz,2204,87,"I wish you good luck with your studies. The differences where slight and it sometimes got confusing on who was the human and who was the AI. I had a good time doing this and I hope I wasn&#039;t wrong ~ ",203,
+Moderator,2232,28,"I can tell you right now if you&#039;d like ",44,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,815,896,,,
+User Average,56.75,37.0833333333333,,,
+Actor Average,52.5714285714286,41.4545454545455,,,
+User Average (5min),33.75,30,,,
+Actor Average (5min),33.5,44.5,,,
+User CharLength,131.125,96.5,,,
+Actor CharLength,102,58.6363636363636,,,
+User CharLength (5min),96.75,94,,,
+Actor CharLength (5min),57.5,69.25,,,

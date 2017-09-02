@@ -1,0 +1,71 @@
+<span id="time-span">03:03:48</span><span id="name-span">Moderator</span>Welcome RubyWeapon. 
+<span id="time-span">03:04:15</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">03:04:31</span><span id="name-span">RubyWeapon</span>Hello! 
+<span id="time-span">03:04:36</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">03:04:48</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">03:04:56</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">03:05:04</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">03:05:13</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">03:05:21</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">03:05:30</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">03:05:37</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">03:05:46</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">03:05:55</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">03:06:01</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">03:06:07</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">03:06:16</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">03:06:22</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">03:06:31</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">03:06:42</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">03:06:47</span><span id="name-span">RubyWeapon</span>Yes. 
+<span id="time-span">03:06:54</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">03:07:01</span><span id="name-span">RubyWeapon</span>Yep! 
+<span id="time-span">03:07:10</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:07:15</span><span id="name-span">RubyWeapon</span>Howdy! 
+<span id="time-span">03:07:21</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">03:07:33</span><span id="name-span">RubyWeapon</span>I&#039;m doing pretty well, thank you for asking. How about yourself, Andrew? 
+<span id="time-span">03:07:45</span><span id="name-span">Andrew</span>I&#039;m doing quite alright too! 
+<span id="time-span">03:08:06</span><span id="name-span">RubyWeapon</span>That&#039;s good to hear. So, what sort of hobbies do you enjoy doing, Andrew? 
+<span id="time-span">03:08:21</span><span id="name-span">Andrew</span>Video games mostly. You? 
+<span id="time-span">03:08:59</span><span id="name-span">RubyWeapon</span>I&#039;m pretty much into a vast assortment of activities. Video games are pretty neat. Music is another thing I do enjoy. 
+<span id="time-span">03:09:24</span><span id="name-span">Andrew</span>What kind of music? 
+<span id="time-span">03:10:15</span><span id="name-span">RubyWeapon</span>The genres I indulge in vary. Primarily I enjoy remixed video game music, or video game music in general. Trance, Techno and House are all a delight to me as well.  
+<span id="time-span">03:11:11</span><span id="name-span">Andrew</span>I like video game music too. Symphonic metal is also a kind of music I like. 
+<span id="time-span">03:11:34</span><span id="name-span">RubyWeapon</span>That&#039;s good to hear! What sort of video games do you prefer playing? 
+<span id="time-span">03:11:53</span><span id="name-span">Andrew</span>Minecraft mostly. But also RPGs. 
+<span id="time-span">03:12:06</span><span id="name-span">RubyWeapon</span>What are some of your favorite Role Playing Games? 
+<span id="time-span">03:12:27</span><span id="name-span">Andrew</span>Final Fantasy and Mass Effect are the main ones that I like. 
+<span id="time-span">03:13:01</span><span id="name-span">RubyWeapon</span>Final Fantasy is a good topic, then. Which one would be your favorite? You can choose a few of them, if you&#039;d like. Let&#039;s go with... top two? 
+<span id="time-span">03:13:32</span><span id="name-span">Andrew</span>I&#039;d say 10 and 8. You? 
+<span id="time-span">03:14:07</span><span id="name-span">RubyWeapon</span>I&#039;m really enjoying Final Fantasy Fourteen a lot, Six is my all around favorite, though. What made eight one of your favorite ones? 
+<span id="time-span">03:14:52</span><span id="name-span">Andrew</span>I loved the character of Rinoa, and the many layers of that story. 
+<span id="time-span">03:15:51</span><span id="name-span">RubyWeapon</span>Understandable! Hm, Can we cease the conversation now and move on? 
+<span id="time-span">03:16:05</span><span id="name-span">Moderator</span>Conversation Interrupted! 
+<span id="time-span">03:16:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">03:16:38</span><span id="name-span">RubyWeapon</span>Currently, I&#039;m assuming human. 
+<span id="time-span">03:16:45</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">03:16:52</span><span id="name-span">RubyWeapon</span>Ready. 
+<span id="time-span">03:16:56</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:17:00</span><span id="name-span">RubyWeapon</span>Hiya! 
+<span id="time-span">03:17:08</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">03:17:14</span><span id="name-span">RubyWeapon</span>Pretty good, yourself? 
+<span id="time-span">03:17:28</span><span id="name-span">Andrew</span>I&#039;m doing quite alright thanks! What are you up to? 
+<span id="time-span">03:17:43</span><span id="name-span">RubyWeapon</span>Listening to music, currently. What about yourself? 
+<span id="time-span">03:18:07</span><span id="name-span">Andrew</span>Not much actually! 
+<span id="time-span">03:18:33</span><span id="name-span">RubyWeapon</span>Nothing specific, huh? Well, what do you like to do? 
+<span id="time-span">03:19:07</span><span id="name-span">Andrew</span>I like playing video games mostly. Especially Minecraft. 
+<span id="time-span">03:19:38</span><span id="name-span">RubyWeapon</span>I see! Do you like to do anything else besides video games? 
+<span id="time-span">03:20:28</span><span id="name-span">Andrew</span>I like listening to music, and playing some too. You? 
+<span id="time-span">03:21:05</span><span id="name-span">RubyWeapon</span>I&#039;m pretty good in the kitchen. A bit of a culinary artist, in the long run of things.  What are some of your favorite music genres? 
+<span id="time-span">03:22:13</span><span id="name-span">Andrew</span>I quite like symphonic metal, like Nightwish and a couple others. I also like a lot of game OSTs. 
+<span id="time-span">03:22:54</span><span id="name-span">RubyWeapon</span>Nice, nice. What&#039;s your favorite sort of food, Andrew? 
+<span id="time-span">03:23:26</span><span id="name-span">Andrew</span>That might sound a bit generic, but I think it might actually be pizza. 
+<span id="time-span">03:24:04</span><span id="name-span">RubyWeapon</span>Alright, we can stop this conversation as well. 
+<span id="time-span">03:24:20</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">03:24:34</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">03:25:12</span><span id="name-span">RubyWeapon</span>Human 
+<span id="time-span">03:25:18</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">03:25:26</span><span id="name-span">RubyWeapon</span>4 
+<span id="time-span">03:25:48</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">03:26:01</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. 
+<span id="time-span">03:26:07</span><span id="name-span">Moderator</span>Otherwise you can now close this window. 

@@ -1,0 +1,3 @@
+<span id="time-span">19:26:18</span><span id="name-span">Moderator</span>Welcome Chase1994 
+<span id="time-span">19:26:59</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">19:27:07</span><span id="name-span">Moderator</span>If you can see this, please say Yes. 

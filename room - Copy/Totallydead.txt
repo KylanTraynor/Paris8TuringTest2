@@ -1,0 +1,76 @@
+<span id="time-span">16:43:26</span><span id="name-span">Moderator</span>Hello Totallydead. 
+<span id="time-span">16:43:42</span><span id="name-span">Totallydead</span>hello moderator 
+<span id="time-span">16:43:46</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">16:43:55</span><span id="name-span">Totallydead</span>You are welcome 
+<span id="time-span">16:44:00</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">16:44:09</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">16:44:20</span><span id="name-span">Totallydead</span>Okay 
+<span id="time-span">16:44:25</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">16:44:34</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">16:44:47</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">16:44:58</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">16:45:13</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">16:45:30</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">16:45:40</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">16:45:56</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">16:46:15</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">16:46:28</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">16:46:39</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">16:46:49</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">16:47:00</span><span id="name-span">Totallydead</span>Yes. 
+<span id="time-span">16:47:16</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">16:47:34</span><span id="name-span">Andrew</span>Hello. 
+<span id="time-span">16:47:42</span><span id="name-span">Totallydead</span>hello andrew. 
+<span id="time-span">16:47:52</span><span id="name-span">Andrew</span>How are you doing today? 
+<span id="time-span">16:48:06</span><span id="name-span">Totallydead</span>Fine thank you. 
+<span id="time-span">16:48:18</span><span id="name-span">Totallydead</span>What about you? 
+<span id="time-span">16:48:36</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to? 
+<span id="time-span">16:49:01</span><span id="name-span">Totallydead</span>I am trying to work out if you are human or not. 
+<span id="time-span">16:49:16</span><span id="name-span">Totallydead</span>Can I ask you a question? 
+<span id="time-span">16:49:26</span><span id="name-span">Andrew</span>Of course you can. 
+<span id="time-span">16:49:30</span><span id="name-span">Totallydead</span>A personal question? 
+<span id="time-span">16:49:50</span><span id="name-span">Andrew</span>Probably. 
+<span id="time-span">16:50:05</span><span id="name-span">Totallydead</span>Are you homosexual or heterosexual? 
+<span id="time-span">16:50:18</span><span id="name-span">Andrew</span>I&#039;m heterosexual. How about you? 
+<span id="time-span">16:50:26</span><span id="name-span">Totallydead</span>Guess. 
+<span id="time-span">16:50:35</span><span id="name-span">Andrew</span>It&#039;s hard to say. 
+<span id="time-span">16:51:07</span><span id="name-span">Totallydead</span>I have a girlfriend, so what would you guess knowing that? 
+<span id="time-span">16:51:36</span><span id="name-span">Andrew</span>I&#039;d say that you like women. 
+<span id="time-span">16:52:01</span><span id="name-span">Totallydead</span>What kind of toothbrush do you use? 
+<span id="time-span">16:52:27</span><span id="name-span">Andrew</span>Electronic. Makes me feel cleaner. I might also be a bit lazy. 
+<span id="time-span">16:52:47</span><span id="name-span">Moderator</span>Time is up 
+<span id="time-span">16:52:47</span><span id="name-span">Totallydead</span>What is your favorite book? 
+<span id="time-span">16:52:53</span><span id="name-span">Totallydead</span>Okay. 
+<span id="time-span">16:53:12</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? (This is not your final answer) 
+<span id="time-span">16:53:41</span><span id="name-span">Totallydead</span>I feel inclined towards human at the moment. 
+<span id="time-span">16:54:26</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. The 5 minutes will start after your answer. 
+<span id="time-span">16:54:39</span><span id="name-span">Andrew</span>Hello. 
+<span id="time-span">16:54:46</span><span id="name-span">Totallydead</span>hello. 
+<span id="time-span">16:54:54</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">16:55:04</span><span id="name-span">Totallydead</span>Fine, you? 
+<span id="time-span">16:55:17</span><span id="name-span">Andrew</span>I&#039;m doing alright thanks. What are you up to? 
+<span id="time-span">16:55:40</span><span id="name-span">Totallydead</span>I am wondering what your favorite book is. 
+<span id="time-span">16:56:05</span><span id="name-span">Andrew</span>Good question. I barely have time to read lately. How about yours? 
+<span id="time-span">16:56:43</span><span id="name-span">Totallydead</span>Tolkiens Lord of the flies. 
+<span id="time-span">16:57:35</span><span id="name-span">Totallydead</span>No answer? 
+<span id="time-span">16:57:36</span><span id="name-span">Andrew</span>Oh, where Lord Buzz tries to claim the throne of Buzzville and send the evil lord Buzzron back into the Mordor? I never read it. 
+<span id="time-span">16:58:06</span><span id="name-span">Totallydead</span>Interesting answer. 
+<span id="time-span">16:58:24</span><span id="name-span">Totallydead</span>Do you believe I believe you? 
+<span id="time-span">16:58:45</span><span id="name-span">Andrew</span>I don&#039;t know Do you believe you believe me? 
+<span id="time-span">16:59:12</span><span id="name-span">Totallydead</span>Andrew, are you human? 
+<span id="time-span">16:59:24</span><span id="name-span">Andrew</span>I am. 
+<span id="time-span">16:59:37</span><span id="name-span">Totallydead</span>What makes you human? 
+<span id="time-span">16:59:47</span><span id="name-span">Andrew</span>Do you know what makes you human? 
+<span id="time-span">16:59:51</span><span id="name-span">Moderator</span>Time is up 
+<span id="time-span">17:00:09</span><span id="name-span">Totallydead</span>Okay 
+<span id="time-span">17:00:21</span><span id="name-span">Moderator</span>Which Andrew do you think was played by the Artificial Intelligence? 
+<span id="time-span">17:00:47</span><span id="name-span">Totallydead</span>The second one. 
+<span id="time-span">17:00:57</span><span id="name-span">Moderator</span>Is this your final answer? 
+<span id="time-span">17:01:03</span><span id="name-span">Totallydead</span>Yes. 
+<span id="time-span">17:01:32</span><span id="name-span">Moderator</span>Alright thank you very much for participating! Can you tell me what made you decide between the two? 
+<span id="time-span">17:04:25</span><span id="name-span">Totallydead</span>At the end, he gave me 2 questions in response to my own, that felt like an automatic system responding to a question which does not have a programmed answer. Like some internet Chatbots. 
+<span id="time-span">17:05:18</span><span id="name-span">Moderator</span>Alright. Would you like to have the results of the study sent to you when they will be ready? 
+<span id="time-span">17:05:40</span><span id="name-span">Totallydead</span>Yes please. 
+<span id="time-span">17:06:18</span><span id="name-span">Moderator</span>Awesome. You can now close this window. If you have any question regarding this study I&#039;ll be happy to answer them by mail. 
+<span id="time-span">17:06:22</span><span id="name-span">Moderator</span>Thank you again! 
+<span id="time-span">17:06:37</span><span id="name-span">Totallydead</span>Okay, Thank you! 

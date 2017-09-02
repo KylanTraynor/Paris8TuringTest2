@@ -1,0 +1,81 @@
+<span id="time-span">15:38:40</span><span id="name-span">Maxmax</span>Hello 
+<span id="time-span">15:38:44</span><span id="name-span">Moderator</span>Welcome Maxmax 
+<span id="time-span">15:38:52</span><span id="name-span">Maxmax</span>Thank you 
+<span id="time-span">15:38:55</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">15:39:00</span><span id="name-span">Maxmax</span>Nice to help 
+<span id="time-span">15:39:03</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">15:39:12</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">15:39:23</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">15:39:23</span><span id="name-span">Maxmax</span>Much appreciated 
+<span id="time-span">15:39:33</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">15:39:44</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">15:39:52</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">15:40:02</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">15:40:14</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">15:40:22</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">15:40:31</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">15:40:42</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">15:40:50</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">15:40:59</span><span id="name-span">Maxmax</span>Cool project. 
+<span id="time-span">15:41:00</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">15:41:11</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">15:41:20</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">15:41:28</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">15:41:41</span><span id="name-span">Maxmax</span>I do, quite simple but effective ones 
+<span id="time-span">15:41:52</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">15:42:02</span><span id="name-span">Maxmax</span>Yep 
+<span id="time-span">15:42:09</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">15:42:15</span><span id="name-span">Maxmax</span>Hello there! 
+<span id="time-span">15:42:22</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">15:42:38</span><span id="name-span">Maxmax</span>I&#039;m quite okay, what about you? 
+<span id="time-span">15:42:57</span><span id="name-span">Andrew</span>I&#039;m doing alright too thanks. What are you up to today? 
+<span id="time-span">15:43:30</span><span id="name-span">Maxmax</span>Not much. Writing a few commissions, and after that playing Warhammer.  
+<span id="time-span">15:44:11</span><span id="name-span">Andrew</span>I&#039;ve never played this game. I&#039;ve heard of it though. What kind of commissions are you writing? 
+<span id="time-span">15:45:28</span><span id="name-span">Maxmax</span>Oh, I&#039;ve a few on work right now. Some fan fictions, and some others for friends. I like to write stories with the right idea. And about Warhammer, it&#039;s a strategic turn based game. Pretty nice. 
+<span id="time-span">15:46:47</span><span id="name-span">Andrew</span>Oh I see, that sounds very cool, I&#039;m not much of a writer myself. Is Warhammer kind of like Age of Empires then? I liked those games. 
+<span id="time-span">15:47:43</span><span id="name-span">Maxmax</span>Oh no no. It&#039;s a tabletop game, with dice and all. And awesome! Who did you like to use in Age of Empires? 
+<span id="time-span">15:48:47</span><span id="name-span">Andrew</span>Oh ok! To be honest I don&#039;t remember that game enough to answer you. I played it a while ago. 
+<span id="time-span">15:49:22</span><span id="name-span">Maxmax</span>Oh, I see. Any game that you played lately? 
+<span id="time-span">15:49:56</span><span id="name-span">Andrew</span>I often play Minecraft, and I&#039;ve been really into the new Mass Effect lately. 
+<span id="time-span">15:50:44</span><span id="name-span">Maxmax</span>Minecraft is awesome. I heard that the new Mass Effect isn&#039;t worthy the time. It&#039;s noting like the old trilogy 
+<span id="time-span">15:51:35</span><span id="name-span">Andrew</span>I think it was pretty good overall actually. But it had some very annoying glitches and bad animations. They are slowly fixing all of that though. 
+<span id="time-span">15:52:29</span><span id="name-span">Maxmax</span>After five years where I craved the game I was hoping for more. Who did you date back to the old trilogy? 
+<span id="time-span">15:53:32</span><span id="name-span">Andrew</span>Yeah I know what you mean. I dated multiple characters actually. Who did you date? 
+<span id="time-span">15:54:37</span><span id="name-span">Maxmax</span>Who was your favourite among them? And for me it was Liara. She was the best mechanic. 
+<span id="time-span">15:55:31</span><span id="name-span">Andrew</span>I really loved Tali. She was adorable in her own way, and very sensible. I liked Liara too though, and Garrus. 
+<span id="time-span">15:56:36</span><span id="name-span">Maxmax</span>Ahah. I did like Tali myself. I hated Ashley and Miranda. Garrus was the best friend I wished to have.  
+<span id="time-span">15:57:17</span><span id="name-span">Andrew</span>I didn&#039;t like Miranda at first, but as I got to know her I started to like her more. 
+<span id="time-span">15:57:27</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">15:57:52</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">15:57:53</span><span id="name-span">Maxmax</span>Oki. Nice chat about old games anyway, ahah 
+<span id="time-span">15:58:12</span><span id="name-span">Maxmax</span>I&#039;d go for AI, if I can dare to 
+<span id="time-span">15:58:41</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">15:58:56</span><span id="name-span">Maxmax</span>Yes 
+<span id="time-span">15:59:01</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">15:59:07</span><span id="name-span">Maxmax</span>Hello to you! 
+<span id="time-span">15:59:15</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">15:59:57</span><span id="name-span">Maxmax</span>I&#039;m quite fine, thank you. A bit hyped for the new Alien movie which is coming in May, but apart from that all&#039;s good. What about you? 
+<span id="time-span">16:00:57</span><span id="name-span">Andrew</span>I&#039;m doing quite alright too thanks! I didn&#039;t know another Alien movie was coming out though, I hope it will be good. 
+<span id="time-span">16:02:05</span><span id="name-span">Maxmax</span>Yeah, It comes out during May! I think the middle of May. Anyhow, how is it going for you? 
+<span id="time-span">16:02:57</span><span id="name-span">Andrew</span>I&#039;m a bit bored right now, considering playing games or something. 
+<span id="time-span">16:03:53</span><span id="name-span">Maxmax</span>Hey, thank you for the consideration! And games are always a great idea to kill bore. Also reading helps. Do you enjoy reading books? 
+<span id="time-span">16:04:58</span><span id="name-span">Andrew</span>Sorry I didn&#039;t mean that you&#039;re the one boring me. Just in general. I do sometimes read books yeah, not as often as I&#039;d like too I&#039;m afraid. I don&#039;t feel like I&#039;ve got enough time. 
+<span id="time-span">16:06:13</span><span id="name-span">Maxmax</span>No worries. And true, reading takes time, but so does gaming! Which books would you enjoy? Horrors or Fantasy... Same for games! What&#039;s the gameplay you prefer? 
+<span id="time-span">16:07:46</span><span id="name-span">Andrew</span>I tend to like RPGs and City Builders. As for books, I like fantasy more than anything, and Science Fiction too. Things that can make you feel like you&#039;re traveling far away in a different world. 
+<span id="time-span">16:09:27</span><span id="name-span">Maxmax</span>Mass effect, the old trilogy, would mix everything in a great game experience. Travelling, bit of building, lots of exploring and a ton of RPG elements. Plus, many lovely characters to romance with 
+<span id="time-span">16:10:31</span><span id="name-span">Andrew</span>I don&#039;t remember Mass Effect having any building gameplay, but it&#039;s definitely one of my favorite game series. Mostly for the fantastic characters. 
+<span id="time-span">16:11:50</span><span id="name-span">Maxmax</span>You could build up your ship in the third and second. Even keeping pets around your floor. And true. Chars were awesome. Loved the mechanic, Liara. I romanced her all the time. So shy but lovely. You?
+<span id="time-span">16:13:07</span><span id="name-span">Andrew</span>I romanced most characters I think, but my first one was Tali. She was always so adorable and kinda mysterious. That and I loved her story, with the geths. 
+<span id="time-span">16:13:54</span><span id="name-span">Maxmax</span>Did she die in your ME 3 experience? To a friend of mine she suicided, never had it. 
+<span id="time-span">16:14:11</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">16:14:25</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">16:15:02</span><span id="name-span">Maxmax</span>Okay, let me ponder for a second... I&#039;d go for person. 
+<span id="time-span">16:15:49</span><span id="name-span">Moderator</span>Is this your final answer? Human in the first conversation, Artificial Intelligence in the second? 
+<span id="time-span">16:17:01</span><span id="name-span">Maxmax</span>Eh, damn it. No, Ill stick with first option I gave. AI first and Person second. 
+<span id="time-span">16:17:12</span><span id="name-span">Maxmax</span>Sorry, now I&#039;m sure of it. 
+<span id="time-span">16:17:18</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">16:17:43</span><span id="name-span">Maxmax</span>4,  
+<span id="time-span">16:18:02</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">16:18:20</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise, you can now close this window. 
+<span id="time-span">16:18:26</span><span id="name-span">Maxmax</span>I&#039;ve offered it! 
+<span id="time-span">16:19:16</span><span id="name-span">Maxmax</span>And one thing. Andrew should replay Mass Effect. Liara was the archeologist, not the mechanic. It was a very nice test tho. Hope it works well for you. Have a good one. 

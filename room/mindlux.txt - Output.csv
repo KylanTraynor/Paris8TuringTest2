@@ -1,0 +1,104 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello mindlux. ",15,
+Moderator,5,5,"Thank you for participating in this study. ",43,
+Moderator,16,11,"Are you able to read this? ",27,
+mindlux,55,39,"yes i am ",9,
+Moderator,61,6,"Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",110,
+Moderator,69,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+mindlux,69,0,"ok ",3,
+Moderator,77,8,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,84,7,"You&#039;ll be talking to him twice. ",37,
+mindlux,86,2,"ok ",3,
+Moderator,90,4,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,98,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,106,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+mindlux,110,4,"yep ",4,
+Moderator,112,2,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,117,5,"You will not be talking twice with the same Actor. ",51,
+Moderator,125,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,132,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,144,12,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,152,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+mindlux,152,0,"got it ",7,
+Moderator,159,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,164,5,"Do not type more than one post per answer. ",43,
+Moderator,171,7,"Do you understand the rules and what you have to do? ",53,
+mindlux,200,29,"stop to stop no links one post at a time ",41,
+Moderator,211,11,"Yes exactly ",12,
+Moderator,241,30,"Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",96,
+mindlux,252,11,"just checking ",14,
+Moderator,278,26,"Let me know ",12,
+mindlux,315,37,"so it two different chats? or one where the actor and the bot take turns ",73,
+Moderator,333,18,"It&#039;s two different chats. ",31,
+mindlux,353,20,"ok ready ",9,
+Andrew,361,8,"Hello! ",7,
+mindlux,372,11,"hello how are you? ",19,1
+Andrew,382,10,"I&#039;m doing alright! How about you? ",39,1
+mindlux,405,23,"pretty good just on my computer late at night ",46,1
+Andrew,422,17," Oh? What time is it for you? ",30,1
+mindlux,435,13,"almost 1 am ",12,1
+Andrew,459,24,"It&#039;s late indeed. It&#039;s 11am for me. ",46,1
+mindlux,479,20,"ah timezones ",13,1
+mindlux,496,17,"are you aware that you are an ai? ",34,1
+Andrew,509,13,"I&#039;m not one. ",18,1
+Moderator,522,13,"[ Make sure you keep it to one post ] ",38,
+mindlux,570,48,"say if you are one can i test you for it? ",42,1
+Andrew,586,16,"I&#039;m not, but sure feel free. ",34,1
+mindlux,638,52,"can you answer some questions?  ",32,1
+Andrew,648,10,"Yup! ",5,1
+mindlux,814,166,"true or false this answer is wrong? ",36,1
+Andrew,862,48,"What you&#039;re asking doesn&#039;t make any sense. ",53,1
+mindlux,964,102,"think through it step by step what does it mean? ",49,1
+Andrew,1119,155,"True or false, so you give me two possibilities. This answer is wrong? I assume that is the question. ",102,1
+Moderator,1175,56,"[ The actor will follow the same rules, and can&#039;t answer more than one post ] ",83,1
+mindlux,1264,89,"but there could be a third answer the world is not black and white  ",68,1
+Moderator,1277,13,"Time is up! ",12,
+Moderator,1298,21,"Which actor do you think you&#039;ve been talking to? ",54,
+mindlux,1388,90,"i feel like it was the ai text construction was spot on but it had issue with a common  logic puzzle ",101,
+Moderator,1412,24,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+mindlux,1430,18,"yeah sure ",10,
+Andrew,1435,5,"Hello! ",7,
+mindlux,1452,17,"hello how are you tonight? ",27,2
+Andrew,1482,30,"How about you? It&#039;s still morning for me actually. I&#039;m doing alright. ",80,2
+mindlux,1515,33,"yeah it&#039;s late at night do you want to roleplay? ",54,2
+Andrew,1533,18,"Roleplaying about what? ",24,2
+mindlux,1621,88,"a text based game where you pretend to be what ever you want ",61,2
+Andrew,1660,39,"So I can be a unicorn? ",23,2
+mindlux,1746,86,"if you want do you want play where we play in the fields all day   ",67,2
+Andrew,1787,41,"Why not? I guess, sure. ",24,2
+mindlux,1915,128,"i a young girl wonder down into the fields smelling the warm air of day i see you my eyes light up and i run down &quot;wow you look pretty&quot; as i stroked your face in delight ",180,2
+Andrew,2022,107,"Wondering what you&#039;re doing, I look at you. Feeling quite proud to be called pretty I rumble a little as you pet me. ",122,2
+mindlux,2160,138,"&quot;you want to  play with me?&quot; in a thunder of lighting a dark shadowy figure come running for you you  know that dark and dangerous and the kid was so helpless and weak   ",180,2
+Andrew,2275,115,"Hoping prevent it from approaching, I move between the kid and the dark shadowy figure. &quot;Sure&quot; I say. ",112,2
+mindlux,2343,68,"&quot;what is going on?&quot; i say in fear seeing it grow big that it darken the sky ",86,2
+Moderator,2354,11,"Time is up! ",12,
+Moderator,2366,12,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+mindlux,2411,45,"still the ai ",13,
+Moderator,2415,4,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+mindlux,2455,40,"6 ",2,
+Moderator,2461,6,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2466,5,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+mindlux,2480,14,"may i ask was i right? ",23,
+Moderator,2501,21,"After your comments, or if you do not have any comment I can tell you. ",71,
+mindlux,2647,146,"well i was testing the skills if i was was person i would know there was no awser to my pardox and the small roleplay i did witht the other showed thinking outside the box ",172,
+mindlux,2683,36,"thats all i have to say other may of messed things up with two tests ",69,
+Moderator,2693,10,"Alright. The AI was the second conversation though. ",52,
+mindlux,2708,15,"wow cool ",9,
+mindlux,2732,24,"can i have a copy of that code i could amke uses of that ",57,
+mindlux,2746,14,"just joking  ",13,
+Moderator,2759,13,"Thank you very much for you help! ",34,
+Moderator,2774,15,"I hope you had fun. ",20,
+mindlux,2774,0,"have a good night this was fun ",31,
+Moderator,2786,12,"Have a good night too. ",23,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,892,891,,,
+User Average,54.1,79.7142857142857,,,
+Actor Average,36.625,58.3333333333333,,,
+User Average (5min),26.2857142857143,56,,,
+Actor Average (5min),15,29,,,
+User CharLength,35.1,93.5714285714286,,,
+Actor CharLength,40.875,64.1666666666667,,,
+User CharLength (5min),28.2857142857143,52.25,,,
+Actor CharLength (5min),28.6666666666667,42.3333333333333,,,

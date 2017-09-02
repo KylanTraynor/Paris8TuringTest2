@@ -1,0 +1,82 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome QTLari. ",16,
+Moderator,25,25,"Thank you for participating in this study. ",43,
+Moderator,36,11,"Please say yes if you can see this. ",36,
+QTLari,64,28,"Yes! ",5,
+Moderator,75,11,"Perfect. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+QTLari,82,7,"OK! ",4,
+Moderator,84,2,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,91,7,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,99,8,"You&#039;ll be talking to him twice. ",37,
+Moderator,107,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,114,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,122,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,131,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,139,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,146,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,153,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,161,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,169,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,179,10,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,187,8,"Do not type more than one post at a time. ",42,
+Moderator,194,7,"Do you understand the rules and what you have to do? ",53,
+QTLari,202,8,"I understand the rules and what I need to do! ",46,
+Moderator,210,8,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+QTLari,233,23,"I am ready! ",12,
+Andrew,239,6,"Hello! ",7,
+QTLari,245,6,"Hello, Andrew! How are you today? ",34,1
+Andrew,256,11,"I&#039;m doing alright thanks! How are you doing? ",50,1
+QTLari,265,9,"Not too bad, I&#039;m enjoying a day off! ",42,1
+Andrew,284,19,"Oh nice! Time to relax then! ",29,1
+QTLari,307,23,"Yeah! It&#039;s been fairly quiet but I&#039;ve been super busy lately! What are you up to? ",92,1
+Andrew,327,20,"Not much honestly. Probably just going to be playing Minecraft later. ",70,1
+QTLari,351,24,"Haha, I&#039;ve never played Minecraft! I only play simple things like the Sims! ",81,1
+Andrew,376,25,"Oh I used to play the Sims too. Which one do you play? ",55,1
+QTLari,394,18,"Mostly 3, although I used to play 2 a little! The city feature&#039;s really neat in 3! ",88,1
+Andrew,424,30,"Yeah it really is nice to see your characters travel around. I was sad when they removed it in the 4th. ",104,1
+QTLari,461,37,"I heard about that! They also got rid of a lot of core features! You would expect a new game to be more complex! ",113,1
+Andrew,503,42,"To be fair there was a lot of new things. But despite all of them the game felt so much more limited. The size of the plots and all of that didn&#039;t help. ",158,1
+QTLari,528,25,"I think this actor is the human! ",33,1
+Moderator,537,9,"Conversation interrupte! ",25,
+Moderator,552,15,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+QTLari,561,9,"I think I have been talking to the human! ",42,
+Moderator,592,31,"Alright! We&#039;ll start the next conversation. Andrew will begin then you&#039;ll have 15 minutes after your answer. Are you ready? ",134,
+QTLari,598,6,"Yes, I&#039;m ready! ",21,
+Andrew,602,4,"Hello! ",7,
+QTLari,611,9,"Hello there, Andrew! How are you? ",34,2
+Andrew,618,7,"I&#039;m doing alright! You? ",29,2
+QTLari,632,14,"Not too bad! I&#039;ve been enjoying my day off! I haven&#039;t been very productive! ",86,2
+Andrew,648,16,"Ah yeah, I can&#039;t say I have been either. ",46,2
+QTLari,667,19,"Oh? What have you been doing? I&#039;ve just been browsing the internet! ",73,2
+Andrew,688,21,"Mostly just playing Minecraft. ",31,2
+QTLari,700,12,"Oh? I&#039;ve never played Minecraft! It&#039;s a bit too complicated for me! ",78,2
+Andrew,718,18,"Really? It&#039;s just a sandbox game. ",39,2
+QTLari,742,24,"Well, there&#039;s so much to do! I wouldn&#039;t know where to start! I prefer stuff like the Sims! ",101,2
+Andrew,759,17,"Oh I played the Sims too actually! ",35,2
+QTLari,780,21,"Oh! That&#039;s cool! I think 3 is my favourite, how about you? ",64,2
+Andrew,800,20,"The 3rd one definitely is mine as well! ",40,2
+QTLari,826,26,"Oh cool! I like how much they added from 2! Like the city feature! ",67,2
+Andrew,853,27,"It was so cool to be able to see your sims walk around, yeah. ",62,2
+QTLari,879,26,"I think this actor is the AI! ",30,2
+Moderator,887,8,"Conversation interrupted! ",26,
+Moderator,907,20,"Which actor do you think you&#039;ve been talking to in the first conversation?  (Standardized questions sorry )",112,
+QTLari,922,15,"In the first conversation, I think the actor was human! ",56,
+Moderator,927,5,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+QTLari,940,13,"5! ",3,
+Moderator,960,20,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months. ",167,
+QTLari,970,10,"Thank you very much! ",21,
+Moderator,978,8,"If you have any comments you&#039;d like to share, feel free to do it now. Otherwise, you can now close this window. ",117,
+QTLari,999,21,"No comments from me, take care! ",32,
+DarkUmbreChar,2970,1971,"Hi ",3,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,283,268,,,
+User Average,20.2857142857143,18.875,,,
+Actor Average,24.5,18,,,
+User Average (5min),20.2857142857143,18.875,,,
+Actor Average (5min),24.5,18,,,
+User CharLength,69,66.625,,,
+Actor CharLength,77.6666666666667,40.2857142857143,,,
+User CharLength (5min),69,66.625,,,
+Actor CharLength (5min),77.6666666666667,40.2857142857143,,,

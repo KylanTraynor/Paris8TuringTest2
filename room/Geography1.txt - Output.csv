@@ -1,0 +1,83 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Geography1! ",20,
+Moderator,4,4,"Thank you for participating in this study! ",43,
+Moderator,14,10,"Are you able to read this? ",27,
+Geography1,20,6,"I&#039;m curious to see how it works,  and yes, I can read this. ",65,
+Moderator,33,13,"Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,41,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,58,17,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,66,8,"You&#039;ll be talking to him twice. ",37,
+Moderator,78,12,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,86,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,93,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,100,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,107,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,114,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,122,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,131,9,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,138,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,145,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,153,8,"Do not type more than one post per answer. ",43,
+Moderator,160,7,"Do you understand the rules and what you have to do? ",53,
+Geography1,165,5,"Yes, I do. ",11,
+Moderator,170,5,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Geography1,174,4,"Yes. ",5,
+Andrew,186,12,"Hello! ",7,
+Geography1,193,7,"Hello to you as well. ",22,1
+Andrew,201,8,"How are you doing? ",19,1
+Geography1,209,8,"I&#039;m doing well, thanks. ",29,1
+Andrew,229,20,"Cool! What are you up to today? ",32,1
+Geography1,248,19,"I&#039;m browsing the internet, stumbled across this and it seemed interesting. ",80,1
+Andrew,283,35,"I take It you&#039;re interested by AI stuff in general? ",57,1
+Geography1,370,87,"I&#039;ve seen fictional portrayals.  Things like HAL in the movie 2001.   Often they get used as a literal Deus Ex Machina for the plot of a story, or to reflect a kind of Pandora&#039;s Box type story.   ",206,1
+Andrew,464,94,"Yeah, most of the time they are portrayed as evil things that should be destroyed. Also more recently as things that could be useful like Jarvis in Iron Man. What&#039;s your take on that? ",189,1
+Geography1,560,96,"I only saw the first two movies.  I thought he seemed sub-sentient in that situation.   Certainly Tony Stark treated him that way.  I didn&#039;t find his character to be that important to the plot. ",199,1
+Andrew,631,71,"Yeah he seemed to be intelligent, but not really an individual entity. More like a super developed Siri. Do you play games? Mass Effect has a very interesting take on all of this. ",180,1
+Geography1,725,94,"Kind of...  Mass Effect at least managed to say that digital life could be as diverse as biological life, except for when it&#039;s primary villians declared that it must always rebel against its creators.",205,1
+Andrew,807,82,"Yeah, the ending was a bit weird in that sense. Didn&#039;t really fit with the rest of the story. ",99,1
+Geography1,829,22,"Multiple writers, multiple visions.  It happens. ",49,1
+Andrew,850,21,"Happened with the last one too, in one single game. ",52,1
+Geography1,876,26,"Haven&#039;t played that one yet.  My game budget has diminished since I had kids. ",83,1
+Andrew,908,32,"Yeah I can imagine. Probably less time too. How many kids do you have? ",71,1
+Geography1,955,47,"Two,  one of each gender.  It&#039;s early here so I get a little free time before they wake. ",94,1
+Andrew,1009,54,"Yeah, it&#039;s 9:17 here. I&#039;m in Canada. You? ",52,1
+Geography1,1060,51,"West Coast US.   I wondered given the fact the &quot;Universite&quot; is French.  Quebec? ",90,1
+Andrew,1087,27,"No, that university has little to do with me personally. I&#039;m just helping. ",80,1
+Moderator,1105,18,"Time is up! ",12,
+Moderator,1121,16,"Which actor do you think you&#039;ve been talking to? ",54,
+Geography1,1126,5,"Human. ",7,
+Moderator,1137,11,"Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? ",141,
+Geography1,1144,7,"Yes ",4,
+Andrew,1149,5,"Hello! ",7,
+Geography1,1187,38,"Good Morning. ",14,2
+Andrew,1198,11,"How are you doing? ",19,2
+Geography1,1207,9,"I&#039;m doing quite fine,  how about you? ",43,2
+Andrew,1225,18,"What are you up to today? I&#039;m doing quite alright thanks. ",63,2
+Geography1,1271,46,"Just browsing the internet, came across this and I was curious to see what the differences might be and if an AI could pass a Turing test. ",139,2
+Andrew,1343,72,"You seem to have some knowledge about that. I take it you&#039;re interested in AI? ",84,2
+Geography1,1378,35,"Some knowledge yes.    Not much beyond the most basic ideas and what&#039;s been in some movies or books.  HAL from 2001 for example. ",134,2
+Andrew,1462,84,"I watched it a few months ago though. I only have few memories of this movie actually. ",87,2
+Geography1,1533,71,"Oh?   That few memories sounds a little like the kind of conversational dodge an AI would use to avoid detailed questions that require human context. ",150,2
+Andrew,1636,103,"Or it could just be that it didn&#039;t really grab my attention that much. Kind of like 2001: The Space Odyssey. ",114,2
+Geography1,1734,98,"It&#039;s also a very long movie.  They don&#039;t make them with specific seating music and an intermission anymore. ",118,2
+Andrew,1842,108,"Although both had very interesting technical features, It just seemed very slow and a bit boring. ",98,2
+Geography1,1912,70,"[STOP] ",7,2
+Moderator,1932,20,"Conversation interrupted! ",26,
+Moderator,1953,21,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Geography1,1960,7,"Human ",6,
+Moderator,1967,7,"On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? ",89,
+Geography1,1970,3,"6 ",2,
+Moderator,1978,8,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,1984,6,"If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  ",118,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,894,725,,,
+User Average,45.7,52.4285714285714,,,
+Actor Average,44.4,66,,,
+User Average (5min),30.25,32,,,
+Actor Average (5min),39.25,46.25,,,
+User CharLength,105.7,86.4285714285714,,,
+Actor CharLength,83.1,77.5,,,
+User CharLength (5min),84.25,82.5,,,
+Actor CharLength (5min),74.25,63.25,,,

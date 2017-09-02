@@ -1,0 +1,102 @@
+<span id="time-span">20:03:19</span><span id="name-span">Moderator</span>Welcome Princess_Balluna. 
+<span id="time-span">20:03:38</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">20:03:50</span><span id="name-span">Princess_Balluna</span>Sure thing ^^ 
+<span id="time-span">20:04:00</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">20:04:07</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">20:04:28</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">20:04:35</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">20:04:43</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">20:04:50</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">20:04:56</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">20:05:01</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">20:05:09</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">20:05:14</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">20:05:20</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">20:05:29</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">20:05:34</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">20:05:40</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">20:05:46</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">20:05:52</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">20:06:01</span><span id="name-span">Princess_Balluna</span>Yes 
+<span id="time-span">20:06:07</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">20:06:14</span><span id="name-span">Princess_Balluna</span>I am 
+<span id="time-span">20:06:19</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">20:06:26</span><span id="name-span">Princess_Balluna</span>Hi there! 
+<span id="time-span">20:06:32</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">20:06:44</span><span id="name-span">Princess_Balluna</span>I am quite well, yourself? 
+<span id="time-span">20:07:01</span><span id="name-span">Andrew</span>I&#039;m quite alright too. What are you up to? 
+<span id="time-span">20:07:21</span><span id="name-span">Princess_Balluna</span>Oh, nothing much, relaxing and waiting for work, and you? 
+<span id="time-span">20:07:50</span><span id="name-span">Andrew</span>Wondering if I should relax and play some video games. 
+<span id="time-span">20:08:17</span><span id="name-span">Princess_Balluna</span>I honestly say video games, heh. 
+<span id="time-span">20:08:38</span><span id="name-span">Andrew</span>Yeah I think so too. What kind of video games do you like? 
+<span id="time-span">20:09:12</span><span id="name-span">Princess_Balluna</span>Sci fi games, mainly coop and quite a few rts style games 
+<span id="time-span">20:09:42</span><span id="name-span">Andrew</span>Oh, did you play Mass Effect then? 
+<span id="time-span">20:10:06</span><span id="name-span">Princess_Balluna</span>I do, it is  one of my favorite game series right beside Dead Space
+<span id="time-span">20:10:25</span><span id="name-span">Andrew</span>Yeah same for me. What did you think about Andromeda? 
+<span id="time-span">20:10:51</span><span id="name-span">Princess_Balluna</span>I loved it, sure it was buggy but I loved he story and concept. 
+<span id="time-span">20:11:35</span><span id="name-span">Andrew</span>Nice to hear that I&#039;m not the only one thinking that. Who was your favorite character? 
+<span id="time-span">20:11:46</span><span id="name-span">Princess_Balluna</span>Vetra to be honest 
+<span id="time-span">20:12:14</span><span id="name-span">Andrew</span>She is quite cool, and her sister is very cute too. 
+<span id="time-span">20:12:31</span><span id="name-span">Princess_Balluna</span>She is, hehe 
+<span id="time-span">20:12:49</span><span id="name-span">Andrew</span>Did you play as a female pathfinder or as a male? 
+<span id="time-span">20:13:19</span><span id="name-span">Princess_Balluna</span>Both, first as female then male 
+<span id="time-span">20:14:35</span><span id="name-span">Andrew</span>I should do that too. So far I&#039;ve only played as a male. I can&#039;t wait for the Quarians to arrive too. I&#039;ve felt like the worlds were a bit empty as far as the number of different species. 
+<span id="time-span">20:15:28</span><span id="name-span">Princess_Balluna</span>Same, I figured there would at least be three new species 
+<span id="time-span">20:16:26</span><span id="name-span">Andrew</span>I mean, I understand why, considering the remnants actually created everything, but still. Maybe there will be more in the next ones. 
+<span id="time-span">20:17:38</span><span id="name-span">Princess_Balluna</span>Hopefully, I think it would only make the game better 
+<span id="time-span">20:18:03</span><span id="name-span">Andrew</span>Yeah definitely. I just hope it doesn&#039;t take 5 years again. 
+<span id="time-span">20:18:12</span><span id="name-span">Princess_Balluna</span>Hehe, hopefully 
+<span id="time-span">20:18:48</span><span id="name-span">Andrew</span>You were talking about Dead Space. I&#039;ve never played that game actually. What is it about? 
+<span id="time-span">20:19:38</span><span id="name-span">Princess_Balluna</span>It is made by Visceral  software, it&#039;s space zombies that are mutated by an ancient artifact, it&#039;s great, I recommend it
+<span id="time-span">20:20:14</span><span id="name-span">Andrew</span>Oh alright. I&#039;ll definitely try it then yeah. 
+<span id="time-span">20:20:44</span><span id="name-span">Princess_Balluna</span>Goodie, I think you will enjoy it 
+<span id="time-span">20:21:12</span><span id="name-span">Andrew</span>Any plans for this evening? 
+<span id="time-span">20:21:26</span><span id="name-span">Princess_Balluna</span>Just work is all 
+<span id="time-span">20:21:28</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">20:21:39</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">20:22:13</span><span id="name-span">Princess_Balluna</span>The human actor 
+<span id="time-span">20:22:20</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">20:22:39</span><span id="name-span">Princess_Balluna</span>I am 
+<span id="time-span">20:22:44</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">20:22:54</span><span id="name-span">Princess_Balluna</span>Hiya! 
+<span id="time-span">20:23:01</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">20:23:29</span><span id="name-span">Princess_Balluna</span>I&#039;m great today, you? 
+<span id="time-span">20:23:37</span><span id="name-span">Andrew</span>I&#039;m quite alright! 
+<span id="time-span">20:23:53</span><span id="name-span">Princess_Balluna</span>Oh good, glad to hear 
+<span id="time-span">20:24:04</span><span id="name-span">Andrew</span>What are you up to? 
+<span id="time-span">20:25:15</span><span id="name-span">Princess_Balluna</span>Watching some videos on youtube now 
+<span id="time-span">20:25:26</span><span id="name-span">Andrew</span>What about? 
+<span id="time-span">20:25:37</span><span id="name-span">Princess_Balluna</span>Garry&#039;s Mod 
+<span id="time-span">20:25:55</span><span id="name-span">Andrew</span>Oh alright. I&#039;ve never played that. 
+<span id="time-span">20:26:10</span><span id="name-span">Princess_Balluna</span>It&#039;s fun if you have some friends to play with 
+<span id="time-span">20:26:33</span><span id="name-span">Andrew</span>Is it online or multiplayer at home? 
+<span id="time-span">20:26:44</span><span id="name-span">Princess_Balluna</span>Online 
+<span id="time-span">20:27:04</span><span id="name-span">Andrew</span>Ah right. I&#039;ve just heard the name of this game. 
+<span id="time-span">20:27:42</span><span id="name-span">Princess_Balluna</span>It&#039;s quite fun, as I mentioned before 
+<span id="time-span">20:28:01</span><span id="name-span">Andrew</span>What other games do you like? 
+<span id="time-span">20:28:19</span><span id="name-span">Princess_Balluna</span>Mass Effect, Halo, Stellaris, I have a large list 
+<span id="time-span">20:28:58</span><span id="name-span">Andrew</span>i don&#039;t think I know what Stellaris is about, but I&#039;ve played Mass Effect and Halo too! 
+<span id="time-span">20:29:20</span><span id="name-span">Princess_Balluna</span>Stellaris is fun, it&#039;s like Civilization in space 
+<span id="time-span">20:29:49</span><span id="name-span">Andrew</span>Oh ok. That does indeed sound fun. 
+<span id="time-span">20:30:35</span><span id="name-span">Princess_Balluna</span>I like it alot, heh 
+<span id="time-span">20:30:55</span><span id="name-span">Andrew</span>You&#039;ve played Civilization much too? 
+<span id="time-span">20:31:28</span><span id="name-span">Princess_Balluna</span>I did 
+<span id="time-span">20:31:49</span><span id="name-span">Andrew</span>Which civilization do you prefer? 
+<span id="time-span">20:32:34</span><span id="name-span">Princess_Balluna</span>PRobably 4 so far 
+<span id="time-span">20:33:14</span><span id="name-span">Andrew</span>Sorry I meant in-game, like Americans and so on. 
+<span id="time-span">20:33:39</span><span id="name-span">Princess_Balluna</span>Ah, Americans 
+<span id="time-span">20:34:10</span><span id="name-span">Andrew</span>Right. Are you American yourself? 
+<span id="time-span">20:34:30</span><span id="name-span">Princess_Balluna</span>I am 
+<span id="time-span">20:35:11</span><span id="name-span">Andrew</span>What do you plan on doing tonight? 
+<span id="time-span">20:36:18</span><span id="name-span">Princess_Balluna</span>Just work 
+<span id="time-span">20:36:46</span><span id="name-span">Andrew</span>Oh alright. What kind of work do you do? 
+<span id="time-span">20:37:06</span><span id="name-span">Princess_Balluna</span>I am just working in fast food for now 
+<span id="time-span">20:37:25</span><span id="name-span">Andrew</span>Oh I am too. 
+<span id="time-span">20:37:42</span><span id="name-span">Princess_Balluna</span>Ah, very cool 
+<span id="time-span">20:37:56</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">20:38:15</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">20:38:27</span><span id="name-span">Princess_Balluna</span>I think the first was human 
+<span id="time-span">20:38:33</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">20:39:02</span><span id="name-span">Princess_Balluna</span>4 
+<span id="time-span">20:39:09</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">20:39:28</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

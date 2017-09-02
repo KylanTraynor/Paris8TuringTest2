@@ -1,0 +1,126 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Ritch ",12,
+Moderator,7,7,"Thank you for participating in this study. ",43,
+Ritch,62,55,"Hi! ",4,
+Moderator,67,5,"Are you able to read this? ",27,
+Ritch,95,28,"Yes i am ",9,
+Moderator,100,5,"Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",110,
+Moderator,108,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Ritch,115,7,"Alright ",8,
+Moderator,118,3,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,124,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,131,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,138,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,149,11,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,159,10,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,165,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,173,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,179,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,188,9,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,196,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,202,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,208,6,"Do not type more than one post per answer. ",43,
+Moderator,219,11,"Do you understand the rules and what you have to do? ",53,
+Ritch,229,10,"Yes i do ",9,
+Moderator,235,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Ritch,248,13,"Yes i am ",9,
+Andrew,253,5,"Hello! ",7,
+Ritch,260,7,"Hi there! ",10,1
+Andrew,269,9,"How are you doing? ",19,1
+Ritch,281,12,"I&#039;m good you? ",19,1
+Andrew,308,27,"I&#039;m doing quite alright! What&#039;s up? ",46,1
+Ritch,334,26,"Well, i am watching videos on youtube you? ",43,1
+Andrew,351,17,"I&#039;m watching a show on Netflix right now. ",47,1
+Ritch,359,8,"What is it? ",12,1
+Andrew,391,32,"Not sure actually. ",19,1
+Ritch,404,13,"What is the name? ",18,1
+Andrew,430,26,"Of what? ",9,1
+Ritch,445,15,"Of the show you are watching ",29,1
+Andrew,482,37,"Oh right. It&#039;s how I met your mother. It&#039;s kinda old, but I had never seen it before. ",96,1
+Ritch,511,29,"Ah ok! Yes i saw it a little on tv ",35,1
+Andrew,524,13,"What did you think of it? ",26,1
+Ritch,559,35,"It was interesting, but its not really my kind of show ",55,1
+Andrew,572,13,"What kind of show do you like? ",31,1
+Ritch,628,56,"I mostly like medieval shows, such as Game of Thrones ",54,1
+Andrew,649,21,"I love it too! The next season is coming soon too. ",51,1
+Ritch,686,37,"I mostly like medieval shoes, such as Game of thrones ",54,1
+Andrew,707,21,"It&#039;s one of my favorite shows actually. ",45,1
+Ritch,739,32,"Nice! I enjoy very much japanese animations too ",48,1
+Andrew,769,30,"I don&#039;t know many of those. I&#039;ve liked Death Note a lot though. ",74,1
+Ritch,814,45,"Yes, it was very nice. I mostly watch shonen animes, such as naruto, one piece, death note, etc ",96,1
+Andrew,877,63,"I&#039;ve tried to get into Naruto, but it&#039;s hard to get into with how short the episodes are. ",100,1
+Ritch,918,41,"Yeah, 19 minutes is really not enough ",38,1
+Andrew,942,24,"Yeah definitely. ",17,1
+Ritch,962,20,"Otherwise, do you roleplay? ",28,1
+Andrew,984,22,"I play some D&amp;D from time to time. ",39,1
+Ritch,1001,17,"Cool! What class and race? ",27,1
+Andrew,1026,25,"Human mage most of the time. ",29,1
+Ritch,1038,12,"A classic ",10,1
+Andrew,1056,18,"Yeah. ",6,1
+Ritch,1092,36,"I play at the 4th edition, i enjoy playing a Lombaroo Avengeur ",63,1
+Andrew,1139,47,"Oh that does sound really cool yeah. You play often? ",53,1
+Ritch,1164,25,"As often as i can. Do you what what is a lombaroo? ",51,1
+Moderator,1178,14,"Time is up! ",12,
+Moderator,1190,12,"Which actor do you think you&#039;ve been talking to? ",54,
+Ritch,1207,17,"Definitely the Ai ",18,
+Moderator,1237,30,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Ritch,1247,10,"Yes ",4,
+Andrew,1253,6,"Hello! ",7,
+Ritch,1260,7,"Hi! ",4,2
+Andrew,1268,8,"How are you doing? ",19,2
+Ritch,1280,12,"I&#039;m good you? ",19,2
+Andrew,1304,24,"I&#039;m doing quite well! What are you up to? ",47,2
+Ritch,1323,19,"I&#039;m searching for rp partners lol ",39,2
+Andrew,1348,25,"What kind of rp? ",17,2
+Ritch,1377,29,"Mostly adventure rps, but i tend to enjoy vore too ",51,2
+Andrew,1420,43,"Sounds fun, is it a game or something? ",39,2
+Ritch,1439,19,"No, its only some rp on skype ",30,2
+Andrew,1463,24,"Oh alright. Fair enough. ",25,2
+Ritch,1476,13,"Do you rp? ",11,2
+Andrew,1518,42,"Not on skype no. The only rp I do is when I play dungeon and dragon with friends. ",82,2
+Ritch,1547,29,"Ah ok i see. What class and race? ",34,2
+Andrew,1584,37,"It depends on who I play with. But I tend to favor magic classes. ",66,2
+Ritch,1613,29,"Yeah i like it too! I often play a lombaroo lol ",48,2
+Andrew,1634,21,"I never heard of those actually. ",33,2
+Ritch,1654,20,"Its my own race, my fursona  ",29,2
+Andrew,1668,14,"Oh you&#039;re a furry? ",24,2
+Ritch,1682,14,"Yes i am ",9,2
+Andrew,1689,7,"Cool. ",6,2
+Ritch,1700,11,"Are you too? ",13,2
+Andrew,1729,29,"Nah I&#039;m not actually. ",27,2
+Ritch,1737,8,"Aww ok ok ",10,2
+Andrew,1773,36,"So, how old are you? ",21,2
+Ritch,1784,11,"I&#039;m 25 years old ",22,2
+Andrew,1797,13,"Are you in college? ",20,2
+Ritch,1804,7,"Yup ",4,2
+Andrew,1811,7,"What do you study? ",19,2
+Ritch,1830,19,"I study to become graphist! ",28,2
+Andrew,1858,28,"Oh that&#039;s pretty neat! I study biology. ",45,2
+Ritch,1878,20,"Oh thats nice! ",15,2
+Andrew,1903,25,"It&#039;s not easy though, but it is pretty interesting. ",57,2
+Ritch,1930,27,"Hehe i can guess! ",18,2
+Andrew,1978,48,"Do you know where you&#039;ll want to work? I mean, graphist in which field? ",77,2
+Ritch,2012,34,"Design ",7,2
+Andrew,2052,40,"Oh that&#039;s pretty cool. How much longer do you have in college? ",68,2
+Ritch,2083,31,"Only 1 year ",12,2
+Andrew,2103,20,"I wish I could be almost done as well. That&#039;s really cool for you though. ",79,2
+Ritch,2155,52,"Yes that is~ ",13,2
+Moderator,2161,6,"Time is up! ",12,
+Moderator,2173,12,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Ritch,2217,44,"The Ai ",7,
+Moderator,2227,10,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Ritch,2238,11,"5 ",2,
+Moderator,2253,15,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2268,15,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,904,895,,,
+User Average,25.9411764705882,20.55,,,
+Actor Average,26.1764705882353,25.8421052631579,,,
+User Average (5min),18.125,18.2857142857143,,,
+Actor Average (5min),23,27.6666666666667,,,
+User CharLength,37.5882352941176,20.8,,,
+Actor CharLength,41.5882352941176,40.5789473684211,,,
+User CharLength (5min),27.625,26.8571428571429,,,
+Actor CharLength (5min),37.4285714285714,38.1666666666667,,,

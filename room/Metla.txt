@@ -1,0 +1,100 @@
+<span id="time-span">21:04:06</span><span id="name-span">Moderator</span>Welcome Metla. 
+<span id="time-span">21:04:35</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">21:04:45</span><span id="name-span">Moderator</span>If you can see this, please say &quot;yes&quot;. 
+<span id="time-span">21:04:51</span><span id="name-span">Metla</span>Yes 
+<span id="time-span">21:04:57</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">21:05:05</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">21:05:15</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">21:05:24</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">21:05:35</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">21:05:44</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">21:05:52</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">21:06:01</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">21:06:09</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">21:06:18</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">21:06:26</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">21:06:33</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">21:06:42</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">21:06:50</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">21:06:57</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">21:07:07</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">21:07:15</span><span id="name-span">Metla</span>Yes 
+<span id="time-span">21:07:22</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">21:07:33</span><span id="name-span">Metla</span>Yes 
+<span id="time-span">21:07:37</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:07:47</span><span id="name-span">Metla</span>Good day Andrew 
+<span id="time-span">21:08:00</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">21:08:11</span><span id="name-span">Metla</span>I&#039;m fine thanks, what about you? 
+<span id="time-span">21:08:23</span><span id="name-span">Andrew</span>I&#039;m doing alright. What&#039;s up? 
+<span id="time-span">21:08:39</span><span id="name-span">Metla</span>The sky of course! 
+<span id="time-span">21:08:53</span><span id="name-span">Andrew</span>What&#039;s down then? 
+<span id="time-span">21:09:13</span><span id="name-span">Metla</span>The ground  I guess.
+<span id="time-span">21:09:39</span><span id="name-span">Andrew</span>Fair enough. What are you up to? 
+<span id="time-span">21:09:57</span><span id="name-span">Metla</span>I was about to play some Overwatch really. 
+<span id="time-span">21:10:12</span><span id="name-span">Andrew</span>I&#039;ve never played that. 
+<span id="time-span">21:10:30</span><span id="name-span">Metla</span>You should try, do you like FPS? 
+<span id="time-span">21:10:42</span><span id="name-span">Andrew</span>It really depends on the game. 
+<span id="time-span">21:11:06</span><span id="name-span">Metla</span>Which games do you like then? 
+<span id="time-span">21:11:28</span><span id="name-span">Andrew</span>Minecraft and RPGs mostly, like Mass Effect. 
+<span id="time-span">21:12:10</span><span id="name-span">Metla</span>I&#039;ve not played minecraft for years... mh, so much nostalgia about it 
+<span id="time-span">21:12:25</span><span id="name-span">Andrew</span>Maybe you should try it again. 
+<span id="time-span">21:12:42</span><span id="name-span">Metla</span>I don&#039;t like to play it alone 
+<span id="time-span">21:13:02</span><span id="name-span">Andrew</span>It does get quite boring alone yeah. 
+<span id="time-span">21:13:23</span><span id="name-span">Metla</span>What&#039;s your favourite item on minecraft? 
+<span id="time-span">21:13:40</span><span id="name-span">Andrew</span>Elytras. 
+<span id="time-span">21:14:10</span><span id="name-span">Metla</span>And why? 
+<span id="time-span">21:14:30</span><span id="name-span">Andrew</span>They let you fly around. It&#039;s really cool. 
+<span id="time-span">21:14:57</span><span id="name-span">Metla</span>Ok let&#039;s talk about something else, do you like sports? 
+<span id="time-span">21:15:16</span><span id="name-span">Andrew</span>I&#039;m not a huge fan no. You? 
+<span id="time-span">21:15:45</span><span id="name-span">Metla</span>I used to play watrerpolo for 8 years 
+<span id="time-span">21:16:22</span><span id="name-span">Andrew</span>Oh nice! That actually seems to be a fun one. 
+<span id="time-span">21:17:00</span><span id="name-span">Metla</span>Mh, so what do you do in your free time?  
+<span id="time-span">21:17:21</span><span id="name-span">Andrew</span>I mostly play games honestly. 
+<span id="time-span">21:18:15</span><span id="name-span">Metla</span>Mh nice nice, and have you heard of the first head trasplant? I t will happens in december
+<span id="time-span">21:18:42</span><span id="name-span">Andrew</span>Uh. That sounds way too weird. 
+<span id="time-span">21:18:50</span><span id="name-span">Metla</span>How so? 
+<span id="time-span">21:19:00</span><span id="name-span">Andrew</span>How is it possible? 
+<span id="time-span">21:21:08</span><span id="name-span">Metla</span>The will be freezing the head at a temperature of -40&deg;C, they will connect it to the body of a brain-dead patient, connect all the nerves and bones. And then send in coma the patient. 
+<span id="time-span">21:21:51</span><span id="name-span">Andrew</span>Where are they doing that? 
+<span id="time-span">21:22:51</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">21:23:03</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">21:23:39</span><span id="name-span">Metla</span>Human I guess 
+<span id="time-span">21:23:51</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">21:24:05</span><span id="name-span">Metla</span>I&#039;m ready 
+<span id="time-span">21:24:08</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:24:27</span><span id="name-span">Metla</span>Hello to you as well 
+<span id="time-span">21:24:33</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">21:24:49</span><span id="name-span">Metla</span>I&#039;m fine, thanks, what about you, mister Andrew? 
+<span id="time-span">21:25:09</span><span id="name-span">Andrew</span>I&#039;m doing quite alright. What&#039;s up? 
+<span id="time-span">21:25:42</span><span id="name-span">Metla</span>Nothing just chilling, and chatting with you, what are you up to? 
+<span id="time-span">21:26:09</span><span id="name-span">Andrew</span>I&#039;m not sure yet. I&#039;ll probably be playing games in a bit or something like that. 
+<span id="time-span">21:26:23</span><span id="name-span">Metla</span>Ok, have you ever heard of metallica? 
+<span id="time-span">21:26:47</span><span id="name-span">Andrew</span>The band? Yeah I have. I only really know one of their song though. 
+<span id="time-span">21:26:57</span><span id="name-span">Metla</span>Which song? 
+<span id="time-span">21:27:59</span><span id="name-span">Andrew</span>Actually I mistook it for another band, nevermind. I just know the name. I&#039;ve probably heard some of their songs but I can&#039;t recall any. 
+<span id="time-span">21:29:21</span><span id="name-span">Metla</span>You probably have heard sometimes &quot;Enter Sandman&quot; and &quot;Nothing else matters&quot;, but you don&#039;t know that metallica has  written them
+<span id="time-span">21:29:54</span><span id="name-span">Andrew</span>That&#039;s probably the case yes. I mistook it with Cascada, but that&#039;s really not the same style. 
+<span id="time-span">21:31:38</span><span id="name-span">Metla</span>They are... totally the opposite, sort of 
+<span id="time-span">21:32:00</span><span id="name-span">Andrew</span>Yeah I know. Does Cascada even still exist? 
+<span id="time-span">21:32:15</span><span id="name-span">Metla</span>I don&#039;t think so 
+<span id="time-span">21:32:48</span><span id="name-span">Andrew</span>That might explain why I&#039;ve only ever heard one song of them. Have you ever heard some symphonic metal? 
+<span id="time-span">21:33:43</span><span id="name-span">Metla</span>Not really my style, I prefer trash metal and folk metal 
+<span id="time-span">21:34:19</span><span id="name-span">Andrew</span>Alright I see. Do you play video games? 
+<span id="time-span">21:34:47</span><span id="name-span">Metla</span>Yes,  I do
+<span id="time-span">21:34:55</span><span id="name-span">Andrew</span>Which ones do you like? 
+<span id="time-span">21:35:08</span><span id="name-span">Metla</span>Overwatch and League of legends are my favourite 
+<span id="time-span">21:35:30</span><span id="name-span">Andrew</span>I&#039;ve never played any of those, but I&#039;ve definitely heard about them a lot. 
+<span id="time-span">21:35:51</span><span id="name-span">Metla</span>In a good or in a bad way? 
+<span id="time-span">21:36:22</span><span id="name-span">Andrew</span>I think mostly good. Especially League of Legends. 
+<span id="time-span">21:36:55</span><span id="name-span">Metla</span>What have you heard of it? 
+<span id="time-span">21:37:40</span><span id="name-span">Andrew</span>Nothing too specific. But I know a lot of people who play it and enjoy doing so. 
+<span id="time-span">21:38:33</span><span id="name-span">Metla</span>What about you, tell me about your favourite games and why they can be called as such 
+<span id="time-span">21:39:22</span><span id="name-span">Andrew</span>Minecraft eats a lot of my time. I love building things in it. And Mass Effect lately, mostly for the depth of the characters in it. 
+<span id="time-span">21:39:32</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">21:39:43</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">21:40:04</span><span id="name-span">Metla</span>In my opinion the first was human and the second the IA 
+<span id="time-span">21:40:21</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">21:40:45</span><span id="name-span">Metla</span>Let&#039;s say 4 
+<span id="time-span">21:40:51</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">21:41:13</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 
+<span id="time-span">21:41:48</span><span id="name-span">Metla</span>You should listen more Metallica, that&#039;s the only tip I can give you, have a nice day! 

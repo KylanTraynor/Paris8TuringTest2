@@ -1,0 +1,116 @@
+<span id="time-span">14:13:13</span><span id="name-span">Jacob</span>Hello 
+<span id="time-span">14:13:21</span><span id="name-span">Moderator</span>Hello Jacob. 
+<span id="time-span">14:13:27</span><span id="name-span">Jacob</span>Hello there! 
+<span id="time-span">14:14:14</span><span id="name-span">Jacob</span>How are you? 
+<span id="time-span">14:15:00</span><span id="name-span">Andrew</span>[We&#039;re having technical issues. Please wait a moment] 
+<span id="time-span">14:17:21</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">14:17:29</span><span id="name-span">Jacob</span>No problem. 
+<span id="time-span">14:17:33</span><span id="name-span">Jacob</span>Happy to help. 
+<span id="time-span">14:17:39</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">14:17:50</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">14:17:57</span><span id="name-span">Jacob</span>Oh okay. 
+<span id="time-span">14:18:03</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">14:18:15</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">14:18:28</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">14:18:40</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">14:18:51</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">14:18:53</span><span id="name-span">Jacob</span>Gotcha. 
+<span id="time-span">14:19:01</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">14:19:11</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">14:19:22</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">14:19:32</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">14:19:42</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">14:19:52</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">14:20:01</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">14:20:10</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">14:20:22</span><span id="name-span">Jacob</span>Yes I do! 
+<span id="time-span">14:20:35</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. 
+<span id="time-span">14:20:42</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">14:20:57</span><span id="name-span">Jacob</span>Hello there! 
+<span id="time-span">14:21:04</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">14:21:17</span><span id="name-span">Jacob</span>I&#039;m doing fantastic, how about yourself? 
+<span id="time-span">14:21:30</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to? 
+<span id="time-span">14:22:08</span><span id="name-span">Jacob</span>Well I literally just woke up. Popped online and saw this test thing....And I thought I&#039;d be fun. How about you? You up to anything special? 
+<span id="time-span">14:22:39</span><span id="name-span">Andrew</span>Not much honestly. I&#039;m probably just going to get to my room soon and play some video games. 
+<span id="time-span">14:22:52</span><span id="name-span">Jacob</span>Oh? Cool! What games do you play? 
+<span id="time-span">14:23:18</span><span id="name-span">Andrew</span>Mostly Minecraft. Also played Mass Effect recently. 
+<span id="time-span">14:23:33</span><span id="name-span">Jacob</span>Have you played the newest one yet? 
+<span id="time-span">14:23:51</span><span id="name-span">Andrew</span>Andromeda? Yes I have actually. 
+<span id="time-span">14:24:02</span><span id="name-span">Jacob</span>Oh? Who&#039;s your favorite character? 
+<span id="time-span">14:24:42</span><span id="name-span">Andrew</span>I quite like Peebee, but I don&#039;t know if she&#039;s my favorite character. Who&#039;s yours? 
+<span id="time-span">14:25:19</span><span id="name-span">Jacob</span>Well I haven&#039;t actually played the game. But my favorite from the old series is Garrus. Has to be probably my favorite human of all time. 
+<span id="time-span">14:26:06</span><span id="name-span">Andrew</span>Garrus isn&#039;t human though. And yeah, he&#039;s also my favorite character of the first trilogy. Mordin was awesome too. 
+<span id="time-span">14:26:46</span><span id="name-span">Jacob</span>Haha. Yeah that was a huge typo. Oh! Guess what&#039;s coming out today?! I&#039;ve been waiting for this game for a while! 
+<span id="time-span">14:27:28</span><span id="name-span">Andrew</span>I have no idea actually. What is it? 
+<span id="time-span">14:27:41</span><span id="name-span">Jacob</span>Yookah-Laylee!!! 
+<span id="time-span">14:27:55</span><span id="name-span">Andrew</span>I&#039;ve never heard of this. 
+<span id="time-span">14:28:41</span><span id="name-span">Jacob</span>It&#039;s a successor to the hit game Banjo-Kazooie! I work at a game store so I have to open today but when I get home I&#039;ll get to play it!!! <img src='smiles/bigsmile.png'/> 
+<span id="time-span">14:28:56</span><span id="name-span">Moderator</span>[Please avoid smileys] 
+<span id="time-span">14:29:09</span><span id="name-span">Jacob</span>(That was my bad sorry I got really excited) 
+<span id="time-span">14:29:32</span><span id="name-span">Andrew</span>Oh alright. Sounds like you&#039;re going to be having a lot of fun then. i played that game a long time ago, I barely remember it. 
+<span id="time-span">14:30:02</span><span id="name-span">Jacob</span>Yeah. It&#039;s a really old game. So Andrew? How old are you? 
+<span id="time-span">14:30:22</span><span id="name-span">Andrew</span>I&#039;m 21. How old are you? 
+<span id="time-span">14:31:17</span><span id="name-span">Jacob</span>Hey cool! I&#039;m 21 as well! Nice to know we&#039;re the same age. So do you have any other plans today? 
+<span id="time-span">14:32:03</span><span id="name-span">Andrew</span>I don&#039;t think so no. Alone at home so I&#039;ll be cooking and that&#039;s about it. 
+<span id="time-span">14:32:14</span><span id="name-span">Jacob</span>Oh cool! What are you going to make? 
+<span id="time-span">14:32:45</span><span id="name-span">Andrew</span>Sausages. Got some ready that I just need to re-heat. 
+<span id="time-span">14:32:57</span><span id="name-span">Jacob</span>Nice! What kinda sausages? 
+<span id="time-span">14:33:34</span><span id="name-span">Andrew</span>That&#039;s a good question. I&#039;m not too sure, but they are rather big. 
+<span id="time-span">14:34:12</span><span id="name-span">Jacob</span>Nice! I&#039;m probably gonna have some cereal, blegh. Never have time to make anything fancy for breakfast. 
+<span id="time-span">14:34:49</span><span id="name-span">Andrew</span>Cereal is not bad though! I don&#039;t eat enough of those. 
+<span id="time-span">14:35:21</span><span id="name-span">Jacob</span>Yeah? I&#039;m more of a fan of the choco-ball cereal.  
+<span id="time-span">14:35:58</span><span id="name-span">Andrew</span>Chocolate is always awesome! 
+<span id="time-span">14:36:05</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">14:36:19</span><span id="name-span">Jacob</span>Alright! 
+<span id="time-span">14:36:25</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">14:36:47</span><span id="name-span">Jacob</span>...I&#039;m thinking I was talking to the computer but I&#039;ll have to wait and see. 
+<span id="time-span">14:37:20</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes after your first answer; 
+<span id="time-span">14:37:26</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">14:37:38</span><span id="name-span">Jacob</span>Hello! 
+<span id="time-span">14:37:45</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">14:38:18</span><span id="name-span">Jacob</span>I&#039;m doing well! How about yourself? 
+<span id="time-span">14:38:30</span><span id="name-span">Andrew</span>I&#039;m alright thanks. 
+<span id="time-span">14:38:42</span><span id="name-span">Jacob</span>That&#039;s good to hear. So what do you like to do? 
+<span id="time-span">14:39:01</span><span id="name-span">Andrew</span>Playing video games mostly. 
+<span id="time-span">14:39:17</span><span id="name-span">Jacob</span>Yeah? Whats the most recent game you&#039;ve been playing? 
+<span id="time-span">14:39:35</span><span id="name-span">Andrew</span>It would have to be Mass Effect Andromeda. 
+<span id="time-span">14:40:07</span><span id="name-span">Jacob</span>Nice! What cha gonna be doing afterwards? 
+<span id="time-span">14:40:33</span><span id="name-span">Andrew</span>Probably playing Minecraft. 
+<span id="time-span">14:40:58</span><span id="name-span">Jacob</span>Nice what cha like to do on there? 
+<span id="time-span">14:41:21</span><span id="name-span">Andrew</span>Building mostly, and talking to people. 
+<span id="time-span">14:41:30</span><span id="name-span">Jacob</span>Cool What do you like to build? 
+<span id="time-span">14:41:53</span><span id="name-span">Andrew</span>Castles and medieval builds in general. 
+<span id="time-span">14:42:30</span><span id="name-span">Jacob</span>Nice nice. Are you a fan of the medieval period in general? 
+<span id="time-span">14:42:57</span><span id="name-span">Andrew</span>Well, it&#039;s an interesting period, but I wouldn&#039;t have wanted to live in it. 
+<span id="time-span">14:43:19</span><span id="name-span">Jacob</span>Haha yeah especially with the plague. That&#039;d suck. 
+<span id="time-span">14:43:34</span><span id="name-span">Andrew</span>Yeah definitely. 
+<span id="time-span">14:43:58</span><span id="name-span">Jacob</span>Do you know when the plague took place by any chance? The black plague? 
+<span id="time-span">14:44:25</span><span id="name-span">Andrew</span>The exact date? Not really. 
+<span id="time-span">14:45:37</span><span id="name-span">Jacob</span>Ah alright. Was curious. What gaming console do you have? 
+<span id="time-span">14:46:13</span><span id="name-span">Andrew</span>I have the PS3. 
+<span id="time-span">14:46:40</span><span id="name-span">Jacob</span>Yeah? How are you playing Mass Effect Andromeda then? 
+<span id="time-span">14:47:05</span><span id="name-span">Andrew</span>I play it on my computer actually, not on a console. 
+<span id="time-span">14:47:16</span><span id="name-span">Jacob</span>Oh cool! What sorta pc do you have? 
+<span id="time-span">14:47:52</span><span id="name-span">Andrew</span>It&#039;s not really a fancy PC, but it&#039;s enough to play most games. 
+<span id="time-span">14:48:30</span><span id="name-span">Jacob</span>Oh okay! So Andrew do you have a girl in your life? 
+<span id="time-span">14:48:39</span><span id="name-span">Andrew</span>I do actually yes. 
+<span id="time-span">14:48:51</span><span id="name-span">Jacob</span>Oh? If you don&#039;t mind my asking, what&#039;s her name? 
+<span id="time-span">14:49:10</span><span id="name-span">Andrew</span>Her name&#039;s Audrey. 
+<span id="time-span">14:49:23</span><span id="name-span">Jacob</span>Wow. How old is she? 
+<span id="time-span">14:49:37</span><span id="name-span">Andrew</span>Same as me, 21. 
+<span id="time-span">14:50:07</span><span id="name-span">Jacob</span>Whoa cool! All the same age? That&#039;s pretty neat. What do you do for a living? 
+<span id="time-span">14:50:33</span><span id="name-span">Andrew</span>I&#039;m a student actually, but I also have a job at a KFC. 
+<span id="time-span">14:50:42</span><span id="name-span">Jacob</span>Oh nice! What&#039;s your major? 
+<span id="time-span">14:50:53</span><span id="name-span">Andrew</span>Biology. 
+<span id="time-span">14:51:06</span><span id="name-span">Jacob</span>Marine? Or just Biology in general? 
+<span id="time-span">14:51:25</span><span id="name-span">Andrew</span>Biology and Neurosciences. 
+<span id="time-span">14:52:10</span><span id="name-span">Jacob</span>Oh whoa!!! Neurosciences?! That&#039;s so freaking cool! Care to explain that to me? I&#039;m no the brightest bulb in the batch. 
+<span id="time-span">14:52:39</span><span id="name-span">Andrew</span>Basically I study neurons and how they work. 
+<span id="time-span">14:52:46</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">14:53:01</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">14:53:20</span><span id="name-span">Jacob</span>The first is human and the second is computer. 
+<span id="time-span">14:53:43</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">14:53:53</span><span id="name-span">Jacob</span>5 
+<span id="time-span">14:54:05</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">14:54:23</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do it now, otherwise you can now close this window. 
+<span id="time-span">14:54:24</span><span id="name-span">Jacob</span>Oh alright! Was I right? 

@@ -1,0 +1,104 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Page! ",14,
+Moderator,19,19,"Thank you for participating in this study. ",43,
+Moderator,39,20,"Are you able to read this? ",27,
+Page,46,7,"Yes. ",5,
+Moderator,56,10,"Good, In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",110,
+Moderator,66,10,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,76,10,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,83,7,"You&#039;ll be talking to him twice. ",37,
+Moderator,92,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,99,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,108,9,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,115,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,122,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,129,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,136,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,153,17,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,161,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,174,13,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,181,7,"Do not type more than one post per answer. ",43,
+Moderator,187,6,"Do you understand the rules and what you have to do? ",53,
+Page,199,12,"Yes. ",5,
+Moderator,205,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Page,224,19,"Yep. ",5,
+Andrew,229,5,"Hello! ",7,
+Page,256,27,"Hiya. How&#039;re you doing? ",29,1
+Andrew,268,12,"I&#039;m doing alright. How about you? ",39,1
+Page,328,60,"I&#039;m doing alright myself. ",31,1
+Andrew,345,17,"What are you up to? Nice. ",26,1
+Page,373,28,"I j ust woke up, going to make breakfast soon.",46,1
+Andrew,416,43,"What will you get? ",19,1
+Page,489,73,"I&#039;ll probably have cereal, or something easy. ",51,1
+Andrew,546,57,"It&#039;s past midday for me, what time is it for you? ",55,1
+Page,570,24,"It&#039;s just past noon here. ",31,1
+Andrew,602,32,"You didn&#039;t wake up too early I see! ",41,1
+Page,650,48,"Nah, I stayed up way too late last night. ",42,1
+Andrew,664,14,"Busy night? ",12,1
+Page,715,51,"Mostly just gaming, watching stuff on Youtube. ",47,1
+Andrew,744,29,"What kind of things do you watch? Oh alright. ",46,1
+Page,794,50,"I can&#039;t remember what I watched last night, actually. I fell asleep pretty quickly after I got in bed. ",108,1
+Andrew,851,57,"Lately I&#039;ve been watching a lot of show reactions. ",56,1
+Page,882,31,"Oh? That sounds like fun. ",26,1
+Andrew,907,25,"It&#039;s interesting to see people react the same way you did when you watched the show yourself, yeah. ",105,1
+Page,970,63,"I could imagine. I don&#039;t watch a lot of TV shows myself., so it&#039;s hard to compare. ",93,1
+Andrew,1004,34,"what about the games? Oh yeah. ",31,1
+Page,1085,81,"Lately I&#039;ve been playing the same games a lot, or playing with friends. Hard to compare thoughts and feelings on them the same as TV though. ",146,1
+Andrew,1133,48,"Yeah I can imagine. Which games do you play? ",45,1
+Page,1160,27,"Lately I&#039;ve been playing a lot of Rainbow Six Siege, and the new Fire Emblem. ",83,1
+Moderator,1168,8,"Time is up! ",12,
+Moderator,1183,15,"Which actor do you think you&#039;ve been talking to? ",54,
+Page,1214,31,"I&#039;m not entirely sure, I suspect the AI, since the way it&#039;s handled compound sentences,  but I&#039;ll have to see the other for comparison.",150,
+Moderator,1260,46,"Alright. We&#039;ll start the next conversation. Andrew will begin again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",144,
+Page,1273,13,"Yes. ",5,
+Andrew,1279,6,"Hello! ",7,
+Page,1287,8,"Hiya, how are you doing? ",25,2
+Andrew,1296,9,"I&#039;m doing alright! What about you? ",40,2
+Page,1324,28,"I&#039;m a little bit tired, but doing well. ",45,2
+Andrew,1337,13,"Is it late for you? ",20,2
+Page,1360,23,"Nah, it&#039;s just past noon. I slept late  today.",51,2
+Andrew,1401,41,"Oh alright. Sometimes when you sleep too much you end up more tired than if you had slept less. ",96,2
+Page,1453,52,"I think it&#039;s mostly a side effect of medication, actually. I get really sleepy if I don&#039;t go to bed early enough. ",124,2
+Andrew,1511,58,"Oh I see yeah. Drugs can really mess up your sleeping schedule. ",64,2
+Page,1567,56,"Oddly they managed to regulate my sleep schedule so I go to bed at a more reasonable hour. But if I try to slip into the way I used to sleep, staying up until 5AM, I&#039;m pretty much dead the next day. ",204,2
+Andrew,1628,61,"Staying up until 5AM can&#039;t really be healthy though if you do it all the time, so that actually sounds like a good thing! ",127,2
+Page,1646,18,"I think so, yes. Just takes some getting used to. ",50,2
+Andrew,1670,24,"How long have you been using them? ",35,2
+Page,1680,10,"For a month, now. ",18,2
+Andrew,1736,56,"Right, I can see why it&#039;s much harder to stay up late now. Hopefully you found something to do during the day. ",116,2
+Page,1776,40,"Well, lots of coffee, playing games, trying to get back into writing lately. I&#039;m still bored a lot, but at least I sleep well. ",132,2
+Andrew,1832,56,"Well that&#039;s a start. So you&#039;re a writer, or do you just do it for fun? ",81,2
+Page,1854,22,"Just for fun, I don&#039;t think I could ever finish writing a novel or anything like that. ",92,2
+Andrew,1888,34,"It&#039;s a very big commitment yes, and takes a very long time. ",65,2
+Page,1931,43,"I don&#039;t think I could stick to one idea nearly long enough, yeah. Easier to write short stories, and even that is a little tough to find motivation. ",154,2
+Andrew,1978,47,"Yeah. I heard it&#039;s easier if you find a way to isolate yourself from any distraction, to stay within your own bubble. ",123,2
+Page,1994,16,"Unfortunately that tends to be impossible, too much noise around here. ",71,2
+Andrew,2018,24,"You live with someone? ",23,2
+Page,2047,29,"I live with family, and they&#039;re noisy. ",44,2
+Andrew,2094,47,"Oh yeah. I can understand that it would be hard to focus then. ",63,2
+Page,2132,38,"Have you ever tried writing anything yourself? ",47,2
+Andrew,2155,23,"Yeah. I failed miserably to be honest. ",39,2
+Page,2173,18,"I bet you could be good at it if you kept trying. ",50,2
+Andrew,2191,18,"That&#039;s can be applied to anything though. ",47,2
+Moderator,2203,12,"Time is up! ",12,
+Moderator,2227,24,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Page,2241,14,"I&#039;ll take a moment to scroll back through and see if I can compare them. ",78,
+Moderator,2256,15,"Alright ",8,
+Page,2268,12,"I think the first one was the AI, still. ",41,
+Moderator,2279,11,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Page,2306,27,"Slightly more than 50/50, I&#039;d  say a 5.",44,
+Moderator,2314,8,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2322,8,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+Page,2323,1,"Cool, thanks! ",14,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,904,904,,,
+User Average,48.7272727272727,28.6428571428571,,,
+Actor Average,33.4545454545455,37.9230769230769,,,
+User Average (5min),47,33.4,,,
+Actor Average (5min),32.25,30.25,,,
+User CharLength,59.0909090909091,79.0714285714286,,,
+Actor CharLength,43.1818181818182,68.6153846153846,,,
+User CharLength (5min),39.25,89.8,,,
+Actor CharLength (5min),34.75,55,,,

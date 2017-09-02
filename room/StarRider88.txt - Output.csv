@@ -1,0 +1,106 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+StarRider88,0,0,Hello. ,7,
+Moderator,10,10,Welcome StarRider88 ,20,
+Moderator,25,15,Thank you for participating in this study. ,43,
+Moderator,43,18,"If you can see this, please say Yes ",36,
+StarRider88,206,163,Yes ,4,
+Moderator,222,16,"Perfect. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,230,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,241,11,You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ,131,
+Moderator,249,8,You&#039;ll be talking to him twice. ,37,
+StarRider88,257,8,That sounds good. Are you the guy who sent me the link? ,56,
+Moderator,261,4,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,275,14,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,285,10,We will call the Human and the Artificial Intelligence the Actors. ,67,
+Moderator,294,9,The order in which you&#039;ll be talking to each Actor is random. ,67,
+Moderator,303,9,You will not be talking twice with the same Actor. ,51,
+Moderator,310,7,Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ,120,
+Moderator,320,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,330,10,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,337,7,Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ,91,
+Moderator,344,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,352,8,Do not type more than one post at a time. ,42,
+Moderator,362,10,Do you understand the rules and what you have to do? ,53,
+StarRider88,371,9,Yes I do. ,10,
+Moderator,379,8,Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ,102,
+StarRider88,392,13,Yes. ,5,
+Andrew,396,4,Hello! ,7,
+StarRider88,0,10,"Hi, Andrew. How are you doing? ",31,1
+Andrew,13,13,I&#039;m doing quite alright thanks! How about you? ,52,1
+StarRider88,38,25,I&#039;m doing great. I just got done playing Guitar Hero on the Wii. ,70,1
+Andrew,56,18,Oh nice! I haven&#039;t played that in a very long while. ,58,1
+StarRider88,81,25,Oh really? I was playing Legends of Rock. Which song is your favorite on there? ,80,1
+Andrew,111,30,I honestly don&#039;t remember any of them. I just remember that it was really hard. ,85,1
+StarRider88,154,43,It&#039;s only hard if you choose to play on Hard. ,51,1
+Andrew,205,51,I found it hard to do even on normal. But I never played it long enough to really learn the buttons. ,101,1
+StarRider88,265,60,Ah. Do you have a job? ,23,1
+Andrew,304,39,"Kind of. I&#039;m a student, but I work at a KFC to pay for tuition. ",69,1
+StarRider88,352,48,Haha KFC. I&#039;m also a student. What college to you go to if you don&#039;t mind me asking? ,95,1
+Andrew,376,24,"I study Biology at the University of Western, Ontario. ",55,1
+StarRider88,401,25,Oh nice. I don&#039;t really have a major yet. I go to Santa Rosa Junior College in California. ,96,1
+Andrew,438,37,What would you like to study? ,30,1
+StarRider88,531,93,I&#039;d probably like to study astrophysics and veterinary sciences. Only problem is that both involve lots of math. Also considering geology. ,144,1
+Andrew,561,30,That sounds really awesome actually. I study biology and neurosciences. ,72,1
+StarRider88,587,26,Biology? Nice. When I was little I wanted to be a biologist. ,61,1
+Andrew,606,19,Sounds like you want to do everything. ,39,1
+StarRider88,737,131,Haha yeah. I&#039;m a huge science guy. My favorite subject is astronomy. I just love the universe and I want to know more about it. If only it didn&#039;t require so much math. ,178,1
+Andrew,813,76,"Many things in sciences require maths anyway, but it&#039;s true that astronomy might require more than others. I&#039;m not really an expert on the topic. ",156,1
+StarRider88,840,27,"Yeah. By the way, can I ask you a question?  ",45,1
+Andrew,854,14,Of course! ,11,1
+StarRider88,864,10,"Which letter of the English alphabet flies, sings, and stings? ",63,1
+Moderator,899,35,Time is up! ,12,
+Moderator,911,12,Which actor do you think you&#039;ve been talking to (This is not your final answer) ,85,
+StarRider88,955,44,The human. ,11,
+Moderator,1000,45,"Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes after your answer. Are you ready? ",135,
+StarRider88,1060,60,Yes. ,5,
+Andrew,1066,6,Hello! ,7,
+StarRider88,1117,51,"Hi, Andrew. How are you? ",25,2
+Andrew,1131,14,I&#039;m alright thanks. You? ,30,2
+StarRider88,1189,58,I&#039;m doing great. Time expired in the last conversation before the actor could answer my question. ,103,2
+Andrew,1211,22,What was the question? ,23,2
+StarRider88,1234,23," Which letter of the English alphabet flies, sings, and stings? ",64,2
+Andrew,1256,22,B. ,3,2
+StarRider88,1283,27,Wow. You&#039;re really good. I didn&#039;t think you could answer trick questions. ,84,2
+Andrew,1295,12,Why not? ,9,2
+StarRider88,1331,36,I don&#039;t know. Thought maybe a trick question could trip the AI up.  ,73,2
+Andrew,1355,24,"Well, I&#039;m not the AI so... ",32,2
+StarRider88,1405,50,"I&#039;m going to take that with a grain of salt because for all I know, you&#039;re lying to me. Why would the actor give me the answer to the experiment? ",156,2
+Andrew,1439,34,Maybe to make it easier for you. ,33,2
+StarRider88,1493,54,I doubt it. That would ruin the experiment. Let&#039;s try this question. Which one is correct? &ldquo;Penguins flies&rdquo; or &ldquo;A Penguin flies&rdquo; ,158,2
+Andrew,1514,21,The second one. ,16,2
+StarRider88,1529,15,Wrong. Neither is correct. Penguins don&#039;t fly. ,52,2
+Andrew,1559,30,That&#039;s a good point. It was grammatically correct though. ,63,2
+StarRider88,1594,35,Yes that&#039;s true. But that wasn&#039;t the answer to the trick question. ,77,2
+Andrew,1647,53,Yup. Doesn&#039;t mean I&#039;m an AI though. ,46,2
+StarRider88,1717,70,"Of course it doesn&#039;t. But here is another question. If God is all powerful and can do anything, can he create a boulder so heavy, that even he can&#039;t lift it? ",168,2
+Andrew,1775,58,There is no valid answer to this. ,34,2
+StarRider88,1834,59,"Correct, because the question is a paradox. Anyway, enough with the trick questions. Let&#039;s learn about you. Do you have a job or go to school? ",148,2
+Andrew,1856,22,Yeah. I&#039;m a student and work at a KFC. ,44,2
+StarRider88,1925,69,"Cool. What kind of video games do you play, if you play any? ",61,2
+Andrew,1950,25,ROGs and City Builders in general. ,35,2
+StarRider88,1991,41,"Cool. I&#039;ve never played either. So, do you remember anything we talked about in the previous conversation? ",112,2
+Andrew,2005,14,What do you mean? ,18,2
+Moderator,2034,29,Time is up! ,12,
+Moderator,2046,12,Which actor do you think you&#039;ve been talking to in the first conversation?  ,81,
+StarRider88,2183,137,The AI. ,8,
+Moderator,2197,14,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+StarRider88,2219,22,4.5 ,4,
+Moderator,2236,17,I only accept integer values. 4 or 5? ,38,
+StarRider88,2265,29,4 ,2,
+Moderator,2276,11,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2297,21,"If you have any comments you&#039;d like to share, you can do so now. Otherwise, you can close this window. ",108,
+StarRider88,2432,135,I really enjoyed this experiment. The Andrew in the second conversation said that he wasn&#039;t the AI after I mentioned I thought an AI would trip up over a trick question. Now THAT tripped me up. Haha. ,205,
+StarRider88,2443,11,"Overall, very enjoyable.  ",26,
+Moderator,2469,26,Thank you. You can now close this window. ,42,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,-85532,888,,,
+User Average,-7156.0833333333,45.2307692308,,,
+Actor Average,31.9090909091,27,,,
+User Average (5min),32.6,40.8333333333,,,
+Actor Average (5min),31.9090909091,18.8,,,
+User CharLength,78.0833333333,98.5384615385,,,
+Actor CharLength,66.1818181818,29.6923076923,,,
+User CharLength (5min),73,84.1666666667,,,
+Actor CharLength (5min),66.1818181818,19.4,,,

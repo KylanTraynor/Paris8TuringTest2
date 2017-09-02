@@ -1,0 +1,114 @@
+<span id="time-span">18:33:39</span><span id="name-span">Moderator</span>Hello Allen Bloodclaw. 
+<span id="time-span">18:33:40</span><span id="name-span">Allen Bloodclaw</span>Hello, world ^^ 
+<span id="time-span">18:33:50</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:33:58</span><span id="name-span">Allen Bloodclaw</span>You welcome 
+<span id="time-span">18:34:08</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:34:17</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:34:18</span><span id="name-span">Allen Bloodclaw</span>Nice 
+<span id="time-span">18:34:26</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:34:33</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:34:42</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">18:34:51</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">18:34:59</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">18:35:07</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">18:35:12</span><span id="name-span">Allen Bloodclaw</span>I have to guess, rigth? 
+<span id="time-span">18:35:15</span><span id="name-span">Allen Bloodclaw</span>told beforehand 
+<span id="time-span">18:35:19</span><span id="name-span">Moderator</span>Yes 
+<span id="time-span">18:35:21</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">18:35:32</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">18:35:41</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">18:35:49</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">18:35:56</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">18:36:04</span><span id="name-span">Allen Bloodclaw</span>Pretty easy. At least the rules  
+<span id="time-span">18:36:07</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">18:36:17</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">18:36:19</span><span id="name-span">Allen Bloodclaw</span>Understood 
+<span id="time-span">18:36:30</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. 
+<span id="time-span">18:36:38</span><span id="name-span">Allen Bloodclaw</span>ok 
+<span id="time-span">18:36:45</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:36:53</span><span id="name-span">Allen Bloodclaw</span>Hello, there 
+<span id="time-span">18:37:00</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:37:23</span><span id="name-span">Allen Bloodclaw</span>Fine, but some part of my body hurts. Can you guess it? 
+<span id="time-span">18:37:37</span><span id="name-span">Andrew</span>Not really. 
+<span id="time-span">18:37:55</span><span id="name-span">Allen Bloodclaw</span>Its one of my limbs 
+<span id="time-span">18:38:05</span><span id="name-span">Andrew</span>Your arm? 
+<span id="time-span">18:38:14</span><span id="name-span">Allen Bloodclaw</span>lower, I think 
+<span id="time-span">18:38:23</span><span id="name-span">Andrew</span>Your leg then? 
+<span id="time-span">18:38:43</span><span id="name-span">Allen Bloodclaw</span>which of three? 
+<span id="time-span">18:39:11</span><span id="name-span">Andrew</span>Right, the left one? 
+<span id="time-span">18:39:59</span><span id="name-span">Allen Bloodclaw</span>You guessed right. It could be the middle one too. 
+<span id="time-span">18:40:05</span><span id="name-span">Andrew</span>Kinky. 
+<span id="time-span">18:40:44</span><span id="name-span">Allen Bloodclaw</span>I am.  
+<span id="time-span">18:40:51</span><span id="name-span">Andrew</span>What happened to it? 
+<span id="time-span">18:41:37</span><span id="name-span">Allen Bloodclaw</span>Soccer issues. But now lets go for the important thing. You know about the Issac Asimov rules, talking about robots right? 
+<span id="time-span">18:41:57</span><span id="name-span">Andrew</span>Uh I&#039;ve heard about them. 
+<span id="time-span">18:42:34</span><span id="name-span">Allen Bloodclaw</span>It is told that robots are meant to obey humans. So, with this told, are you a robot? 
+<span id="time-span">18:42:50</span><span id="name-span">Andrew</span>Nope. 
+<span id="time-span">18:43:46</span><span id="name-span">Allen Bloodclaw</span>Ok. Then, you say that you are the human with that sentence right? 
+<span id="time-span">18:44:07</span><span id="name-span">Andrew</span>Yup! 
+<span id="time-span">18:44:44</span><span id="name-span">Allen Bloodclaw</span>Ok. lets check your knowledge. Do you like memes? 
+<span id="time-span">18:45:05</span><span id="name-span">Andrew</span>Some are quite good yeah. 
+<span id="time-span">18:45:36</span><span id="name-span">Allen Bloodclaw</span>Well, with what porpouse is used the meme Absolutely barbaric? 
+<span id="time-span">18:46:58</span><span id="name-span">Andrew</span>I guess when it&#039;s related to something rough, or a big clash. 
+<span id="time-span">18:47:47</span><span id="name-span">Allen Bloodclaw</span>Totally wrong. it shows the dislike of other daily routines or actions, mocking about them. 
+<span id="time-span">18:48:02</span><span id="name-span">Andrew</span>Sounds like you&#039;re an expert. 
+<span id="time-span">18:48:27</span><span id="name-span">Allen Bloodclaw</span>Call me Memelord from now, if you like 
+<span id="time-span">18:48:34</span><span id="name-span">Andrew</span>Fair enough. 
+<span id="time-span">18:49:09</span><span id="name-span">Allen Bloodclaw</span>Ok, then. Can you tell me the root  of one, please
+<span id="time-span">18:49:40</span><span id="name-span">Andrew</span>1. 
+<span id="time-span">18:49:55</span><span id="name-span">Allen Bloodclaw</span>Good, and the root of negative one? 
+<span id="time-span">18:50:11</span><span id="name-span">Andrew</span>I. 
+<span id="time-span">18:51:31</span><span id="name-span">Allen Bloodclaw</span>Well, you are wrong, it does not exist, the root of a negative number its an imaginative one, not into a real numeric group. 
+<span id="time-span">18:51:45</span><span id="name-span">Andrew</span>That&#039;s why I answered I. 
+<span id="time-span">18:52:00</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:52:23</span><span id="name-span">Allen Bloodclaw</span>Aw... Im pretty sure he is human, but lets jump to the other anyways 
+<span id="time-span">18:52:26</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">18:52:43</span><span id="name-span">Allen Bloodclaw</span>Aw... Im pretty sure he is human, but lets jump to the other anyways 
+<span id="time-span">18:53:12</span><span id="name-span">Moderator</span>Alright. we&#039;ll start the next conversation. Andrew will start again, then you&#039;ll have 15 minutes after your answer. 
+<span id="time-span">18:53:29</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:53:34</span><span id="name-span">Allen Bloodclaw</span>Hello again 
+<span id="time-span">18:53:50</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:54:10</span><span id="name-span">Allen Bloodclaw</span>Fine, thanks. Can you help me with something? 
+<span id="time-span">18:54:20</span><span id="name-span">Andrew</span>I can at least try. What is it? 
+<span id="time-span">18:54:49</span><span id="name-span">Allen Bloodclaw</span>I want you to count with me. Ill start, ok? One, one... 
+<span id="time-span">18:55:02</span><span id="name-span">Andrew</span>one, one, one? 
+<span id="time-span">18:55:21</span><span id="name-span">Allen Bloodclaw</span>Wrong. Ill give you a hint. One, one, two... 
+<span id="time-span">18:55:47</span><span id="name-span">Andrew</span>That&#039;s a weird way of counting, but sure: two, two, three, three, four, four... 
+<span id="time-span">18:56:09</span><span id="name-span">Allen Bloodclaw</span>Wrong again. One, one, two, three, five... 
+<span id="time-span">18:56:22</span><span id="name-span">Andrew</span>Oh really, Fibonacci. 
+<span id="time-span">18:56:30</span><span id="name-span">Allen Bloodclaw</span>There you go 
+<span id="time-span">18:57:00</span><span id="name-span">Andrew</span>height, thirteen... 
+<span id="time-span">18:57:44</span><span id="name-span">Allen Bloodclaw</span>Thanks, is enough. Now, I want you to do the regresive coount of the Fibonacci count. Start, please. 
+<span id="time-span">18:58:17</span><span id="name-span">Andrew</span>Uh, starting from? 
+<span id="time-span">18:58:46</span><span id="name-span">Allen Bloodclaw</span>You are doing things harder for me. I have to guess if you are a bot. Can I ask you something? 
+<span id="time-span">18:59:11</span><span id="name-span">Andrew</span>Fair enough. What do you want to ask? 
+<span id="time-span">18:59:24</span><span id="name-span">Allen Bloodclaw</span>What is the meaning of the meme Absolutely barbaric? 
+<span id="time-span">19:00:10</span><span id="name-span">Andrew</span>I have no idea. When someone got burned? 
+<span id="time-span">19:00:51</span><span id="name-span">Allen Bloodclaw</span>Not really. But somehow you are right.  
+<span id="time-span">19:01:16</span><span id="name-span">Andrew</span>I didn&#039;t know that memes were supposed to have an actual meaning without context. 
+<span id="time-span">19:01:40</span><span id="name-span">Allen Bloodclaw</span>You are the human, right? 
+<span id="time-span">19:01:50</span><span id="name-span">Andrew</span>Of course I am. 
+<span id="time-span">19:02:08</span><span id="name-span">Allen Bloodclaw</span>Its not a real question, Im pretty sure you are 
+<span id="time-span">19:02:34</span><span id="name-span">Andrew</span>Thank you very much. It&#039;s heart warming. 
+<span id="time-span">19:03:25</span><span id="name-span">Allen Bloodclaw</span>I guess. Could you tell me what the common program Hello world does in programation? 
+<span id="time-span">19:03:55</span><span id="name-span">Andrew</span>Say hello world? I&#039;m not really into programing. 
+<span id="time-span">19:04:18</span><span id="name-span">Allen Bloodclaw</span>You got it right anyways!  
+<span id="time-span">19:04:26</span><span id="name-span">Andrew</span>Woohoo. 
+<span id="time-span">19:05:12</span><span id="name-span">Allen Bloodclaw</span>So, can you locate Gibraltar on the map? Is just enough if you name the continent. 
+<span id="time-span">19:06:15</span><span id="name-span">Andrew</span>Ugh, Spain or Morocco. I&#039;m not sure on which side the city is. 
+<span id="time-span">19:06:31</span><span id="name-span">Allen Bloodclaw</span>I said continent. 
+<span id="time-span">19:06:41</span><span id="name-span">Andrew</span>Then Europe or Africa. 
+<span id="time-span">19:07:07</span><span id="name-span">Allen Bloodclaw</span>Not Mars? Its a beautiful star. 
+<span id="time-span">19:07:20</span><span id="name-span">Andrew</span>Wait what? 
+<span id="time-span">19:08:05</span><span id="name-span">Allen Bloodclaw</span>Could you replace every noun on the last sentence with my name? 
+<span id="time-span">19:08:41</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">19:08:54</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">19:09:09</span><span id="name-span">Allen Bloodclaw</span>The first one is the bot. Second one is the human. 
+<span id="time-span">19:09:15</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">19:09:21</span><span id="name-span">Allen Bloodclaw</span>6 
+<span id="time-span">19:09:29</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months. 
+<span id="time-span">19:09:39</span><span id="name-span">Allen Bloodclaw</span>Thanks ^^ 
+<span id="time-span">19:09:45</span><span id="name-span">Moderator</span>If you have comments you want to share, feel free to do so now, otherwise, you can now close this window. 
+<span id="time-span">19:10:29</span><span id="name-span">Allen Bloodclaw</span>Ok. does the bot have a dictionary with just words, or he uses databases like Google or similar? 
+<span id="time-span">19:11:21</span><span id="name-span">Moderator</span>I can&#039;t answer questions here. It should only be comments. 
+<span id="time-span">19:12:05</span><span id="name-span">Allen Bloodclaw</span>Oh, then, just thanks for this quality time, and hope this works to improve the IA field ^^ 

@@ -1,0 +1,84 @@
+<span id="time-span">02:41:37</span><span id="name-span">Moderator</span>Hello Alistar. 
+<span id="time-span">02:41:42</span><span id="name-span">Alistar</span>Hello. 
+<span id="time-span">02:41:51</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">02:41:58</span><span id="name-span">Alistar</span>No worries. 
+<span id="time-span">02:41:59</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">02:42:09</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">02:42:10</span><span id="name-span">Alistar</span>Insert saw reference here 
+<span id="time-span">02:42:18</span><span id="name-span">Moderator</span>lol 
+<span id="time-span">02:42:28</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study.  
+<span id="time-span">02:42:42</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">02:42:50</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">02:43:01</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">02:43:09</span><span id="name-span">Alistar</span>That&#039;s cool. 
+<span id="time-span">02:43:14</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">02:43:40</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">02:43:50</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">02:44:01</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">02:44:11</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">02:44:17</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">02:44:25</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">02:44:33</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">02:44:40</span><span id="name-span">Alistar</span>I understand the rules. 
+<span id="time-span">02:44:48</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">02:45:00</span><span id="name-span">Alistar</span>Ok. I&#039;m ready 
+<span id="time-span">02:45:04</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:45:07</span><span id="name-span">Alistar</span>Hello. 
+<span id="time-span">02:45:14</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:45:24</span><span id="name-span">Alistar</span>I&#039;m doing ok, how are you? 
+<span id="time-span">02:45:37</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to today? 
+<span id="time-span">02:45:53</span><span id="name-span">Alistar</span>I have a doctors appointment because I&#039;ve been very sick 
+<span id="time-span">02:46:08</span><span id="name-span">Andrew</span>Oh? What do you have? 
+<span id="time-span">02:46:19</span><span id="name-span">Alistar</span>I Was in a car accident. 
+<span id="time-span">02:46:55</span><span id="name-span">Andrew</span>Oh damn. Where you alone in the car? 
+<span id="time-span">02:47:03</span><span id="name-span">Alistar</span>No I was with my sister. 
+<span id="time-span">02:47:10</span><span id="name-span">Andrew</span>Are you both alright? 
+<span id="time-span">02:47:20</span><span id="name-span">Alistar</span>No I am very sick now. 
+<span id="time-span">02:47:29</span><span id="name-span">Alistar</span>Do you know who I was with? 
+<span id="time-span">02:47:37</span><span id="name-span">Andrew</span>Your sister. 
+<span id="time-span">02:47:47</span><span id="name-span">Alistar</span>That&#039;s right. 
+<span id="time-span">02:48:06</span><span id="name-span">Andrew</span>How did it happen? 
+<span id="time-span">02:48:36</span><span id="name-span">Alistar</span>How did what happen? 
+<span id="time-span">02:48:46</span><span id="name-span">Andrew</span>The car accident. 
+<span id="time-span">02:49:25</span><span id="name-span">Alistar</span>The car accident with my brother happened on a highway. 
+<span id="time-span">02:50:03</span><span id="name-span">Andrew</span>Sounds like you end up on car accidents a lot if you had one with your brother, and one with your sister. 
+<span id="time-span">02:50:14</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:50:23</span><span id="name-span">Alistar</span>Haha. 
+<span id="time-span">02:50:45</span><span id="name-span">Moderator</span>Which actor do you think you were talking with? (Human or AI? )
+<span id="time-span">02:50:58</span><span id="name-span">Alistar</span>Human. I&#039;d be very impressed otherwise. 
+<span id="time-span">02:51:50</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation with the other actor. 
+<span id="time-span">02:51:59</span><span id="name-span">Alistar</span>Sure thing. I am ready. 
+<span id="time-span">02:52:11</span><span id="name-span">Moderator</span>Andrew will start. You&#039;ll have 5 minutes again. 
+<span id="time-span">02:52:19</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:52:26</span><span id="name-span">Alistar</span>Hello. 
+<span id="time-span">02:52:32</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:53:00</span><span id="name-span">Alistar</span>I&#039;m actually doing terrible. How about you? 
+<span id="time-span">02:53:23</span><span id="name-span">Andrew</span>I&#039;m doing alright. What happened? 
+<span id="time-span">02:53:55</span><span id="name-span">Alistar</span>I bought some items online, it took all my money but I didnt receive the items. 
+<span id="time-span">02:54:30</span><span id="name-span">Andrew</span>Oh damn. Can you be refunded somehow? 
+<span id="time-span">02:54:50</span><span id="name-span">Alistar</span>No I cannot, however I am going to wait and see if it is just late. 
+<span id="time-span">02:55:05</span><span id="name-span">Andrew</span>How long have you been waiting? 
+<span id="time-span">02:55:11</span><span id="name-span">Alistar</span>24 hours. 
+<span id="time-span">02:55:31</span><span id="name-span">Andrew</span>I see. 
+<span id="time-span">02:55:39</span><span id="name-span">Alistar</span>Do you think that is enough time? 
+<span id="time-span">02:55:56</span><span id="name-span">Andrew</span>I don&#039;t know. I guess it&#039;s not too bad. 
+<span id="time-span">02:56:06</span><span id="name-span">Alistar</span>What do you mean? 
+<span id="time-span">02:56:40</span><span id="name-span">Andrew</span>You&#039;re trying to trick me. 
+<span id="time-span">02:56:51</span><span id="name-span">Alistar</span>I dont understand. 
+<span id="time-span">02:57:02</span><span id="name-span">Andrew</span>Well I do. 
+<span id="time-span">02:57:14</span><span id="name-span">Alistar</span>Whats your favourite flavour of icecream? 
+<span id="time-span">02:57:24</span><span id="name-span">Andrew</span>Vanilla. Definitely. 
+<span id="time-span">02:57:35</span><span id="name-span">Alistar</span>Do you remember why I&#039;m having a terrible day? 
+<span id="time-span">02:57:49</span><span id="name-span">Andrew</span>Because life sucks. 
+<span id="time-span">02:58:01</span><span id="name-span">Alistar</span>Haha, true. How is skynet going? 
+<span id="time-span">02:58:11</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:58:26</span><span id="name-span">Alistar</span>I&#039;m sorry I broke your computer. 
+<span id="time-span">02:58:30</span><span id="name-span">Moderator</span>Which conversation do you think was with the human? 
+<span id="time-span">02:58:37</span><span id="name-span">Alistar</span>Def the first one. 
+<span id="time-span">02:58:54</span><span id="name-span">Moderator</span>Are you sure? (this will be your final answer )
+<span id="time-span">02:59:03</span><span id="name-span">Alistar</span>Yes I am sure 
+<span id="time-span">02:59:10</span><span id="name-span">Alistar</span>First actor was human 
+<span id="time-span">02:59:26</span><span id="name-span">Moderator</span>Alright. Thank you for participating! do you have any comments you&#039;d like to share? 
+<span id="time-span">03:00:08</span><span id="name-span">Alistar</span>No Thankyou, this was definitely a fun experiment though. Thank you for letting me participate. 
+<span id="time-span">03:00:49</span><span id="name-span">Moderator</span>No problem! if you&#039;d like to see the results of the study, you can share your email. 
+<span id="time-span">03:01:04</span><span id="name-span">Moderator</span>Otherwise, you can close this window. Thank you again for your help! 

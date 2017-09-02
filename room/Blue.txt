@@ -1,0 +1,87 @@
+<span id="time-span">18:58:16</span><span id="name-span">Blue</span>Hi 
+<span id="time-span">18:58:54</span><span id="name-span">Moderator</span>Welcome Blue. 
+<span id="time-span">18:59:09</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:59:11</span><span id="name-span">Blue</span>Hi 
+<span id="time-span">18:59:13</span><span id="name-span">Blue</span>h 
+<span id="time-span">18:59:27</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:59:39</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:59:46</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:59:52</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:59:59</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">19:00:07</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">19:00:22</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">19:00:28</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">19:00:37</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">19:00:43</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">19:00:49</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">19:00:54</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">19:01:02</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">19:01:08</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">19:01:13</span><span id="name-span">Moderator</span>Do not type more than one post at a time. 
+<span id="time-span">19:01:20</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">19:01:37</span><span id="name-span">Blue</span>Yes 
+<span id="time-span">19:01:50</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">19:02:26</span><span id="name-span">Blue</span>Yes 
+<span id="time-span">19:02:35</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">19:02:38</span><span id="name-span">Blue</span>Hi 
+<span id="time-span">19:02:43</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">19:02:54</span><span id="name-span">Blue</span>Good, you? 
+<span id="time-span">19:03:06</span><span id="name-span">Andrew</span>I&#039;m doing alright thanks! What are you up to? 
+<span id="time-span">19:03:17</span><span id="name-span">Blue</span>Im on f-list, heard of it? 
+<span id="time-span">19:03:31</span><span id="name-span">Andrew</span>Not really no. What is it? 
+<span id="time-span">19:04:14</span><span id="name-span">Blue</span>It&#039;s a roleplaying site 
+<span id="time-span">19:04:29</span><span id="name-span">Andrew</span>Oh nice! Like D&amp;D? 
+<span id="time-span">19:04:52</span><span id="name-span">Blue</span>Kinda yea 
+<span id="time-span">19:05:03</span><span id="name-span">Blue</span>But its for like kinky things 
+<span id="time-span">19:05:15</span><span id="name-span">Moderator</span>Please avoid Double Posts. 
+<span id="time-span">19:05:23</span><span id="name-span">Blue</span>Sorry 
+<span id="time-span">19:05:36</span><span id="name-span">Andrew</span>Oh ok. Kinky can be nice. 
+<span id="time-span">19:06:07</span><span id="name-span">Blue</span>You kinky in any way? 
+<span id="time-span">19:06:23</span><span id="name-span">Andrew</span>I&#039;m sure anyone is to some extent. 
+<span id="time-span">19:06:47</span><span id="name-span">Blue</span>You mind sharing? Ill share one of mine if you share one. 
+<span id="time-span">19:07:02</span><span id="name-span">Andrew</span>I&#039;d prefer not to. 
+<span id="time-span">19:07:27</span><span id="name-span">Blue</span>Aww hehe come on  
+<span id="time-span">19:07:50</span><span id="name-span">Andrew</span>No thank you. What are you up to tonight? 
+<span id="time-span">19:08:01</span><span id="name-span">Blue</span>Nothing much really 
+<span id="time-span">19:08:46</span><span id="name-span">Blue</span>Stop 
+<span id="time-span">19:08:46</span><span id="name-span">Andrew</span>Do you play video games? 
+<span id="time-span">19:08:53</span><span id="name-span">Moderator</span>Conversation Interrupted. 
+<span id="time-span">19:09:07</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">19:09:15</span><span id="name-span">Blue</span>Human. 
+<span id="time-span">19:09:44</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">19:09:49</span><span id="name-span">Blue</span>Yes 
+<span id="time-span">19:09:57</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">19:10:06</span><span id="name-span">Blue</span>Hi 
+<span id="time-span">19:10:13</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">19:10:23</span><span id="name-span">Blue</span>I&#039;m good thanks, you? 
+<span id="time-span">19:10:33</span><span id="name-span">Andrew</span>I&#039;m doing alright. 
+<span id="time-span">19:10:44</span><span id="name-span">Blue</span>What are you doing? 
+<span id="time-span">19:10:59</span><span id="name-span">Andrew</span>Not much. Playing Minecraft. 
+<span id="time-span">19:11:12</span><span id="name-span">Blue</span>Thats cool. 
+<span id="time-span">19:11:23</span><span id="name-span">Andrew</span>You play it? 
+<span id="time-span">19:12:04</span><span id="name-span">Blue</span>Yea 
+<span id="time-span">19:12:27</span><span id="name-span">Andrew</span>Single player or online? 
+<span id="time-span">19:12:37</span><span id="name-span">Blue</span>Online 
+<span id="time-span">19:12:56</span><span id="name-span">Andrew</span>Nice! What kind of server? 
+<span id="time-span">19:13:17</span><span id="name-span">Blue</span>Roleplay 
+<span id="time-span">19:13:30</span><span id="name-span">Andrew</span>That&#039;s cool. 
+<span id="time-span">19:13:49</span><span id="name-span">Blue</span>Im on a website called f-list, heard of it? 
+<span id="time-span">19:13:57</span><span id="name-span">Andrew</span>Not really no. 
+<span id="time-span">19:14:57</span><span id="name-span">Blue</span>Its a roleplaying fetish site 
+<span id="time-span">19:15:12</span><span id="name-span">Andrew</span>Kinky! 
+<span id="time-span">19:15:56</span><span id="name-span">Blue</span>You got any kinks? 
+<span id="time-span">19:16:16</span><span id="name-span">Andrew</span>Yeah I guess. 
+<span id="time-span">19:16:38</span><span id="name-span">Blue</span>Ill tell you one of mine if you tell me one of yours 
+<span id="time-span">19:16:51</span><span id="name-span">Andrew</span>Nah thanks. 
+<span id="time-span">19:17:55</span><span id="name-span">Blue</span>aww 
+<span id="time-span">19:18:27</span><span id="name-span">Andrew</span>Sorry. 
+<span id="time-span">19:18:46</span><span id="name-span">Blue</span>its ok 
+<span id="time-span">19:19:12</span><span id="name-span">Andrew</span>What are you going to do this evening? 
+<span id="time-span">19:19:18</span><span id="name-span">Blue</span>stop 
+<span id="time-span">19:19:28</span><span id="name-span">Moderator</span>Conversation Interrupted! 
+<span id="time-span">19:19:38</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">19:19:48</span><span id="name-span">Blue</span>AI 
+<span id="time-span">19:19:56</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">19:20:25</span><span id="name-span">Blue</span>7 
+<span id="time-span">19:20:47</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">19:21:16</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do it now. Otherwise, you can now close this window. 

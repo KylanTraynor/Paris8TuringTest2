@@ -1,0 +1,111 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Zyran,0,0,"Ehm ",4,
+Moderator,5,5,"Welcome Zyran. ",15,
+Moderator,10,5,"Thank you for participating in this study. ",43,
+Moderator,45,35,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,52,7,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,63,11,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,70,7,"You&#039;ll be talking to him twice. ",37,
+Moderator,80,10,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,90,10,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,96,6,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,103,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,111,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,119,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,129,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,137,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,144,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,155,11,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,162,7,"Do not type more than one post per answer. ",43,
+Moderator,169,7,"Do you understand the rules and what you have to do? ",53,
+Zyran,175,6,"I guess so.  ",13,
+Moderator,183,8,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Zyran,190,7,"Yep ",4,
+Andrew,201,11,"Hello! ",7,
+Zyran,207,6,"Hi ",3,1
+Andrew,214,7,"How are you doing? ",19,1
+Zyran,234,20,"I&#039;m good :-) Who is supposed to be leading the conversation during this test? :-)  ",88,1
+Moderator,249,15,"[Please don&#039;t use smileys] ",32,1
+Andrew,273,24,"Well, no one has to lead actually. We can just chat. ",53,1
+Zyran,295,22,"Okay, then. And how are you doing?  ",36,1
+Andrew,315,20,"I&#039;m doing quite alright thanks! What about you? ",53,1
+Zyran,338,23,"As I&#039;ve said, I&#039;m good.  ",35,1
+Andrew,365,27,"Oh yeah sorry I got distracted. What&#039;s up though? ",55,1
+Zyran,403,38,"Nothing much, my brother sent this to me like 5 minutes ago. Guess I&#039;m just killing my time here.  ",104,1
+Andrew,424,21,"Ah I see. You you play video games? ",36,1
+Zyran,449,25,"I do, name me a few that you&#039;ve played lately, if you do too . ",68,1
+Andrew,496,47,"Lately I&#039;ve been playing a lot of Mass Effect. I mostly play Minecraft. ",77,1
+Zyran,536,40,"Yeah, I&#039;ve already played through the whole new Mass Effect that just came out. I&#039;m a videogame reviewer.  ",117,1
+Andrew,590,54,"What did you think about it? And that&#039;s quite cool. ",57,1
+Zyran,645,55,"Not bad, not awesome. Gave it 7/10. Slighty above average.  ",60,1
+Andrew,699,54,"It&#039;s always hard to start a new series. I think it&#039;s not a bad start to a new trilogy to be honest. ",110,1
+Zyran,763,64,"Yeah, the ending talked to me into giving it a 7. Otherwise, I&#039;d just give it a 6. What time did we start this test, do you know?  ",136,1
+Andrew,797,34,"No I have no idea sorry. What did you like about the ending? ",61,1
+Zyran,898,101,"The atmosphere. But let&#039;s change the subject. I wanna know if you&#039;re a bot or a human actually.  ",107,1
+Andrew,920,22,"I&#039;m a human obviously. ",28,1
+Zyran,939,19,"That&#039;s what a robot would say, as well.  ",46,1
+Andrew,968,29,"It would be dumb to say that I&#039;m a bot though. But probably yes. ",70,1
+Zyran,1019,51,"Unless you were a human and you would want to confuse me. That way you would say that you are a bot.  ",102,1
+Andrew,1059,40,"I&#039;m supposed to convince you that I&#039;m the human, not confuse you. Mind you the bot would say the same since we have the same goal. ",141,1
+Moderator,1076,17,"Time is up! ",12,
+Moderator,1089,13,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Zyran,1127,38,"Human ",6,
+Moderator,1133,6,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Zyran,1147,14,"Yes ",4,
+Andrew,1154,7,"Hello! ",7,
+Zyran,1172,18,"Oh you again!  ",15,2
+Andrew,1187,15,"I could say the same! ",22,2
+Zyran,1209,22,"And you can!  ",14,2
+Andrew,1220,11,"How are you? ",13,2
+Zyran,1240,20,"Crap, ruined the joke... I&#039;m doing alright, how about you?  ",65,2
+Andrew,1290,50,"I&#039;m quite alright! What joke did you have planned though? ",63,2
+Zyran,1334,44,"Nevermind. So, if there are actual humans in this test. How many of actual real beings are there?  ",99,2
+Andrew,1363,29,"Technically there&#039;s 3. You, me and the moderator. ",55,2
+Zyran,1422,59,"I know, but there obviously has to be a team of people. If one Andrew is supposed to be a real human, then there has to be a lot of people taking shifts for the real Andrew.  ",175,2
+Andrew,1494,72,"Nope, I&#039;m actually the only Andrew around. No replacements. ",65,2
+Zyran,1578,84,"And how many people are acting as the real Andrew? If we put aside our little conversation here, I&#039;m just curious about the project.  ",139,2
+Andrew,1623,45,"Well I just told you. I&#039;m the only one. ",45,2
+Zyran,1694,71,"And if, for example, 5 other people would be taking the test and they just finished talking to the robot Andrew, they are supposed to wait in line for the real one?  ",166,2
+Andrew,1722,28,"Yes. That&#039;s why we&#039;re only having one person at a time. ",66,2
+Zyran,1737,15,"Oh I didn&#039;t know that.  ",29,2
+Andrew,1752,15,"Well now you do. ",17,2
+Zyran,1768,16,"How long are you doing this?  ",30,2
+Andrew,1809,41,"Until we&#039;ve got enough data. I&#039;m not sure yet how long it will take. ",79,2
+Zyran,1847,38,"Is this well-knows, this project? Never heard of it.  ",54,2
+Andrew,1873,26,"Wait what? ",11,2
+Zyran,1912,39,"Yeah, my brother sent this to me, but I&#039;ve never heard of it before.  ",75,2
+Andrew,1925,13,"Why would you have heard of it? ",32,2
+Zyran,2012,87,"So are you surprised I haven&#039;t heard of it or surprised that I thought I should have heard of it?  ",104,2
+Andrew,2058,46,"No I misunderstood your first question. I now understand that you meant well known. And no it&#039;s not public, so there is no way you would have heard about it. ",163,2
+Moderator,2078,20,"Time is up! ",12,
+Moderator,2093,15,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Zyran,2096,3,"Robot ",6,
+Zyran,2101,5,"wait ",5,
+Zyran,2111,10,"First conversation - human ",27,
+Moderator,2116,5,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Zyran,2156,40,"Can I remake my answer? ",24,
+Moderator,2162,6,"Yes ",4,
+Zyran,2173,11,"Human (first conversation) ",27,
+Moderator,2182,9,"I understood that yes. ",23,
+Zyran,2194,12,"6 ",2,
+Moderator,2203,9,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2219,16,"If you have comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",112,
+Zyran,2288,69,"When am I gonna know who was the robot ? In those coming months? ",65,
+Moderator,2313,25,"You can know now if you have no comment, or after your comments. ",65,
+Zyran,2331,18,"Ok, I&#039;d like to know.  ",28,
+Moderator,2343,12,"The human was the second one. ",30,
+Zyran,2357,14,"Wow ",4,
+Zyran,2396,39,"Ok then, goodbye and good luck with the project ",48,
+Moderator,2415,19,"Thank you very much! Good bye and good luck with yours. ",56,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,852,886,,,
+User Average,38.6666666666667,42.75,,,
+Actor Average,31.5833333333333,32.5833333333333,,,
+User Average (5min),22.3333333333333,32.6,,,
+Actor Average (5min),24.3333333333333,26.25,,,
+User CharLength,75.1666666666667,80.4166666666667,,,
+Actor CharLength,63.3333333333333,52.5833333333333,,,
+User CharLength (5min),55.6666666666667,73.6,,,
+Actor CharLength (5min),48.8333333333333,38.25,,,

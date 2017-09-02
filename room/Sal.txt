@@ -1,0 +1,89 @@
+<span id="time-span">20:35:38</span><span id="name-span">Moderator</span>Hello Sal. 
+<span id="time-span">20:35:45</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">20:35:54</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">20:36:53</span><span id="name-span">Sal</span>I read you. 
+<span id="time-span">20:37:13</span><span id="name-span">Moderator</span>Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">20:37:19</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">20:37:28</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">20:37:37</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">20:37:45</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">20:37:51</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">20:37:58</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">20:38:08</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">20:38:14</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">20:38:20</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">20:38:30</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">20:38:39</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">20:38:46</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">20:38:54</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">20:39:00</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">20:39:06</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">20:41:46</span><span id="name-span">Sal</span>More than one post per answer meaning one post, than wait, then after the human/ai has replied you may write again, but not before that? 
+<span id="time-span">20:42:00</span><span id="name-span">Moderator</span>Precisely yes. 
+<span id="time-span">20:42:07</span><span id="name-span">Moderator</span>They will respect the same rule. 
+<span id="time-span">20:42:31</span><span id="name-span">Sal</span>Alright, then all is clear. 
+<span id="time-span">20:42:38</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">20:42:49</span><span id="name-span">Sal</span>I am ready. 
+<span id="time-span">20:42:53</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">20:43:02</span><span id="name-span">Sal</span>Evening. 
+<span id="time-span">20:43:32</span><span id="name-span">Andrew</span>How are you? Not evening yet for me. 
+<span id="time-span">20:44:15</span><span id="name-span">Sal</span>I&#039;m doing alright thank you very much.  May I ask how old you are?
+<span id="time-span">20:44:42</span><span id="name-span">Andrew</span>I&#039;m 21, sure. 
+<span id="time-span">20:46:25</span><span id="name-span">Sal</span>I see. And how are you doing this day? I am guessing that you might perhaps be from the Americas. 
+<span id="time-span">20:47:08</span><span id="name-span">Andrew</span>I&#039;m from Canada actually yeah. I&#039;m doing quite alright! 
+<span id="time-span">20:47:40</span><span id="name-span">Sal</span>Any hobbies? 
+<span id="time-span">20:48:16</span><span id="name-span">Andrew</span>What about you? I love video games, especially Minecraft. 
+<span id="time-span">20:49:39</span><span id="name-span">Sal</span>Minecraft I see, have you played that for long?  
+<span id="time-span">20:49:49</span><span id="name-span">Andrew</span>A couple of years now. 
+<span id="time-span">20:51:01</span><span id="name-span">Sal</span>Going back, yeah, I quite like video games as well. Mostly strategy games and rpgs at this point, though I have been playing a lot of different games over the year. 
+<span id="time-span">20:51:58</span><span id="name-span">Andrew</span>I played the last Mass Effect lately. I quite like those too yes. 
+<span id="time-span">20:52:26</span><span id="name-span">Sal</span>They fixed that at all? 
+<span id="time-span">20:53:02</span><span id="name-span">Andrew</span>More fixes are coming soon, but to some extent yes. 
+<span id="time-span">20:53:36</span><span id="name-span">Sal</span>Fair enough. What namely? 
+<span id="time-span">20:54:00</span><span id="name-span">Andrew</span>They said they&#039;d add more option to the character creator. 
+<span id="time-span">20:54:40</span><span id="name-span">Sal</span>Right, but what had they already fixed? 
+<span id="time-span">20:55:10</span><span id="name-span">Andrew</span>Mostly the eyes and faces which looked really creepy before. 
+<span id="time-span">20:55:40</span><span id="name-span">Sal</span>Cool. 
+<span id="time-span">20:55:58</span><span id="name-span">Andrew</span>Do you like Mass Effect? 
+<span id="time-span">20:56:08</span><span id="name-span">Sal</span>Never played it. 
+<span id="time-span">20:56:25</span><span id="name-span">Andrew</span>The whole thing is quite fun. You should give it a try. 
+<span id="time-span">20:57:17</span><span id="name-span">Sal</span>[STOP] 
+<span id="time-span">20:57:29</span><span id="name-span">Moderator</span>Conversation Interrupted! 
+<span id="time-span">20:57:44</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">20:59:13</span><span id="name-span">Sal</span>I can&#039;t talk to the other one first?  
+<span id="time-span">20:59:37</span><span id="name-span">Moderator</span>You have to give an answer first, it&#039;s not your final answer though. 
+<span id="time-span">21:00:12</span><span id="name-span">Sal</span>Tough call. Leaning towards AI though. 
+<span id="time-span">21:00:26</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">21:00:36</span><span id="name-span">Sal</span>I&#039;m ready. 
+<span id="time-span">21:00:43</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:00:49</span><span id="name-span">Sal</span>&#039;sup. 
+<span id="time-span">21:01:19</span><span id="name-span">Andrew</span>Hey! What are you up to? 
+<span id="time-span">21:01:50</span><span id="name-span">Sal</span>Nothing much, talking to you more or less. 
+<span id="time-span">21:02:30</span><span id="name-span">Andrew</span>Alright then. How are you doing today? 
+<span id="time-span">21:03:29</span><span id="name-span">Sal</span>I&#039;m doing alright. How about you? 
+<span id="time-span">21:03:49</span><span id="name-span">Andrew</span>I&#039;m quite alright thanks! 
+<span id="time-span">21:04:39</span><span id="name-span">Sal</span>Very good. May I ask you how old you are? I&#039;m also happy you are doing well this evening. 
+<span id="time-span">21:05:20</span><span id="name-span">Andrew</span>It&#039;s only 3pm for me actually. And I&#039;m 21, what about you? 
+<span id="time-span">21:07:06</span><span id="name-span">Sal</span>I&#039;m 24.  
+<span id="time-span">21:07:20</span><span id="name-span">Andrew</span>Oh cool! Are you a student? 
+<span id="time-span">21:08:20</span><span id="name-span">Sal</span>Sure thing. I study energy technology. How about you, what are you doing right now ?
+<span id="time-span">21:08:59</span><span id="name-span">Andrew</span>I study Biology, it&#039;s my 3rd year of undergrad. 
+<span id="time-span">21:10:15</span><span id="name-span">Sal</span>That&#039;s pretty cool. Any particular major/minor? 
+<span id="time-span">21:10:39</span><span id="name-span">Andrew</span>Neurobiology yeah. 
+<span id="time-span">21:12:54</span><span id="name-span">Sal</span>Very exciting subject.  You do anything else?
+<span id="time-span">21:13:14</span><span id="name-span">Andrew</span>Other than college? I play video games a lot. 
+<span id="time-span">21:14:15</span><span id="name-span">Sal</span>I see. Any particular games? 
+<span id="time-span">21:14:41</span><span id="name-span">Andrew</span>I spend way too much time playing Minecraft, and I finished Mass Effect a little while ago now. 
+<span id="time-span">21:15:50</span><span id="name-span">Sal</span>I see. Did they fix that one? 
+<span id="time-span">21:15:56</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">21:16:07</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">21:17:16</span><span id="name-span">Sal</span>Oh, time&#039;s up already? I still say first is ai, sec ond is a human. But not by much.
+<span id="time-span">21:17:24</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">21:17:52</span><span id="name-span">Sal</span>4 
+<span id="time-span">21:18:04</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">21:18:11</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 
+<span id="time-span">21:19:37</span><span id="name-span">Sal</span>One comment; I probably should have steered myself into more difficult territory. I suspect that your ai knows the subjects we were talking about quite well.  
+<span id="time-span">21:20:56</span><span id="name-span">Moderator</span>What made you choose the first conversation as the AI? 
+<span id="time-span">21:25:59</span><span id="name-span">Sal</span>Some bits of odd wording. Like &quot;I&#039;m 21, sure.&quot; I am assuming human makes less odd phrasing like that. The second conversation also asked for clarification, asking &quot;O ther than college?&quot;
+<span id="time-span">21:26:35</span><span id="name-span">Moderator</span>I see. Thank you for your comments! 
+<span id="time-span">02:05:12</span><span id="name-span">Moderator</span>test 

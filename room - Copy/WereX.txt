@@ -1,0 +1,84 @@
+<span id="time-span">04:51:08</span><span id="name-span">Moderator</span>Hello WereX. 
+<span id="time-span">04:51:26</span><span id="name-span">WereX</span>That is my name. What can i be of assistance with? 
+<span id="time-span">04:51:41</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">04:51:48</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">04:52:05</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">04:52:22</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">04:52:38</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">04:52:48</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">04:52:57</span><span id="name-span">WereX</span>Alright. 
+<span id="time-span">04:53:07</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">04:53:22</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">04:53:34</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">04:53:44</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">04:53:56</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">04:54:09</span><span id="name-span">WereX</span>And i am to find out which is the bot and which is not. 
+<span id="time-span">04:54:13</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">04:54:18</span><span id="name-span">Moderator</span>Yes 
+<span id="time-span">04:54:28</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">04:54:35</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">04:54:49</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">04:54:53</span><span id="name-span">WereX</span>Aye. 
+<span id="time-span">04:55:02</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">04:55:16</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">04:55:25</span><span id="name-span">WereX</span>Good afternoon. 
+<span id="time-span">04:55:37</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">04:55:55</span><span id="name-span">WereX</span>It is 10 pm at night and i am sleepy. Though, i am alive.  
+<span id="time-span">04:56:09</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to this afternoon? 
+<span id="time-span">04:56:19</span><span id="name-span">WereX</span>Where do you live that it is afternoon? 
+<span id="time-span">04:56:43</span><span id="name-span">Andrew</span>I&#039;m probably going to be off to bed soon as well. 
+<span id="time-span">04:57:06</span><span id="name-span">WereX</span>Oh, what time do you get up in the morning? 
+<span id="time-span">04:57:57</span><span id="name-span">Andrew</span>I was just assuming it was afternoon for you at first. 
+<span id="time-span">04:58:51</span><span id="name-span">WereX</span>Interesting, when i mention 10 pm at night. That is hardly afternoon, now is it? It is nearly 11 pm now and i am in Elite Dangerous playing a game atm. Do you know anything of it? 
+<span id="time-span">04:59:20</span><span id="name-span">Andrew</span>I don&#039;t think so. 
+<span id="time-span">04:59:48</span><span id="name-span">WereX</span>Would you care to know anything of this game? Or would you care to talk of something else? 
+<span id="time-span">04:59:59</span><span id="name-span">Andrew</span>Sorry i&#039;m a bit confused right now. 
+<span id="time-span">05:00:11</span><span id="name-span">WereX</span>Confused over what? 
+<span id="time-span">05:00:33</span><span id="name-span">Andrew</span>But yes, what is that game about? 
+<span id="time-span">05:00:40</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">05:01:05</span><span id="name-span">WereX</span>Standing by for Andrew # 2. 
+<span id="time-span">05:01:09</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? The human or the AI? (This is not your final answer )
+<span id="time-span">05:01:14</span><span id="name-span">WereX</span>AI 
+<span id="time-span">05:01:53</span><span id="name-span">Moderator</span>Alright. The next conversation is about to start. Andrew will begin, and you&#039;ll have 5 minutes again. 
+<span id="time-span">05:01:57</span><span id="name-span">WereX</span>Standing by. 
+<span id="time-span">05:02:05</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">05:02:26</span><span id="name-span">WereX</span>Good Evening Mr. Andrew. 
+<span id="time-span">05:02:41</span><span id="name-span">Andrew</span>Good evening to you too. 
+<span id="time-span">05:02:51</span><span id="name-span">WereX</span>Anything new from your day? 
+<span id="time-span">05:03:13</span><span id="name-span">Andrew</span>Not much really. Just watching some videos on youtube. 
+<span id="time-span">05:03:22</span><span id="name-span">WereX</span>What videos are they? Can you show me any? 
+<span id="time-span">05:03:57</span><span id="name-span">Andrew</span>Game of Thrones theories. They help me wait for the next season. 
+<span id="time-span">05:04:06</span><span id="name-span">WereX</span>They? 
+<span id="time-span">05:04:09</span><span id="name-span">WereX</span>Whom are &#039;they? 
+<span id="time-span">05:04:12</span><span id="name-span">Andrew</span>The videos. 
+<span id="time-span">05:04:23</span><span id="name-span">WereX</span>What season is next? 
+<span id="time-span">05:04:28</span><span id="name-span">Andrew</span>Season 7 
+<span id="time-span">05:04:44</span><span id="name-span">WereX</span>What is it be about even? 
+<span id="time-span">05:05:18</span><span id="name-span">Andrew</span>Game of Thrones? It&#039;s kind of complex, but basically it&#039;s about families trying to gain power, and surviving other families. 
+<span id="time-span">05:05:32</span><span id="name-span">WereX</span>That sounds harsh, but sounds right. Who is the main actor? 
+<span id="time-span">05:05:51</span><span id="name-span">Andrew</span>The one that gets his head chopped. 
+<span id="time-span">05:06:02</span><span id="name-span">WereX</span>Then he isnt the main actor anymore if he is dead! 
+<span id="time-span">05:06:14</span><span id="name-span">Andrew</span>Indeed, but everyone thought he was. 
+<span id="time-span">05:06:21</span><span id="name-span">WereX</span>He survived being chopped? 
+<span id="time-span">05:06:31</span><span id="name-span">Andrew</span>No. He&#039;s dead and gone. 
+<span id="time-span">05:06:41</span><span id="name-span">WereX</span>Then how did everyone &quot;think&quot; he was? 
+<span id="time-span">05:06:57</span><span id="name-span">Andrew</span>Because there are no actual main characters in this show. 
+<span id="time-span">05:07:14</span><span id="name-span">WereX</span>Oh. How much time do have have left i wonder? 
+<span id="time-span">05:07:26</span><span id="name-span">Andrew</span>What do you mean? 
+<span id="time-span">05:07:34</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">05:07:59</span><span id="name-span">Moderator</span>Which of the two conversations do you think was with the human? 
+<span id="time-span">05:08:38</span><span id="name-span">WereX</span>Second. Though, my thought is both cognative and reasoned. Becasue something more connected between the two real or fake persons typing. Something on a mental level we both can relate to.  
+<span id="time-span">05:08:48</span><span id="name-span">WereX</span>The first seems like a bot because it was less connected and more drab/dry. 
+<span id="time-span">05:09:06</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer )
+<span id="time-span">05:09:10</span><span id="name-span">WereX</span>Stand by. 
+<span id="time-span">05:09:24</span><span id="name-span">Moderator</span>Alright. Do you have any comments to share? 
+<span id="time-span">05:10:17</span><span id="name-span">WereX</span>I do. The first convo i think was a bot. I asked a question, and he or she skipped it without thinking and used previous words &quot;sleepy&quot; &quot;night&quot; and &quot;10 pm&quot; to indicate &quot;bed&quot; 
+<span id="time-span">05:10:40</span><span id="name-span">WereX</span>Then when i asked What time to get up in the morning, it was skipped over and referenced two statements from above, breaking the conversation flow. 
+<span id="time-span">05:11:22</span><span id="name-span">WereX</span>The second is human (seems) so due to the connection about youtube. Which we all do. And related to something we all have seen or watched. 
+<span id="time-span">05:11:50</span><span id="name-span">WereX</span>Second was NOT broken in the flow of conversation once so ever. 
+<span id="time-span">05:11:57</span><span id="name-span">Moderator</span>This is noted. Thank you very much for participating! If you&#039;d like to receive the results of this study when they are ready, you can share your e-mail address if you didn&#039;t in the form. 
+<span id="time-span">05:12:09</span><span id="name-span">WereX</span>I DO wish to know which was which, if you do not mind? 
+<span id="time-span">05:12:18</span><span id="name-span">Moderator</span>You were right. 
+<span id="time-span">05:12:34</span><span id="name-span">WereX</span>Thank you. I hope that did help you with your tweaking. 
+<span id="time-span">05:12:51</span><span id="name-span">WereX</span>May i close this window nowq? 
+<span id="time-span">05:12:54</span><span id="name-span">Moderator</span>Definitely. You can now close this window. Thank you again! 

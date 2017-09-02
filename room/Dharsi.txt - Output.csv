@@ -1,0 +1,97 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Dharsi. ",14,
+Dharsi,14,14,"Hello ",6,
+Moderator,21,7,"Thank you for participating in this study. ",43,
+Moderator,31,10,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,43,12,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,59,16,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,72,13,"You&#039;ll be talking to him twice. ",37,
+Moderator,85,13,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,94,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,109,15,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,121,12,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,130,9,"You will not be talking twice with the same Actor. ",51,
+Moderator,144,14,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,156,12,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,168,12,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,183,15,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,194,11,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,201,7,"Do not type more than one post per answer. ",43,
+Moderator,209,8,"Do you understand the rules and what you have to do? ",53,
+Dharsi,217,8,"Yes ",4,
+Moderator,230,13,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. ",87,
+Andrew,246,16,"Hello! ",7,
+Dharsi,261,15,"Good afternoon! How is it going? ",33,1
+Andrew,281,20,"It&#039;s going alright. How is it going for you? ",50,1
+Dharsi,312,31,"I am doing good as well. It&#039;s nice to be on break. ",56,1
+Andrew,335,23,"Break from school? ",19,1
+Dharsi,371,36,"Yes, I&#039;m studying Computer Science. Which is why this study picked my interest. What about you? ",101,1
+Andrew,406,35,"I study biology actually. I&#039;m on my 3rd year. ",51,1
+Dharsi,463,57,"That&#039;s an interesting field. One I couldn&#039;t wrap my head around in high school, but hey, to each their own, I guess. What do you plan on doing with these studies? ",173,1
+Andrew,551,88,"I want to learn more about the brain, the way it works, how and why. I&#039;m mostly interested in neurology. ",110,1
+Dharsi,584,33,"Whoa, that&#039;s, like, one of the most complicated fields of study. Props to you. ",84,1
+Andrew,615,31,"Thank you! What about you? ",27,1
+Dharsi,658,43,"What do you mean? ",18,1
+Andrew,684,26,"I mean, what do you do? ",24,1
+Dharsi,737,53,"Well, for now my studies are mostly about maths, with little actual computing, but that will change. ",101,1
+Andrew,797,60,"Maths have never been my forte... What kind of computing would you like to do? Making programs? AI? ",100,1
+Dharsi,843,46,"I&#039;m hesitating between software development and networking. Although there are other fields that might interest me later on. ",130,1
+Andrew,897,54,"Games maybe? ",13,1
+Dharsi,961,64,"That probably counts as software development, as games are, after all, software. No, I was talking about R&amp;D, AI, Modeling, and the Internet of objects. ",157,1
+Andrew,998,37,"Internet of objects like, internet for printers, watches and all that? ",71,1
+Dharsi,1031,33,"Yeah, connected devices. That&#039;s a field that&#039;s about to blow up in the near future, I guarantee it. ",110,1
+Andrew,1063,32,"I heard it would yes! ",22,1
+Dharsi,1130,67,"Now, there&#039;s something I wanted to mention: this site looks very... French. The University of Paris, Baptiste Jacquet... Can you speak French? ",148,1
+Andrew,1151,21,"Nah I&#039;m Canadian. I&#039;m sure the host could though. ",60,1
+Moderator,1169,18,"Time is up! ",12,
+Moderator,1189,20,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Dharsi,1212,23,"Is it possible to speak to both actors before giving my answer? ",64,
+Moderator,1242,30,"It&#039;s only a temporary answer. You&#039;ll be asked again after the second conversation. ",93,
+Dharsi,1289,47,"Very well. While I am not certain, some things point to this actor being a human. ",82,
+Moderator,1331,42,"Alright. The second conversation will begin. Andrew will start, and you&#039;ll have 15 minutes again after your answer. ",121,
+Andrew,1345,14,"Hello! ",7,
+Dharsi,1356,11,"Hello Andrew! ",14,2
+Andrew,1366,10,"How are you doing? ",19,2
+Dharsi,1389,23,"I&#039;m doing well. Slow, but enjoyable day. What about you? ",62,2
+Andrew,1409,20,"Pretty much the same actually. Still early though. ",51,2
+Dharsi,1428,19,"Oh, what time is it? ",21,2
+Andrew,1455,27,"It&#039;s 9:14 AM. What time is it for you? ",44,2
+Dharsi,1498,43,"It is 3:15 PM. I&#039;m guessing you live in North America? ",60,2
+Andrew,1519,21,"Yeah I&#039;m Canadian. I live in London right now. ",52,2
+Dharsi,1575,56,"I&#039;m sorry, but I didn&#039;t get that. You&#039;re not in London right now, or else it would be 2 PM, right? ",114,2
+Andrew,1613,38,"It&#039;s London, Ontario. In north America settlers had creative names. Paris is about 2 hours away in car. ",109,2
+Dharsi,1650,37,"Oh, right. I forgot about this. And I&#039;ve been to Canada, I&#039;ve even seen a road sign leading to London, I should have remembered. ",139,2
+Andrew,1671,21,"No worries, it&#039;s not really a big city. ",45,2
+Dharsi,1715,44,"Anyway, what are you up to today? ",34,2
+Andrew,1751,36,"Not much. Probably just going to take a shower and watch some TV, or play games. ",81,2
+Dharsi,1779,28,"Ooh, that&#039;s interesting. What kind of games do you play? ",62,2
+Andrew,1811,32,"Mostly Minecraft. I&#039;ve played Mass Effect Andromeda for most of the last week though. ",91,2
+Dharsi,1865,54,"Whoa, these are two very different games. You still play Minecraft, after all those years? ",91,2
+Andrew,1916,51,"To be fair I&#039;ve started late. I actually own a server, so my interest in it remains high. The game on its own gets pretty boring. ",135,2
+Dharsi,1953,37,"I get that. There&#039;s only so much time I could spend on the game before getting bored of it. What&#039;s your server? ",122,2
+Andrew,2016,63,"It&#039;s a mix between multiple things. Trying to keep medieval/fantasy themed, but also trying to mix aspects of other games like SimCity and Civilization. ",158,2
+Dharsi,2068,52,"SimCity and Civ? In Minecraft? I&#039;m having trouble picturing the two mechanics together. Can you give me the name of the server? I have two friends who would love to check it out. ",184,2
+Andrew,2128,60,"It&#039;s called Project Mango, it&#039;s still in development though. Basically it&#039;s meant to encourage building cities and empires. Mixing micro and macro management. ",174,2
+Dharsi,2175,47,"This seems so deep and rich. It might even get me back into the game. Thanks for that! ",87,2
+Andrew,2198,23,"You&#039;re welcome. You&#039;ve been playing minecraft much? ",62,2
+Dharsi,2250,52,"I have kind of stopped, since there was no reason to really play it anymore, apart from minigames servers. But now I might pick it up again, if Project Mango sees the light of day. ",181,2
+Moderator,2262,12,"Time is up! ",12,
+Moderator,2291,29,"Which actor do you think you&#039;ve been talking to in the first conversation? ",80,
+Dharsi,2345,54,"I think I was talking to an AI. ",32,
+Moderator,2373,28,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Dharsi,2397,24,"4 ",2,
+Moderator,2413,16,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months. ",166,
+Dharsi,2434,21,"You&#039;re welcome! ",21,
+Moderator,2441,7,"You can now close this window. ",31,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,890,894,,,
+User Average,43.4545454545455,38.6923076923077,,,
+Actor Average,38.8181818181818,33.5,,,
+User Average (5min),34.75,31.5,,,
+Actor Average (5min),41.5,23.2,,,
+User CharLength,101,90.0769230769231,,,
+Actor CharLength,49.7272727272727,85.0833333333333,,,
+User CharLength (5min),90.75,68.3333333333333,,,
+Actor CharLength (5min),57.5,55,,,

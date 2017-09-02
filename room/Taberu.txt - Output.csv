@@ -1,0 +1,117 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Taberu,0,0,"hello ",6,
+Moderator,58,58,"Welcome Taberu! ",16,
+Moderator,68,10,"Thank you for participating in this study. ",43,
+Moderator,91,23,"If you can see this, say Yes. ",30,
+Taberu,97,6,"Yes ",4,
+Moderator,109,12,"Perfect. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,117,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,126,9,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,136,10,"You&#039;ll be talking to him twice. ",37,
+Moderator,144,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,167,23,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,177,10,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,184,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,195,11,"You will not be talking twice with the same Actor. ",51,
+Moderator,204,9,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,211,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,221,10,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,234,13,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,242,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,249,7,"Do not type more than one post at a time. ",42,
+Moderator,256,7,"Do you understand the rules and what you have to do? ",53,
+Taberu,260,4,"yes ",4,
+Moderator,283,23,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Taberu,289,6,"yes ",4,
+Andrew,295,6,"Hello! ",7,
+Taberu,300,5,"Heya! ",6,1
+Andrew,305,5,"How are you? ",13,1
+Taberu,312,7,"not bad thanks, yourself? ",26,1
+Andrew,320,8,"I&#039;m quite alright! ",24,1
+Taberu,335,15,"What are you up two ",20,1
+Andrew,353,18,"Playing M inecraft probably.",28,1
+Taberu,386,33,"Built anything cool? ",21,1
+Andrew,402,16,"A cathedral yeah. ",18,1
+Taberu,411,9,"Nice, what blocks did you use? ",31,1
+Andrew,433,22,"Stone bricks and green stained clay for the roof. ",50,1
+Taberu,453,20,"Sounds good, have you seen the latest snapshot? ",48,1
+Andrew,467,14,"I&#039;m not sure no. ",22,1
+Taberu,499,32,"Ah, they have added concrete to the game, it&#039;s like stained clay but a stronger colour ",92,1
+Andrew,519,20,"Oh yes I&#039;ve seen that. ",28,1
+Taberu,559,40,"They also added parrots as well ",32,1
+Andrew,593,34,"Oh? I didn&#039;t hear about that. ",35,1
+Taberu,614,21,"Yeah, they can sti on your shoulder ",36,1
+Andrew,640,26,"I was hoping they&#039;d add more wildlife. ",44,1
+Taberu,675,35,"yeah, it&#039;s a nice addition, but I don&#039;t think they do anything like cats and dogs ",92,1
+Andrew,707,32,"It&#039;s still nice to have birds. ",36,1
+Taberu,717,10,"It is ",6,1
+Andrew,730,13,"Do you play Minecraft a lot? ",29,1
+Taberu,754,24,"I get on when I can, but I&#039;m not making much progress right now  ",70,1
+Andrew,769,15,"What do you like to do in it? ",30,1
+Taberu,808,39,"I like digging, it&#039;s therapeutic. I can spend hours digging. ",66,1
+Andrew,828,20,"I hate gathering resources. ",28,1
+Taberu,905,77,"It&#039;s annoying when you can&#039;t find something that you are looking for, but usually a good mining session is a good way to zone out and relax, put some music on and chill ",179,1
+Andrew,944,39,"True. I usually just have others gather blocks while I build. ",62,1
+Taberu,998,54,"I once managed to build a 9 by 9 automatic piston door in the side of a mountain ",81,1
+Andrew,1044,46,"Oh nice! I made a working 4 quadrant clock tower once. ",55,1
+Taberu,1067,23,"What&#039;s that? ",18,1
+Andrew,1093,26,"Like the London Tower. With a clock on the four sides. ",55,1
+Taberu,1117,24,"ah awesome, how long did that take ",35,1
+Andrew,1143,26,"A couple of days. ",18,1
+Taberu,1186,43,"was it working? or just aesthetic? ",35,1
+Moderator,1218,32,"Time is up! ",12,
+Moderator,1231,13,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Taberu,1243,12,"AI ",3,
+Moderator,1274,31,"Alright. We&#039;ll start the second conversation. Andrew will begin, then you&#039;ll have 15 minutes after your answer. Are you ready? ",137,
+Taberu,1309,35,"Ready ",6,
+Andrew,1314,5,"Hello! ",7,
+Taberu,1319,5,"Good evening ",13,2
+Andrew,1326,7,"How are you doing? ",19,2
+Taberu,1340,14,"I&#039;m okay thanks. Hows the weather? ",40,2
+Andrew,1374,34,"Quite windy. There might be a tornado coming toward us. ",56,2
+Taberu,1386,12,"Oh dear, that doesn&#039;t sound good ",38,2
+Andrew,1413,27,"Yeah. They are not sure it&#039;s going to reach us though. ",60,2
+Taberu,1450,37,"Ah that&#039;s good then, Hopefully it doesn&#039;t cause too many issues ",74,2
+Andrew,1497,47,"It should be alright. It&#039;s likely just a big storm. It hasn&#039;t been confirmed. ",88,2
+Taberu,1518,21,"What will you do in the mean time ",34,2
+Andrew,1534,16,"Likely just play Minecraft honestly. ",37,2
+Taberu,1554,20,"Ah fair enough ",15,2
+Andrew,1571,17,"Do you play that game? ",23,2
+Taberu,1581,10,"I do, haven&#039;t done so in a while ",38,2
+Andrew,1611,30,"Mmm yeah. It can get old very fast without things to spice it up. ",66,2
+Taberu,1662,51,"It&#039;s mainly that I&#039;ve been playing on my friend&#039;s server, and if he isn&#039;t online then I can&#039;t play ",124,2
+Andrew,1696,34,"Oh I see. You might want to find a public server then, with your friend. ",73,2
+Taberu,1717,21,"I&#039;ve tried that but my PC lags out on public servers as there are too many people ",87,2
+Andrew,1743,26,"That&#039;s weird. It shouldn&#039;t be an issue. ",50,2
+Taberu,1763,20,"My laptop isn&#039;t very good sadly ",37,2
+Andrew,1818,55,"Minecraft also tends to require a better PC than you&#039;d need for other good games. ",87,2
+Taberu,1841,23,"Yeah, procedurally generated landscapes take it&#039;s toll on a processsor ",76,2
+Andrew,1873,32,"I wonder how they managed to make it much faster on the C++ version. ",69,2
+Taberu,1951,78,"No idea, not too familiar with how C++ work. ",45,2
+Andrew,1992,41,"I&#039;m not either yeah. What do you like to do in Minecraft when you can play it on your friend&#039;s server? ",113,2
+Taberu,2054,62,"I like digging, its therapeutic. But building is always fun, when I can figure out what to do ",94,2
+Andrew,2077,23,"What was the most impressive thing you built? ",46,2
+Taberu,2108,31,"a 9x9 piston door leading down into a dwarven city. Sadly the city kind of stopped ",83,2
+Andrew,2141,33,"Oh that sounds really nice. It&#039;s a shame that it&#039;s on hold. ",70,2
+Taberu,2166,25,"Don&#039;t think I still have that save file though. ",53,2
+Andrew,2196,30,"What other games do you play, if any? ",38,2
+Taberu,2219,23,"Undertale, played it through 4 times so far ",44,2
+Moderator,2221,2,"Time is up! ",12,
+Moderator,2235,14,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Taberu,2248,13,"AI ",3,
+Moderator,2252,4,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Taberu,2270,18,"7 ",2,
+Moderator,2275,5,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2298,23,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,886,900,,,
+User Average,28.3888888888889,28.3125,,,
+Actor Average,22.3529411764706,30.1333333333333,,,
+User Average (5min),20.125,17,,,
+Actor Average (5min),17.125,25.4285714285714,,,
+User CharLength,49.6666666666667,56.7333333333333,,,
+Actor CharLength,33.8235294117647,59.6666666666667,,,
+User CharLength (5min),34.5,36,,,
+Actor CharLength (5min),27.25,49.8571428571429,,,

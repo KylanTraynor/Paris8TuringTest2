@@ -1,0 +1,119 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello me. ",10,
+me,193,193,"...hello? ",10,
+Moderator,207,14,"Thank you for participating in this study. ",43,
+Moderator,235,28,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,247,12,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,270,23,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,274,4,"You&#039;ll be talking to him twice. ",37,
+Moderator,285,11,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,308,23,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,318,10,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,330,12,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,341,11,"You will not be talking twice with the same Actor. ",51,
+Moderator,352,11,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,363,11,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,377,14,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,392,15,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,400,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,409,9,"Do not type more than one post per answer. ",43,
+Moderator,418,9,"Do you understand the rules and what you have to do? ",53,
+me,424,6,"I do understand. ",17,
+Moderator,439,15,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. ",87,
+Andrew,457,18,"Hello! ",7,
+me,468,11,"Hi there. ",10,1
+Andrew,476,8,"How are you? ",13,1
+me,496,20,"I&#039;m alright.  Are you? ",28,1
+Andrew,509,13,"I am yes. What are you up to? ",30,1
+me,544,35,"Other than talking to you?  Looking out of the window longingly at Spring, wishing I could be outside.  Is it warm where you are, too? ",135,1
+Andrew,589,45,"Not really no. But it&#039;s decent. ",37,1
+me,626,37,"So it&#039;s not sunny, but it&#039;s not raining either? ",58,1
+Andrew,665,39,"It&#039;s just mostly cloudy, yeah. 51&deg;F. ",46,1
+me,719,54,"Have other people that have spoken to you today also asked about the weather? ",78,1
+Andrew,778,59,"Not really no. Haven&#039;t been talking to many people yet. ",61,1
+me,800,22,"How far through our time do you think we are? ",46,1
+Andrew,840,40,"Something like 5 minutes? I don&#039;t really know. ",52,1
+me,876,36,"I&#039;ve never been good at judging time. ",43,1
+Andrew,931,55,"Question of rhythm I guess. Where do you live? ",47,1
+me,974,43,"I live right on the edge of London.  At least, according to most people, living right by the circular motorway that goes around London is the edge of &#039;real London&#039;. ",175,1
+Andrew,1034,60,"Are you from the UK London? I live in London too, though not in the same country I imagine. ",92,1
+me,1045,11,"Yes, the UK London. ",20,1
+Andrew,1056,11,"Canadian one here. ",19,1
+me,1084,28,"I&#039;m sure there are plenty of internet articles arguing over which London is better. ",89,1
+Andrew,1113,29,"There is little to do in mine.  I&#039;m pretty sure it&#039;s your London.",75,1
+me,1136,23,"I guess that&#039;s true.  Only one of them is a capital. ",58,1
+Andrew,1179,43,"Right. What do you do for work? Or are you a student? ",54,1
+me,1199,20,"I work in Cybersecurity.  I protect organisations from malicious threat actors. ",80,1
+Andrew,1221,22,"Oh I see. Do you think I&#039;m one of those? ",46,1
+me,1235,14,"Depends, are you trying to exfiltrate money from banks? ",56,1
+Andrew,1273,38,"In my past life, I&#039;ve tried. It didn&#039;t succeed. T hat&#039;s why it was my past life.",95,1
+me,1297,24,"If you had succeeded, you&#039;d have spent some time in jail and then you&#039;d have probably still considered it a past life. ",129,1
+Andrew,1318,21,"That&#039;s true enough I guess yeah. ",38,1
+me,1357,39,"Can you remind me of what your weather was like? ",49,1
+Andrew,1372,15,"Mostly cloudy. ",15,1
+Moderator,1380,8,"Time is up! ",12,
+Moderator,1395,15,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+me,1401,6,"Human. ",7,
+Moderator,1440,39,"Alright. The next conversation is about to begin. Andrew will start, and you&#039;ll have 15 minutes maximum after you answer. ",127,
+Andrew,1453,13,"Hello! ",7,
+me,1467,14,"Hi there.  How are you doing today? ",36,2
+Andrew,1478,11,"I&#039;m doing alright. What about you? ",40,2
+me,1496,18,"I&#039;ve had better days. ",27,2
+Andrew,1507,11,"Something wrong? ",17,2
+me,1527,20,"I just wish I was able to be outside is all. ",45,2
+Andrew,1542,15,"Maybe you should do that then. ",31,2
+me,1554,12,"Oh, but then I&#039;d miss out on talking to you. ",50,2
+Andrew,1569,15,"And that would be such a shame! ",32,2
+me,1583,14,"So now do you see why I can&#039;t be outside? ",47,2
+Andrew,1610,27,"I&#039;m the only thing keeping you in? Don&#039;t worry it shouldn&#039;t stay like that for too long then. ",109,2
+me,1644,34,"Answering your questions is what is keeping me in. ",51,2
+Andrew,1683,39,"Is it that nice outside? Can&#039;t say it is great where I am. ",64,2
+me,1712,29,"It&#039;s nice enough for me to want to be. ",44,2
+Andrew,1772,60,"I see. What do you do outside? Just enjoy the sun? ",51,2
+me,1801,29,"I have some things to buy. ",27,2
+Andrew,1823,22,"That doesn&#039;t sound as relaxing as I expected. ",51,2
+me,1843,20,"Some people might prefer it. ",29,2
+Andrew,1906,63,"Whenever there&#039;s some decent weather, I just find a patch of grass and relax. Or sit on the balcony. ",106,2
+me,1951,45,"I don&#039;t have a balcony.  I&#039;d like to find a place to buy that has one, though.  There&#039;s a lot of stresses in life that could absolutely be solved by sitting out and just staring at the horizon for a b",215,2
+me,1956,5,"it ",3,2
+Andrew,1987,31,"With a cup of tea in your hand. ",32,2
+me,2033,46,"Sounds nice. ",13,2
+Andrew,2060,27,"It&#039;s been months since the last time I did it. ",52,2
+me,2077,17,"When did you last do it? ",25,2
+Andrew,2107,30,"The beginning of September, when it was still warm outside. ",60,2
+me,2110,3,"How much of it did you do?  Just the tea? ",42,2
+Andrew,2123,13,"Sorry what? ",12,2
+me,2161,38,"How much of that idyllic scene we spoke about did you manage to do? ",68,2
+Andrew,2225,64,"Well, last time I did it, it was on my balcony with some peppermint tea. Can&#039;t say the horizon was great to look at, but... Is that what you asked? ",153,2
+me,2243,18,"Yeah.  Sounds beautiful.  How long through the time do you think we are? ",73,2
+Andrew,2264,21,"Been a while. I&#039;d say we should be almost done. ",53,2
+me,2277,13,"And then I might get to go outside. ",36,2
+Andrew,2293,16,"What do you want to buy by the way? ",36,2
+me,2323,30,"Maybe some peppermint tea. ",27,2
+Andrew,2341,18,"Sounds like idea theft. ",24,2
+me,2373,32,"Tastes like peppermint tea. ",28,2
+Moderator,2373,0,"Time is up! ",12,
+Moderator,2388,15,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+me,2403,15,"I&#039;ve changed my mind.  I think the first one was the AI now. ",66,
+Moderator,2418,15,"On a scale from 1 (not sure at all) to 7 (certain), how comfident are you of your answer? ",90,
+me,2424,6,"5. ",3,
+Moderator,2439,15,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2481,42,"You can give some comments, or close this window if you&#039;re done. ",70,
+me,2517,36,"I started off thinking that the first one was human because it felt like a human pretending to be AI.  It felt like you had set them rules for how to talk (predominantly two sentences maximum). ",194,
+me,2529,12,"However, thinking back on it, I wasn&#039;t overly complex with how I questioned the first. ",92,
+me,2550,21,"When I spoke to the second, I was trying very hard to force the actor to use context to talk to me.  Use things from previous sentences and previous lines. ",156,
+me,2584,34,"I noticed there was more complexity and variety in their speech, and even when I said slightly more vague or unintelligible things, I got back a more human response (sorry what? )",179,
+Moderator,2641,57,"Alright. Thank you again for participating. You can now close this window. ",75,
+me,2642,1,"As such, I believe the first was dealing with sentences in a formulaic manner, and the second was being more adventurous with their responses. ",143,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,904,906,,,
+User Average,27.8,22.5,,,
+Actor Average,34.5,28.4117647058824,,,
+User Average (5min),31.4,20.1428571428571,,,
+Actor Average (5min),26.25,19.6666666666667,,,
+User CharLength,70.2666666666667,47.6666666666667,,,
+Actor CharLength,50.3571428571429,54.2941176470588,,,
+User CharLength (5min),61.8,42.8571428571429,,,
+Actor CharLength (5min),31.5,48.8333333333333,,,

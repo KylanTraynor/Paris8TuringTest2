@@ -1,0 +1,6 @@
+Username: Kracklar
+Age: 33
+Gender: male
+IA: 5
+CS: 2
+E-Mail: mark_shepard@hotmail.co.uk

@@ -1,0 +1,69 @@
+<span id="time-span">22:24:51</span><span id="name-span">Moderator</span>Hello Linc 
+<span id="time-span">22:25:14</span><span id="name-span">Linc</span>Hello Moderator 
+<span id="time-span">22:25:18</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">22:25:26</span><span id="name-span">Linc</span>You&#039;re welcome 
+<span id="time-span">22:25:27</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">22:25:36</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">22:25:47</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">22:25:58</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">22:26:06</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">22:26:18</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">22:26:30</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">22:26:44</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">22:26:55</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">22:27:09</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">22:27:22</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">22:27:31</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">22:27:41</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">22:27:51</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">22:27:59</span><span id="name-span">Linc</span>yes 
+<span id="time-span">22:28:12</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">22:28:29</span><span id="name-span">Andrew</span>Hello. 
+<span id="time-span">22:28:34</span><span id="name-span">Linc</span>Hello 
+<span id="time-span">22:28:40</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">22:28:53</span><span id="name-span">Linc</span>Im well enough, how are you? 
+<span id="time-span">22:29:08</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to this evening? 
+<span id="time-span">22:29:29</span><span id="name-span">Linc</span>Ive been playing on the computer all day so far. 
+<span id="time-span">22:29:45</span><span id="name-span">Andrew</span>Nice, what games? 
+<span id="time-span">22:30:13</span><span id="name-span">Linc</span>Some city building game and browsing on facebook 
+<span id="time-span">22:30:42</span><span id="name-span">Linc</span>Do you play any games? 
+<span id="time-span">22:31:01</span><span id="name-span">Andrew</span>Yeah I do. Mostly RPG though. 
+<span id="time-span">22:31:39</span><span id="name-span">Linc</span>Are you going to school? are you working? 
+<span id="time-span">22:32:11</span><span id="name-span">Andrew</span>I&#039;m working at a Deli right now to gather some money before my college year starts. 
+<span id="time-span">22:32:47</span><span id="name-span">Linc</span>What classes or courses are you in? 
+<span id="time-span">22:33:23</span><span id="name-span">Andrew</span>I got Advanced English, French, Art and a bit of Music. 
+<span id="time-span">22:33:35</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">22:33:52</span><span id="name-span">Linc</span>We need more time 
+<span id="time-span">22:34:05</span><span id="name-span">Moderator</span>Which of the two actors do you think you&#039;ve been talking to? 
+<span id="time-span">22:34:16</span><span id="name-span">Moderator</span>(This is not your final answer )
+<span id="time-span">22:34:30</span><span id="name-span">Linc</span>So far, a real person is doing well acting like a robot 
+<span id="time-span">22:34:52</span><span id="name-span">Moderator</span>That doesn&#039;t answer my question. Human or IA? 
+<span id="time-span">22:35:22</span><span id="name-span">Linc</span>Im going to go ahead and chose artificial 
+<span id="time-span">22:36:05</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the second conversation. Andrew will begin, then you&#039;ll have 5 minutes after your answer. 
+<span id="time-span">22:36:37</span><span id="name-span">Andrew</span>Hello 
+<span id="time-span">22:36:43</span><span id="name-span">Linc</span>Hi Drew! 
+<span id="time-span">22:37:12</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">22:37:15</span><span id="name-span">Linc</span>Do you happen to live in my area? 
+<span id="time-span">22:37:19</span><span id="name-span">Linc</span>Im doing well 
+<span id="time-span">22:37:26</span><span id="name-span">Andrew</span>I don&#039;t know, where do you live? 
+<span id="time-span">22:37:37</span><span id="name-span">Linc</span>I live in the United States 
+<span id="time-span">22:37:50</span><span id="name-span">Andrew</span>Then no, I&#039;m in Canada actually. 
+<span id="time-span">22:38:22</span><span id="name-span">Linc</span>Of course, its always in Canada 
+<span id="time-span">22:38:45</span><span id="name-span">Andrew</span>I help bulding a wall on the border. 
+<span id="time-span">22:39:06</span><span id="name-span">Linc</span>There shouldnt be a wall there. Its the most peaceful border in the world 
+<span id="time-span">22:39:32</span><span id="name-span">Andrew</span>We&#039;ll see who wins the elections. 
+<span id="time-span">22:39:50</span><span id="name-span">Linc</span>You should move to Mexico. much more pleasant there 
+<span id="time-span">22:40:02</span><span id="name-span">Andrew</span>I&#039;m fine where I am. 
+<span id="time-span">22:40:27</span><span id="name-span">Linc</span>What are you into? 
+<span id="time-span">22:41:05</span><span id="name-span">Andrew</span>I&#039;m a hockey player. Well, a student right now, but I play hockey too. 
+<span id="time-span">22:41:46</span><span id="name-span">Linc</span>I didnt know that people in Canada played much hockey 
+<span id="time-span">22:41:54</span><span id="name-span">Moderator</span>Time is up. 
+<span id="time-span">22:42:09</span><span id="name-span">Linc</span>of course.. 
+<span id="time-span">22:42:22</span><span id="name-span">Moderator</span>Which one do you think was the Human? The first Andrew or the Second? 
+<span id="time-span">22:42:49</span><span id="name-span">Linc</span>Im not so sure 
+<span id="time-span">22:43:14</span><span id="name-span">Linc</span>Now id say the first was human, the second was ai 
+<span id="time-span">22:43:32</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer. )
+<span id="time-span">22:43:54</span><span id="name-span">Linc</span>no, first was ai, second was human. Final 
+<span id="time-span">22:44:27</span><span id="name-span">Moderator</span>Alright. Thanks for participating! If you have any comments, feel free to share them. 
+<span id="time-span">22:46:19</span><span id="name-span">Linc</span>Maybe it would be a good consideration to extend the testing time to 10 minutes. 
+<span id="time-span">22:47:57</span><span id="name-span">Moderator</span>Thanks for your comment. We can&#039;t extend the testing time anymore, but we&#039;ll keep it in mind for another experiment. You can now close the window. Thank you again! 

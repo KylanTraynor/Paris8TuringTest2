@@ -1,0 +1,119 @@
+<span id="time-span">18:47:26</span><span id="name-span">Moderator</span>Hello Kandice. 
+<span id="time-span">18:47:27</span><span id="name-span">Kandice</span>Hello? 
+<span id="time-span">18:47:31</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:47:38</span><span id="name-span">Kandice</span>No problem! 
+<span id="time-span">18:47:48</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:47:55</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:47:56</span><span id="name-span">Kandice</span>Okay! 
+<span id="time-span">18:48:15</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:48:24</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:48:30</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">18:48:36</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">18:48:43</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">18:48:48</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">18:48:55</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">18:49:02</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">18:49:12</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">18:49:18</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">18:49:25</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">18:49:32</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">18:49:38</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">18:49:46</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">18:49:52</span><span id="name-span">Kandice</span>I do 
+<span id="time-span">18:49:57</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">18:50:06</span><span id="name-span">Kandice</span>yup 
+<span id="time-span">18:50:13</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:50:20</span><span id="name-span">Kandice</span>Hey there! How&#039;re you? 
+<span id="time-span">18:50:29</span><span id="name-span">Andrew</span>I&#039;m doing alright! How about you? 
+<span id="time-span">18:50:41</span><span id="name-span">Kandice</span>I&#039;m pretty well. Tired from a long work week.  
+<span id="time-span">18:51:17</span><span id="name-span">Andrew</span>Oh yeah I know what you mean. What does your work consist in? 
+<span id="time-span">18:51:37</span><span id="name-span">Kandice</span>I don&#039;t understand. Are you not a native english speaker? 
+<span id="time-span">18:52:02</span><span id="name-span">Andrew</span>Well I&#039;m Canadian actually. Sorry I just mean what do you do for work? 
+<span id="time-span">18:52:31</span><span id="name-span">Kandice</span>I sell auto parts. You didn&#039;t answer my question, though.  
+<span id="time-span">18:53:03</span><span id="name-span">Andrew</span>Yeah I&#039;m a native English speaker. I&#039;m just having a long day. 
+<span id="time-span">18:53:42</span><span id="name-span">Kandice</span>Okay. Not sure what being canadian has to do with whether or not you&#039;re a native english speaker, though.  
+<span id="time-span">18:54:14</span><span id="name-span">Andrew</span>Well Canadians speak English. Not all of Canadians mind you. I see your point. 
+<span id="time-span">18:54:39</span><span id="name-span">Kandice</span>[stop] 
+<span id="time-span">18:54:54</span><span id="name-span">Moderator</span>Conversation interrupted. 
+<span id="time-span">18:55:04</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">18:55:14</span><span id="name-span">Kandice</span>The non-human. 
+<span id="time-span">18:55:23</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">18:55:32</span><span id="name-span">Kandice</span>Yes 
+<span id="time-span">18:55:40</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:55:46</span><span id="name-span">Kandice</span>Hey there. Whats good? 
+<span id="time-span">18:56:10</span><span id="name-span">Andrew</span>Plenty of stuff! How are you doing? 
+<span id="time-span">18:56:24</span><span id="name-span">Kandice</span>I&#039;m alright, just tired after a long work week.  
+<span id="time-span">18:57:04</span><span id="name-span">Andrew</span>Mind if I ask what you do? Yeah I know what you mean. 
+<span id="time-span">18:57:36</span><span id="name-span">Kandice</span>I sell auto parts at a Big 3 Dealership. 
+<span id="time-span">18:58:15</span><span id="name-span">Andrew</span>I&#039;m a student myself. Oh that&#039;s cool! 
+<span id="time-span">18:58:35</span><span id="name-span">Kandice</span>What school? 
+<span id="time-span">18:58:55</span><span id="name-span">Andrew</span>University of Western Ontario. 
+<span id="time-span">18:59:22</span><span id="name-span">Kandice</span>So you&#039;re just a hip skip and a jump away from where I&#039;m at, other side of the river.  
+<span id="time-span">19:00:01</span><span id="name-span">Andrew</span>Where are you? Oh? 
+<span id="time-span">19:00:41</span><span id="name-span">Kandice</span>I&#039;m in Detroit area. Hows the area been since they closed Ontario Assembly for the Chrysler Minivans? 
+<span id="time-span">19:01:50</span><span id="name-span">Andrew</span>At least not at University, nothing much changed really. 
+<span id="time-span">19:02:10</span><span id="name-span">Kandice</span>You&#039;re positive about that? 
+<span id="time-span">19:02:31</span><span id="name-span">Andrew</span>I guess yeah. 
+<span id="time-span">19:03:03</span><span id="name-span">Kandice</span>No big change when they closed it down in 2010? 
+<span id="time-span">19:03:58</span><span id="name-span">Andrew</span>Not that I noticed at least. 
+<span id="time-span">19:04:39</span><span id="name-span">Kandice</span>Are you from Ontario? 
+<span id="time-span">19:05:05</span><span id="name-span">Andrew</span>But to be honest I didn&#039;t know it had even closed so... yeah. 
+<span id="time-span">19:05:32</span><span id="name-span">Kandice</span>You know which plant im talking about, right? 
+<span id="time-span">19:07:05</span><span id="name-span">Andrew</span>I don&#039;t really follow politics, or car issues. Not really. 
+<span id="time-span">19:08:18</span><span id="name-span">Kandice</span>I mean, its a huge building. Youve probably driven by it on 401 a bunch.  
+<span id="time-span">19:08:54</span><span id="name-span">Andrew</span>I might have. I never paid attention to it though. 
+<span id="time-span">19:09:31</span><span id="name-span">Kandice</span>Okay. For the second time, are you from ontario? 
+<span id="time-span">19:10:00</span><span id="name-span">Andrew</span>Yes I am. I&#039;ve lived in London since I was born. 
+<span id="time-span">19:10:54</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">19:11:06</span><span id="name-span">Kandice</span>Thnak god 
+<span id="time-span">19:11:13</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation? 
+<span id="time-span">19:11:40</span><span id="name-span">Kandice</span>Hard to say. Neither one seems to have ever spoken english before. First one was a human.  
+<span id="time-span">19:11:55</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">19:12:09</span><span id="name-span">Kandice</span>four 
+<span id="time-span">19:12:18</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">19:12:23</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 
+<span id="time-span">19:12:52</span><span id="name-span">Kandice</span>Yeah, so both of them have a very poor grasp on the English language.  
+<span id="time-span">19:13:05</span><span id="name-span">Andrew</span>What makes you think so? 
+<span id="time-span">19:13:06</span><span id="name-span">Kandice</span>Very poor comprehension.  
+<span id="time-span">19:13:48</span><span id="name-span">Kandice</span>They both either are not native speakers, or are incredibly rude.  
+<span id="time-span">19:14:26</span><span id="name-span">Andrew</span>Do you have specific quotes? Or was it just in general? 
+<span id="time-span">19:15:00</span><span id="name-span">Kandice</span>AndrewOh yeah I know what you mean. What does your work consist in? KandiceI don&#039;t understand. Are you not a native english speaker? AndrewWell I&#039;m Canadian actually. Sorry I just mean what do you do 
+<span id="time-span">19:15:35</span><span id="name-span">Kandice</span>KandiceAre you from Ontario? AndrewBut to be honest I didn&#039;t know it had even closed so... yeah. KandiceYou know which plant im talking about, right? AndrewI don&#039;t really follow politics, or car issue
+<span id="time-span">19:16:22</span><span id="name-span">Moderator</span>I&#039;m not sure what makes it all seem rude, but your comment is noted. 
+<span id="time-span">19:16:26</span><span id="name-span">Kandice</span>Both avoided questions. I was very put off by this. Please tag this for people, like myself, who can be triggered by this.  
+<span id="time-span">19:17:32</span><span id="name-span">Kandice</span>Do you not think that avoiding questions in a conversation is rude? 
+<span id="time-span">19:18:13</span><span id="name-span">Moderator</span>I&#039;d like to apologize in the name of this study if these sentences felt misplaced or hurtful, it certainly wasn&#039;t the intention behind them. 
+<span id="time-span">19:18:19</span><span id="name-span">Kandice</span>And not just stating that you don&#039;t feel comfortable answering them, but requiring me to ask a second time to get a concrete answer.  
+<span id="time-span">19:18:22</span><span id="name-span">Moderator</span>And yes, it can be. 
+<span id="time-span">19:18:39</span><span id="name-span">Kandice</span>So what about them avoiding questions was not rude? 
+<span id="time-span">19:19:18</span><span id="name-span">Moderator</span>I think they might have believed that they were giving you more information that way, than just a binary yes no answer. 
+<span id="time-span">19:20:40</span><span id="name-span">Kandice</span>They&#039;re both terribly misinformed. I sincerely hope that the selection for actors is not at all a reflection of the university, because it sure seems that way.  
+<span id="time-span">19:22:07</span><span id="name-span">Kandice</span>Will you be warning future volunteers of all of the possible triggers? I&#039;m curios as to why I did not get any trigger warnings.  
+<span id="time-span">19:22:32</span><span id="name-span">Moderator</span>Conveying an accurate amount of information about Ontario wasn&#039;t quite the scope of this study, and such specific questions have never come up before. We were indeed not prepared enough on this topic.
+<span id="time-span">19:23:34</span><span id="name-span">Moderator</span>I deeply apologize for the emotional stress this caused you. In case you&#039;d like to know, you were right, the AI was indeed the second one. 
+<span id="time-span">19:24:23</span><span id="name-span">Kandice</span>You need to include all applicable trigger warnings. Others are not as robust as I am.  
+<span id="time-span">19:24:42</span><span id="name-span">Kandice</span>How can I contact someone to insure that this happens? 
+<span id="time-span">19:24:47</span><span id="name-span">Moderator</span>What do you mean by that exactly, if you don&#039;t mind? 
+<span id="time-span">19:25:03</span><span id="name-span">Moderator</span>About the triggers I mean. 
+<span id="time-span">19:25:20</span><span id="name-span">Kandice</span>You don&#039;t know what trigger warnings are? 
+<span id="time-span">19:26:17</span><span id="name-span">Moderator</span>I don&#039;t know the specific term, but I might know what it means, I&#039;d just like to know exactly what you mean so that I don&#039;t guess wrong. 
+<span id="time-span">19:26:47</span><span id="name-span">Kandice</span>For instance, one of the trigger warnings that needs to be included is &quot;Male Name&quot; 
+<span id="time-span">19:27:13</span><span id="name-span">Kandice</span>Some people may be put off by the name andrew, or male names in general. An option needs to be given.  
+<span id="time-span">19:27:25</span><span id="name-span">Kandice</span>Another is &quot;Question Avoidance&quot; 
+<span id="time-span">19:28:13</span><span id="name-span">Kandice</span>Also, speaking of question avoidance, I&#039;ll ask AGAIN, How can I contact someone to insure that this (trigger warning implementation)  happens? 
+<span id="time-span">19:28:33</span><span id="name-span">Moderator</span>You don&#039;t need to. You&#039;re doing that right now. 
+<span id="time-span">19:29:17</span><span id="name-span">Kandice</span>So if i take this survey again in a day, I&#039;ll receive extensive trigger warnings? 
+<span id="time-span">19:29:29</span><span id="name-span">Kandice</span>I&#039;m sorry, i misused the word survey.  
+<span id="time-span">19:29:41</span><span id="name-span">Kandice</span>I hope you understand what I meant.  
+<span id="time-span">19:30:25</span><span id="name-span">Moderator</span>No, this study can&#039;t be changed without introducing a bias, but it will be added in future studies. This is the first time a situation like this has happened in more than 120 people across two years. 
+<span id="time-span">19:31:04</span><span id="name-span">Kandice</span>You&#039;re not studying a wide enough demographic.  
+<span id="time-span">19:31:44</span><span id="name-span">Kandice</span>When will i receive notification of implementation and my compensation? 
+<span id="time-span">19:32:12</span><span id="name-span">Moderator</span>I&#039;m sorry, what? 
+<span id="time-span">19:32:35</span><span id="name-span">Kandice</span>When will I be notified that you implemented trigger warnings? 
+<span id="time-span">19:33:03</span><span id="name-span">Kandice</span>When will I receive compensation for emotional distress? 
+<span id="time-span">19:34:18</span><span id="name-span">Moderator</span>As I said, we can&#039;t implement this in the current study. And for the compensation, the only thing I can offer is to pull out this conversation from this study, as well as your answers in the survey. 
+<span id="time-span">19:34:49</span><span id="name-span">Moderator</span>I mean form. 
+<span id="time-span">19:35:36</span><span id="name-span">Kandice</span>So you think that you can potentially terrorize people with no repercussions? I understand. Please send me an E-mail to the provided address when you do the next study, complete with trigger warnings.
+<span id="time-span">19:36:13</span><span id="name-span">Kandice</span>You need not say anything else. Goodbye.  
+<span id="time-span">19:36:51</span><span id="name-span">Moderator</span>I do not think that. But Goodbye, and sorry again. 
+<span id="time-span">19:37:02</span><span id="name-span">Moderator</span>You can now close this window. 

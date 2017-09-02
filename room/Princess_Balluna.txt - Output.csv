@@ -1,0 +1,115 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Princess_Balluna. ",26,
+Moderator,19,19,"Thank you for participating in this study. ",43,
+Princess_Balluna,31,12,"Sure thing ^^ ",14,
+Moderator,41,10,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,48,7,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,69,21,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,76,7,"You&#039;ll be talking to him twice. ",37,
+Moderator,84,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,91,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,97,6,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,102,5,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,110,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,115,5,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,121,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,130,9,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,135,5,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,141,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,147,6,"Do not type more than one post per answer. ",43,
+Moderator,153,6,"Do you understand the rules and what you have to do? ",53,
+Princess_Balluna,162,9,"Yes ",4,
+Moderator,168,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Princess_Balluna,175,7,"I am ",5,
+Andrew,180,5,"Hello! ",7,
+Princess_Balluna,187,7,"Hi there! ",10,1
+Andrew,193,6,"How are you doing? ",19,1
+Princess_Balluna,205,12,"I am quite well, yourself? ",27,1
+Andrew,222,17,"I&#039;m quite alright too. What are you up to? ",48,1
+Princess_Balluna,242,20,"Oh, nothing much, relaxing and waiting for work, and you? ",58,1
+Andrew,271,29,"Wondering if I should relax and play some video games. ",55,1
+Princess_Balluna,298,27,"I honestly say video games, heh. ",33,1
+Andrew,319,21,"Yeah I think so too. What kind of video games do you like? ",59,1
+Princess_Balluna,353,34,"Sci fi games, mainly coop and quite a few rts style games ",58,1
+Andrew,383,30,"Oh, did you play Mass Effect then? ",35,1
+Princess_Balluna,407,24,"I do, it is  one of my favorite game series right beside Dead Space",67,1
+Andrew,426,19,"Yeah same for me. What did you think about Andromeda? ",54,1
+Princess_Balluna,452,26,"I loved it, sure it was buggy but I loved he story and concept. ",64,1
+Andrew,496,44,"Nice to hear that I&#039;m not the only one thinking that. Who was your favorite character? ",92,1
+Princess_Balluna,507,11,"Vetra to be honest ",19,1
+Andrew,535,28,"She is quite cool, and her sister is very cute too. ",52,1
+Princess_Balluna,552,17,"She is, hehe ",13,1
+Andrew,570,18,"Did you play as a female pathfinder or as a male? ",50,1
+Princess_Balluna,600,30,"Both, first as female then male ",32,1
+Andrew,676,76,"I should do that too. So far I&#039;ve only played as a male. I can&#039;t wait for the Quarians to arrive too. I&#039;ve felt like the worlds were a bit empty as far as the number of different species. ",203,1
+Princess_Balluna,729,53,"Same, I figured there would at least be three new species ",58,1
+Andrew,787,58,"I mean, I understand why, considering the remnants actually created everything, but still. Maybe there will be more in the next ones. ",134,1
+Princess_Balluna,859,72,"Hopefully, I think it would only make the game better ",54,1
+Andrew,884,25,"Yeah definitely. I just hope it doesn&#039;t take 5 years again. ",65,1
+Princess_Balluna,893,9,"Hehe, hopefully ",16,1
+Andrew,929,36,"You were talking about Dead Space. I&#039;ve never played that game actually. What is it about? ",96,1
+Princess_Balluna,979,50,"It is made by Visceral  software, it&#039;s space zombies that are mutated by an ancient artifact, it&#039;s great, I recommend it",130,1
+Andrew,1015,36,"Oh alright. I&#039;ll definitely try it then yeah. ",51,1
+Princess_Balluna,1045,30,"Goodie, I think you will enjoy it ",34,1
+Andrew,1073,28,"Any plans for this evening? ",28,1
+Princess_Balluna,1087,14,"Just work is all ",17,1
+Moderator,1089,2,"Time is up! ",12,
+Moderator,1100,11,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Princess_Balluna,1134,34,"The human actor ",16,
+Moderator,1141,7,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Princess_Balluna,1160,19,"I am ",5,
+Andrew,1165,5,"Hello! ",7,
+Princess_Balluna,1175,10,"Hiya! ",6,2
+Andrew,1182,7,"How are you doing? ",19,2
+Princess_Balluna,1210,28,"I&#039;m great today, you? ",27,2
+Andrew,1218,8,"I&#039;m quite alright! ",24,2
+Princess_Balluna,1234,16,"Oh good, glad to hear ",22,2
+Andrew,1245,11,"What are you up to? ",20,2
+Princess_Balluna,1316,71,"Watching some videos on youtube now ",36,2
+Andrew,1327,11,"What about? ",12,2
+Princess_Balluna,1338,11,"Garry&#039;s Mod ",17,2
+Andrew,1356,18,"Oh alright. I&#039;ve never played that. ",41,2
+Princess_Balluna,1371,15,"It&#039;s fun if you have some friends to play with ",52,2
+Andrew,1394,23,"Is it online or multiplayer at home? ",37,2
+Princess_Balluna,1405,11,"Online ",7,2
+Andrew,1425,20,"Ah right. I&#039;ve just heard the name of this game. ",54,2
+Princess_Balluna,1463,38,"It&#039;s quite fun, as I mentioned before ",43,2
+Andrew,1482,19,"What other games do you like? ",30,2
+Princess_Balluna,1500,18,"Mass Effect, Halo, Stellaris, I have a large list ",50,2
+Andrew,1539,39,"i don&#039;t think I know what Stellaris is about, but I&#039;ve played Mass Effect and Halo too! ",98,2
+Princess_Balluna,1561,22,"Stellaris is fun, it&#039;s like Civilization in space ",55,2
+Andrew,1590,29,"Oh ok. That does indeed sound fun. ",35,2
+Princess_Balluna,1636,46,"I like it alot, heh ",20,2
+Andrew,1656,20,"You&#039;ve played Civilization much too? ",42,2
+Princess_Balluna,1689,33,"I did ",6,2
+Andrew,1710,21,"Which civilization do you prefer? ",34,2
+Princess_Balluna,1755,45,"PRobably 4 so far ",18,2
+Andrew,1795,40,"Sorry I meant in-game, like Americans and so on. ",49,2
+Princess_Balluna,1820,25,"Ah, Americans ",14,2
+Andrew,1851,31,"Right. Are you American yourself? ",34,2
+Princess_Balluna,1871,20,"I am ",5,2
+Andrew,1912,41,"What do you plan on doing tonight? ",35,2
+Princess_Balluna,1979,67,"Just work ",10,2
+Andrew,2007,28,"Oh alright. What kind of work do you do? ",41,2
+Princess_Balluna,2027,20,"I am just working in fast food for now ",39,2
+Andrew,2046,19,"Oh I am too. ",13,2
+Princess_Balluna,2063,17,"Ah, very cool ",14,2
+Moderator,2077,14,"Time is up! ",12,
+Moderator,2096,19,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Princess_Balluna,2108,12,"I think the first was human ",28,
+Moderator,2114,6,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Princess_Balluna,2143,29,"4 ",2,
+Moderator,2150,7,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2169,19,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,900,888,,,
+User Average,27.25,28.5,,,
+Actor Average,31.4,22.6470588235294,,,
+User Average (5min),21.4285714285714,25,,,
+Actor Average (5min),20.3333333333333,14,,,
+User CharLength,44.8666666666667,24.5,,,
+Actor CharLength,69.4,36.3529411764706,,,
+User CharLength (5min),45.2857142857143,26.25,,,
+Actor CharLength (5min),45,29.5714285714286,,,

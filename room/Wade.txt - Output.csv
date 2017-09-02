@@ -1,0 +1,108 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Wade,0,0,"Hello! ",7,
+Moderator,7,7,"Welcome Wade. ",14,
+Wade,13,6,"Hi there! ",10,
+Moderator,23,10,"Thank you for participating in this study. ",43,
+Wade,31,8,"No problem! What&#039;s your major? ",36,
+Moderator,74,43,"Psychology &amp; Human Cognition ",33,
+Moderator,83,9,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Wade,100,17,"Oooh a game! How exciting! I&#039;m ready! ",43,
+Moderator,103,3,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Wade,111,8,"Okay! ",6,
+Moderator,113,2,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,121,8,"You&#039;ll be talking to him twice. ",37,
+Moderator,133,12,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,141,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,153,12,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Wade,154,1,"Can he be named HAL? ",21,
+Wade,167,13,"Sorry! Sorry, I&#039;ll be good. ",33,
+Moderator,174,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,188,14,"You will not be talking twice with the same Actor. ",51,
+Moderator,196,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,207,11,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,217,10,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,225,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,232,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,240,8,"Do not type more than one post per answer. ",43,
+Moderator,247,7,"Do you understand the rules and what you have to do? ",53,
+Wade,258,11,"Yes I do. ",10,
+Moderator,268,10,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Wade,296,28,"I am ready! ",12,
+Andrew,299,3,"Hello! ",7,
+Wade,307,8,"Hi there Andrew! ",17,1
+Andrew,315,8,"How are you doing? ",19,1
+Wade,333,18,"So far so good. It&#039;s my day off, so I&#039;ve been relaxing. How has your day been? Been up to much? ",106,1
+Andrew,376,43,"I&#039;ve been alright too. Mostly playing games actually. ",59,1
+Wade,398,22,"What kind of games do you like to play? ",40,1
+Andrew,423,25,"Minecraft is the one I play the most. I&#039;ve also been enjoying Mass Effect for the last week. ",98,1
+Wade,458,35,"I&#039;ve never played Mass Effect before. What game mechanics do you like the most? ",85,1
+Andrew,490,32,"What do you mean? Specifically in Mass Effect or in general? ",61,1
+Wade,507,17,"Specifically in Mass Effect. What do you like about the gameplay? ",66,1
+Andrew,552,45,"I like how the plot depends on your choices and actions. It&#039;s not really gameplay, but the characters are also fantastic. ",127,1
+Wade,600,48,"Do you prefer FPS or TPS? ",26,1
+Andrew,655,55,"I&#039;m not a huge fan of shooter games in general, but I guess Mass Effect could be labeled as a TPS, so I&#039;ll say that. ",127,1
+Wade,680,25,"What else do you do for fun? Any hobbies? ",42,1
+Andrew,725,45,"I like reading, but I haven&#039;t been able to do that enough for a while actually. ",85,1
+Wade,751,26,"What have you been up to besides reading? ",42,1
+Andrew,785,34,"College work mostly. I study Biology. ",38,1
+Wade,823,38,"What kind of biology is your passion? Human biology, marine biology, avian biology, something else? ",100,1
+Andrew,866,43,"Neurology actually. That kinda goes across all of what you said. But more specifically human neurology. ",104,1
+Wade,891,25,"I find the brain so complex. Do you think we&#039;ll ever fully understand the human mind? ",91,1
+Andrew,927,36,"If we do, I doubt that it will be anytime soon. ",48,1
+Wade,984,57,"How long have you been in school? ",34,1
+Andrew,1040,56,"Well, I&#039;m in my 3rd year of university. So... yeah. ",57,1
+Wade,1062,22,"What are your plans for the future? What would you like to do with your major? ",79,1
+Andrew,1113,51,"I&#039;d like to do research. I want to figure out how neurons interact with each other and how we learn. ",106,1
+Wade,1151,38,"I like to figure that out too. I&#039;m an Instructor, so I like to see how better I can teach my students. ",108,1
+Andrew,1186,35,"There&#039;s quite a few studies that have been made about that actually. ",74,1
+Wade,1209,23,"I know that. My mother was a school  psychologist, so I normally ask her for new information.",93,1
+Moderator,1213,4,"Time is up! ",12,1
+Wade,1231,18,"Is it bad that I was taking notes? ",35,1
+Moderator,1250,19,"Which actor do you think you&#039;ve been talking to? (This is not your final answer) ",86,
+Moderator,1256,6,"(It&#039;s fine) ",17,
+Wade,1298,42,"It is hard to tell. I tried to slip the actor up, but I know good AI&#039;s are not put off by that. I&#039;m leaning toward AI, actually. ",139,
+Moderator,1343,45,"Alright. We&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes after your answer. Are you ready? ",135,
+Wade,1361,18,"I am ready. ",12,
+Andrew,1380,19,"Hello! ",7,
+Wade,1392,12,"Hi there! ",10,2
+Andrew,1398,6,"How are you doing? ",19,2
+Wade,1413,15,"I&#039;m alright. How are you? What all have you been up to today? ",67,2
+Andrew,1445,32,"I&#039;m doing alright. I haven&#039;t been up to much really. Mostly just playing games. You? ",95,2
+Wade,1489,44,"I&#039;m mostly watching Judge Judy. Is it odd that it helps me concentrate? ",77,2
+Andrew,1521,32,"I can&#039;t tell, I&#039;ve never seen that actually. ",55,2
+Wade,1561,40,"It&#039;s pretty fun. What sort of hobbies do you have? Any favorite types of games? ",85,2
+Andrew,1613,52,"Yeah, I tend to spend my time playing Minecraft. and I&#039;ve been very much into Mass Effect for the last week or so. What about you? ",136,2
+Wade,1653,40,"I play a ton of Warframe. Ever played that? It&#039;s super fun. ",65,2
+Andrew,1676,23,"I don&#039;t think I&#039;ve even ever heard about it no. What is it? ",70,2
+Wade,1745,69,"It&#039;s a beautiful combination of hack-n-slash and TPS. I like TPS over FPS. What do you prefer? ",100,2
+Andrew,1800,55,"I&#039;m not really sure. I haven&#039;t liked many FPS games, so I guess I like TPS more. ",91,2
+Wade,1841,41,"What is it about TPS that makes you like it more? ",50,2
+Andrew,1917,76,"I can&#039;t say I like it more specifically. But I do tend to like games that are in TPS. So I don&#039;t really know. ",120,2
+Wade,1962,45,"How do you feel about AI? Will it ever sound like a human? ",59,2
+Andrew,2037,75,"I don&#039;t know about sound, but I&#039;d say that we&#039;re getting closer about text at least. A good question might be : does it need to feel like a human? ",162,2
+Wade,2065,28,"If the objective is to mimic humans, then I say yes. ",53,2
+Andrew,2098,33,"Well yeah. If it&#039;s about being useful it&#039;s another topic entirely. ",77,2
+Wade,2141,43,"I agree. Do you think robots will replace humans in the workforce? Is that a good thing? ",89,2
+Andrew,2195,54,"I do, to some extent. Whether it&#039;s a good thing or not depends on if we&#039;re able to anticipate it enough by rethinking our societies. ",143,2
+Wade,2255,60,"The human brain and societies is interesting to me, being an instructor. ",73,2
+Moderator,2303,48,"Time is up! ",12,
+Moderator,2320,17,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Wade,2320,0,"I think I got this. ",20,
+Wade,2330,10,"The first interaction was the AI. ",34,
+Moderator,2342,12,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Wade,2363,21,"6 ",2,
+Moderator,2368,5,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Wade,2378,10,"Thanks! ",8,
+Moderator,2388,10,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,924,863,,,
+User Average,29.1538461538462,39.7272727272727,,,
+Actor Average,39.0769230769231,43.8,,,
+User Average (5min),24.6666666666667,30.2,,,
+Actor Average (5min),30.6,29,,,
+User CharLength,64.3076923076923,66.1818181818182,,,
+Actor CharLength,77.1538461538462,96.8,,,
+User CharLength (5min),56.6666666666667,60.8,,,
+Actor CharLength (5min),72.8,75,,,

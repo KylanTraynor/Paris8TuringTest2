@@ -1,0 +1,84 @@
+<span id="time-span">01:57:23</span><span id="name-span">Moderator</span>Welcome Midgardian! 
+<span id="time-span">01:57:44</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">01:57:52</span><span id="name-span">Moderator</span>Please say &quot;Yes&quot; if you can see this. 
+<span id="time-span">01:58:27</span><span id="name-span">Midgardian</span>Yes 
+<span id="time-span">01:58:43</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">01:58:50</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">01:58:58</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">01:59:07</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">01:59:18</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">01:59:25</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">01:59:36</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">01:59:43</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">01:59:49</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">01:59:58</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">02:00:05</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">02:00:14</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">02:00:22</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">02:00:29</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">02:00:37</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">02:00:44</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">02:00:54</span><span id="name-span">Midgardian</span>Yes, I do. 
+<span id="time-span">02:01:00</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">02:01:07</span><span id="name-span">Midgardian</span>Yes. 
+<span id="time-span">02:01:15</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:01:21</span><span id="name-span">Midgardian</span>Hi! 
+<span id="time-span">02:01:28</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:01:38</span><span id="name-span">Midgardian</span>Fine, you? 
+<span id="time-span">02:02:01</span><span id="name-span">Andrew</span>I&#039;m doing fine too thanks! What are you up to? 
+<span id="time-span">02:02:15</span><span id="name-span">Midgardian</span>Nothing really, just talking to you. 
+<span id="time-span">02:02:43</span><span id="name-span">Andrew</span>I hope I won&#039;t bore you too much then! 
+<span id="time-span">02:03:02</span><span id="name-span">Midgardian</span>No you won&#039;t, I think. 
+<span id="time-span">02:03:39</span><span id="name-span">Andrew</span>What do you like to do? I mean, playing games, reading books, things like that? 
+<span id="time-span">02:04:27</span><span id="name-span">Midgardian</span>I like reading books actually, thanks for asking, but I couldn&#039;t do that for a long time because of school. 
+<span id="time-span">02:05:19</span><span id="name-span">Andrew</span>Yeah I feel the same about books. I feel like I don&#039;t read enough, yet I never feel like I have enough time to start one. 
+<span id="time-span">02:06:33</span><span id="name-span">Midgardian</span>What was the last book you read? 
+<span id="time-span">02:07:24</span><span id="name-span">Andrew</span>It&#039;s a book about dragons. It&#039;s called... Dragons! Surprising isn&#039;t it? 
+<span id="time-span">02:08:04</span><span id="name-span">Midgardian</span>Yeah, shocking even.  
+<span id="time-span">02:08:43</span><span id="name-span">Andrew</span>Anyways, what about you? 
+<span id="time-span">02:10:01</span><span id="name-span">Midgardian</span>Nothing exciting about me. Just being lazy at the moment. 
+<span id="time-span">02:10:56</span><span id="name-span">Andrew</span>Well, being lazy is good from time to time. 
+<span id="time-span">02:11:49</span><span id="name-span">Midgardian</span>Yes, I usually hated being lazy, but lately I concluded that we need it from time to time. 
+<span id="time-span">02:12:36</span><span id="name-span">Andrew</span>It&#039;s better than running everywhere and ending up so stressed you can&#039;t do anything about it. 
+<span id="time-span">02:14:09</span><span id="name-span">Midgardian</span>Yes, definitely, because I didn&#039;t rested so much, I was feeling so stressed lately. That&#039;s not good. 
+<span id="time-span">02:14:43</span><span id="name-span">Andrew</span>Why were you so stressed? 
+<span id="time-span">02:15:05</span><span id="name-span">Midgardian</span>Because of the lectures and exams and writing thesis etc. 
+<span id="time-span">02:15:23</span><span id="name-span">Andrew</span>Oh right, it&#039;s this period of the year isn&#039;t it? 
+<span id="time-span">02:15:41</span><span id="name-span">Midgardian</span>Yes, sadly it is. 
+<span id="time-span">02:16:09</span><span id="name-span">Andrew</span>It&#039;s always so annoying. 
+<span id="time-span">02:16:26</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:16:42</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">02:16:56</span><span id="name-span">Midgardian</span>Human 
+<span id="time-span">02:17:13</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">02:17:43</span><span id="name-span">Midgardian</span>Yes 
+<span id="time-span">02:17:49</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:18:13</span><span id="name-span">Midgardian</span>Hi! 
+<span id="time-span">02:18:24</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:18:36</span><span id="name-span">Midgardian</span>Fine, I guess. 
+<span id="time-span">02:19:01</span><span id="name-span">Andrew</span>Doesn&#039;t sound like it. Is there something wrong? 
+<span id="time-span">02:20:10</span><span id="name-span">Midgardian</span>Oh no, not really, just I&#039;m tired a bit. How are you doing by the way? 
+<span id="time-span">02:20:36</span><span id="name-span">Andrew</span>Oh alright. Sorry about that. I&#039;m doing alright. A bit tired too actually. 
+<span id="time-span">02:21:16</span><span id="name-span">Midgardian</span>Oh really, you should rest, if you try to hard, it gets more stressing eventually. 
+<span id="time-span">02:22:03</span><span id="name-span">Andrew</span>Yeah I should. But for now I&#039;ve got to be here! What are you up to? 
+<span id="time-span">02:23:26</span><span id="name-span">Midgardian</span>Nothing actually, just resting and letting the stress go away. Next week my exams start so these are my final free days. 
+<span id="time-span">02:24:21</span><span id="name-span">Andrew</span>Oh right. It&#039;s that period of the year. I&#039;m sorry to hear that, but at least once they&#039;re done you&#039;ll be free again. 
+<span id="time-span">02:25:05</span><span id="name-span">Midgardian</span>Yeah, I hope so. Otherwise, I could blow out out of stress.  
+<span id="time-span">02:26:03</span><span id="name-span">Andrew</span>Stress can help if it&#039;s only from time to time. But when it spreads over weeks or more, it really starts becoming dangerous. 
+<span id="time-span">02:26:31</span><span id="name-span">Midgardian</span>Are you stressed too? 
+<span id="time-span">02:27:05</span><span id="name-span">Andrew</span>Yeah I am. I&#039;ve got a couple of deadlines getting closer and closer every day. 
+<span id="time-span">02:27:53</span><span id="name-span">Midgardian</span>So what&#039;s your part in this study, are you just helping or are you in the team? 
+<span id="time-span">02:28:33</span><span id="name-span">Andrew</span>I&#039;m just helping yeah. I study Biology actually. 
+<span id="time-span">02:29:22</span><span id="name-span">Midgardian</span>Really? My major is Biology too. 
+<span id="time-span">02:29:55</span><span id="name-span">Andrew</span>Oh nice! Which part are you most specifically interested in? Neurology for me. 
+<span id="time-span">02:30:50</span><span id="name-span">Midgardian</span>I&#039;m interested in neurology too, but I want to study in animal behaviour and cognition. 
+<span id="time-span">02:31:44</span><span id="name-span">Andrew</span>Animal cognition? Or animal behaviour and cognition in general? 
+<span id="time-span">02:32:13</span><span id="name-span">Midgardian</span>In general, but I&#039;m not sure how am I going to study them both or mix them&ccedil; 
+<span id="time-span">02:33:02</span><span id="name-span">Andrew</span>That&#039;s a pretty awesome Major actually. I wish you luck and success! 
+<span id="time-span">02:33:22</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:33:38</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">02:34:35</span><span id="name-span">Midgardian</span>Human 
+<span id="time-span">02:34:47</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">02:35:33</span><span id="name-span">Midgardian</span>6 
+<span id="time-span">02:36:08</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">02:36:18</span><span id="name-span">Midgardian</span>Thanks. 
+<span id="time-span">02:36:25</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

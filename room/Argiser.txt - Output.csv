@@ -1,0 +1,95 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Argiser! ",15,
+Moderator,10,10,"Thank you for participating in this study. ",43,
+Moderator,26,16,"Are you able to read this? ",27,
+Argiser,27,1,"No biggie, glad to help. ",25,
+Argiser,34,7,"Yeah, sure am. ",15,
+Moderator,43,9,"Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,52,9,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,63,11,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,72,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,79,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,87,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,95,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,102,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,108,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,116,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,123,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,130,7,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,137,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,145,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,151,6,"Do not type more than one post per answer. ",43,
+Moderator,158,7,"Do you understand the rules and what you have to do? ",53,
+Argiser,197,39,"I only have one question. If I chose to say stop, it will only be for the current actor, correct? ",98,
+Moderator,211,14,"Yes that is correct. ",21,
+Argiser,219,8,"I understand, then. ",20,
+Moderator,225,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Argiser,232,7,"Yes. ",5,
+Andrew,242,10,"Hello! ",7,
+Argiser,315,73,"Hey there! Funny thing both usernames happen to start with an &#039;A,&#039; huh? W hat&#039;s up?",98,1
+Andrew,353,38,"Not much! Yeah it happens. What about you? ",43,1
+Argiser,399,46,"Just planning out the rest of the day to better allocate work and relaxation time within a healthy balance. ",108,1
+Andrew,444,45,"Good luck then! Sounds like a tedious thing to do. ",51,1
+Argiser,509,65,"Just part of every day life. Drawing takes time, so I have to make sure I don&#039;t miss my deadlines. What about you? What do you do? ",136,1
+Andrew,578,69,"Oh are you an artist? I&#039;m just enjoying summer break now, I study Biology. ",80,1
+Argiser,705,127,"Yeah, sure am. What all ended igniting your passion to get into Biology? And due to how many fields any one person can go into through biology, which one interests you more? It&#039;s all interesting to me",205,1
+Andrew,836,131,"More specifically I study Neurobiology, but I&#039;m only in my 3rd year. I&#039;m mostly interested in the brain and I&#039;ve always been interested in trying to figure out how life works. ",191,1
+Argiser,961,125,"That&#039;s awesome stuff. So, out of curiosity, any recently released songs that you enjoy listening to? Music fuels my art, and I wanted to take something from this as inspiration for a new piece of art.",205,1
+Andrew,1010,49,"Any specific kind you&#039;re looking for? I mostly listen to video games music actually. ",90,1
+Argiser,1042,32,"That works! Music is music, whatever suits you is what interests me. ",69,1
+Andrew,1109,67,"I&#039;d say &quot;To Zanarkand&quot; but it&#039;s not really recent. I really like Final Fantasy music. ",106,1
+Argiser,1165,56,"Funny, the last drawing I did is inspired by that very game. Seems there&#039;s more coincidences here than the starting letter of our usernames, hah! ",151,1
+Andrew,1194,29,"It would seem yes! That&#039;s an interesting coincidence. ",59,1
+Moderator,1219,25,"Time is up! ",12,
+Moderator,1238,19,"Which actor do you think you&#039;ve been talking to? ",54,
+Argiser,1273,35,"Am I going to be allowed to change my answer after talking to the second acto r?",80,
+Moderator,1282,9,"Yes of course. ",15,
+Argiser,1362,80,"Though it could be either, I say the human actor for now. Tough decision to make! ",82,
+Moderator,1372,10,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Argiser,1408,36,"Yes ",4,
+Andrew,1412,4,"Hello! ",7,
+Argiser,1429,17,"Hey Andrew, what&#039;s up? ",28,2
+Andrew,1442,13,"Not much really! What about you? ",33,2
+Argiser,1521,79,"Pft, &#039;not much&#039; isn&#039;t very descriptive now is it? Haha. I&#039;m trying to figure out how to manage my work and free time today. ",144,2
+Andrew,1575,54,"It really isn&#039;t, but I have to admit that I don&#039;t really know what else to say! I&#039;m starting to enjoy my summer break though. What are you working on? ",166,2
+Argiser,1623,48,"Art, I happen to be an artist. I work on a commission basis, freelancer mostly. ",80,2
+Andrew,1642,19,"Oh that sounds really cool! What kind of things do you draw? ",61,2
+Argiser,1744,102,"All sorts, though the most recent one is Final Fantasy inspired. I tend to let music ignite ideas in me. What about you, what makes you passionate? ",148,2
+Andrew,1859,115,"I love studying the brain. I&#039;m actually a biology student. I want to figure out all the biological aspects of learning and things like that. I really love Final Fantasy by the way! ",186,2
+Argiser,1969,110,"Hah! That&#039;s SUPER neat stuff. Hey, since music drives me, I wanted to ask if there was any one song that had impact in your life that you might want to share forward as inspiration.  ",188,2
+Andrew,2087,118,"A song that had impact on my life? I&#039;d say &quot;To Zanarkand&quot; it&#039;s the one song that made me want to start learning piano, and also is one of the first ones I managed to play. ",192,2
+Argiser,2151,64,"Wow, any other instruments you play? ",37,2
+Andrew,2175,24,"No, and I don&#039;t really play much piano either anymore. Just from time to time. ",84,2
+Argiser,2256,81,"Hey, with the know how comes the ability to freely practice and develop the skill, you know? I sing, there&#039;s a handful of peeps that have asked me to be in their songs, but I&#039;m not ready. ",198,2
+Andrew,2291,35,"I sing, but mostly just in the shower, or when I&#039;m alone. It&#039;s probably better that way. ",99,2
+Argiser,2315,24,"Pfah, everyone has their natural voice. ",40,2
+Andrew,2326,11,"Some sound better than others though! ",38,2
+Moderator,2334,8,"Time is up! ",12,
+Argiser,2345,11,"Neat. ",6,
+Moderator,2350,5,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Argiser,2378,28,"I think the first was the AI, and the second was the human. ",60,
+Moderator,2384,6,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Argiser,2441,57,"A solid 6. There&#039;s reasons to believe the reverse answer, but those are fewer from what I gather.  ",104,
+Moderator,2475,34,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2494,19,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+Argiser,2507,13,"Any way I&#039;ll ever know if I was right or not? ",51,
+Moderator,2534,27,"I can tell you right now, but only if you don&#039;t have comments. ",68,
+Moderator,2551,17,"If you do, I can tell you if you were right or not after your comments ",71,
+Argiser,2601,50,"My only comment was that this was as entertaining as it was interesting. The minor research I&#039;ve done into AI is fascinating and I&#039;m glad I was able to help! ",168,
+Moderator,2634,33,"Thank you very much! And you were right! ",41,
+Argiser,2729,95,"Neat! I&#039;m proud of me. It was a slight edge in a human touch and response time that made me decide. I&#039;ve taken social classes and have a lot of social experience, so I put all my efforts into using- ",209,
+Argiser,2734,5,"-that. ",7,
+Argiser,2752,18,"Thank you for letting me be a part in this.  ",45,
+Moderator,2794,42,"Thank you for helping! You can now close this window. ",54,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,879,897,,,
+User Average,74.8571428571429,65.625,,,
+Actor Average,61.1428571428571,48.625,,,
+User Average (5min),61.3333333333333,48,,,
+Actor Average (5min),50.6666666666667,28.6666666666667,,,
+User CharLength,138.857142857143,107.875,,,
+Actor CharLength,88.5714285714286,107.375,,,
+User CharLength (5min),114,84,,,
+Actor CharLength (5min),58,86.6666666666667,,,

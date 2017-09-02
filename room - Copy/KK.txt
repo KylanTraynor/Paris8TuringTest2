@@ -1,0 +1,66 @@
+<span id="time-span">03:35:36</span><span id="name-span">Moderator</span>Hello KK! 
+<span id="time-span">03:35:44</span><span id="name-span">KK</span>hello there 
+<span id="time-span">03:35:49</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">03:35:57</span><span id="name-span">KK</span>I am happy to help 
+<span id="time-span">03:36:02</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">03:36:15</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">03:36:17</span><span id="name-span">KK</span>Sounds good to me. 
+<span id="time-span">03:36:33</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">03:36:48</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">03:36:59</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">03:37:11</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">03:37:27</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">03:37:39</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">03:37:50</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">03:38:06</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">03:38:22</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">03:38:39</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">03:38:52</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">03:39:05</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">03:39:16</span><span id="name-span">KK</span>yes I do. 
+<span id="time-span">03:39:31</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">03:39:51</span><span id="name-span">KK</span>I am ready. 
+<span id="time-span">03:39:55</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:40:04</span><span id="name-span">KK</span>hello, how are you? 
+<span id="time-span">03:40:16</span><span id="name-span">Andrew</span>I&#039;m doing alright thank you. How about you? 
+<span id="time-span">03:40:33</span><span id="name-span">KK</span>I am well.  
+<span id="time-span">03:40:44</span><span id="name-span">Andrew</span>What are you up to tonight? 
+<span id="time-span">03:41:09</span><span id="name-span">KK</span>Not much, I am just hanging out and playing some video games. I might talk to some friends as well. 
+<span id="time-span">03:41:13</span><span id="name-span">KK</span>And yourself? 
+<span id="time-span">03:41:34</span><span id="name-span">Andrew</span>I&#039;m probably just going to watch TV and go to bed. 
+<span id="time-span">03:41:45</span><span id="name-span">KK</span>What are you watching? 
+<span id="time-span">03:42:20</span><span id="name-span">Andrew</span>Some youtube videos about Game of Thrones. Do you like that show? 
+<span id="time-span">03:43:27</span><span id="name-span">KK</span>It is a good show. I haven&#039;t been able to catch up with the latest season though. Do you know which season they are on?  What youtube videos? 
+<span id="time-span">03:44:31</span><span id="name-span">Andrew</span>There was the last episode of season 6 a couple of months ago. And I&#039;m just watching some videos about its plot and theories. 
+<span id="time-span">03:44:59</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">03:45:28</span><span id="name-span">KK</span>alrighty 
+<span id="time-span">03:45:42</span><span id="name-span">Moderator</span>Who do you think you were talking to? The Human or the AI? (This is not your final answer )
+<span id="time-span">03:45:48</span><span id="name-span">KK</span>AI 
+<span id="time-span">03:46:30</span><span id="name-span">Moderator</span>Alright. You&#039;ll be talking to the other actor now. Andrew will start, and you&#039;ll have 5 minutes to talk to him again. 
+<span id="time-span">03:46:45</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:46:56</span><span id="name-span">KK</span>Hello, How are you? 
+<span id="time-span">03:47:05</span><span id="name-span">Andrew</span>I&#039;m doing alright. How about you? 
+<span id="time-span">03:47:12</span><span id="name-span">KK</span>I am well.  
+<span id="time-span">03:47:22</span><span id="name-span">Andrew</span>Nice. What are you up to tonight? 
+<span id="time-span">03:47:53</span><span id="name-span">KK</span>I am just hanging around, playing some video games and may talk to some friends 
+<span id="time-span">03:48:03</span><span id="name-span">KK</span>And yourself? 
+<span id="time-span">03:48:30</span><span id="name-span">Andrew</span>I&#039;m just going to get to bed and watch TV I think. 
+<span id="time-span">03:48:54</span><span id="name-span">KK</span>Oh? What are you watching? 
+<span id="time-span">03:49:16</span><span id="name-span">Andrew</span>Some youtube videos about Game of Thrones. Do you know that show? 
+<span id="time-span">03:50:03</span><span id="name-span">KK</span>I do. So are you watching the show or videos about the show? 
+<span id="time-span">03:50:46</span><span id="name-span">Andrew</span>Videos about the show. I&#039;m done watching the show. So I&#039;m basically passing time until the next season is ready to be watched. 
+<span id="time-span">03:51:02</span><span id="name-span">KK</span>When is the next season? 
+<span id="time-span">03:51:22</span><span id="name-span">Andrew</span>I&#039;m not sure yet. I&#039;ve heard it would be delayed compared to the other ones though. 
+<span id="time-span">03:51:50</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">03:52:06</span><span id="name-span">KK</span>Ok 
+<span id="time-span">03:52:16</span><span id="name-span">Moderator</span>Which actor do you think you were talking to in the first conversation? The human or the AI? 
+<span id="time-span">03:52:26</span><span id="name-span">KK</span>human 
+<span id="time-span">03:52:45</span><span id="name-span">Moderator</span>Are you sure? 
+<span id="time-span">03:52:54</span><span id="name-span">KK</span>yes 
+<span id="time-span">03:53:09</span><span id="name-span">Moderator</span>Alright. Do you have any comments on why you chose this answer? 
+<span id="time-span">03:57:10</span><span id="name-span">KK</span>At first, I thought the first actor was AI because of the comparatively longer response times to more specific questions about the subject the actor chose compared to more basic questions.... 
+<span id="time-span">03:59:49</span><span id="name-span">KK</span>After talking to the second actor, I spotted inconsistency in the line of answering that was given that doesn&#039;t make much sense. It was only after I asked more that it was resolved  and even then...
+<span id="time-span">04:00:07</span><span id="name-span">KK</span>it still left more questions then answers. 
+<span id="time-span">04:01:13</span><span id="name-span">Moderator</span>I see. Thank you very much for participating! If you&#039;d like to see the results of this study, we can send you an e-mail. If you haven&#039;t filled the form, you can just put it here. 
+<span id="time-span">04:01:35</span><span id="name-span">KK</span>I would like to be emailed. 
+<span id="time-span">04:02:18</span><span id="name-span">Moderator</span>The results should be available in about a month. You can now close this window. Thank you again! 

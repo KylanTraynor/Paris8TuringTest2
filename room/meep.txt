@@ -1,0 +1,125 @@
+<span id="time-span">02:23:56</span><span id="name-span">meep</span>hey there 
+<span id="time-span">02:24:10</span><span id="name-span">meep</span>Hello? 
+<span id="time-span">02:24:12</span><span id="name-span">Moderator</span>Hello meep. 
+<span id="time-span">02:24:26</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">02:24:42</span><span id="name-span">meep</span>No problem, how are you? 
+<span id="time-span">02:24:57</span><span id="name-span">Moderator</span>I am good thanks. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">02:25:06</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">02:25:19</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">02:25:28</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">02:25:28</span><span id="name-span">meep</span>okay sounds good 
+<span id="time-span">02:25:37</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">02:25:45</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">02:25:53</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">02:26:00</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">02:26:01</span><span id="name-span">meep</span>sounds good 
+<span id="time-span">02:26:08</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">02:26:17</span><span id="name-span">Moderator</span>oth the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">02:26:25</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">02:26:32</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">02:26:40</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">02:26:48</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">02:26:55</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">02:27:03</span><span id="name-span">meep</span>okay sounds good 
+<span id="time-span">02:27:15</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">02:27:45</span><span id="name-span">meep</span>hello? 
+<span id="time-span">02:28:07</span><span id="name-span">Moderator</span>Yes, are you ready? 
+<span id="time-span">02:29:58</span><span id="name-span">meep</span>testing 
+<span id="time-span">02:30:23</span><span id="name-span">Moderator</span>Can you see? 
+<span id="time-span">02:31:40</span><span id="name-span">meep</span>I can see now 
+<span id="time-span">02:32:02</span><span id="name-span">Moderator</span>Good, I&#039;ll repost the rules and instructions 
+<span id="time-span">02:32:21</span><span id="name-span">Moderator</span>Can you still read that? 
+<span id="time-span">02:33:49</span><span id="name-span">meep</span>okay 
+<span id="time-span">02:34:58</span><span id="name-span">Moderator</span>Answer this as soon as you can 
+<span id="time-span">01:13:00</span><span id="name-span">meep</span>hello 
+<span id="time-span">01:13:14</span><span id="name-span">Moderator</span>Hello there! 
+<span id="time-span">01:13:20</span><span id="name-span">meep</span>How are you? 
+<span id="time-span">01:13:50</span><span id="name-span">Moderator</span>I&#039;m good thanks. I&#039;ll repost the rules and instructions now. 
+<span id="time-span">01:14:09</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">01:14:26</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">01:14:35</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">01:14:38</span><span id="name-span">meep</span>okay awesome 
+<span id="time-span">01:14:43</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">01:14:52</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">01:14:59</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">01:15:11</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">01:15:19</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">01:15:26</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">01:15:32</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">01:15:39</span><span id="name-span">meep</span>ok 
+<span id="time-span">01:15:40</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">01:15:46</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">01:15:53</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">01:16:00</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">01:16:07</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">01:16:24</span><span id="name-span">meep</span>yes 
+<span id="time-span">01:16:34</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready?  
+<span id="time-span">01:16:40</span><span id="name-span">meep</span>yes 
+<span id="time-span">01:16:44</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:16:50</span><span id="name-span">meep</span>Hi there, I&#039;m meep 
+<span id="time-span">01:17:06</span><span id="name-span">Andrew</span>Nice to meet you meep. How are you doing? 
+<span id="time-span">01:17:16</span><span id="name-span">meep</span>I&#039;m doing great. 
+<span id="time-span">01:17:25</span><span id="name-span">Andrew</span>Cool! What are you up to? 
+<span id="time-span">01:17:40</span><span id="name-span">meep</span>I&#039; m just laying in my bed, it&#039;s very hot outside
+<span id="time-span">01:18:12</span><span id="name-span">Andrew</span>Yeah, it&#039;s the same here actually. 
+<span id="time-span">01:18:28</span><span id="name-span">meep</span>Oh really? Where do you live? 
+<span id="time-span">01:18:46</span><span id="name-span">Andrew</span>In Ontario. London to be accurate. 
+<span id="time-span">01:19:22</span><span id="name-span">meep</span>Oh cool, I&#039;m in america 
+<span id="time-span">01:20:01</span><span id="name-span">Andrew</span>West coast or east coast? 
+<span id="time-span">01:20:12</span><span id="name-span">meep</span>East cost, massachusetts  
+<span id="time-span">01:20:41</span><span id="name-span">Andrew</span>Nice! 
+<span id="time-span">01:20:52</span><span id="name-span">meep</span>Doing anything fun this week? 
+<span id="time-span">01:21:37</span><span id="name-span">Andrew</span>I&#039;m not really sure yet. I&#039;ll probably need to find a summer job soon. 
+<span id="time-span">01:21:50</span><span id="name-span">meep</span>What kind of jobs are you looking at? 
+<span id="time-span">01:22:47</span><span id="name-span">Andrew</span>Anything really. I&#039;ve been working at the university&#039;s KFC during the year, I wouldn&#039;t mind something of the same kind for summer. 
+<span id="time-span">01:23:37</span><span id="name-span">meep</span>Why not just keep working there in the summer too? 
+<span id="time-span">01:24:17</span><span id="name-span">Andrew</span>They didn&#039;t need as many people. 
+<span id="time-span">01:25:20</span><span id="name-span">meep</span>Aww, that stinks 
+<span id="time-span">01:25:49</span><span id="name-span">Andrew</span>Yeah, but oh well. How about you, what do you do? 
+<span id="time-span">01:26:21</span><span id="name-span">meep</span>I work as a programmer for a furniture company 
+<span id="time-span">01:26:56</span><span id="name-span">Andrew</span>Oh that sounds quite cool. Creating it with people you know? 
+<span id="time-span">01:27:55</span><span id="name-span">meep</span>No, I just work for the big company, I&#039;m new to it 
+<span id="time-span">01:28:12</span><span id="name-span">Andrew</span>Yeah sorry, I read too fast and thought you said for a future company. 
+<span id="time-span">01:29:41</span><span id="name-span">meep</span>Hahaha that would be really cool 
+<span id="time-span">01:30:22</span><span id="name-span">Andrew</span>Yeah. I wouldn&#039;t mind being my own boss too... 
+<span id="time-span">01:31:13</span><span id="name-span">meep</span>It must be fun, but super stressful 
+<span id="time-span">01:31:17</span><span id="name-span">meep</span>[STOP] 
+<span id="time-span">01:31:34</span><span id="name-span">Moderator</span>Conversation Interrupted 
+<span id="time-span">01:31:43</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">01:32:26</span><span id="name-span">meep</span>Human this time 
+<span id="time-span">01:32:38</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the next conversation. Andrew will start and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">01:32:45</span><span id="name-span">meep</span>yes 
+<span id="time-span">01:32:51</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:33:18</span><span id="name-span">meep</span>Hi there how are you? 
+<span id="time-span">01:33:41</span><span id="name-span">Andrew</span>I&#039;m doing quite alright! How about you? 
+<span id="time-span">01:34:04</span><span id="name-span">meep</span>Good as well, what are you up to? 
+<span id="time-span">01:34:27</span><span id="name-span">Andrew</span>Not much honestly. Just watching an old show. 
+<span id="time-span">01:35:04</span><span id="name-span">meep</span>What show? 
+<span id="time-span">01:35:33</span><span id="name-span">Andrew</span>It&#039;s How I Met Your Mother. 
+<span id="time-span">01:36:16</span><span id="name-span">meep</span>I&#039;m not a fan of that show to be honest 
+<span id="time-span">01:36:38</span><span id="name-span">Andrew</span>Oh that&#039;s cool! 
+<span id="time-span">01:37:04</span><span id="name-span">meep</span>Why is that cool? 
+<span id="time-span">01:37:35</span><span id="name-span">Andrew</span>Well, I just think it is. 
+<span id="time-span">01:38:34</span><span id="name-span">meep</span>Okay, What&#039;s your favorite episode? 
+<span id="time-span">01:38:52</span><span id="name-span">Andrew</span>I&#039;m not sure I really have a favorite one actually. 
+<span id="time-span">01:39:30</span><span id="name-span">meep</span>Do you watch anything else? 
+<span id="time-span">01:39:57</span><span id="name-span">Andrew</span>Not really. I mostly play games. 
+<span id="time-span">01:41:17</span><span id="name-span">meep</span>What generas  do you like?
+<span id="time-span">01:41:34</span><span id="name-span">Andrew</span>What do you mean? 
+<span id="time-span">01:42:49</span><span id="name-span">meep</span>What kinds of video games do you like 
+<span id="time-span">01:43:20</span><span id="name-span">Andrew</span>I play a lot of Minecraft. Probably too much even, and in general, I like RPGs. You? 
+<span id="time-span">01:44:03</span><span id="name-span">meep</span>I like adventure and sandbox games 
+<span id="time-span">01:44:27</span><span id="name-span">Andrew</span>Did you play Minecraft then? 
+<span id="time-span">01:45:22</span><span id="name-span">meep</span>Not much anymore 
+<span id="time-span">01:45:39</span><span id="name-span">Andrew</span>Why not? 
+<span id="time-span">01:46:23</span><span id="name-span">meep</span>I get bored of it quickly 
+<span id="time-span">01:46:43</span><span id="name-span">Andrew</span>Oh I see, yeah. 
+<span id="time-span">01:47:24</span><span id="name-span">meep</span>[STOP] 
+<span id="time-span">01:47:41</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">01:47:52</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">01:48:36</span><span id="name-span">meep</span>Human 
+<span id="time-span">01:48:53</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">01:49:18</span><span id="name-span">meep</span>6 
+<span id="time-span">01:49:22</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">01:49:29</span><span id="name-span">meep</span>thanks! 
+<span id="time-span">01:49:38</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do it now, otherwise you can now close this window. 

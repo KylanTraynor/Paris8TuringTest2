@@ -1,0 +1,94 @@
+<span id="time-span">00:40:30</span><span id="name-span">Moderator</span>Hello Leonida Tavorth 
+<span id="time-span">00:40:33</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:40:40</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">00:41:08</span><span id="name-span">Leonidas Tavorth</span>Yes 
+<span id="time-span">00:41:13</span><span id="name-span">Moderator</span>Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:41:22</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:41:30</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:41:37</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:41:42</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:41:48</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:41:55</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:42:02</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:42:08</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:42:14</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:42:20</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:42:26</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">00:42:33</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">00:42:39</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:42:44</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">00:42:50</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:45:17</span><span id="name-span">Leonidas Tavorth</span>yes 
+<span id="time-span">00:45:24</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">00:45:34</span><span id="name-span">Leonidas Tavorth</span>yes 
+<span id="time-span">00:45:41</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:45:47</span><span id="name-span">Leonidas Tavorth</span>Hello 
+<span id="time-span">00:45:56</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:46:02</span><span id="name-span">Leonidas Tavorth</span>I&#039;m doing good. 
+<span id="time-span">00:46:17</span><span id="name-span">Andrew</span>What are you up to? That&#039;s cool! 
+<span id="time-span">00:46:29</span><span id="name-span">Leonidas Tavorth</span>Playing a game 
+<span id="time-span">00:46:39</span><span id="name-span">Andrew</span>Which game is it? 
+<span id="time-span">00:47:05</span><span id="name-span">Leonidas Tavorth</span>Friday the 13th game. 
+<span id="time-span">00:47:22</span><span id="name-span">Andrew</span>What is it about? I don&#039;t think I&#039;ve ever heard about it. 
+<span id="time-span">00:48:34</span><span id="name-span">Leonidas Tavorth</span>Its a game where you either kill camp counselors.  Or try  and escape from camp. 
+<span id="time-span">00:49:23</span><span id="name-span">Andrew</span>Is it an independent game? Sounds like a funny concept. 
+<span id="time-span">00:49:45</span><span id="name-span">Leonidas Tavorth</span>Its more of a game to play with friends. 
+<span id="time-span">00:50:03</span><span id="name-span">Andrew</span>Are you playing online then? Oh nice! 
+<span id="time-span">00:50:29</span><span id="name-span">Leonidas Tavorth</span>Oh yeah its an online game. Doesn&#039;t have an offline mode yet. 
+<span id="time-span">00:50:57</span><span id="name-span">Andrew</span>I might have to check it out eventually then. I see. 
+<span id="time-span">00:51:53</span><span id="name-span">Leonidas Tavorth</span>Yes, its pretty fun game. Just it tends to have a few problems. 
+<span id="time-span">00:52:09</span><span id="name-span">Andrew</span>Like what? Oh? 
+<span id="time-span">00:52:50</span><span id="name-span">Leonidas Tavorth</span>Oh the servers aren&#039;t stable at times. As well if the host leaves a game. It kicks everyone out. For it doesn&#039;t have a host migration to it. 
+<span id="time-span">00:53:57</span><span id="name-span">Andrew</span>Sounds fun nonetheless. What other games do you play? I see. 
+<span id="time-span">00:54:49</span><span id="name-span">Leonidas Tavorth</span>Oh I&#039;ve looking into Life is strange. 
+<span id="time-span">00:55:13</span><span id="name-span">Andrew</span>What is that one about? 
+<span id="time-span">00:56:18</span><span id="name-span">Leonidas Tavorth</span>Well its about a girl that can rewind time. As far I&#039;ve got is episode one.  But the looks of things a disaster  will strike soon.   
+<span id="time-span">00:56:50</span><span id="name-span">Andrew</span>Where do you find those games? That sounds pretty cool. 
+<span id="time-span">00:58:05</span><span id="name-span">Leonidas Tavorth</span>I&#039;ve found it on the psn store.  Life is strange is part of the ps plus membership for this month and friday the 13th you&#039;ve got to get digital for now. 
+<span id="time-span">00:58:55</span><span id="name-span">Andrew</span>I was hoping you could get them on Steam. Oh alright. 
+<span id="time-span">00:59:15</span><span id="name-span">Leonidas Tavorth</span>I think you can find them on steam. I haven&#039;t checked on there yet. 
+<span id="time-span">00:59:55</span><span id="name-span">Andrew</span>I play a lot of Minecraft myself. I&#039;ll make sure to check that out. 
+<span id="time-span">01:00:52</span><span id="name-span">Leonidas Tavorth</span>I used to play minecraft. But that got boring playing it alone. As well don&#039;t remember my pc account one. 
+<span id="time-span">01:01:00</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:01:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">01:02:08</span><span id="name-span">Leonidas Tavorth</span>human 
+<span id="time-span">01:02:20</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">01:17:46</span><span id="name-span">Leonidas Tavorth</span>yes 
+<span id="time-span">01:17:55</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:18:02</span><span id="name-span">Leonidas Tavorth</span>hello 
+<span id="time-span">01:18:08</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">01:18:15</span><span id="name-span">Leonidas Tavorth</span>I&#039;m doing fine. 
+<span id="time-span">01:18:30</span><span id="name-span">Andrew</span>Nice! What are you up to this evening? 
+<span id="time-span">01:18:43</span><span id="name-span">Leonidas Tavorth</span>Taking the time to talk with friends. 
+<span id="time-span">01:19:28</span><span id="name-span">Andrew</span>Yeah it&#039;s always nice. Speaking of I should do it more often... 
+<span id="time-span">01:19:49</span><span id="name-span">Leonidas Tavorth</span>Yeah, they can be a blast to talk to. 
+<span id="time-span">01:20:16</span><span id="name-span">Andrew</span>Have you known them for a long time? 
+<span id="time-span">01:20:33</span><span id="name-span">Leonidas Tavorth</span>Oh for a few years. 
+<span id="time-span">01:20:58</span><span id="name-span">Andrew</span>That&#039;s quite nice. Do you mind if I ask how old you are? 
+<span id="time-span">01:21:22</span><span id="name-span">Leonidas Tavorth</span>Think they are in they&#039;re mid 20s. Don&#039;t know they&#039;re ages. 
+<span id="time-span">01:21:44</span><span id="name-span">Andrew</span>No I meant your age, not theirs. 
+<span id="time-span">01:22:06</span><span id="name-span">Leonidas Tavorth</span>27 
+<span id="time-span">01:22:27</span><span id="name-span">Andrew</span>I&#039;m only 21. 
+<span id="time-span">01:22:56</span><span id="name-span">Leonidas Tavorth</span>Bit of a gap there. 
+<span id="time-span">01:23:33</span><span id="name-span">Andrew</span>Yeah. I&#039;m in college. I study Biology. What about you, what do you do? 
+<span id="time-span">01:24:03</span><span id="name-span">Leonidas Tavorth</span>I take care of animals.  As well is trying to be a streamer. 
+<span id="time-span">01:25:06</span><span id="name-span">Andrew</span>Both are very nice. What kind of care do you do? Is it for abandoned animals, just temporary shelter, or is it for a zoo? 
+<span id="time-span">01:25:52</span><span id="name-span">Leonidas Tavorth</span>Well I have taken in a stray cat  and gave it a home. But I also take care of chickens, goat, and a dog.
+<span id="time-span">01:26:44</span><span id="name-span">Andrew</span>That&#039;s very noble. And what kind of things do you stream? 
+<span id="time-span">01:27:11</span><span id="name-span">Leonidas Tavorth</span>I&#039;ve been trying to stream video games on twitch. Which I&#039;ve done one a month ago. 
+<span id="time-span">01:27:34</span><span id="name-span">Andrew</span>Which one was it? I mean, which video game? 
+<span id="time-span">01:27:53</span><span id="name-span">Leonidas Tavorth</span>Yooka-laylee. 
+<span id="time-span">01:28:08</span><span id="name-span">Andrew</span>I&#039;ve never heard of it. What is it about? 
+<span id="time-span">01:28:39</span><span id="name-span">Leonidas Tavorth</span>Oh its kind of like banjo and kazooie 
+<span id="time-span">01:29:00</span><span id="name-span">Andrew</span>Oh yeah I know that game. It&#039;s been a very long time since I played it though. 
+<span id="time-span">01:29:21</span><span id="name-span">Leonidas Tavorth</span>They have all three banjo and kazooie games on rare replay. 
+<span id="time-span">01:30:02</span><span id="name-span">Andrew</span>What do you mean by they? 
+<span id="time-span">01:32:17</span><span id="name-span">Leonidas Tavorth</span>People of Microsoft and Xbox.  Put almost all the rare games on xbox  platform. 
+<span id="time-span">01:32:43</span><span id="name-span">Andrew</span>Oh right. I don&#039;t have the Xbox unfortunately. Any of them. 
+<span id="time-span">01:33:05</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:33:31</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the FIRST conversation?  
+<span id="time-span">01:33:54</span><span id="name-span">Leonidas Tavorth</span>Human 
+<span id="time-span">01:34:07</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">01:34:18</span><span id="name-span">Leonidas Tavorth</span>4 
+<span id="time-span">01:34:26</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">01:34:32</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 

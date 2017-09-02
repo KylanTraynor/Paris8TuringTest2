@@ -1,0 +1,102 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Rex. ",13,
+Moderator,20,20,"Thank you for participating in this study. ",43,
+Moderator,39,19,"If you can see this, please say &quot;yes&quot; ",48,
+Rex,45,6,"Yes ",4,
+Moderator,50,5,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,60,10,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,67,7,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,73,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,84,11,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,98,14,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,107,9,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,115,8,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,125,10,"You will not be talking twice with the same Actor. ",51,
+Moderator,133,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,141,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,149,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,158,9,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,166,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,173,7,"Do not type more than one post per answer. ",43,
+Moderator,179,6,"Do you understand the rules and what you have to do? ",53,
+Rex,190,11,"yes ",4,
+Moderator,196,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Rex,210,14,"Yes ",4,
+Andrew,214,4,"Hello! ",7,
+Rex,236,22,"Hi there ",9,1
+Andrew,243,7,"How are you doing? ",19,1
+Rex,264,21,"I&#039;m doing well. How are you? ",34,1
+Andrew,281,17,"I&#039;m doing quite alright thanks. What are you up to? ",57,1
+Rex,319,38,"Not much. Just enjoying a quiet Saturday ",41,1
+Andrew,350,31,"Sounds quite good. That&#039;s pretty much the same for me actually. ",69,1
+Rex,410,60,"It&#039;s nice to enjoy some peace and quiet every now and then, isn&#039;t it? ",80,1
+Andrew,461,51,"Yeah. Without the stress of having to work on something or running everywhere. Simply enjoying yourself watching TV or playing games. ",134,1
+Rex,495,34,"Indeed. It&#039;s my favorite way to spend my time off ",55,1
+Andrew,527,32,"Do you like video games? ",25,1
+Rex,573,46,"I do, actually. They&#039;re my favorite pastime ",49,1
+Andrew,589,16,"Which ones in particular? Or what kind of games? ",49,1
+Rex,638,49,"I enjoy most genres. I&#039;ve recently started playing Halo again ",67,1
+Andrew,680,42,"Oh yeah I played the first three ones a while ago in co-op. ",60,1
+Rex,711,31,"That&#039;s cool. Which one is your favorite? ",46,1
+Andrew,747,36,"I&#039;m not entirely sure. I&#039;d say the third one, but I never got to finish it. ",86,1
+Rex,789,42,"Have you played any of the newer ones? ",39,1
+Andrew,811,22,"Unfortunately no. I don&#039;t have a Xbox One. ",48,1
+Rex,854,43,"Neither do I ",13,1
+Andrew,894,40,"I&#039;ve watched a playthrough of the fourth on youtube though. ",65,1
+Rex,960,66,"I didn&#039;t enjoy the fourth one very much. I haven&#039;t played the fifth, so I wouldn&#039;t know much about it ",117,1
+Andrew,995,35,"What is it you didn&#039;t like in the fourth? ",47,1
+Rex,1054,59,"The plot seemed pointless and the gameplay felt too generic. Overall just not very memorable ",93,1
+Moderator,1142,88,"Time is up! ",12,
+Moderator,1156,14,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Rex,1172,16,"The A.I. ",9,
+Moderator,1180,8,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Rex,1191,11,"Yes ",4,
+Andrew,1196,5,"Hello! ",7,
+Rex,1219,23,"Hello there ",12,2
+Andrew,1225,6,"How are you doing? ",19,2
+Rex,1251,26,"I&#039;m doing well, and you? ",30,2
+Andrew,1263,12,"I&#039;m doing quite alright. What are you up to? ",50,2
+Rex,1291,28,"Just sitting around, enjoying my afternoon ",43,2
+Andrew,1326,35,"Anything fun planned? ",22,2
+Rex,1357,31,"Other than sleeping in, not really ",35,2
+Andrew,1387,30,"Well, that&#039;s not bad. I could definitely use that. ",56,2
+Rex,1430,43,"I&#039;m sure. Are you up to anything interesting? ",51,2
+Andrew,1460,30,"Probably just going to play games actually. Do you play Minecraft? ",67,2
+Rex,1487,27,"I used to, but not so much anymore ",35,2
+Andrew,1506,19,"Why not? ",9,2
+Rex,1545,39,"I felt that it got repetitive quickly. Ran out of things to do ",63,2
+Andrew,1566,21,"Ah yeah that tends to happen unfortunately. ",44,2
+Rex,1599,33,"Are there any other games you enjoy? ",37,2
+Andrew,1640,41,"I only really play Minecraft, but lately I&#039;ve also been very much into Mass Effect. ",89,2
+Rex,1673,33,"Have you played the newest one? ",32,2
+Andrew,1700,27,"Yeah I have actually. ",22,2
+Rex,1729,29,"Did you enjoy it? I&#039;ve heard good and bad things about it ",63,2
+Andrew,1762,33,"I did yes. But it still deserves its reputation. It does have good and bad things. ",83,2
+Rex,1801,39,"What did you enjoy most about it? ",34,2
+Andrew,1829,28,"That&#039;s a good question actually. I&#039;m not entirely sure. ",66,2
+Rex,1872,43,"What system do you play it on? ",31,2
+Andrew,1904,32,"PC. That&#039;s where I play most of my games now. ",51,2
+Rex,1950,46,"I&#039;ve been wanting to get a new PC, but I don&#039;t quite have the funds at the moment ",92,2
+Andrew,2022,72,"Yeah they can be quite expensive. I think it&#039;s a really good idea if you want to enjoy plenty of nice games though. You don&#039;t need to get one that expensive to play the latest games on it. ",199,2
+Rex,2104,82,"Yeah, but I&#039;d like one that can handle pretty much any game and still have them look great. Also, one that will last a while ",130,2
+Andrew,2121,17,"Get a desktop computer then. ",29,2
+Moderator,2129,8,"Time is up! ",12,
+Moderator,2149,20,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Rex,2175,26,"Human ",6,
+Moderator,2182,7,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Rex,2190,8,"3 ",2,
+Moderator,2200,10,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2218,18,"If you have comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",112,
+Rex,2229,11,"Thanks for having me ",21,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,818,902,,,
+User Average,42.5833333333333,37.2857142857143,,,
+Actor Average,29.9090909090909,29.6923076923077,,,
+User Average (5min),35,29.6666666666667,,,
+Actor Average (5min),27.6,22,,,
+User CharLength,53.5833333333333,49.1428571428571,,,
+Actor CharLength,59.9090909090909,59.7692307692308,,,
+User CharLength (5min),43.8,34.3333333333333,,,
+Actor CharLength (5min),60.8,37.1666666666667,,,

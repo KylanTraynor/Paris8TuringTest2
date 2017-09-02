@@ -1,0 +1,106 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Xenorosth,0,0,"Morning. ",9,
+Moderator,11,11,"Welcome Xenorosth. ",19,
+Xenorosth,24,13,"Evening. ",9,
+Moderator,41,17,"Thank you for participating in this study. ",43,
+Moderator,50,9,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Xenorosth,61,11,"Okay.  ",7,
+Moderator,63,2,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,71,8,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,78,7,"You&#039;ll be talking to him twice. ",37,
+Moderator,90,12,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,99,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,107,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Xenorosth,107,0,"Understood.  ",13,
+Moderator,116,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,123,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,132,9,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,142,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,149,7,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Xenorosth,150,1,"Can I use any methods I want? ",30,
+Moderator,155,5,"Yes you can. ",13,
+Moderator,163,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Xenorosth,170,7,"Gotcha. ",8,
+Moderator,174,4,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,181,7,"Do not type more than one post per answer. ",43,
+Moderator,189,8,"Do you understand the rules and what you have to do? ",53,
+Xenorosth,189,0,"Can I try to trick the AI? ",27,
+Moderator,205,16,"You can try as long as you respect the rules above. ",52,
+Xenorosth,216,11,"Okay. Will do. ",15,
+Moderator,220,4,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Xenorosth,226,6,"Ready ",6,
+Andrew,229,3,"Hello! ",7,
+Xenorosth,235,6,"Evening. How are you? ",22,1
+Andrew,247,12,"I&#039;m doing quite alright! What about you? ",46,1
+Xenorosth,289,42,"Well enough. Just curious, are you good at math? ",49,1
+Andrew,302,13,"Ugh to some extent I guess. Why? ",33,1
+Xenorosth,327,25,"I&#039;m doing calculus.  ",26,1
+Andrew,344,17,"Oh that&#039;s cool! I study Biology. ",38,1
+Xenorosth,361,17,"What type? ",11,1
+Andrew,386,25,"Human Biology, and hopefully Neurobiology next year. ",53,1
+Xenorosth,401,15,"What&#039;s the difference? ",28,1
+Andrew,435,34,"Well, Human Biology is about the whole body. Neurobiology only focuses on the neural system. ",93,1
+Xenorosth,456,21,"Cotton candy? ",14,1
+Andrew,476,20,"Ugh? ",5,1
+Xenorosth,535,59,"Never mind. Tell me what do you know about human biology? Have you gone into mitochondria?  ",92,1
+Andrew,630,95,"Well, of course I have, doesn&#039;t everyone learn at least a bit about the mitochondria though? Don&#039;t need to be in Biology to know that. Do you have a more specific question though? ",190,1
+Xenorosth,709,79,"Nah. What do you know about neurons? ",37,1
+Andrew,806,97,"Well, they are structured around 3 main parts. The dentritic tree, the axon and the stoma. They are also one of the very few cells that you can keep for your entire life. ",171,1
+Xenorosth,833,27,"I think I&#039;m done. I need no more information with this Andrew. ",68,1
+Moderator,845,12,"Conversation Interrupted! ",26,
+Moderator,860,15,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Xenorosth,871,11,"The AI. ",8,
+Moderator,877,6,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Xenorosth,882,5,"Yes. ",5,
+Andrew,885,3,"Hello! ",7,
+Xenorosth,908,23,"Evening. How are you? ",22,2
+Andrew,924,16,"I&#039;m doing quite alright! What about you? ",46,2
+Xenorosth,952,28,"Well enough. What are you working on recently? ",47,2
+Andrew,970,18,"Mostly studying for the coming exams. ",38,2
+Xenorosth,983,13,"What exams do you have? ",24,2
+Andrew,1016,33,"Cellular Biology, Anatomy, Chemistry and Physiology. ",53,2
+Xenorosth,1041,25,"How good are you at math? ",26,2
+Andrew,1065,24,"I&#039;m alright I guess? Depends. ",35,2
+Xenorosth,1077,12,"How about Calculus? ",20,2
+Andrew,1101,24,"Well, it depends really. ",25,2
+Xenorosth,1126,25,"Do you like math? ",18,2
+Andrew,1141,15,"I do yes. From far away. ",25,2
+Xenorosth,1157,16,"From far away? ",15,2
+Andrew,1165,8,"Yup. ",5,2
+Xenorosth,1173,8,"From far away? ",15,2
+Andrew,1185,12,"Well yeah? ",11,2
+Xenorosth,1205,20,"Why the question mark?  ",24,2
+Andrew,1235,30,"Well I&#039;m wondering what you mean. ",39,2
+Xenorosth,1254,19,"Explain. ",9,2
+Andrew,1271,17,"Explain what? Mind elaborating a little bit? ",45,2
+Xenorosth,1288,17,"Explain your last statement please. ",36,2
+Andrew,1320,32,"I don&#039;t really see what you don&#039;t understand in it. It seems pretty obvious to me. ",93,2
+Xenorosth,1372,52,"Stop the convo. This one is more likely to be the AI. ",54,2
+Moderator,1382,10,"Conversation interrupted! ",26,
+Moderator,1392,10,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Xenorosth,1401,9,"Human. ",7,
+Moderator,1404,3,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Xenorosth,1417,13,"5 ",2,
+Moderator,1424,7,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Xenorosth,1438,14,"Who was who? Was I right? ",26,
+Moderator,1439,1,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+Xenorosth,1452,13,"Or am I not allowed to know? ",29,
+Moderator,1464,12,"I can give you the answer after you give comments, if you decide to give any. Otherwise I can tell you now. ",108,
+Xenorosth,1530,66,"Well, in conversation two, it&#039;s a common thing for robots to have a feature that makes an &quot;excuse&quot; for not being able to elaborate. The actor is VERY good at simulating certain actions an AI might do.",215,
+Moderator,1584,54,"Is this all? ",13,
+Xenorosth,1638,54,"I think the last thing is that there is a slightly situation where it&#039;s very clear &quot;Andrew&quot; either coded the robot, or has access to what he&#039;d say, considering the mimicked approach.  ",204,
+Xenorosth,1647,9,"That&#039;s all. ",17,
+Moderator,1672,25,"Alright. You were correct. The actual human was the first conversation. ",72,
+Xenorosth,1706,34,"Thanks. Enjoyed it. Closing the window! ",40,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,598,464,,,
+User Average,32.3333333333333,21.5,,,
+Actor Average,39.125,20.8181818181818,,,
+User Average (5min),26.4285714285714,18.8888888888889,,,
+Actor Average (5min),20.1666666666667,18.75,,,
+User CharLength,38.5555555555556,25.8333333333333,,,
+Actor CharLength,78.625,37.7272727272727,,,
+User CharLength (5min),25,23.4444444444444,,,
+Actor CharLength (5min),44.6666666666667,29.75,,,

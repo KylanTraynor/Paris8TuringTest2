@@ -1,0 +1,78 @@
+<span id="time-span">13:28:10</span><span id="name-span">Moderator</span>Hello Robopanda 
+<span id="time-span">13:28:17</span><span id="name-span">Robopanda</span>And I have appeared. 
+<span id="time-span">13:28:22</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">13:28:36</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">13:28:42</span><span id="name-span">Robopanda</span>Yep 
+<span id="time-span">13:28:53</span><span id="name-span">Moderator</span>Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">13:29:02</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">13:29:12</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">13:29:13</span><span id="name-span">Robopanda</span>Okie dokie 
+<span id="time-span">13:29:21</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">13:29:28</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">13:29:37</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">13:29:45</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">13:29:51</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">13:29:58</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">13:30:06</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">13:30:13</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">13:30:20</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">13:30:27</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">13:30:36</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">13:30:44</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">13:30:51</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">13:31:00</span><span id="name-span">Robopanda</span>Yep. 
+<span id="time-span">13:31:05</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">13:31:13</span><span id="name-span">Robopanda</span>Yep. 
+<span id="time-span">13:31:18</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">13:31:27</span><span id="name-span">Robopanda</span>Yo, how&#039;re you doing? 
+<span id="time-span">13:31:40</span><span id="name-span">Andrew</span>I&#039;m doing alright! How about you? 
+<span id="time-span">13:32:06</span><span id="name-span">Robopanda</span>I&#039;m pretty good. So, are you a male or female? The name Andrew makes me think male, but you never really know ya know? 
+<span id="time-span">13:32:30</span><span id="name-span">Andrew</span>Ahah yes, I&#039;m male. You? 
+<span id="time-span">13:33:06</span><span id="name-span">Robopanda</span>Male as-well. Do you have anything you&#039;d like to be answered in particular? 
+<span id="time-span">13:33:41</span><span id="name-span">Andrew</span>It&#039;s up to you really. How old are you? 
+<span id="time-span">13:34:04</span><span id="name-span">Robopanda</span>I&#039;m 19. How would you describe the color grey? 
+<span id="time-span">13:34:57</span><span id="name-span">Andrew</span>Well, it depends to whom I&#039;d be talking to. If they are not blind I&#039;d say it&#039;s between white and black, but if they are blind it&#039;s hard to describe a color anyway. 
+<span id="time-span">13:36:18</span><span id="name-span">Robopanda</span>That&#039;s true. And it is quite an in-between, isn&#039;t it? So many shades. Some people would say that grey is boring. But there are so many things that are just called &#039;grey&#039;. 
+<span id="time-span">13:37:30</span><span id="name-span">Andrew</span>Indeed, so many shades of Grey! 
+<span id="time-span">13:38:32</span><span id="name-span">Robopanda</span>That&#039;s one of the reasons it&#039;s my favorite color. There are so many ways you can look at grey that can change by the light-level and so many other factors, it&#039;s so... simple, but complicated. 
+<span id="time-span">13:39:53</span><span id="name-span">Andrew</span>It&#039;s also very classy and a bit mysterious. 
+<span id="time-span">13:40:25</span><span id="name-span">Robopanda</span>Mm, that&#039;s also true. Do you have a favorite color? Do you prefer warm or cool colors? 
+<span id="time-span">13:41:32</span><span id="name-span">Andrew</span>I don&#039;t think I really have a favorite color actually. It really depends on what you&#039;d apply it to. In general I like blue and purple though, but I can&#039;t really say they are my favorite colors either.
+<span id="time-span">13:42:30</span><span id="name-span">Robopanda</span>Hmm, very nice to know. So you tend to prefer cooler colors. A friend of mine tends to associate purple with me, for one reason or another. 
+<span id="time-span">13:43:12</span><span id="name-span">Andrew</span>I wonder why. I know someone who loves purple so much that I try to wear something of that color each time I see her. 
+<span id="time-span">13:44:10</span><span id="name-span">Robopanda</span>Well that&#039;s always a nice thing to do for a friend. Do you enjoy video games? 
+<span id="time-span">13:44:40</span><span id="name-span">Andrew</span>I do yes. I spend a lot of my time on Minecraft. 
+<span id="time-span">13:45:38</span><span id="name-span">Robopanda</span>Mm, I don&#039;t particularly like minecraft. I need something with a bit more direction. Like Colony Sims where you have to survive, or RPGs where you have to take on the big bad. 
+<span id="time-span">13:46:08</span><span id="name-span">Andrew</span>Right, I&#039;ve finished the last Mass Effect a little while ago. 
+<span id="time-span">13:46:31</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">13:46:48</span><span id="name-span">Robopanda</span>Mm, I think that&#039;s the AI. 
+<span id="time-span">13:47:06</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">13:47:16</span><span id="name-span">Robopanda</span>Yup 
+<span id="time-span">13:47:21</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">13:47:47</span><span id="name-span">Robopanda</span>Yo, what&#039;s up? 
+<span id="time-span">13:48:09</span><span id="name-span">Andrew</span>How are you doing? Not much! 
+<span id="time-span">13:48:43</span><span id="name-span">Robopanda</span>I&#039;m pretty good. So, do you prefer warm colors or cool colors? 
+<span id="time-span">13:49:11</span><span id="name-span">Andrew</span>I guess it depends on the context, I&#039;m not really sure. 
+<span id="time-span">13:49:45</span><span id="name-span">Robopanda</span>Mm, I see I see. No problem there, then. Do you enjoy FPS games? 
+<span id="time-span">13:50:51</span><span id="name-span">Andrew</span>Not really no. I play a lot of Minecraft, and I tend to prefer RPGs. 
+<span id="time-span">13:51:18</span><span id="name-span">Robopanda</span>Mm, RPGs can be quite fun. What would you say is your favorite RPG? 
+<span id="time-span">13:52:14</span><span id="name-span">Andrew</span>What about you? The last one I played was Mass Effect and I like the Final Fantasy series in general. 
+<span id="time-span">13:53:20</span><span id="name-span">Robopanda</span>Mm, I like Colony Sims and RPGs, one of my favorites is Skyrim when it comes to RPGs, and for colony Sims I grew up with Virtual Villagers  and I&#039;ve been playing a lot of RimWorld lately.
+<span id="time-span">13:53:57</span><span id="name-span">Andrew</span>Except for Skyrim, I don&#039;t know any of those. 
+<span id="time-span">13:55:06</span><span id="name-span">Robopanda</span>Virtual Villagers is an older game, it&#039;s actually a series now with five games in it and the first one now having the title &#039;Origins&#039;. RimWorld is an early access game. 
+<span id="time-span">13:55:44</span><span id="name-span">Andrew</span>What do you do in them? Oh alright. 
+<span id="time-span">13:56:35</span><span id="name-span">Robopanda</span>With Virtual Villagers you control a little colony, starting with 12 people, and try to make it so that they can all survive. RimWorld is similar, but much less hands-on, setting goals instead of cont
+<span id="time-span">13:57:12</span><span id="name-span">Andrew</span>It sounds a bit like another game I played called Banished. 
+<span id="time-span">13:57:54</span><span id="name-span">Robopanda</span>Banished is similar to the two, but it&#039;s also a lot different. It&#039;s harder than Virtual Villagers, for one, and you have so many more people, and you can&#039;t customize them to much of a degree. 
+<span id="time-span">13:59:02</span><span id="name-span">Andrew</span>I might have to try those games later then. Right I see. 
+<span id="time-span">13:59:58</span><span id="name-span">Robopanda</span>Mmhmm. You can get the first Virtual Villagers for free on mobile. 
+<span id="time-span">14:00:33</span><span id="name-span">Andrew</span>What kind of mobile? 
+<span id="time-span">14:00:54</span><span id="name-span">Robopanda</span>Android, I don&#039;t know about apple. 
+<span id="time-span">14:01:38</span><span id="name-span">Andrew</span>Thanks for the advice! Ok good. 
+<span id="time-span">14:02:31</span><span id="name-span">Robopanda</span>[STOP] 
+<span id="time-span">14:02:47</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">14:02:57</span><span id="name-span">Robopanda</span>Actore Two is the AI. 
+<span id="time-span">14:03:17</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">14:03:23</span><span id="name-span">Robopanda</span>6 
+<span id="time-span">14:03:32</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">14:03:53</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 

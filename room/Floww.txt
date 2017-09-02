@@ -1,0 +1,99 @@
+<span id="time-span">21:55:19</span><span id="name-span">Moderator</span>Welcome Floww. 
+<span id="time-span">21:55:28</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">21:55:46</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">21:55:49</span><span id="name-span">Floww</span>Yup! 
+<span id="time-span">21:55:53</span><span id="name-span">Moderator</span>Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">21:55:59</span><span id="name-span">Floww</span>Sounds good 
+<span id="time-span">21:56:08</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">21:56:14</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">21:56:20</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">21:56:27</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">21:56:35</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">21:56:42</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">21:56:49</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">21:56:59</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">21:57:06</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">21:57:23</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">21:57:30</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">21:57:37</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">21:57:45</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">21:57:52</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">21:58:01</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">21:58:28</span><span id="name-span">Floww</span>I understand. Do I talk with the actors normally or do I do it with the intent of finding out who is human and robot? 
+<span id="time-span">21:58:54</span><span id="name-span">Moderator</span>It is up to you really. 
+<span id="time-span">21:59:06</span><span id="name-span">Floww</span>Sounds good! I&#039;m ready. 
+<span id="time-span">21:59:13</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. 
+<span id="time-span">21:59:40</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:59:56</span><span id="name-span">Floww</span>Hey Andrew! 
+<span id="time-span">22:00:05</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">22:00:28</span><span id="name-span">Floww</span>I&#039;m doing good. Are you the human or the robot? 
+<span id="time-span">22:00:59</span><span id="name-span">Andrew</span>I&#039;m the human, but do you think I would I tell you if I was the robot? 
+<span id="time-span">22:01:50</span><span id="name-span">Floww</span>That&#039;d make this a lot easier, wouldn&#039;t it? Are you able to parse speling erors? 
+<span id="time-span">22:02:31</span><span id="name-span">Andrew</span>You mean if I&#039;m still able to understand what you&#039;re saying when you fuck up spelling? Depends, but that one yes. 
+<span id="time-span">22:03:23</span><span id="name-span">Floww</span>Do the human actors work with the study too? Or do they pair up two random humans with each other and substitute our names with Andrew? 
+<span id="time-span">22:03:52</span><span id="name-span">Andrew</span>What? 
+<span id="time-span">22:04:20</span><span id="name-span">Floww</span>We&#039;re here for a study right? 
+<span id="time-span">22:04:31</span><span id="name-span">Andrew</span>You are I guess. 
+<span id="time-span">22:04:38</span><span id="name-span">Floww</span>What are you here for? 
+<span id="time-span">22:04:58</span><span id="name-span">Andrew</span>Talking to you. 
+<span id="time-span">22:05:12</span><span id="name-span">Floww</span>You&#039;re participating in the study too aren&#039;t you? 
+<span id="time-span">22:05:34</span><span id="name-span">Andrew</span>Well, I&#039;m Andrew. 
+<span id="time-span">22:06:07</span><span id="name-span">Floww</span>Do the human actors work with the study too? Or do they pair up two random humans with each other and substitute our names with Andrew? 
+<span id="time-span">22:06:28</span><span id="name-span">Andrew</span>I don&#039;t know what you&#039;re talking about man. 
+<span id="time-span">22:06:45</span><span id="name-span">Moderator</span>[ You&#039;re not talking to the actor, you&#039;re talking to the character of Andrew ] 
+<span id="time-span">22:07:13</span><span id="name-span">Floww</span>Andrew, what do you like to do? 
+<span id="time-span">22:07:44</span><span id="name-span">Andrew</span>Video games mostly. I play way too much Minecraft. What about you? 
+<span id="time-span">22:08:06</span><span id="name-span">Floww</span>Same. 
+<span id="time-span">22:08:18</span><span id="name-span">Andrew</span>Oh really? What do you like to do in it? 
+<span id="time-span">22:08:34</span><span id="name-span">Floww</span>Mine. 
+<span id="time-span">22:08:50</span><span id="name-span">Andrew</span>Ah ok. No building or anything? 
+<span id="time-span">22:09:05</span><span id="name-span">Floww</span>No. 
+<span id="time-span">22:09:32</span><span id="name-span">Andrew</span>Ah. Well... ok. 
+<span id="time-span">22:09:49</span><span id="name-span">Floww</span>Ok. 
+<span id="time-span">22:10:02</span><span id="name-span">Andrew</span>So... what are you up to today? 
+<span id="time-span">22:10:47</span><span id="name-span">Floww</span>[STOP] I&#039;d like to talk to the second actor please. Thank you Andrew! 
+<span id="time-span">22:11:00</span><span id="name-span">Moderator</span>Conversation interrupted!  
+<span id="time-span">22:11:09</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">22:12:11</span><span id="name-span">Floww</span>I think I&#039;ve been talking to a human. Towards the end I tried to &quot;bore&quot; him, and I think being able to recognize when a conversation isn&#039;t going anywhere and changing the topic to something more- 
+<span id="time-span">22:12:46</span><span id="name-span">Floww</span>general is a human concept. I don&#039;t think most AI robots would do that, and keep trying to circle the conversation around the dead topic.  
+<span id="time-span">22:13:11</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">22:13:30</span><span id="name-span">Floww</span>Yup! 
+<span id="time-span">22:13:40</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">22:14:46</span><span id="name-span">Floww</span>Hey Andrew. You know, you open up the exact same way as the Andrew I spoke to before. Exclamation mark and everything. 
+<span id="time-span">22:15:48</span><span id="name-span">Andrew</span>Oh really? Well, I could say that it&#039;s cool, but I feel like that other Andrew might be copying me. 
+<span id="time-span">22:16:09</span><span id="name-span">Floww</span>That&#039;d be a bit hard to believe since you&#039;re the one going second... 
+<span id="time-span">22:16:21</span><span id="name-span">Andrew</span>Well... this time I am. 
+<span id="time-span">22:17:27</span><span id="name-span">Floww</span>So, wouldn&#039;t it be crazy if both of you were different AIs and this study is just to see which one is more believable? 
+<span id="time-span">22:17:54</span><span id="name-span">Andrew</span>Well I&#039;m not an AI, so I don&#039;t really see that happening. 
+<span id="time-span">22:18:27</span><span id="name-span">Floww</span>What&#039;s something that human Andrew would know that AI Andrew wouldn&#039;t? 
+<span id="time-span">22:19:50</span><span id="name-span">Andrew</span>Well.. I don&#039;t really know? That I&#039;m awesome and he&#039;s lame? 
+<span id="time-span">22:20:38</span><span id="name-span">Floww</span>Why would he be lame? You guys are both supposed to be the same person right? 
+<span id="time-span">22:21:05</span><span id="name-span">Andrew</span>I don&#039;t know, I&#039;m just pulling things out of my ass at this point. 
+<span id="time-span">22:22:40</span><span id="name-span">Floww</span>Hmm, the other Andrew swore too. Is that added in to make the conversation seem more &quot;human&quot;? I guess if I was a programmer I&#039;d try to sneak in something small like that here and there to throw people
+<span id="time-span">22:23:25</span><span id="name-span">Andrew</span>I probably would too yeah. It&#039;s not like it&#039;s hard to add. 
+<span id="time-span">22:25:20</span><span id="name-span">Floww</span>Hmm, this is pretty hard to guess. What personality is &quot;Andrew&quot; supposed to have anyway? 
+<span id="time-span">22:26:00</span><span id="name-span">Andrew</span>You&#039;re asking me? Well I don&#039;t really know how to define my personality... 
+<span id="time-span">22:27:06</span><span id="name-span">Floww</span>Three words. I&#039;m sure you&#039;ve seen variants of that before. 
+<span id="time-span">22:27:21</span><span id="name-span">Andrew</span>How so? 
+<span id="time-span">22:28:17</span><span id="name-span">Floww</span>Am I changing the topic? 
+<span id="time-span">22:28:39</span><span id="name-span">Andrew</span>I&#039;m not sure. I&#039;m a bit confused right now. Are you? 
+<span id="time-span">22:29:25</span><span id="name-span">Floww</span>Hmm... what would you say is your earliest childhood memory? 
+<span id="time-span">22:29:53</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">22:30:05</span><span id="name-span">Floww</span>Haha, okay. 
+<span id="time-span">22:30:07</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">22:30:17</span><span id="name-span">Floww</span>I think I was talking to the human. 
+<span id="time-span">22:30:29</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">22:30:44</span><span id="name-span">Floww</span>I&#039;d say 5. 
+<span id="time-span">22:31:03</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">22:31:18</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 
+<span id="time-span">22:31:29</span><span id="name-span">Floww</span>Do I get to know who the human was? 
+<span id="time-span">22:31:46</span><span id="name-span">Moderator</span>After your comments, or if you have none I can tell you right now 
+<span id="time-span">22:32:37</span><span id="name-span">Floww</span>I think both of them are pretty believable. The single thing that made me think #2 was a robot was he didn&#039;t know how to describe his personality. 
+<span id="time-span">22:33:09</span><span id="name-span">Moderator</span>Alright! Is that it? 
+<span id="time-span">22:33:37</span><span id="name-span">Floww</span>&quot;Andrew&quot; seems to be a decently sociable guy, and most people like to talk about themselves. I feel like it&#039;s a question that most people would get and be prepared for. 
+<span id="time-span">22:33:38</span><span id="name-span">Floww</span>That&#039;s it! 
+<span id="time-span">22:33:56</span><span id="name-span">Moderator</span>(I wouldn&#039;t be) 
+<span id="time-span">22:34:16</span><span id="name-span">Moderator</span>But, the first conversation was with the human! 
+<span id="time-span">22:35:28</span><span id="name-span">Floww</span>Haha. Well, the second one was really convincing too! I think the first one used Ah a few times too. 
+<span id="time-span">22:36:01</span><span id="name-span">Moderator</span>Maybe! Thanks for your help anyway! 
+<span id="time-span">22:36:33</span><span id="name-span">Floww</span>Thanks! 

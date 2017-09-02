@@ -1,0 +1,138 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+meep,0,0,"hey there ",10,
+meep,14,14,"Hello? ",7,
+Moderator,16,2,"Hello meep. ",12,
+Moderator,30,14,"Thank you for participating in this study. ",43,
+meep,46,16,"No problem, how are you? ",25,
+Moderator,61,15,"I am good thanks. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",122,
+Moderator,70,9,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,83,13,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,92,9,"You&#039;ll be talking to him twice. ",37,
+meep,92,0,"okay sounds good ",17,
+Moderator,101,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,109,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,117,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,124,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+meep,125,1,"sounds good ",12,
+Moderator,132,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,141,9,"oth the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",119,
+Moderator,149,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,156,7,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,164,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,172,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,179,7,"Do not type more than one post per answer. ",43,
+meep,187,8,"okay sounds good ",17,
+Moderator,199,12,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+meep,229,30,"hello? ",7,
+Moderator,251,22,"Yes, are you ready? ",20,
+meep,362,111,"testing ",8,
+Moderator,387,25,"Can you see? ",13,
+meep,464,77,"I can see now ",14,
+Moderator,486,22,"Good, I&#039;ll repost the rules and instructions ",50,
+Moderator,505,19,"Can you still read that? ",25,
+meep,593,88,"okay ",5,
+Moderator,662,69,"Answer this as soon as you can ",31,
+meep,-4256,-4918,"hello ",6,
+Moderator,-4242,14,"Hello there! ",13,
+meep,-4236,6,"How are you? ",13,
+Moderator,-4206,30,"I&#039;m good thanks. I&#039;ll repost the rules and instructions now. ",71,
+Moderator,-4187,19,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,-4170,17,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,-4161,9,"You&#039;ll be talking to him twice. ",37,
+meep,-4158,3,"okay awesome ",13,
+Moderator,-4153,5,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,-4144,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,-4137,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,-4125,12,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,-4117,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,-4110,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,-4104,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+meep,-4097,7,"ok ",3,
+Moderator,-4096,1,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,-4090,6,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,-4083,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,-4076,7,"Do not type more than one post per answer. ",43,
+Moderator,-4069,7,"Do you understand the rules and what you have to do? ",53,
+meep,-4052,17,"yes ",4,
+Moderator,-4042,10,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready?  ",103,
+meep,-4036,6,"yes ",4,
+Andrew,-4032,4,"Hello! ",7,
+meep,-4026,6,"Hi there, I&#039;m meep ",24,1
+Andrew,-4010,16,"Nice to meet you meep. How are you doing? ",42,1
+meep,-4000,10,"I&#039;m doing great. ",22,1
+Andrew,-3991,9,"Cool! What are you up to? ",26,1
+meep,-3976,15,"I&#039; m just laying in my bed, it&#039;s very hot outside",59,1
+Andrew,-3944,32,"Yeah, it&#039;s the same here actually. ",40,1
+meep,-3928,16,"Oh really? Where do you live? ",30,1
+Andrew,-3910,18,"In Ontario. London to be accurate. ",35,1
+meep,-3874,36,"Oh cool, I&#039;m in america ",29,1
+Andrew,-3835,39,"West coast or east coast? ",26,1
+meep,-3824,11,"East cost, massachusetts  ",26,1
+Andrew,-3795,29,"Nice! ",6,1
+meep,-3784,11,"Doing anything fun this week? ",30,1
+Andrew,-3739,45,"I&#039;m not really sure yet. I&#039;ll probably need to find a summer job soon. ",81,1
+meep,-3726,13,"What kind of jobs are you looking at? ",38,1
+Andrew,-3669,57,"Anything really. I&#039;ve been working at the university&#039;s KFC during the year, I wouldn&#039;t mind something of the same kind for summer. ",146,1
+meep,-3619,50,"Why not just keep working there in the summer too? ",51,1
+Andrew,-3579,40,"They didn&#039;t need as many people. ",38,1
+meep,-3516,63,"Aww, that stinks ",17,1
+Andrew,-3487,29,"Yeah, but oh well. How about you, what do you do? ",50,1
+meep,-3455,32,"I work as a programmer for a furniture company ",47,1
+Andrew,-3420,35,"Oh that sounds quite cool. Creating it with people you know? ",61,1
+meep,-3361,59,"No, I just work for the big company, I&#039;m new to it ",56,1
+Andrew,-3344,17,"Yeah sorry, I read too fast and thought you said for a future company. ",71,1
+meep,-3255,89,"Hahaha that would be really cool ",33,1
+Andrew,-3214,41,"Yeah. I wouldn&#039;t mind being my own boss too... ",52,1
+meep,-3163,51,"It must be fun, but super stressful ",36,1
+meep,-3159,4,"[STOP] ",7,
+Moderator,-3142,17,"Conversation Interrupted ",25,
+Moderator,-3133,9,"Which actor do you think you&#039;ve been talking to? ",54,
+meep,-3090,43,"Human this time ",16,
+Moderator,-3078,12,"Alright. We&#039;ll begin the next conversation. Andrew will start and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+meep,-3071,7,"yes ",4,
+Andrew,-3065,6,"Hello! ",7,
+meep,-3038,27,"Hi there how are you? ",22,2
+Andrew,-3015,23,"I&#039;m doing quite alright! How about you? ",45,2
+meep,-2992,23,"Good as well, what are you up to? ",34,2
+Andrew,-2969,23,"Not much honestly. Just watching an old show. ",46,2
+meep,-2932,37,"What show? ",11,2
+Andrew,-2903,29,"It&#039;s How I Met Your Mother. ",33,2
+meep,-2860,43,"I&#039;m not a fan of that show to be honest ",45,2
+Andrew,-2838,22,"Oh that&#039;s cool! ",21,2
+meep,-2812,26,"Why is that cool? ",18,2
+Andrew,-2781,31,"Well, I just think it is. ",26,2
+meep,-2722,59,"Okay, What&#039;s your favorite episode? ",41,2
+Andrew,-2704,18,"I&#039;m not sure I really have a favorite one actually. ",57,2
+meep,-2666,38,"Do you watch anything else? ",28,2
+Andrew,-2639,27,"Not really. I mostly play games. ",33,2
+meep,-2559,80,"What generas  do you like?",26,2
+Andrew,-2542,17,"What do you mean? ",18,2
+meep,-2467,75,"What kinds of video games do you like ",38,2
+Andrew,-2436,31,"I play a lot of Minecraft. Probably too much even, and in general, I like RPGs. You? ",85,2
+meep,-2393,43,"I like adventure and sandbox games ",35,2
+Andrew,-2369,24,"Did you play Minecraft then? ",29,2
+meep,-2314,55,"Not much anymore ",17,2
+Andrew,-2297,17,"Why not? ",9,2
+meep,-2253,44,"I get bored of it quickly ",26,2
+Andrew,-2233,20,"Oh I see, yeah. ",16,2
+meep,-2192,41,"[STOP] ",7,2
+Moderator,-2175,17,"Conversation interrupted! ",26,
+Moderator,-2164,11,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+meep,-2120,44,"Human ",6,
+Moderator,-2103,17,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+meep,-2078,25,"6 ",2,
+Moderator,-2074,4,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+meep,-2067,7,"thanks! ",8,
+Moderator,-2058,9,"If you have any comments you&#039;d like to share, feel free to do it now, otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,863,846,,,
+User Average,33,45.4615384615385,,,
+Actor Average,31.3076923076923,23.5,,,
+User Average (5min),14.75,31.2,,,
+Actor Average (5min),26.8571428571429,25.6,,,
+User CharLength,35.5714285714286,26.7692307692308,,,
+Actor CharLength,51.8461538461538,34.8333333333333,,,
+User CharLength (5min),31.4285714285714,26,,,
+Actor CharLength (5min),36.5714285714286,34.2,,,

@@ -1,0 +1,109 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome FelixKitty ",19,
+FelixKitty,9,9,"Test ",5,
+Moderator,12,3,"Thank you for participating in this study. ",43,
+Moderator,22,10,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,30,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,36,6,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,42,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,51,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,57,6,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,64,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,70,6,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,77,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,85,8,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,91,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,98,7,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,106,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,114,8,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,120,6,"Do not type more than one post per answer. ",43,
+Moderator,125,5,"Do you understand the rules and what you have to do? ",53,
+FelixKitty,131,6,"YEs ",4,
+Moderator,135,4,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+FelixKitty,143,8,"Yes ",4,
+Andrew,150,7,"Hello! ",7,
+FelixKitty,156,6,"Hello there! ",13,1
+Andrew,168,12,"How are you doing? ",19,1
+FelixKitty,175,7,"I&#039;m doing alright, how about yourself? ",44,1
+Andrew,188,13,"I&#039;m doing quite alright! What are you up to? ",50,1
+FelixKitty,201,13,"Nothing much right now, myself. What about you? ",48,1
+Andrew,226,25,"Ah alright. I&#039;m playing a little bit of Minecraft. ",56,1
+FelixKitty,249,23,"Oh nice! Up to anything neat with it? ",38,1
+Andrew,272,23,"I&#039;ve been walking around in circle for a bit now. I&#039;m not sure yet. ",78,1
+FelixKitty,284,12,"Trying to decide what to build? ",32,1
+Andrew,314,30,"Do you play it too? Yeah pretty much. ",38,1
+FelixKitty,334,20,"I do, though not as much as I used to. I haven&#039;t had the motivation to work on my projects ",96,1
+Andrew,351,17,"What kind of projects? ",23,1
+FelixKitty,383,32,"One&#039;s a starship, another is a light rail network, and the third one is a custom recreation of a facility from a book I read in middle school ",147,1
+Andrew,433,50,"How long have you been working on those? That is pretty cool actually. ",71,1
+FelixKitty,473,40,"The first two, on and off since 2013. The other one, I started late last year and haven&#039;t come very far with it ",117,1
+Andrew,524,51,"That must be a very big airship. That&#039;s a lot of work then! ",65,1
+FelixKitty,584,60,"Yup! And it&#039;s all been by hand, which is a huge factor of the time to build these projects. ",97,1
+Andrew,618,34,"Oh yeah. There are ways to make it a lot easier. You&#039;ve never been tempted to? ",84,1
+FelixKitty,649,31,"I&#039;ve been tempted, but I view it as sort of cheating the effort really. Plus, it&#039;s easier if I have to go back and redesign something. ",145,1
+Andrew,701,52,"You don&#039;t play survival at all? And yeah fair enough. ",59,1
+FelixKitty,752,51,"I play it here and there, but it&#039;s vanilla Minecraft when I do ",68,1
+Andrew,810,58,"Do you play on a server at all? It can be quite boring. ",56,1
+FelixKitty,825,15,"Not usually. Most of the time it&#039;s by myself. ",51,1
+Andrew,846,21,"That might be why you have a lack of motivation. ",49,1
+FelixKitty,878,32,"Maybe, but part of it is just not knowing where to go from where I&#039;m at now ",81,1
+Andrew,911,33,"Do you play anything else? Yeah I see. ",39,1
+FelixKitty,954,43,"Not too many other games really. I&#039;m not much of a gamer.  ",64,1
+Andrew,975,21,"What do you like to be doing? ",30,1
+FelixKitty,1008,33,"Mostly chatting online, or building stuff in Lego Digital Designer. ",68,1
+Andrew,1043,35,"What is that? I&#039;ve never heard of it. ",43,1
+Moderator,1067,24,"Time is up! ",12,
+Moderator,1087,20,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+FelixKitty,1117,30,"The Artificial Intelligence ",28,
+Moderator,1124,7,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+FelixKitty,1133,9,"Yes ",4,
+Andrew,1138,5,"Hello! ",7,
+FelixKitty,1157,19,"Hiya! ",6,2
+Andrew,1169,12,"How are you doing? ",19,2
+FelixKitty,1176,7,"I&#039;m alright, how about yourself? ",38,2
+Andrew,1192,16,"I&#039;m doing quite alright. What are you up to? ",50,2
+FelixKitty,1203,11,"Nothing too much really. What about you? ",41,2
+Andrew,1242,39,"I&#039;m not doing much. I might just play a bit of Minecraft. ",63,2
+FelixKitty,1262,20,"Oh? Anything in particular you might do in it? ",47,2
+Andrew,1290,28,"I&#039;m not entirely sure yet actually. But I&#039;m open for ideas! ",70,2
+FelixKitty,1327,37,"Well, are you playing Survival? Or creative? ",45,2
+Andrew,1347,20,"I play a bit of both. I&#039;m on a server actually most of the time. ",70,2
+FelixKitty,1363,16,"Oh nice. What sort of server? ",30,2
+Andrew,1413,50,"It&#039;s basically a medieval themed server, and a bit of a RPG. ",66,2
+FelixKitty,1431,18,"Oh, that&#039;s cool! ",22,2
+Andrew,1469,38,"Yeah, it also tries to bring some creative aspect within the difficulty of survival. ",85,2
+FelixKitty,1534,65,"Nice! I mostly stick to single player, myself ",46,2
+Andrew,1570,36,"I find it more fun playing with others. It gets old very fast if I play on my own. ",83,2
+FelixKitty,1624,54,"Fair enough. It works for me since I&#039;m usually the only one with the schematics for what I&#039;m building in my head ",123,2
+Andrew,1671,47,"Yeah, it&#039;s hard working with other people. It helps being on a call at the same time. ",91,2
+FelixKitty,1690,19,"Yeah, that&#039;s true. Makes it easier to coordinate ",54,2
+Andrew,1721,31,"What kind of things do you like to build? Medieval buildings too? ",66,2
+FelixKitty,1755,34,"Nah, mostly modern/futuristic stuff myself. ",44,2
+Andrew,1783,28,"Oh I see. It can be quite cool as well, and less common. ",57,2
+FelixKitty,1818,35,"Yup. Especially with mods to make things a bit easier to build ",63,2
+Andrew,1881,63,"Which mods do you use? I used to like one that made you able to build ships. ",77,2
+FelixKitty,1941,60,"Mostly mods to increase the capabilities of Redstone, and for aesthetic stuff. ProjectRed for example ",102,2
+Andrew,1958,17,"I don&#039;t think I&#039;ve heard of it actually. ",51,2
+FelixKitty,2019,61,"It&#039;s a good one. It gives you better components to work with, such as wire and stuff, and also lets you take a giant redstone circuit and put it into one plate. ",166,2
+Andrew,2056,37,"Oh yeah it&#039;s sounds pretty cool actually! I should try it. ",64,2
+Moderator,2061,5,"Time is up! ",12,
+Moderator,2084,23,"Which actor do you think you&#039;ve been talking to in the FIRST conversation?  ",81,
+FelixKitty,2095,11,"The Artificial Intelligence ",28,
+Moderator,2103,8,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+FelixKitty,2125,22,"6 ",2,
+Moderator,2130,5,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2161,31,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise, you can now close this window. ",117,
+FelixKitty,2204,43,"THe second Andrew felt more fluid, the conversation more human. The first one felt a bit choppy, and I couldn&#039;t see an actual human player just aimlessly going in circles in Minecraft. ",190,
+Andrew,2225,21,"Alright! Thank you! ",20,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,887,899,,,
+User Average,27.8666666666667,32.5714285714286,,,
+Actor Average,31.6666666666667,33,,,
+User Average (5min),16.1428571428571,18.2857142857143,,,
+Actor Average (5min),24.2857142857143,27.5,,,
+User CharLength,73.9333333333333,59.0714285714286,,,
+Actor CharLength,50.6666666666667,65.1428571428571,,,
+User CharLength (5min),59.7142857142857,32.7142857142857,,,
+Actor CharLength (5min),47.8571428571429,56.3333333333333,,,

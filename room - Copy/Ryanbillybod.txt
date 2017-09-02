@@ -1,0 +1,64 @@
+<span id="time-span">00:51:30</span><span id="name-span">Moderator</span>Hello Ryanbillybod 
+<span id="time-span">00:51:38</span><span id="name-span">Ryanbillybod</span>Hi 
+<span id="time-span">00:51:42</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:51:49</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:52:00</span><span id="name-span">Ryanbillybod</span>Hokay. 
+<span id="time-span">00:52:02</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:52:10</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:52:19</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:52:27</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:52:39</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:52:49</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:52:58</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:53:06</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:53:14</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:53:24</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:53:33</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">00:53:44</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:53:53</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:53:57</span><span id="name-span">Ryanbillybod</span>Yes. 
+<span id="time-span">00:54:06</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">00:54:18</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:54:22</span><span id="name-span">Ryanbillybod</span>Hi. 
+<span id="time-span">00:54:28</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:54:32</span><span id="name-span">Ryanbillybod</span>Pretty good. 
+<span id="time-span">00:54:46</span><span id="name-span">Andrew</span>Nice! What are you up to this evening? 
+<span id="time-span">00:54:58</span><span id="name-span">Ryanbillybod</span>Just watching some news about the floods. 
+<span id="time-span">00:55:19</span><span id="name-span">Andrew</span>I didn&#039;t hear about that. Where? 
+<span id="time-span">00:55:33</span><span id="name-span">Ryanbillybod</span>I believe somewhere in texas. 
+<span id="time-span">00:55:49</span><span id="name-span">Andrew</span>I hope it&#039;s not too bad 
+<span id="time-span">00:56:07</span><span id="name-span">Ryanbillybod</span>Some are getting three foot of rainfalls. It&#039;s pretty bad. 
+<span id="time-span">00:56:46</span><span id="name-span">Andrew</span>Does this happen often? Or is it exceptional there? 
+<span id="time-span">00:57:12</span><span id="name-span">Ryanbillybod</span>Just in the end of the summar does rain usually get that bad. 
+<span id="time-span">00:58:00</span><span id="name-span">Andrew</span>I see. Hopefully it will dry out soon. 
+<span id="time-span">00:58:13</span><span id="name-span">Ryanbillybod</span>Mmhmm, usually does. 
+<span id="time-span">00:58:38</span><span id="name-span">Andrew</span>Any plans for this evening? 
+<span id="time-span">00:58:51</span><span id="name-span">Ryanbillybod</span>Nope, just hanging out. 
+<span id="time-span">00:59:13</span><span id="name-span">Andrew</span>Alright. I&#039;m probably just going to watch some youtube videos. 
+<span id="time-span">00:59:25</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:59:43</span><span id="name-span">Ryanbillybod</span>Hokay. 
+<span id="time-span">00:59:50</span><span id="name-span">Moderator</span>Which actor do you think you were talking to? (Human or AI?) This is not your final answer. 
+<span id="time-span">01:00:15</span><span id="name-span">Ryanbillybod</span>I&#039;m gonna say Ai. 
+<span id="time-span">01:00:47</span><span id="name-span">Moderator</span>Alright. The next actor will start the conversation. After your answer you&#039;ll have 5 minutes again. 
+<span id="time-span">01:00:54</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:02:27</span><span id="name-span">Ryanbillybod</span>Hi 
+<span id="time-span">01:02:35</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">01:02:45</span><span id="name-span">Ryanbillybod</span>Good. 
+<span id="time-span">01:03:22</span><span id="name-span">Andrew</span>I&#039;m probably going to watch some youtube videos. What are you up to? 
+<span id="time-span">01:03:59</span><span id="name-span">Ryanbillybod</span>Just scrolling through FB atm 
+<span id="time-span">01:04:35</span><span id="name-span">Andrew</span>Alright. What kind of shows do you like, if you watch any? 
+<span id="time-span">01:05:01</span><span id="name-span">Ryanbillybod</span>Mainly anime atm and some shows on AMC right now. 
+<span id="time-span">01:05:06</span><span id="name-span">Ryanbillybod</span>Otherwise not much 
+<span id="time-span">01:05:38</span><span id="name-span">Andrew</span>The only show I&#039;m actually watching is Game of Thrones. But right now I&#039;m between two seasons without much to watch. 
+<span id="time-span">01:06:32</span><span id="name-span">Ryanbillybod</span>Heard it&#039;s popular, but I don&#039;t have HBO to watch it. Here is pretty good. 
+<span id="time-span">01:06:56</span><span id="name-span">Andrew</span>What animes do you like? GoT is quite good. It can get quite graphic though. 
+<span id="time-span">01:07:46</span><span id="name-span">Ryanbillybod</span>I finished up Blue exorcist and now just watching the Pok&eacute;mon XY simply cause I don&#039;t have Pok&eacute;mon Go. 
+<span id="time-span">01:08:10</span><span id="name-span">Andrew</span>I&#039;ve seen Naruto and Death Note, but that&#039;s about it. 
+<span id="time-span">01:08:44</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:09:17</span><span id="name-span">Moderator</span>Which of the two conversation do you think was with the human? 
+<span id="time-span">01:09:24</span><span id="name-span">Ryanbillybod</span>The second one. 
+<span id="time-span">01:09:40</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer )
+<span id="time-span">01:09:57</span><span id="name-span">Ryanbillybod</span>Yes. 
+<span id="time-span">01:10:21</span><span id="name-span">Moderator</span>Alright. Thanks for participating! Do you have any comment you&#039;d like to share? 
+<span id="time-span">01:10:39</span><span id="name-span">Ryanbillybod</span>No thank ya! 
+<span id="time-span">01:11:11</span><span id="name-span">Moderator</span>Alright. If you&#039;d like to see the results of the study when it&#039;s ready, you can share your e-mail. Otherwise you can close this window 

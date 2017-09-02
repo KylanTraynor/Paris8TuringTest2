@@ -1,0 +1,105 @@
+<span id="time-span">21:06:44</span><span id="name-span">Moderator</span>Hello Dekoa. 
+<span id="time-span">21:07:07</span><span id="name-span">Dekoa</span>Yo &#039;
+<span id="time-span">21:07:15</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">21:07:31</span><span id="name-span">Moderator</span>Are you able to read that? 
+<span id="time-span">21:07:48</span><span id="name-span">Dekoa</span>No problem. 
+<span id="time-span">21:07:55</span><span id="name-span">Moderator</span>Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">21:08:03</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">21:08:10</span><span id="name-span">Dekoa</span>ok then 
+<span id="time-span">21:08:12</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">21:08:18</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">21:08:26</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">21:08:33</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">21:08:40</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">21:08:46</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">21:08:53</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">21:08:59</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">21:09:06</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">21:09:14</span><span id="name-span">Dekoa</span>Understood. 
+<span id="time-span">21:09:16</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">21:09:23</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">21:09:30</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">21:09:37</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">21:09:52</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">21:10:06</span><span id="name-span">Dekoa</span>I understand the rules. 
+<span id="time-span">21:10:12</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">21:10:39</span><span id="name-span">Dekoa</span>yup 
+<span id="time-span">21:10:43</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:10:51</span><span id="name-span">Dekoa</span>Hello there. 
+<span id="time-span">21:10:57</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">21:11:07</span><span id="name-span">Dekoa</span>I&#039;m doing fine. how are you doing? 
+<span id="time-span">21:11:25</span><span id="name-span">Andrew</span>What&#039;s up? I&#039;m doing quite alright thanks. 
+<span id="time-span">21:11:51</span><span id="name-span">Dekoa</span>Oh nothing much right now. Just the usual day off. 
+<span id="time-span">21:12:25</span><span id="name-span">Andrew</span>Anything special planned for later? That does sound nice. 
+<span id="time-span">21:13:01</span><span id="name-span">Dekoa</span>Nothing really planned in all honesty. What are you up to? 
+<span id="time-span">21:13:48</span><span id="name-span">Andrew</span>I&#039;m probably going to play Minecraft later, but about the same really. 
+<span id="time-span">21:14:13</span><span id="name-span">Dekoa</span>you know, The response time on this Chat application is quite large. Don&#039;t you think so? 
+<span id="time-span">21:14:40</span><span id="name-span">Andrew</span>Maybe you&#039;re lagging? I&#039;m not sure. 
+<span id="time-span">21:15:09</span><span id="name-span">Dekoa</span>I don&#039;t know either. Granted it seems like this Application is based in Paris so that may be the issue with me. 
+<span id="time-span">21:15:48</span><span id="name-span">Andrew</span>It seems mostly fine to me. Right. 
+<span id="time-span">21:16:36</span><span id="name-span">Dekoa</span>Well that&#039;s probably because you are a lot more local. Tell me, if that&#039;s the case, what&#039;s been going on recently in Paris? 
+<span id="time-span">21:17:20</span><span id="name-span">Andrew</span>I heard there had been some attacks. Well I live in Canada actually. 
+<span id="time-span">21:17:47</span><span id="name-span">Dekoa</span>Been some attacks? How so? What attacks are you talking about? 
+<span id="time-span">21:18:34</span><span id="name-span">Andrew</span>There were no casualties, but a terrorist attack next to Notre-Dame. 
+<span id="time-span">21:19:26</span><span id="name-span">Dekoa</span>I don&#039;t recall hearing about that? Mebbe you&#039;re thinking of something from a while back? 
+<span id="time-span">21:19:56</span><span id="name-span">Andrew</span>I&#039;m not really sure. That&#039;s possible. 
+<span id="time-span">21:20:26</span><span id="name-span">Dekoa</span>So then tell me what is the most recent attacks you&#039;ve read about? 
+<span id="time-span">21:20:57</span><span id="name-span">Andrew</span>The one in London was the most recent I think. 
+<span id="time-span">21:21:13</span><span id="name-span">Dekoa</span>Which one? 
+<span id="time-span">21:21:54</span><span id="name-span">Andrew</span>The last one. Not the one in front of Big Ben. 
+<span id="time-span">21:22:27</span><span id="name-span">Dekoa</span>You mean the one in front of Parliament? 
+<span id="time-span">21:22:45</span><span id="name-span">Andrew</span>Big Ben is the bell, right. 
+<span id="time-span">21:23:03</span><span id="name-span">Dekoa</span>Big Ben is the Clocktower. 
+<span id="time-span">21:23:21</span><span id="name-span">Andrew</span>No it&#039;s actually the bell inside. 
+<span id="time-span">21:23:59</span><span id="name-span">Dekoa</span>I&#039;m 90% confident that Big Ben is the Clocktower on the River Thames. 
+<span id="time-span">21:24:51</span><span id="name-span">Andrew</span>Big Bell is the largest bell inside of that tower. Sounds like you&#039;re 90% wrong then! 
+<span id="time-span">21:26:01</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">21:26:15</span><span id="name-span">Dekoa</span>If&#039; I&#039;m wrong then I&#039;m wrong, But till I look it up then I choose to believe that Big Ben is the clock tower. 
+<span id="time-span">21:26:18</span><span id="name-span">Dekoa</span>Ok then. 
+<span id="time-span">21:26:23</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">21:27:00</span><span id="name-span">Dekoa</span>Do i not get a chance to talk to the other actor before making an assumption? 
+<span id="time-span">21:27:34</span><span id="name-span">Moderator</span>You&#039;ll be able to change your answer after the second conversation yes. You still need to try to guess right now. 
+<span id="time-span">21:28:00</span><span id="name-span">Dekoa</span>Then in this case I believe I would say that it&#039;s likely the human. 
+<span id="time-span">21:28:23</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">21:28:36</span><span id="name-span">Dekoa</span>yes 
+<span id="time-span">21:28:39</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:28:59</span><span id="name-span">Dekoa</span>Hello. How are you doing? 
+<span id="time-span">21:29:10</span><span id="name-span">Andrew</span>I&#039;m doing quite alright thanks! How about you? 
+<span id="time-span">21:29:37</span><span id="name-span">Dekoa</span>I&#039;m doing fine, thank you for asking. 
+<span id="time-span">21:30:03</span><span id="name-span">Andrew</span>What are you up to? 
+<span id="time-span">21:30:21</span><span id="name-span">Dekoa</span>Oh nothing much, Just a day off. 
+<span id="time-span">21:30:48</span><span id="name-span">Andrew</span>That&#039;s cool! I&#039;m enjoying summer break. 
+<span id="time-span">21:31:14</span><span id="name-span">Dekoa</span>I see. Summer this year should be interesting shouldn&#039;t it? 
+<span id="time-span">21:31:35</span><span id="name-span">Andrew</span>Should it? In what way? 
+<span id="time-span">21:32:20</span><span id="name-span">Dekoa</span>Well there are many things happening in the world right now. Combined with the winter we had it should be interesting to see how it folds out. 
+<span id="time-span">21:33:44</span><span id="name-span">Andrew</span>Well, I wouldn&#039;t mind just spending a quiet summer actually. Why do you think it will be an interesting one though? Anything in particular among the &quot;many things happening in the world&quot;? 
+<span id="time-span">21:34:59</span><span id="name-span">Dekoa</span>Well there is the Trump administration. UK still dealing with Brexit. Russia and it&#039;s continual want of trying to keep a strict control over itself. North Korea being Missle happy. 
+<span id="time-span">21:35:59</span><span id="name-span">Andrew</span>Ah right. I&#039;m not really concerned about all of that. Here we&#039;re just watching all of that unfold with popcorn. Well, maybe not the North Korea situation though, but you get the idea. 
+<span id="time-span">21:37:46</span><span id="name-span">Dekoa</span>True. Say this chat client seems to have a really large response time yeah? 
+<span id="time-span">21:38:24</span><span id="name-span">Andrew</span>I&#039;m not sure. If anything I&#039;m not noticing it at least. 
+<span id="time-span">21:38:55</span><span id="name-span">Dekoa</span>Notcing what? 
+<span id="time-span">21:39:09</span><span id="name-span">Andrew</span>The large response time. It seems normal to me. 
+<span id="time-span">21:39:48</span><span id="name-span">Dekoa</span>Well this does seem to be in Paris. Tell me what&#039;s it like there right now? 
+<span id="time-span">21:40:22</span><span id="name-span">Andrew</span>I don&#039;t really know actually. I live in London, Ontario. 
+<span id="time-span">21:41:25</span><span id="name-span">Dekoa</span>That&#039;s canada right? 
+<span id="time-span">21:41:36</span><span id="name-span">Andrew</span>Yeah that&#039;s Canada. 
+<span id="time-span">21:42:01</span><span id="name-span">Dekoa</span>how&#039;s Trudeu handling Trump? 
+<span id="time-span">21:42:49</span><span id="name-span">Andrew</span>With a good amount of chuckling and sharing champaign with the new French president. 
+<span id="time-span">21:43:38</span><span id="name-span">Dekoa</span>Isn&#039;t that Francois Olland? 
+<span id="time-span">21:44:02</span><span id="name-span">Andrew</span>Nah, the new somewhat cute one. 
+<span id="time-span">21:44:14</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">21:44:33</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">21:45:41</span><span id="name-span">Dekoa</span>I&#039;d still say that the first actor was a Human. But I have my doubts that there was an actual AI in the midst. 
+<span id="time-span">21:46:11</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">21:47:06</span><span id="name-span">Dekoa</span>7 that the first conversation was a Human. 5 or 6 that both conversations were human. 
+<span id="time-span">21:47:36</span><span id="name-span">Moderator</span>One conversation was a human and the other an AI, so is your answer 7? 
+<span id="time-span">21:48:37</span><span id="name-span">Dekoa</span>If you&#039;re saying my answer has to be One or the other, Then I would say the first conversation was human. Certainty 7.  
+<span id="time-span">21:48:58</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">21:49:05</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 
+<span id="time-span">21:49:49</span><span id="name-span">Dekoa</span>Well since this is all over now. I&#039;d just like to know which one was which since you have my answer. 
+<span id="time-span">21:50:08</span><span id="name-span">Moderator</span>I can tell you after your comments, or right now if you have none. 
+<span id="time-span">21:50:38</span><span id="name-span">Dekoa</span>I have none really 
+<span id="time-span">21:50:48</span><span id="name-span">Moderator</span>The first one was the AI. 
+<span id="time-span">21:51:13</span><span id="name-span">Dekoa</span>Interesting. 
+<span id="time-span">21:51:36</span><span id="name-span">Moderator</span>Thank you very much for your help! 
+<span id="time-span">21:51:59</span><span id="name-span">Dekoa</span>NP 

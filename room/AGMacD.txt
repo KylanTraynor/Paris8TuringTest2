@@ -1,0 +1,89 @@
+<span id="time-span">18:49:11</span><span id="name-span">Moderator</span>Welcome AGMacD. 
+<span id="time-span">18:50:08</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:50:35</span><span id="name-span">AGMacD</span>No problem 
+<span id="time-span">18:50:58</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:51:06</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:51:14</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:51:22</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:51:40</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">18:51:48</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">18:51:58</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">18:52:05</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">18:52:17</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">18:52:25</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">18:52:34</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">18:52:42</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">18:52:50</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">18:52:58</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">18:53:07</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">18:53:16</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">18:53:22</span><span id="name-span">AGMacD</span>Yes 
+<span id="time-span">18:53:25</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">18:53:35</span><span id="name-span">AGMacD</span>Yes 
+<span id="time-span">18:53:40</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:53:45</span><span id="name-span">AGMacD</span>Hi 
+<span id="time-span">18:53:51</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:53:56</span><span id="name-span">AGMacD</span>Good 
+<span id="time-span">18:54:06</span><span id="name-span">Andrew</span>Cool. What are you up to? 
+<span id="time-span">18:54:23</span><span id="name-span">AGMacD</span>Working at the moment 
+<span id="time-span">18:54:33</span><span id="name-span">Andrew</span>Oh? What are you working on? 
+<span id="time-span">18:55:10</span><span id="name-span">AGMacD</span>Property repair estimates from a recent storm 
+<span id="time-span">18:55:41</span><span id="name-span">Andrew</span>Oh damn. Was a lot damaged? 
+<span id="time-span">18:56:36</span><span id="name-span">AGMacD</span>Maybe 2000 or so homes, Our company took files for almost 1100 
+<span id="time-span">18:57:10</span><span id="name-span">Andrew</span>Where was it? 
+<span id="time-span">18:58:08</span><span id="name-span">AGMacD</span>Here in Newfoundland, Canada. Avalon peninsula took most of the damage  
+<span id="time-span">18:58:37</span><span id="name-span">Andrew</span>Is your place alright? If you live there that is. 
+<span id="time-span">19:00:17</span><span id="name-span">AGMacD</span>Yeah, luckily my home wasn&#039;t damaged. Due to the geography around my home its take a unique wind direction to damage it. 
+<span id="time-span">19:00:59</span><span id="name-span">Andrew</span>Oh that&#039;s good then. How many files do you have left to work on? 
+<span id="time-span">19:03:00</span><span id="name-span">AGMacD</span>somewhere between 150-200  
+<span id="time-span">19:03:26</span><span id="name-span">Andrew</span>Not that many left then. Have you been working on it for a long time now? 
+<span id="time-span">19:04:45</span><span id="name-span">AGMacD</span>4 weeks , 10-12 hrs a day 
+<span id="time-span">19:05:36</span><span id="name-span">Andrew</span>How much longer do you think it will take for you to finish? 
+<span id="time-span">19:05:50</span><span id="name-span">AGMacD</span>2 weeks maybe 
+<span id="time-span">19:06:09</span><span id="name-span">Andrew</span>Oh alright. Well good luck then! 
+<span id="time-span">19:06:24</span><span id="name-span">AGMacD</span>Thank you  
+<span id="time-span">19:06:40</span><span id="name-span">Andrew</span>What are you going to do tonight? 
+<span id="time-span">19:07:24</span><span id="name-span">AGMacD</span>I get home around 530, so ill be playing with my kinds until bedtime and then watch Big Brother Canada with my wife.  
+<span id="time-span">19:08:01</span><span id="name-span">Andrew</span>Oh that sounds nice. How many kids do you have? 
+<span id="time-span">19:08:18</span><span id="name-span">AGMacD</span>3 
+<span id="time-span">19:08:35</span><span id="name-span">Andrew</span>Cool. How old are they? 
+<span id="time-span">19:08:49</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">19:08:59</span><span id="name-span">AGMacD</span>4 years old , 2 1/2 years old and 5 months 
+<span id="time-span">19:09:03</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">19:09:19</span><span id="name-span">AGMacD</span>Human 
+<span id="time-span">19:09:25</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">19:09:33</span><span id="name-span">AGMacD</span>yes 
+<span id="time-span">19:09:37</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">19:09:43</span><span id="name-span">AGMacD</span>Hi 
+<span id="time-span">19:09:51</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">19:09:56</span><span id="name-span">AGMacD</span>Good 
+<span id="time-span">19:10:12</span><span id="name-span">Andrew</span>Nice. What are you up to? 
+<span id="time-span">19:10:55</span><span id="name-span">AGMacD</span>I am at work right now 
+<span id="time-span">19:11:45</span><span id="name-span">Andrew</span>Oh alright. What does it consist in if you don&#039;t mind me asking? 
+<span id="time-span">19:12:46</span><span id="name-span">AGMacD</span>I am a Estimator for insured properties with a international company called BELFOR 
+<span id="time-span">19:13:45</span><span id="name-span">Andrew</span>Oh nice. There must be a lot of work to do. 
+<span id="time-span">19:14:09</span><span id="name-span">AGMacD</span>There is yes 
+<span id="time-span">19:14:53</span><span id="name-span">Andrew</span>Anything planned for this evening? 
+<span id="time-span">19:15:44</span><span id="name-span">AGMacD</span>Playing with my children for a few hours after i get home from work before bedtime and then watching Big Brother Canada with my wife 
+<span id="time-span">19:16:15</span><span id="name-span">Andrew</span>That sounds quite nice. How many children do you have? 
+<span id="time-span">19:16:31</span><span id="name-span">AGMacD</span>3 
+<span id="time-span">19:16:54</span><span id="name-span">Andrew</span>Cool. What do you like to do in general? 
+<span id="time-span">19:17:18</span><span id="name-span">AGMacD</span>My hobbies are Minecraft and Bushcraft 
+<span id="time-span">19:17:50</span><span id="name-span">Andrew</span>Oh I play Minecraft too! I don&#039;t think I&#039;ve heard of Bushcraft though. 
+<span id="time-span">19:18:40</span><span id="name-span">AGMacD</span>Its a type of outdoor lifestyle and essential skill set  
+<span id="time-span">19:19:35</span><span id="name-span">Andrew</span>Oh ok. That sounds nice. 
+<span id="time-span">19:20:00</span><span id="name-span">AGMacD</span>thank you, Its a lot of fun  
+<span id="time-span">19:20:45</span><span id="name-span">Andrew</span>No problem. Do you read sometimes? 
+<span id="time-span">19:21:30</span><span id="name-span">AGMacD</span>I do, but only Bushcraft related doors and other wilderness information / fact books  
+<span id="time-span">19:22:15</span><span id="name-span">Andrew</span>What do you mean by Bushcraft related doors? 
+<span id="time-span">19:22:45</span><span id="name-span">AGMacD</span>Sorry that was a type-o, I meant Bushcraft related Books  
+<span id="time-span">19:23:32</span><span id="name-span">Andrew</span>Oh it&#039;s alright. What do you like in those books? 
+<span id="time-span">19:24:28</span><span id="name-span">AGMacD</span>Its filled with a lot of useful outdoors skills and information that can help you to be self sufficient  
+<span id="time-span">19:24:51</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">19:25:09</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">19:25:18</span><span id="name-span">AGMacD</span>Human 
+<span id="time-span">19:25:23</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">19:25:36</span><span id="name-span">AGMacD</span>7 
+<span id="time-span">19:25:59</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">19:26:19</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 
+<span id="time-span">19:26:51</span><span id="name-span">AGMacD</span>Thank you, no that&#039;s ok. I enjoyed the game 

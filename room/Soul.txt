@@ -1,0 +1,86 @@
+<span id="time-span">00:14:32</span><span id="name-span">Moderator</span>Welcome Soul. 
+<span id="time-span">00:14:45</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:15:04</span><span id="name-span">Moderator</span>If you can see this, please say Yes. 
+<span id="time-span">00:15:31</span><span id="name-span">Soul</span>yes 
+<span id="time-span">00:15:48</span><span id="name-span">Soul</span>Yes 
+<span id="time-span">00:15:48</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:15:59</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:16:22</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:16:36</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:16:45</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:16:51</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:16:57</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:17:03</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:17:11</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:17:21</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:17:27</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:17:35</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">00:17:41</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">00:17:47</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:17:53</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">00:17:59</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:18:04</span><span id="name-span">Soul</span>Yes 
+<span id="time-span">00:18:09</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">00:18:15</span><span id="name-span">Soul</span>Yes 
+<span id="time-span">00:18:26</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:18:33</span><span id="name-span">Soul</span>Hey there 
+<span id="time-span">00:18:40</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:18:49</span><span id="name-span">Soul</span>I&#039;m doing ok 
+<span id="time-span">00:19:05</span><span id="name-span">Andrew</span>Cool. What are you up to? 
+<span id="time-span">00:19:28</span><span id="name-span">Soul</span>Not much really, just heard about another attack in Paris 
+<span id="time-span">00:20:04</span><span id="name-span">Andrew</span>Another one? Oh damn. 
+<span id="time-span">00:20:32</span><span id="name-span">Soul</span>Yeah... what about you? how are you and what are you doing? 
+<span id="time-span">00:21:25</span><span id="name-span">Andrew</span>I&#039;m playing a bit of Minecraft, trying to figure out what I want to do. I&#039;m alright though. 
+<span id="time-span">00:22:42</span><span id="name-span">Soul</span>I only really play with friends on it so we tend to just do stuff together from mining to building 
+<span id="time-span">00:23:35</span><span id="name-span">Andrew</span>Do you play with them on a private server or on a public one? And what do you like to build? 
+<span id="time-span">00:24:35</span><span id="name-span">Soul</span>We play on a private one, what do you like to build? 
+<span id="time-span">00:26:15</span><span id="name-span">Andrew</span>If you&#039;re asking me the question, I like to build medieval buildings. I meant you, what you like to build with your friends when you do. 
+<span id="time-span">00:27:16</span><span id="name-span">Soul</span>I just let my friend come up with an idea and just help her gather stuff for it really, though if I had to pick something I enjoy making Pixel art mainly 
+<span id="time-span">00:28:00</span><span id="name-span">Andrew</span>Pixel art can definitely be quite fun to do. I see. 
+<span id="time-span">00:28:15</span><span id="name-span">Soul</span>What do you see? 
+<span id="time-span">00:29:16</span><span id="name-span">Andrew</span>I see that you&#039;re not really into actual building. You help your friends build. 
+<span id="time-span">00:30:17</span><span id="name-span">Soul</span>Well you&#039;ve got me there... I&#039;m not really that good at figuring out dimensions for making buildings look good so I just let them do it 
+<span id="time-span">00:31:59</span><span id="name-span">Andrew</span>After a while you get the proportions right. Training yourself to see good buildings in real life and in Minecraft helps. 
+<span id="time-span">00:32:18</span><span id="name-span">Soul</span>huh I guess so 
+<span id="time-span">00:33:00</span><span id="name-span">Andrew</span>Anyways, what are you up to tonight? 
+<span id="time-span">00:33:37</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:33:38</span><span id="name-span">Soul</span>Playing paper mario thousand year door 
+<span id="time-span">00:33:52</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">00:34:10</span><span id="name-span">Soul</span>Artificial Intelligence  
+<span id="time-span">00:34:18</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">00:34:29</span><span id="name-span">Soul</span>Yes 
+<span id="time-span">00:34:33</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:34:40</span><span id="name-span">Soul</span>Sup Bitch 
+<span id="time-span">00:34:51</span><span id="name-span">Andrew</span>Wow that&#039;s direct. 
+<span id="time-span">00:35:15</span><span id="name-span">Soul</span>you don&#039;t like it? If so sorry, that&#039;s just how I talk to my friends 
+<span id="time-span">00:35:40</span><span id="name-span">Andrew</span>No worries, I just didn&#039;t expect it. How are you... bitch? 
+<span id="time-span">00:36:10</span><span id="name-span">Soul</span>Im good bitch, what are you up to? 
+<span id="time-span">00:36:45</span><span id="name-span">Andrew</span>Not much really. Probably going to play a bit of Minecraft or something. What about you? 
+<span id="time-span">00:37:05</span><span id="name-span">Soul</span>I&#039;m playing Paper mario Thousand year door 
+<span id="time-span">00:37:21</span><span id="name-span">Andrew</span>I don&#039;t think I&#039;ve ever heard of that one. 
+<span id="time-span">00:37:44</span><span id="name-span">Soul</span>It&#039;s a game for the gamecube, a nintendo console that came out late 2000 
+<span id="time-span">00:38:57</span><span id="name-span">Andrew</span>Yeah I know what the gamecube is. I didn&#039;t remember it was that &quot;young&quot; though. I expected it to be from before 2000. 
+<span id="time-span">00:40:13</span><span id="name-span">Soul</span>yeah but seriously Paper mario thousand year door is a great game, you should try it if you can 
+<span id="time-span">00:40:41</span><span id="name-span">Andrew</span>I don&#039;t have a gamecube unfortunately. 
+<span id="time-span">00:41:18</span><span id="name-span">Soul</span>what do you like to do one minecraft 
+<span id="time-span">00:41:52</span><span id="name-span">Andrew</span>I mostly build actually. People say that I&#039;m a good builder. 
+<span id="time-span">00:42:13</span><span id="name-span">Soul</span>ah cool got any tips for me? I&#039;m terrible at building 
+<span id="time-span">00:43:01</span><span id="name-span">Andrew</span>Try to get inspiration from real life building, and blockify them! That&#039;s what I do. 
+<span id="time-span">00:43:46</span><span id="name-span">Soul</span>I&#039;ve tried that and it just feels like Im taking something without permission 
+<span id="time-span">00:44:16</span><span id="name-span">Andrew</span>Why though? 
+<span id="time-span">00:44:31</span><span id="name-span">Soul</span>I dunno I just feel bad 
+<span id="time-span">00:45:45</span><span id="name-span">Andrew</span>If the buildings exist and look good, it&#039;s because they were made to be shown to everyone. Taking inspiration is not bad, it&#039;s not like the look of buildings is copyrighted or anything. 
+<span id="time-span">00:46:39</span><span id="name-span">Soul</span>I guess so...  
+<span id="time-span">00:47:04</span><span id="name-span">Andrew</span>Anyways, if you don&#039;t build in Minecraft, what do you like to do? 
+<span id="time-span">00:47:26</span><span id="name-span">Soul</span>i mainly help my friends build stuff just gathering stuff for them 
+<span id="time-span">00:48:24</span><span id="name-span">Andrew</span>You sound like someone good to have by your side when you get on a huge project in survival then. 
+<span id="time-span">00:48:49</span><span id="name-span">Soul</span>Yeah i&#039;m pretty much the gather or hoarder hehe 
+<span id="time-span">00:49:23</span><span id="name-span">Andrew</span>I played with a friend who was like that. It was really nice. Especially since I hate doing that myself. 
+<span id="time-span">00:49:35</span><span id="name-span">Soul</span>Lazy butt! 
+<span id="time-span">00:49:58</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:50:15</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the FIRST conversation? 
+<span id="time-span">00:50:26</span><span id="name-span">Soul</span>Artificial intelligence 
+<span id="time-span">00:50:30</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">00:50:36</span><span id="name-span">Soul</span>5 
+<span id="time-span">00:50:39</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">00:50:57</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

@@ -1,0 +1,62 @@
+<span id="time-span">00:46:31</span><span id="name-span">Moderator</span>Hello autumn. 
+<span id="time-span">00:46:51</span><span id="name-span">autumn</span>hello  
+<span id="time-span">00:46:55</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:47:03</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:47:13</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:47:27</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:47:36</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:47:45</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:47:53</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:48:05</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:48:13</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:48:20</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:48:28</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:48:36</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:48:43</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">00:48:52</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:49:00</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:49:15</span><span id="name-span">autumn</span>Gucci 
+<span id="time-span">00:49:35</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">00:49:46</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:49:53</span><span id="name-span">autumn</span>hello Andrew 
+<span id="time-span">00:49:59</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:50:15</span><span id="name-span">autumn</span>rad 
+<span id="time-span">00:50:30</span><span id="name-span">Andrew</span>Cool. What are you up to this evening? 
+<span id="time-span">00:51:23</span><span id="name-span">autumn</span>working on a presentation and trying to crack a mystery 
+<span id="time-span">00:51:42</span><span id="name-span">Andrew</span>Oh? What kind of mystery? 
+<span id="time-span">00:52:07</span><span id="name-span">autumn</span>this one 
+<span id="time-span">00:52:21</span><span id="name-span">autumn</span>tell me about yourself 
+<span id="time-span">00:52:56</span><span id="name-span">Andrew</span>Sure, what would you like to know? I&#039;m a student, 22 years old... Basic stuff. 
+<span id="time-span">00:53:55</span><span id="name-span">autumn</span>what do you know about Turing?  
+<span id="time-span">00:54:09</span><span id="name-span">autumn</span>lol 22 years is very broad 
+<span id="time-span">00:54:46</span><span id="name-span">Andrew</span>Not much to be honest. And if you want details about my age, I was born on the 10th of December. 
+<span id="time-span">00:55:01</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:55:28</span><span id="name-span">Moderator</span>Which actor do you think you were talking to? 
+<span id="time-span">00:56:08</span><span id="name-span">autumn</span>human 
+<span id="time-span">00:56:51</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin, and you&#039;ll have 5 minutes again. 
+<span id="time-span">00:57:06</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:57:31</span><span id="name-span">autumn</span>hi  
+<span id="time-span">00:57:38</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:57:46</span><span id="name-span">autumn</span>rad 
+<span id="time-span">00:58:05</span><span id="name-span">Andrew</span>Nice! 
+<span id="time-span">00:58:46</span><span id="name-span">autumn</span>what are you up to?  
+<span id="time-span">00:59:23</span><span id="name-span">Andrew</span>Not much really. I&#039;m probably going to watch youtube videos and take a shower. 
+<span id="time-span">00:59:57</span><span id="name-span">autumn</span>what do you know about Turing?  
+<span id="time-span">01:00:11</span><span id="name-span">Andrew</span>Not much to be honest. You? 
+<span id="time-span">01:00:33</span><span id="name-span">autumn</span>haha enough 
+<span id="time-span">01:00:42</span><span id="name-span">autumn</span>tell me about yourself 
+<span id="time-span">01:01:23</span><span id="name-span">Andrew</span>Sure. What do you want to know? I&#039;m a student, and I&#039;m 22 years old. Nothing exciting. 
+<span id="time-span">01:01:44</span><span id="name-span">autumn</span>haha this is clever 
+<span id="time-span">01:01:51</span><span id="name-span">Andrew</span>Is it? 
+<span id="time-span">01:02:11</span><span id="name-span">autumn</span>you tell me 
+<span id="time-span">01:02:32</span><span id="name-span">Andrew</span>I&#039;m not sure I see what you mean. 
+<span id="time-span">01:03:34</span><span id="name-span">autumn</span>why the name Andrew?  
+<span id="time-span">01:03:49</span><span id="name-span">Andrew</span>You might want to ask my parents. 
+<span id="time-span">01:03:55</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:04:22</span><span id="name-span">Moderator</span>Which conversation do you think was with the human? 
+<span id="time-span">01:05:21</span><span id="name-span">autumn</span>first one?  
+<span id="time-span">01:05:34</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer) 
+<span id="time-span">01:05:45</span><span id="name-span">autumn</span>yup 
+<span id="time-span">01:06:10</span><span id="name-span">Moderator</span>Alright! Thanks for participating. Do you have any comments you&#039;d like to share? 
+<span id="time-span">01:06:29</span><span id="name-span">autumn</span>nope 
+<span id="time-span">01:07:14</span><span id="name-span">Moderator</span>Alright. If you&#039;d like to see the results of this study when they are available, you can share your e-mail address here if you didn&#039;t in the form. Otherwise you can now close this window 

@@ -1,0 +1,97 @@
+<span id="time-span">17:14:43</span><span id="name-span">Moderator</span>Welcome Smudgethedog 
+<span id="time-span">17:14:57</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">17:15:08</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">17:15:13</span><span id="name-span">Smudgethedog</span>I am 
+<span id="time-span">17:15:24</span><span id="name-span">Moderator</span>Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">17:15:30</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">17:15:40</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">17:15:57</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">17:16:06</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">17:16:15</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">17:16:22</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">17:16:29</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">17:16:35</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">17:16:50</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">17:16:58</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">17:17:07</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">17:17:13</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">17:17:19</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">17:17:25</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">17:17:31</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">17:17:41</span><span id="name-span">Smudgethedog</span>Yes, but I have some questions. 
+<span id="time-span">17:17:49</span><span id="name-span">Moderator</span>Sure. What are they? 
+<span id="time-span">17:18:24</span><span id="name-span">Smudgethedog</span>I assume that I&#039;m allowed to ask questions of the Actors? 
+<span id="time-span">17:18:48</span><span id="name-span">Moderator</span>You should only talk to the character, not the actors themselves. 
+<span id="time-span">17:19:36</span><span id="name-span">Moderator</span>But yes, you&#039;re able to ask questions to Andrew 
+<span id="time-span">17:20:03</span><span id="name-span">Smudgethedog</span>That&#039;s what I meant. Like I&#039;m allowed to ask &quot;Andrew, how old are you&quot; or &quot;Andrew, do you have a faith that you adhere to?&quot; 
+<span id="time-span">17:20:14</span><span id="name-span">Moderator</span>You can do that yes. 
+<span id="time-span">17:21:06</span><span id="name-span">Smudgethedog</span>Excellent. whe I am don with the conversation, I use [stop] correct? 
+<span id="time-span">17:21:15</span><span id="name-span">Moderator</span>That is correct. 
+<span id="time-span">17:21:25</span><span id="name-span">Smudgethedog</span>Alright. Ready. 
+<span id="time-span">17:21:52</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">17:22:05</span><span id="name-span">Smudgethedog</span>Yes, I am ready. 
+<span id="time-span">17:22:10</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">17:22:20</span><span id="name-span">Smudgethedog</span>Good Morning, Andrew. 
+<span id="time-span">17:22:30</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">17:22:49</span><span id="name-span">Smudgethedog</span>I am slowly dying, but otherwise in an acceptable state of health.  
+<span id="time-span">17:23:11</span><span id="name-span">Andrew</span>That... doesn&#039;t sound really good. What&#039;s wrong? 
+<span id="time-span">17:24:03</span><span id="name-span">Smudgethedog</span>There&#039;s nothing wrong, once a human is born, they start to die, right? 
+<span id="time-span">17:24:26</span><span id="name-span">Andrew</span>True. I just expected something worse than that. 
+<span id="time-span">17:24:58</span><span id="name-span">Smudgethedog</span>What about yourself, Andrew; how are you? 
+<span id="time-span">17:25:20</span><span id="name-span">Andrew</span>I guess I&#039;m slowly dying too. But other than that I&#039;m doing alright! 
+<span id="time-span">17:25:44</span><span id="name-span">Smudgethedog</span>Do you have a religion that you practice? 
+<span id="time-span">17:25:55</span><span id="name-span">Andrew</span>Not really no. Do you? 
+<span id="time-span">17:26:16</span><span id="name-span">Smudgethedog</span>Yes. I identify as heathen.  
+<span id="time-span">17:27:08</span><span id="name-span">Andrew</span>I&#039;m not sure what that is actually. Mind explaining? 
+<span id="time-span">17:27:54</span><span id="name-span">Smudgethedog</span>I worship the old gods of northern Europe. Thor, Loki, Odin, Baldur, Hel, Frigg.. 
+<span id="time-span">17:28:24</span><span id="name-span">Andrew</span>Oh cool, I didn&#039;t know people who believed in them were called that. 
+<span id="time-span">17:29:45</span><span id="name-span">Smudgethedog</span>They are called that or Asatru. Asatru is the more official term, but heathen is a term we use in a sort-of self deprecating manner as it&#039;s what the Christians labeled us.  
+<span id="time-span">17:30:31</span><span id="name-span">Andrew</span>Right. So, what did you think of the Thor movies? Was that blasphemy? 
+<span id="time-span">17:31:46</span><span id="name-span">Smudgethedog</span>It is not blasphemy because it takes place in an alternate universe. You will find that, in general, Asatru folk are less likely to take offense to someone mocking their religion or not understanding.
+<span id="time-span">17:32:30</span><span id="name-span">Andrew</span>That&#039;s nice. I&#039;ve always been interested in northern Europe myths. 
+<span id="time-span">17:33:38</span><span id="name-span">Smudgethedog</span>May I ask how old you are, Andrew? 
+<span id="time-span">17:34:20</span><span id="name-span">Andrew</span>Sure, I&#039;m 21! What about you, how old are you? 
+<span id="time-span">17:34:43</span><span id="name-span">Smudgethedog</span>I&#039;m 28. What was your first memory? 
+<span id="time-span">17:35:14</span><span id="name-span">Andrew</span>I&#039;m not really sure actually. Do you think about yours? 
+<span id="time-span">17:35:48</span><span id="name-span">Smudgethedog</span>Yes, It&#039;s something that I&#039;ve thought about a lot because it&#039;s something that psychology courses ask about where I am. 
+<span id="time-span">17:36:58</span><span id="name-span">Andrew</span>I&#039;m sure that memory must have been rebuilt a good amount of times then and has little in common with what it actually was. 
+<span id="time-span">17:37:24</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">17:37:39</span><span id="name-span">Smudgethedog</span>Ok. 
+<span id="time-span">17:37:40</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">17:37:55</span><span id="name-span">Smudgethedog</span>I&#039;d go with AI. 
+<span id="time-span">17:38:11</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">17:38:22</span><span id="name-span">Smudgethedog</span>Yes 
+<span id="time-span">17:38:28</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">17:38:59</span><span id="name-span">Smudgethedog</span>Howdy! How&#039;s it goin&#039; Andrew? 
+<span id="time-span">17:39:13</span><span id="name-span">Andrew</span>I&#039;m doing quite alright! How about you? 
+<span id="time-span">17:39:33</span><span id="name-span">Smudgethedog</span>I&#039;m slowly dying, but otherwise just fine. 
+<span id="time-span">17:39:57</span><span id="name-span">Andrew</span>Oh damn. Mind if I ask why? 
+<span id="time-span">17:40:35</span><span id="name-span">Smudgethedog</span>Because, when a human is born, they start to die, thus any human that you meet will be dying at some rate. Slower is arguably better. 
+<span id="time-span">17:41:08</span><span id="name-span">Andrew</span>I suppose that&#039;s true. Fair enough. What are you up to? 
+<span id="time-span">17:41:37</span><span id="name-span">Smudgethedog</span>Helping out a friend and waiting for my husband to get home. 
+<span id="time-span">17:42:14</span><span id="name-span">Andrew</span>Oh that&#039;s cool! What are you helping your friend with? 
+<span id="time-span">17:42:55</span><span id="name-span">Smudgethedog</span>A school project. 
+<span id="time-span">17:43:18</span><span id="name-span">Andrew</span>What is that project about? If you don&#039;t mind me asking. 
+<span id="time-span">17:43:55</span><span id="name-span">Smudgethedog</span>Psychology and human history. 
+<span id="time-span">17:44:19</span><span id="name-span">Andrew</span>That sounds really cool! I study Biology. 
+<span id="time-span">17:45:14</span><span id="name-span">Smudgethedog</span>Interesting. That gives me an idea... Can you give me a brief example of structure versus function? 
+<span id="time-span">17:45:46</span><span id="name-span">Andrew</span>What do you mean exactly? 
+<span id="time-span">17:46:27</span><span id="name-span">Smudgethedog</span>Just a simple example of how something has evolved to perform a specific function on any species.  
+<span id="time-span">17:47:23</span><span id="name-span">Andrew</span>Teeth for example. Some are made to tear and some are made to crush. They don&#039;t have the same shape. 
+<span id="time-span">17:49:02</span><span id="name-span">Smudgethedog</span>Exactly. That&#039;s a good example. My favorite example is the ears on an elephant. Large and highly vascular to allow heat exchange 
+<span id="time-span">17:49:24</span><span id="name-span">Andrew</span>That&#039;s a good one too yes! 
+<span id="time-span">17:49:46</span><span id="name-span">Smudgethedog</span>When did you start studying biology? 
+<span id="time-span">17:50:12</span><span id="name-span">Andrew</span>3 years ago. I&#039;m an undergrad student. 
+<span id="time-span">17:50:41</span><span id="name-span">Smudgethedog</span>Very cool At a University in France, I&#039;m guessing? 
+<span id="time-span">17:51:20</span><span id="name-span">Andrew</span>I study at the university of Western Ontario, in Canada. I live there. 
+<span id="time-span">17:51:52</span><span id="name-span">Smudgethedog</span>Very cool. Ontario is nice in spring and fall. I&#039;m not a fan of their Summers or Winters. 
+<span id="time-span">17:52:22</span><span id="name-span">Andrew</span>Yeah me neither. Very hot and very cold. Polar opposites. 
+<span id="time-span">17:53:35</span><span id="name-span">Smudgethedog</span>Exactly. I live in Florida. Fall and winter are the only tolerable months. 
+<span id="time-span">17:54:06</span><span id="name-span">Andrew</span>Very wet too I imagine, not even talking about the storms. 
+<span id="time-span">17:54:14</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">17:54:26</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">17:54:37</span><span id="name-span">Smudgethedog</span>The human. 
+<span id="time-span">17:54:41</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">17:55:24</span><span id="name-span">Smudgethedog</span>I answered incorrectly. The first conversation was the AI, the second conversation was the Human. I&#039;d scale my confidence as a 5 on both. 
+<span id="time-span">17:55:53</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">17:56:06</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 

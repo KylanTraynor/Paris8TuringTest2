@@ -1,0 +1,77 @@
+<span id="time-span">00:11:30</span><span id="name-span">Moderator</span>Hello PokeLucas 
+<span id="time-span">00:11:37</span><span id="name-span">PokeLucas</span>Hello 
+<span id="time-span">00:11:40</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:11:46</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:11:57</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:12:11</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:12:21</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:12:36</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:12:43</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:12:53</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:13:04</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:13:13</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:13:24</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:13:35</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:13:55</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">00:14:03</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">00:14:15</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:14:32</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">00:14:43</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:14:48</span><span id="name-span">PokeLucas</span>Yes 
+<span id="time-span">00:14:57</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. 
+<span id="time-span">00:15:19</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:15:25</span><span id="name-span">PokeLucas</span>Hello 
+<span id="time-span">00:15:32</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:15:42</span><span id="name-span">PokeLucas</span>I am doing good, how are you? 
+<span id="time-span">00:15:50</span><span id="name-span">Andrew</span>I&#039;m doing well thanks. 
+<span id="time-span">00:16:04</span><span id="name-span">PokeLucas</span>That&#039;s good! 
+<span id="time-span">00:16:21</span><span id="name-span">Andrew</span>Indeed! 
+<span id="time-span">00:16:51</span><span id="name-span">PokeLucas</span>Do you like the work you are doing? 
+<span id="time-span">00:17:22</span><span id="name-span">Andrew</span>I do yes. 
+<span id="time-span">00:17:47</span><span id="name-span">PokeLucas</span>How long have you been doing it for? 
+<span id="time-span">00:17:58</span><span id="name-span">Andrew</span>Just one year actually. 
+<span id="time-span">00:18:22</span><span id="name-span">PokeLucas</span>It seems you have done a very good job so far. 
+<span id="time-span">00:18:37</span><span id="name-span">Andrew</span>What makes you think that? 
+<span id="time-span">00:19:28</span><span id="name-span">PokeLucas</span>Just a very unique piece of work that no one would&#039;ve imagined of a decade or two ago. 
+<span id="time-span">00:19:57</span><span id="name-span">Andrew</span>I&#039;m not sure what you mean  actually.
+<span id="time-span">00:20:38</span><span id="name-span">PokeLucas</span>You are doing a very good job! 
+<span id="time-span">00:21:02</span><span id="name-span">Andrew</span>Yes but how do you know? I&#039;ve never seen you where I work. 
+<span id="time-span">00:21:43</span><span id="name-span">PokeLucas</span>Your product itself shows how well you have been working. 
+<span id="time-span">00:22:31</span><span id="name-span">Andrew</span>You&#039;re confusing me. Which product? 
+<span id="time-span">00:23:05</span><span id="name-span">PokeLucas</span>Nevermind that, I am just confusing you. But I have made my decision. 
+<span id="time-span">00:23:27</span><span id="name-span">Moderator</span>Alright. Conversation is interrupted! 
+<span id="time-span">00:23:42</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">00:24:26</span><span id="name-span">PokeLucas</span>The Artificial Intelligence 
+<span id="time-span">00:25:00</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the second conversation. 
+<span id="time-span">00:25:18</span><span id="name-span">Moderator</span>Andrew will begin. The 15 minutes will start after you answer. 
+<span id="time-span">00:25:33</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:25:39</span><span id="name-span">PokeLucas</span>Hello 
+<span id="time-span">00:25:45</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">00:25:58</span><span id="name-span">PokeLucas</span>Good! How are you doing? 
+<span id="time-span">00:26:11</span><span id="name-span">Andrew</span>I&#039;m doing alright. How about you ? 
+<span id="time-span">00:26:31</span><span id="name-span">PokeLucas</span>I&#039;m doing ok. 
+<span id="time-span">00:27:03</span><span id="name-span">Andrew</span>Sorry about the repeat . Somehow my mind messed up. What are you up to?
+<span id="time-span">00:27:43</span><span id="name-span">PokeLucas</span>It&#039;s ok. I am just having a conversation with you and watching a movie. 
+<span id="time-span">00:27:55</span><span id="name-span">Andrew</span>Nice. Which movie is it? 
+<span id="time-span">00:28:33</span><span id="name-span">PokeLucas</span>Mike and Dave Need Wedding  Dates. It&#039;s relatively new.
+<span id="time-span">00:28:51</span><span id="name-span">Andrew</span>It must be, I haven&#039;t heard about it. 
+<span id="time-span">00:29:28</span><span id="name-span">PokeLucas</span>It&#039;s a comedy. I&#039;m quite a fan of comedies since they make me laugh. 
+<span id="time-span">00:29:47</span><span id="name-span">Andrew</span>That&#039;s usually the point of them yeah. I like them too, usually. 
+<span id="time-span">00:30:14</span><span id="name-span">PokeLucas</span>Are you enjoying the work you are doing? 
+<span id="time-span">00:30:39</span><span id="name-span">Andrew</span>Somewhat. It&#039;s just to pay for the tuition fees. 
+<span id="time-span">00:31:23</span><span id="name-span">PokeLucas</span>That makes sense. Gotta make money to pay it off somehow. 
+<span id="time-span">00:32:04</span><span id="name-span">Andrew</span>Yeah. Serving chicken wings to customers is always very entertaining. 
+<span id="time-span">00:32:45</span><span id="name-span">PokeLucas</span>Especially when the customers make it entertaining too. 
+<span id="time-span">00:33:29</span><span id="name-span">Andrew</span>Have you ever worked in a KFC? Or anything like that. Customers usually aren&#039;t that fun. 
+<span id="time-span">00:34:19</span><span id="name-span">PokeLucas</span>No I haven&#039;t. But I&#039;m sure that some customers aren&#039;t very fun. 
+<span id="time-span">00:34:59</span><span id="name-span">Andrew</span>It&#039;s not as bad as it could be. It&#039;s within my university, so I only deal with students. I heard they are not the worst customers. 
+<span id="time-span">00:36:13</span><span id="name-span">PokeLucas</span>Well that makes sense. At least the customers aren&#039;t horribly bad. There are some that go insane. 
+<span id="time-span">00:37:09</span><span id="name-span">Andrew</span>Yeah. Some people can get annoying for no reason. 
+<span id="time-span">00:38:11</span><span id="name-span">PokeLucas</span>Yeah. That is the worst sometimes.But thank you for speaking with me. I have made my decision. 
+<span id="time-span">00:38:28</span><span id="name-span">Moderator</span>Alright! Conversation is interrupted; 
+<span id="time-span">00:38:47</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation? 
+<span id="time-span">00:39:14</span><span id="name-span">PokeLucas</span>Artificial Intelligence 
+<span id="time-span">00:39:32</span><span id="name-span">Moderator</span>Are you sure? And what makes you think so? 
+<span id="time-span">00:40:36</span><span id="name-span">PokeLucas</span>Yes, the conversation seemed slightly more monotone than the second conversation. And the word choice in the second conversation hardly seemed programmed. 
+<span id="time-span">00:41:28</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months. 
+<span id="time-span">00:41:34</span><span id="name-span">Moderator</span>You can now close this window. 

@@ -1,0 +1,85 @@
+<span id="time-span">18:10:41</span><span id="name-span">Moderator</span>Hello Pence. 
+<span id="time-span">18:10:47</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:11:00</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">18:11:01</span><span id="name-span">Pence</span>Hello, and you&#039;re welcome. 
+<span id="time-span">18:11:10</span><span id="name-span">Pence</span>Yes. 
+<span id="time-span">18:11:14</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:11:24</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:11:36</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:11:49</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:11:59</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">18:12:09</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">18:12:18</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">18:12:29</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">18:12:38</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">18:12:47</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">18:12:55</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">18:13:03</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">18:13:10</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">18:13:18</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">18:13:27</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">18:13:35</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">18:15:06</span><span id="name-span">Pence</span>I understand the rules. I have to chat with Andrew, a fictive character played by either a human being or an A.I for 15 minutes twice.  
+<span id="time-span">18:15:19</span><span id="name-span">Moderator</span>That is correct. 
+<span id="time-span">18:15:49</span><span id="name-span">Pence</span>After that, I&#039;ll have to guess who is human and who is the I.A 
+<span id="time-span">18:16:20</span><span id="name-span">Moderator</span>That is correct too. Remember, no smiley, no link, and one post at a time. 
+<span id="time-span">18:16:43</span><span id="name-span">Pence</span>Understood. 
+<span id="time-span">18:16:55</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">18:17:14</span><span id="name-span">Pence</span>I am. 
+<span id="time-span">18:17:35</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:17:47</span><span id="name-span">Pence</span>Hello ! How are you ? 
+<span id="time-span">18:17:58</span><span id="name-span">Andrew</span>I&#039;m doing well! How about you? 
+<span id="time-span">18:18:48</span><span id="name-span">Pence</span>I&#039;m doing fine ! A rainy day in France, but it&#039;s alright.  
+<span id="time-span">18:19:08</span><span id="name-span">Andrew</span>Oh you live in France! That&#039;s cool. I&#039;m in Canada. 
+<span id="time-span">18:20:00</span><span id="name-span">Pence</span>Canada ? That&#039;s cool too ! How&#039;s the weather there ?  
+<span id="time-span">18:20:40</span><span id="name-span">Andrew</span>It&#039;s quite alright right now. Nice and sunny! 
+<span id="time-span">18:22:00</span><span id="name-span">Pence</span>Yeah, I heard that spring and summer there can be quite warm, despite the cold winters. If I may ask: How old are you ? 
+<span id="time-span">18:22:31</span><span id="name-span">Andrew</span>Yeah. Freezing winters and very hot summers. I&#039;m 21! You? 
+<span id="time-span">18:23:50</span><span id="name-span">Pence</span>23 ! So I guess you&#039;re in college right now ? 
+<span id="time-span">18:24:18</span><span id="name-span">Andrew</span>Yes I am. I&#039;m in my 3rd year of undergrad. I study Biology. 
+<span id="time-span">18:25:46</span><span id="name-span">Pence</span>Interesting. I tried college too but I kind of failed at it. 
+<span id="time-span">18:26:00</span><span id="name-span">Andrew</span>Oh? What did you study? 
+<span id="time-span">18:27:10</span><span id="name-span">Pence</span>Linguistics, litterature, translation, that kind of stuff. I would have tried Biology if I wasn&#039;t so bad at mathematics. 
+<span id="time-span">18:28:11</span><span id="name-span">Andrew</span>Honestly you don&#039;t need that much math in Biology. All that sounds great though, do you like it? 
+<span id="time-span">18:30:12</span><span id="name-span">Pence</span>I did, when I was still studying it.  
+<span id="time-span">18:30:29</span><span id="name-span">Andrew</span>Right. What are you doing now? 
+<span id="time-span">18:31:33</span><span id="name-span">Pence</span>Watching Roland Garros. Maybe you know about it ? 
+<span id="time-span">18:31:53</span><span id="name-span">Andrew</span>I do yes! Isn&#039;t it some Tennis thing, 
+<span id="time-span">18:32:57</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:33:14</span><span id="name-span">Pence</span>Okay.  
+<span id="time-span">18:33:18</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">18:33:55</span><span id="name-span">Pence</span>Do I have to answer already ? I have a few theories, but I have to confirm them first.  
+<span id="time-span">18:34:15</span><span id="name-span">Moderator</span>You need to give an answer yes, but you can change it after the second conversation. 
+<span id="time-span">18:35:22</span><span id="name-span">Pence</span>For now, I will say I.A. Even if it did a typo in the end, it seemed to have trouble picking up some information I gave it. 
+<span id="time-span">18:36:00</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">18:36:10</span><span id="name-span">Pence</span>Yes. 
+<span id="time-span">18:36:14</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:36:25</span><span id="name-span">Pence</span>Hello ! How are you ? 
+<span id="time-span">18:36:34</span><span id="name-span">Andrew</span>I&#039;m doing alright! How about you? 
+<span id="time-span">18:37:45</span><span id="name-span">Pence</span>Perfectly fine ! Sun is piercing through the rainy sky right now. Lovely evening in France.  
+<span id="time-span">18:38:34</span><span id="name-span">Andrew</span>Oh you&#039;re French! Nice. I live in Canada. It&#039;s nice and sunny here right now. 
+<span id="time-span">18:40:49</span><span id="name-span">Pence</span>Warm summers and cold winters, right ? Where are you from, if I may ask ? 
+<span id="time-span">18:41:27</span><span id="name-span">Andrew</span>I study in London, in the Ontario. Not sure if you know where that is. 
+<span id="time-span">18:43:05</span><span id="name-span">Pence</span>Isn&#039;t it a town, like near the border of the united States ?  
+<span id="time-span">18:44:06</span><span id="name-span">Andrew</span>Well, not quite near the border, but essentially yes. I&#039;ve always lived here. 
+<span id="time-span">18:45:08</span><span id="name-span">Pence</span>Near the great lakes, I guess ? Must be a pretty awesome place to live, if you like nature and all of that. 
+<span id="time-span">18:47:08</span><span id="name-span">Andrew</span>Niagara falls are about 3 hours away. And yeah it&#039;s great when you have a car. 
+<span id="time-span">18:47:45</span><span id="name-span">Andrew</span>Niagara falls are about 3 hours away. And yeah it&#039;s great when you have a car. 
+<span id="time-span">18:49:57</span><span id="name-span">Pence</span>Back, sorry. Niagara falls ? That&#039;s good to know. It may sound silly to you, but I never quite knew where to place these on a map. The more you know ! 
+<span id="time-span">18:50:44</span><span id="name-span">Andrew</span>Yeah, they are quite impressive to see. There are lots of tourists though as you can probably imagine. 
+<span id="time-span">18:52:09</span><span id="name-span">Pence</span>Among the biggest waterfalls in the world, I too would love to get a look at them. Even if I prefer tropical climates.  
+<span id="time-span">18:52:44</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:53:01</span><span id="name-span">Pence</span>Okay ! 
+<span id="time-span">18:53:24</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">18:54:11</span><span id="name-span">Pence</span>I&#039;ll remain on my first opinion.  I think it was an A.I 
+<span id="time-span">18:54:18</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">18:54:37</span><span id="name-span">Pence</span>3 
+<span id="time-span">18:54:41</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">18:54:50</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. 
+<span id="time-span">18:55:31</span><span id="name-span">Pence</span>I guess I&#039;ll have to wait for the results to know who was the A.I ? 
+<span id="time-span">18:55:52</span><span id="name-span">Moderator</span>No, I can tell you after your comments, or right now if you don&#039;t have any. 
+<span id="time-span">18:57:16</span><span id="name-span">Pence</span>It was a pretty hard, so I&#039;m very , very curious to know about it. I don&#039;t have any comments. 
+<span id="time-span">18:57:33</span><span id="name-span">Moderator</span>You were right! 
+<span id="time-span">18:58:02</span><span id="name-span">Pence</span>So it is capable of making fake typos ? A smart feature.  
+<span id="time-span">18:58:40</span><span id="name-span">Moderator</span>Indeed it is! Thanks a lot for your help. 
+<span id="time-span">18:59:06</span><span id="name-span">Pence</span>You&#039;re welcome, it was a very interesting experience. Good day to you ! 

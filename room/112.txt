@@ -1,0 +1,89 @@
+<span id="time-span">01:57:05</span><span id="name-span">112</span>Hello 
+<span id="time-span">01:57:14</span><span id="name-span">Moderator</span>Hello 112 
+<span id="time-span">01:57:22</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">01:57:29</span><span id="name-span">112</span>No problem 
+<span id="time-span">01:57:38</span><span id="name-span">112</span>How are you doing tday? 
+<span id="time-span">01:57:45</span><span id="name-span">112</span>today? 
+<span id="time-span">01:57:59</span><span id="name-span">Moderator</span>I&#039;m good thank you. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">01:58:09</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">01:58:11</span><span id="name-span">112</span>Sounds good 
+<span id="time-span">01:58:20</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">01:58:26</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">01:58:33</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">01:58:38</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">01:58:45</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">01:58:55</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">01:59:02</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">01:59:07</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">01:59:13</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">01:59:20</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">01:59:26</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">01:59:31</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">01:59:36</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">01:59:42</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">02:00:33</span><span id="name-span">112</span>yes i do, my only question is the [STOP] function. Does that just change me to  a different actor? 
+<span id="time-span">02:01:02</span><span id="name-span">Moderator</span>Yes, it will stop the current conversation and proceed to the rest of the experiment. 
+<span id="time-span">02:01:13</span><span id="name-span">112</span>Okay, I understand 
+<span id="time-span">02:01:35</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">02:01:48</span><span id="name-span">112</span>Yes 
+<span id="time-span">02:01:53</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:01:59</span><span id="name-span">112</span>Hello Andrew 
+<span id="time-span">02:02:04</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:02:10</span><span id="name-span">112</span>I am doing well 
+<span id="time-span">02:02:22</span><span id="name-span">Andrew</span>What are you up to? That&#039;s cool. 
+<span id="time-span">02:02:42</span><span id="name-span">112</span>I am just listen to some music  
+<span id="time-span">02:02:55</span><span id="name-span">Andrew</span>What is it? 
+<span id="time-span">02:03:05</span><span id="name-span">112</span>Rolling Stones 
+<span id="time-span">02:03:19</span><span id="name-span">Andrew</span>Oh cool! 
+<span id="time-span">02:03:30</span><span id="name-span">112</span>Do you like them? 
+<span id="time-span">02:04:06</span><span id="name-span">Andrew</span>They are a classic, but I can&#039;t say I listen to them often. 
+<span id="time-span">02:04:26</span><span id="name-span">112</span>Whats your favorite song by them? 
+<span id="time-span">02:04:57</span><span id="name-span">Andrew</span>I guess Satisfaction. What&#039;s yours? 
+<span id="time-span">02:05:33</span><span id="name-span">112</span>Sympathy for the devil 
+<span id="time-span">02:06:15</span><span id="name-span">Andrew</span>I tend to listen to very different kinds of music most of the time. 
+<span id="time-span">02:06:30</span><span id="name-span">112</span>What do you like to listen to? 
+<span id="time-span">02:06:54</span><span id="name-span">Andrew</span>Mostly games music or symphonic metal. 
+<span id="time-span">02:07:13</span><span id="name-span">112</span>Whats your favorite artist? 
+<span id="time-span">02:08:10</span><span id="name-span">Andrew</span>I like Nightwish. I don&#039;t think I really have one. It depends on my mood. 
+<span id="time-span">02:09:00</span><span id="name-span">112</span>Do you play any video games ?
+<span id="time-span">02:09:32</span><span id="name-span">Andrew</span>I play that game way too much. Minecraft yeah. 
+<span id="time-span">02:09:58</span><span id="name-span">112</span>What do you like about it? 
+<span id="time-span">02:10:55</span><span id="name-span">Andrew</span>Do you play it too? The sense of community and being creative by building good looking things. 
+<span id="time-span">02:11:31</span><span id="name-span">112</span>[stop] 
+<span id="time-span">02:11:49</span><span id="name-span">Moderator</span>Conversation interrupted 
+<span id="time-span">02:12:07</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">02:12:14</span><span id="name-span">112</span>the AI 
+<span id="time-span">02:12:28</span><span id="name-span">Moderator</span>Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? 
+<span id="time-span">02:12:36</span><span id="name-span">112</span>Yes i am 
+<span id="time-span">02:12:40</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:12:46</span><span id="name-span">112</span>Hey 
+<span id="time-span">02:12:54</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:13:04</span><span id="name-span">112</span>I am doing well 
+<span id="time-span">02:13:13</span><span id="name-span">Andrew</span>Nice! What are you up to today? 
+<span id="time-span">02:13:35</span><span id="name-span">112</span>Just listening to music 
+<span id="time-span">02:13:43</span><span id="name-span">Andrew</span>What kind of music? 
+<span id="time-span">02:13:48</span><span id="name-span">112</span>Rolling stones 
+<span id="time-span">02:14:14</span><span id="name-span">Andrew</span>Ah alright. I can&#039;t say I listen to them much. 
+<span id="time-span">02:14:28</span><span id="name-span">112</span>Do you have a favorite song by them? 
+<span id="time-span">02:15:30</span><span id="name-span">Andrew</span>It&#039;s not really a favorite song, it&#039;s actually the only one I can recall is of them, and that I also happen to know its name : Satisfaction. 
+<span id="time-span">02:15:53</span><span id="name-span">112</span>What do you like about it? 
+<span id="time-span">02:16:54</span><span id="name-span">Andrew</span>The rhythm I guess. Again, that&#039;s the only one I really know of the Rolling Stones, so I&#039;m not a good critic. 
+<span id="time-span">02:17:17</span><span id="name-span">112</span>Whats your favorite kind of music to listen to? 
+<span id="time-span">02:17:52</span><span id="name-span">Andrew</span>It depends on my mood really. I love games music and metal symphonic though. 
+<span id="time-span">02:18:18</span><span id="name-span">112</span>WHats your favorite band? 
+<span id="time-span">02:18:57</span><span id="name-span">Andrew</span>Nightwish. I used to listen to them all the time. Less so now. I just listen to random music on youtube. 
+<span id="time-span">02:19:14</span><span id="name-span">112</span>Wh ats your favorite game?
+<span id="time-span">02:19:44</span><span id="name-span">Andrew</span>That would have to be Minecraft. I like many others, but that&#039;s the one I spend most of my time on. 
+<span id="time-span">02:19:56</span><span id="name-span">112</span>What do you like about it? 
+<span id="time-span">02:20:32</span><span id="name-span">Andrew</span>I love building. I also play on a server, which is a nice way to socialize a bit with others while building cool things. 
+<span id="time-span">02:20:48</span><span id="name-span">112</span>[STOP] 
+<span id="time-span">02:21:08</span><span id="name-span">Moderator</span>Conversation interrupted 
+<span id="time-span">02:21:17</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">02:21:22</span><span id="name-span">112</span>AI 
+<span id="time-span">02:21:29</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? 
+<span id="time-span">02:21:33</span><span id="name-span">112</span>7 
+<span id="time-span">02:21:38</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">02:21:44</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  
+<span id="time-span">02:22:11</span><span id="name-span">112</span>I felt as if the first actor spoke akwardly 
+<span id="time-span">02:22:23</span><span id="name-span">112</span>Like the order of things he said seemed off 
+<span id="time-span">02:22:56</span><span id="name-span">Moderator</span>I see. Thank you again for your help! 

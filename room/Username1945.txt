@@ -1,0 +1,166 @@
+<span id="time-span">16:19:30</span><span id="name-span">Moderator</span>Welcome Username1945 
+<span id="time-span">16:19:31</span><span id="name-span">Username1945</span>Good day,  fellow human.
+<span id="time-span">16:19:32</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">16:19:43</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">16:20:04</span><span id="name-span">Username1945</span>I am very well capable of reading this. Yes. 
+<span id="time-span">16:20:11</span><span id="name-span">Moderator</span>Good. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">16:20:19</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">16:20:23</span><span id="name-span">Username1945</span>I see. 
+<span id="time-span">16:20:30</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">16:20:37</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">16:20:44</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">16:20:51</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">16:20:58</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">16:21:07</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">16:21:14</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">16:21:21</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">16:21:28</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">16:21:37</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">16:21:44</span><span id="name-span">Username1945</span>In brackets? 
+<span id="time-span">16:21:45</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">16:21:53</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">16:22:01</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">16:22:09</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">16:22:20</span><span id="name-span">Username1945</span>Except for the [STOP] Part, yes. 
+<span id="time-span">16:22:44</span><span id="name-span">Username1945</span>Do I say it in brackets or without? 
+<span id="time-span">16:23:07</span><span id="name-span">Moderator</span>Whenever you&#039;ve made your decision on which actor you&#039;re talking to, you&#039;re able to stop the conversation if you do not want to keep talking to them. You can say it with or without brackets it doesn&#039;t
+<span id="time-span">16:23:14</span><span id="name-span">Moderator</span>matter, as long as it&#039;s explicit. 
+<span id="time-span">16:23:17</span><span id="name-span">Username1945</span>Aight then. 
+<span id="time-span">16:23:30</span><span id="name-span">Username1945</span>I&#039;m good to go. 
+<span id="time-span">16:23:37</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">16:23:55</span><span id="name-span">Username1945</span>I was born ready. 
+<span id="time-span">16:24:00</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">16:24:04</span><span id="name-span">Username1945</span>Hey there 
+<span id="time-span">16:24:14</span><span id="name-span">Andrew</span>How are you? 
+<span id="time-span">16:24:27</span><span id="name-span">Username1945</span>Pondering on existentialism. And you? 
+<span id="time-span">16:24:44</span><span id="name-span">Andrew</span>Doing quite alright. 
+<span id="time-span">16:25:17</span><span id="name-span">Username1945</span>Good enough I guess? So, &quot;andrew&quot;. What have you been up to this week? 
+<span id="time-span">16:25:37</span><span id="name-span">Andrew</span>Not much. Mostly playing games. 
+<span id="time-span">16:25:55</span><span id="name-span">Username1945</span>Ah, alrgiht. What kinda games? Any favorites? 
+<span id="time-span">16:26:23</span><span id="name-span">Andrew</span>Yeah Minecraft mostly. I played the last Mass Effect too. 
+<span id="time-span">16:26:55</span><span id="name-span">Username1945</span>What do you like abou minecraft? 
+<span id="time-span">16:27:23</span><span id="name-span">Andrew</span>Building. 
+<span id="time-span">16:27:37</span><span id="name-span">Username1945</span>What kind of things do you build? 
+<span id="time-span">16:27:53</span><span id="name-span">Andrew</span>Medieval things in general. 
+<span id="time-span">16:28:04</span><span id="name-span">Username1945</span>Which blocks do you mostly use for that? 
+<span id="time-span">16:28:31</span><span id="name-span">Andrew</span>It depends, but mostly Cobblestone and Logs. 
+<span id="time-span">16:29:02</span><span id="name-span">Username1945</span>Mh, I see. How much time do youn invest every day in Minecraft then? 
+<span id="time-span">16:29:35</span><span id="name-span">Andrew</span>Lately a good amount of hours. 
+<span id="time-span">16:29:58</span><span id="name-span">Username1945</span>So how old are you anyway? 
+<span id="time-span">16:30:13</span><span id="name-span">Andrew</span>I&#039;m 21. You? 
+<span id="time-span">16:30:53</span><span id="name-span">Username1945</span>24, but that&#039;s not really important. What philosopher do you like? 
+<span id="time-span">16:31:23</span><span id="name-span">Andrew</span>I don&#039;t really know honestly. 
+<span id="time-span">16:31:39</span><span id="name-span">Username1945</span>No? Then how do you decide what the point in life is? 
+<span id="time-span">16:31:51</span><span id="name-span">Andrew</span>I just make my own. 
+<span id="time-span">16:31:58</span><span id="name-span">Username1945</span>What is it then? 
+<span id="time-span">16:32:15</span><span id="name-span">Andrew</span>Learning more about life. I study Biology. 
+<span id="time-span">16:32:58</span><span id="name-span">Username1945</span>Oh, cool. I study too. But I don&#039;t think that topic will get us any closer to resolving wether or not you are the person-actor or the artificial-actor. 
+<span id="time-span">16:33:23</span><span id="name-span">Andrew</span>Ah ok. What do you want to talk about then? 
+<span id="time-span">16:33:34</span><span id="name-span">Username1945</span>I dunno. Are we even real? 
+<span id="time-span">16:33:55</span><span id="name-span">Andrew</span>Depends. 
+<span id="time-span">16:34:06</span><span id="name-span">Username1945</span>Upon what does it depend? 
+<span id="time-span">16:34:32</span><span id="name-span">Andrew</span>On what your definition of real is. 
+<span id="time-span">16:34:43</span><span id="name-span">Username1945</span>Could you define real then? 
+<span id="time-span">16:35:34</span><span id="name-span">Andrew</span>I guess we&#039;re real if we are able to interact with other things that also exist. 
+<span id="time-span">16:35:58</span><span id="name-span">Username1945</span>But how do you judge if something actually exists or if we just perceive it to be? 
+<span id="time-span">16:36:23</span><span id="name-span">Andrew</span>I don&#039;t, I let that to philosophers. 
+<span id="time-span">16:36:43</span><span id="name-span">Username1945</span>You said you don&#039;t care about philosophers though... ? 
+<span id="time-span">16:37:03</span><span id="name-span">Andrew</span>I said I don&#039;t have a favorite one. 
+<span id="time-span">16:38:23</span><span id="name-span">Username1945</span>Hm, other topic then? 
+<span id="time-span">16:38:54</span><span id="name-span">Andrew</span>Do you like Game of Thrones? 
+<span id="time-span">16:39:07</span><span id="name-span">Username1945</span>Nah, do you? If so, why? 
+<span id="time-span">16:39:08</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">16:39:12</span><span id="name-span">Username1945</span>Nooooooooooo 
+<span id="time-span">16:39:27</span><span id="name-span">Username1945</span>Bye &quot;andrew&quot; 
+<span id="time-span">16:39:28</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">16:39:33</span><span id="name-span">Username1945</span>The bot. 
+<span id="time-span">16:39:38</span><span id="name-span">Moderator</span>Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? 
+<span id="time-span">16:39:51</span><span id="name-span">Username1945</span>I was born ready. 
+<span id="time-span">16:39:55</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">16:39:59</span><span id="name-span">Username1945</span>Heya there 
+<span id="time-span">16:40:04</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">16:40:15</span><span id="name-span">Username1945</span>I&#039;m okay, just had a weird conversation, but that&#039;s all. 
+<span id="time-span">16:40:28</span><span id="name-span">Andrew</span>Oh? What happened? 
+<span id="time-span">16:40:51</span><span id="name-span">Username1945</span>Idunno. The guy was just acting strange. Anyhow. You doing alright? 
+<span id="time-span">16:41:22</span><span id="name-span">Andrew</span>I am yeah! Just playing a game right now. Paused it though obviously. 
+<span id="time-span">16:41:44</span><span id="name-span">Username1945</span>Yeah, it helps to pause them in order to  not-die.
+<span id="time-span">16:42:20</span><span id="name-span">Andrew</span>Actually it&#039;s on a server, so pausing it is not enough, but yes, basically. 
+<span id="time-span">16:42:39</span><span id="name-span">Username1945</span>What are you playing then? 
+<span id="time-span">16:42:57</span><span id="name-span">Andrew</span>Minecraft. I play way too much of that. 
+<span id="time-span">16:43:05</span><span id="name-span">Username1945</span>Jeez, like how uch? 
+<span id="time-span">16:43:22</span><span id="name-span">Andrew</span>Hours a day. I have plenty of time right now as I&#039;m in summer break. 
+<span id="time-span">16:43:38</span><span id="name-span">Username1945</span>Oh, that&#039;s cool. What kinda stuff do you do in Minecraft then? 
+<span id="time-span">16:43:57</span><span id="name-span">Andrew</span>I mostly build. Castles, fortresses and things like that. 
+<span id="time-span">16:44:23</span><span id="name-span">Username1945</span>I guess the game kind of caters to that most, makes sense. 
+<span id="time-span">16:44:43</span><span id="name-span">Andrew</span>Some people make modern buildings with it, I think those just look ugly though. 
+<span id="time-span">16:45:15</span><span id="name-span">Username1945</span>Yeah, they do. I think you can get pretty close to the Runescape architecture with the minecraft blocks. Would you agree on that? 
+<span id="time-span">16:45:40</span><span id="name-span">Andrew</span>I don&#039;t think I&#039;ve actually played Runescape, so I couldn&#039;t tell. 
+<span id="time-span">16:46:28</span><span id="name-span">Username1945</span>Why not? Basically everyone and their mum tried it at some point. 
+<span id="time-span">16:47:01</span><span id="name-span">Andrew</span>Never seen the point. You think I should give it a try? 
+<span id="time-span">16:47:26</span><span id="name-span">Username1945</span>I think it&#039;s pretty outdated, but if you want to give a low-end machine MMORPG a try it might be the best. 
+<span id="time-span">16:48:16</span><span id="name-span">Andrew</span>Fair enough. I haven&#039;t played a MMORPG in a very long time, so that might be worth a shot. 
+<span id="time-span">16:48:36</span><span id="name-span">Username1945</span>Sure. btw, how much dedodated wam do you run a minecraft server on? 
+<span id="time-span">16:49:21</span><span id="name-span">Andrew</span>Ouch typos. So far we have 8GB. Why? 
+<span id="time-span">16:49:58</span><span id="name-span">Username1945</span>Just wondering what you put into the baby. You watching minecon when its on? 
+<span id="time-span">16:50:29</span><span id="name-span">Andrew</span>Nope not really. 
+<span id="time-span">16:51:28</span><span id="name-span">Username1945</span>You should, hilarious things occur there.   Do you apply any rules of architecture or general art to your builds in MC? 
+<span id="time-span">16:52:08</span><span id="name-span">Andrew</span>Yeah, I try to stick to as much realism as possible, or at least, things that look believable. 
+<span id="time-span">16:52:50</span><span id="name-span">Username1945</span>Cool, but do you apply rules in doing that? Like, consciously? 
+<span id="time-span">16:53:57</span><span id="name-span">Andrew</span>To some extent. Mostly for weight distribution. I&#039;m not actually using hard rules, but documentation and intuition. 
+<span id="time-span">16:54:28</span><span id="name-span">Username1945</span>But you do know about basics like the golden cut and the Fibonacci sequence, right? 
+<span id="time-span">16:55:09</span><span id="name-span">Andrew</span>I do. But I don&#039;t actually calculate it each time. I go for things that have roughly decent proportions. 
+<span id="time-span">16:55:20</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">16:55:25</span><span id="name-span">Username1945</span>Noooooooooooooooooooooooo 
+<span id="time-span">16:55:39</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">16:55:49</span><span id="name-span">Username1945</span>Still think it was the bot. 
+<span id="time-span">16:55:53</span><span id="name-span">Username1945</span>More now than I did before. 
+<span id="time-span">16:56:01</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? 
+<span id="time-span">16:56:06</span><span id="name-span">Username1945</span>6 
+<span id="time-span">16:56:14</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">16:56:19</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  
+<span id="time-span">16:56:37</span><span id="name-span">Username1945</span>When will I 7 know who was the bot? 
+<span id="time-span">16:56:53</span><span id="name-span">Moderator</span>I can tell you after your comments, or right now if you have none. 
+<span id="time-span">16:57:14</span><span id="name-span">Username1945</span>I think the first one had less social intelligence. 
+<span id="time-span">16:57:31</span><span id="name-span">Moderator</span>What makes you think that? 
+<span id="time-span">16:57:41</span><span id="name-span">Username1945</span>&quot;My guts&quot; as a linguist. 
+<span id="time-span">16:57:53</span><span id="name-span">Moderator</span>Alright. If he was the human he&#039;ll be happy. 
+<span id="time-span">16:58:12</span><span id="name-span">Moderator</span>I can give you the answer now if you&#039;d like. 
+<span id="time-span">16:58:12</span><span id="name-span">Username1945</span>He certainly will, but that&#039;D just mean the AI learnt A LOT. 
+<span id="time-span">16:58:18</span><span id="name-span">Username1945</span>Sure 
+<span id="time-span">16:58:27</span><span id="name-span">Moderator</span>The first conversation was with the AI. 
+<span id="time-span">16:58:32</span><span id="name-span">Username1945</span>Toldya 
+<span id="time-span">16:58:44</span><span id="name-span">Moderator</span>Thank you very much for your help! 
+<span id="time-span">16:58:50</span><span id="name-span">Username1945</span>Glad I could help. 
+<span id="time-span">16:59:05</span><span id="name-span">Username1945</span>The secodn one also had an error  here and there btw 
+<span id="time-span">16:59:23</span><span id="name-span">Moderator</span>Humans are not perfect either. 
+<span id="time-span">16:59:29</span><span id="name-span">Username1945</span>The AI might need to adapt a corruption percentage or something. 
+<span id="time-span">16:59:31</span><span id="name-span">Username1945</span>Exactly. 
+<span id="time-span">16:59:50</span><span id="name-span">Moderator</span>What do you mean by a corruption percentage? 
+<span id="time-span">16:59:57</span><span id="name-span">Username1945</span>There was no typo in the first, so it was much more likely to be a bot. 
+<span id="time-span">17:00:13</span><span id="name-span">Moderator</span>Right. 
+<span id="time-span">17:00:25</span><span id="name-span">Username1945</span>If you&#039;d get statistics of how often certain letters get mixed up while typing or where puncuation errors might land, it&#039;d be more convinging. 
+<span id="time-span">17:00:28</span><span id="name-span">Username1945</span>*convincing 
+<span id="time-span">17:00:49</span><span id="name-span">Username1945</span>So, how many people got it right? 
+<span id="time-span">17:00:56</span><span id="name-span">Username1945</span>Of the odd-seventy you had so far. 
+<span id="time-span">17:01:48</span><span id="name-span">Moderator</span>So far, in total, 43 found the AI and 30 were wrong. 
+<span id="time-span">17:02:34</span><span id="name-span">Username1945</span>mh, I expected that to be higher. But then, I wouldn&#039;t know what groups participate. 
+<span id="time-span">17:02:54</span><span id="name-span">Username1945</span>It was interesting. I hope you can get your 90 peeps. 
+<span id="time-span">17:03:14</span><span id="name-span">Moderator</span>We are using 3 different AI, the one you had to deal with had 13 getting it right, and 12 getting it wrong. 
+<span id="time-span">17:03:36</span><span id="name-span">Username1945</span>I broke the draw then. :^) 
+<span id="time-span">17:03:54</span><span id="name-span">Moderator</span>Indeed! 
+<span id="time-span">17:04:03</span><span id="name-span">Username1945</span>Are the other two better or worse, detection wise? 
+<span id="time-span">17:04:41</span><span id="name-span">Username1945</span>Also, sorry if I was a bit harsh, but I had to apply some pressure to find things out. ^^&quot; 
+<span id="time-span">17:04:56</span><span id="name-span">Moderator</span>The other one is 16 right against 8 wrong, and the last one is 14 right against 10 
+<span id="time-span">17:05:02</span><span id="name-span">Moderator</span>No worries, that&#039;s part of the test. 
+<span id="time-span">17:05:25</span><span id="name-span">Username1945</span>So I actually faced the most convinci ng one.
+<span id="time-span">17:05:38</span><span id="name-span">Moderator</span>It would seem like so yes. 
+<span id="time-span">17:06:05</span><span id="name-span">Username1945</span>Hmm. 
+<span id="time-span">17:06:12</span><span id="name-span">Username1945</span>So is mod also [andrew]? 
+<span id="time-span">17:06:24</span><span id="name-span">Moderator</span>The human one yes. 
+<span id="time-span">17:06:33</span><span id="name-span">Username1945</span>Yes, the other one was &quot;andrew&quot;. 
+<span id="time-span">17:06:54</span><span id="name-span">Username1945</span>Alright. You have any questions? 
+<span id="time-span">17:07:09</span><span id="name-span">Moderator</span>No we have enough information. Thank you again! 
+<span id="time-span">17:07:38</span><span id="name-span">Username1945</span>Thanks for helping. Keep science going. Also keep Asimov in mind while working on AI, thnx. 
+<span id="time-span">17:07:49</span><span id="name-span">Moderator</span>Yes of course! 
+<span id="time-span">17:07:56</span><span id="name-span">Username1945</span>Have a good one! 
+<span id="time-span">17:08:03</span><span id="name-span">Moderator</span>You too! 

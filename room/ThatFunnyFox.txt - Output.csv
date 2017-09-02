@@ -1,0 +1,119 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome ThatFunnyFox! ",22,
+Moderator,2,2,"Thank you for participating in this study. ",43,
+Moderator,18,16,"Are you able to read this? ",27,
+ThatFunnyFox,21373,21355,"I am finally able! ",19,
+Moderator,21905,532,"Good! ",6,
+ThatFunnyFox,21930,25,"Better than good! ",18,
+Moderator,21963,33,"Let&#039;s get right to it then! ",33,
+Moderator,21969,6,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+ThatFunnyFox,21975,6,"Roger ",6,
+Moderator,21994,19,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,22006,12,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,22016,10,"You&#039;ll be talking to him twice. ",37,
+Moderator,22026,10,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,22033,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,22041,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,22051,10,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,22062,11,"You will not be talking twice with the same Actor. ",51,
+Moderator,22078,16,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,22087,9,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,22094,7,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,22103,9,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,22113,10,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,22121,8,"Do not type more than one post per answer. ",43,
+Moderator,22129,8,"Do you understand the rules and what you have to do? ",53,
+ThatFunnyFox,22153,24,"So I&#039;m going to be having one conversation with an actor, and then after that a conversation with the other actor, yes? ",125,
+Moderator,22169,16,"That is correct yes. ",21,
+ThatFunnyFox,22189,20,"Does the second actor have any access to the answers/responses of the previous actor from the first conversation? ",114,
+Moderator,22226,37,"No, but remember, they are trying to portray the same Andrew. ",62,
+ThatFunnyFox,22269,43,"I see!   Then I&#039;ll enjoy trying to tell them apart!  I believe I am ready to begin ",88,
+Moderator,22282,13,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+ThatFunnyFox,22302,20,"yes ",4,
+Andrew,22308,6,"Hello! ",7,
+ThatFunnyFox,22328,20,"Hello!  Tell me about yourself, Andrew ",39,1
+Andrew,22398,70,"Well that&#039;s pretty direct! I&#039;m a student in Biology, and I live in Canada. Is there anything specific you&#039;d like to know? ",137,1
+ThatFunnyFox,22502,104,"Well, considering the basis of this project, it&#039;d be interesting to hear how you came to be in this situation.  In other words, what brings a biology student from Canada, here? ",182,1
+Andrew,22555,53,"I&#039;m actually just helping a friend with his project. ",58,1
+ThatFunnyFox,22597,42,"That makes sense.  Did you meet your friend in school, or somewhere else? ",74,1
+Andrew,22637,40,"We went to the same university for a bit yes. ",46,1
+ThatFunnyFox,22679,42,"That implies you parted ways, at least for a bit. ",50,1
+Andrew,22705,26," That&#039;s right yes. ",24,1
+ThatFunnyFox,22731,26,"How did that come to pass? ",27,1
+Andrew,22748,17,"What do you mean exactly? ",26,1
+ThatFunnyFox,22778,30,"If you both went to the same university, what happened that lead to your parting ways? ",87,1
+Andrew,22834,56,"He was an exchange student. I live here. ",41,1
+ThatFunnyFox,22859,25,"Oh I see.  And what made him think of you when it came to this project? ",72,1
+Andrew,22901,42,"Nothing specific, he just needed help really. ",46,1
+ThatFunnyFox,22965,64,"He needed help but he reached out to someone living in another county who he just briefly went to the same University with?    ",127,1
+Andrew,23036,71,"I&#039;m not sure why that would be strange. ",45,1
+ThatFunnyFox,23118,82,"It just seems to me like he should&#039;ve been able to find someone to help him who is in some way involved in his field of study, or lives in the same area, or whom he has a deeper relationship with.  ",203,1
+Andrew,23187,69,"I suppose he didn&#039;t find any. I can&#039;t really speak for him though. ",77,1
+ThatFunnyFox,23207,20,"How do you feel about being a part of his project? ",51,1
+Moderator,23234,27,"Time is up! ",12,
+ThatFunnyFox,23250,16,"Darn.  Sneaky, sneaky... Okay I&#039;m ready for round two! ",60,
+Moderator,23259,9,"Which actor do you think you&#039;ve been talking to? (This is not your final answer) ",86,
+ThatFunnyFox,23280,21,"I believe this was an AI ",25,
+Moderator,23292,12,"Alright. We&#039;ll begin the next conversation. Andrew will start and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+ThatFunnyFox,23297,5,"yes ",4,
+Andrew,23303,6,"Hello! ",7,
+ThatFunnyFox,23344,41,"Hello Andrew!  Do you prefer surface-level, impersonal questions, or do you mind if I ask about more personal things regarding your thoughts and feelings? ",155,2
+Andrew,23397,53,"Well, it&#039;s up to you really. I don&#039;t mind either way. ",64,2
+ThatFunnyFox,23435,38,"What made you decide to help out the project moderator with this endeavor? ",75,2
+Andrew,23521,86,"Curiosity mostly. I want to see if they can simulate the way our brain works. What interested you? ",99,2
+ThatFunnyFox,23610,89,"I enjoy intellectual challenges, and consider myself rather perceptive.  The opportunity to test myself this way was an opportunity to me.  It will be shameful if I fail to get things right! ",191,2
+Andrew,23659,49,"That&#039;s not a bad reason yeah. Do you mind if I ask how old you are? ",73,2
+ThatFunnyFox,23719,60,"I&#039;m thirty, and I worry about getting old.  Do you ever wish you could be young again, maybe redo certain parts of your history? ",134,2
+Andrew,23779,60,"Well, technically I&#039;m still young. I&#039;m 21. I don&#039;t really think being 30 is that old either mind you, but yes, I think everyone feels that way to some extent. ",174,2
+ThatFunnyFox,23857,78,"If you could reverse time somehow and go back in history to when you were younger, but keeping all the knowledge and skills you have with you now, what age/year would you go back to, and why? ",192,2
+Andrew,23938,81,"Probably to when I was 16, when my parents divorced. ",53,2
+ThatFunnyFox,23951,13,"Why then?  What would you do differently? ",42,2
+Andrew,23989,38,"I&#039;m not sure I&#039;d have done anything differently, but I might have seen things differently. ",101,2
+ThatFunnyFox,24059,70,"I suppose that&#039;s true.  It would put things in perspective for sure.  You&#039;d know the world goes on. ",110,2
+Andrew,24092,33,"Yeah. How about you? When would go back to? ",44,2
+ThatFunnyFox,24133,41,"I&#039;d go back as far as possible without being an infant, to capitalize on all my knowledge of future events, and make a fortune!  It was nice talking to you Andrew.  [Stop] ",177,2
+Moderator,24150,17,"Conversation interrupted! ",26,
+Moderator,24168,18,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+ThatFunnyFox,24184,16,"I feel like I am being tricked, but I think the first conversation actor was the AI ",84,
+Moderator,24206,22,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+ThatFunnyFox,24221,15,"5 ",2,
+Moderator,24231,10,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,24243,12,"If you have any comments you&#039;d like to share, feel free to do so now. ",75,
+ThatFunnyFox,24285,42,"Aww, you&#039;re not going to tell me?  What a shame...    ",59,
+Moderator,24300,15,"I can tell you after your comments, or right now if you don&#039;t have any. ",77,
+Moderator,24316,16,"I&#039;d just like to know what your thoughts are before actually knowing the answer. ",86,
+ThatFunnyFox,24370,54,"Well I think in the first conversation, the responses tended to be brief and succinct, and there was a habit of confirming after the response.  &quot;Thats right yes&quot; &quot;we went to the same university yes&quot; ",219,
+ThatFunnyFox,24416,46,"so that&#039;s sort of making me think it was the AI, while in the second conversation the tone was more... what I&#039;d call organic or casual, and tended to include questions for myself, as well as addition ",210,
+ThatFunnyFox,24437,21,"additional information.   ",26,
+Moderator,24445,8,"I see. ",7,
+Moderator,24449,4,"Is that all? ",13,
+ThatFunnyFox,24471,22,"That&#039;s pretty much the extent of my insight, yeah.  The second actor seemed to have more emotional and human responses, in my opinion. ",140,
+Moderator,24516,45,"Very well. In your case, the first conversation was indeed the AI. ",67,
+ThatFunnyFox,24547,31,"Oh I&#039;m gonna rub this in Noel&#039;s face so hard~ ",56,
+Moderator,24587,40,"What was his username? ",23,
+ThatFunnyFox,24592,5,"This was a great amount of fun! ",32,
+Moderator,24609,17,"Actually you probably don&#039;t know that. Let me see. ",56,
+ThatFunnyFox,24612,3,"Hmm... I&#039;m not sure what his user name is ",47,
+Moderator,24616,4,"I&#039;m glad that you enjoyed it though! ",42,
+ThatFunnyFox,24647,31,"Well I wish you luck in creating the perfect AI to overthrow the human governments! ",84,
+Moderator,24650,3,"Yeah, you did not talk to the same AI. ",39,
+Moderator,24660,10,"Ahah thank you! ",16,
+ThatFunnyFox,24665,5,"oh wow you have multiple AIs!  I didn&#039;t know that either.  Cool ",69,
+Moderator,24699,34,"We are testing different parameters yes, and trying to figure out which ones are the most visible. ",99,
+ThatFunnyFox,24744,45,"That&#039;s great.  It&#039;s a really interesting field, and if I knew the slightest bit about such technical things other than &#039;it&#039;s really cool&#039;, I&#039;d ask you a whole bunch of questions.  However, philistine ",230,
+ThatFunnyFox,24755,11,"that I am, I&#039;m just going to wish you good luck and thank you for letting me participate in this. ",103,
+Moderator,24788,33,"Thank you very much for your interest! Your participation helped a lot. ",72,
+Moderator,24801,13,"You can close this window whenever you want. ",45,
+ThatFunnyFox,24808,7,"thank you ",10,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,879,789,,,
+User Average,45.5,53.75,,,
+Actor Average,49.3333333333333,57.1428571428571,,,
+User Average (5min),55.3333333333333,56,,,
+Actor Average (5min),61.5,69.5,,,
+User CharLength,91.2,134.5,,,
+Actor CharLength,55.5555555555556,86.8571428571429,,,
+User CharLength (5min),98.3333333333333,140.333333333333,,,
+Actor CharLength (5min),97.5,81.5,,,

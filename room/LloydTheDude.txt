@@ -1,0 +1,88 @@
+<span id="time-span">22:35:33</span><span id="name-span">Moderator</span>Welcome LloydTheDude 
+<span id="time-span">22:36:03</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">22:36:04</span><span id="name-span">LloydTheDude</span>Hello! 
+<span id="time-span">22:36:08</span><span id="name-span">LloydTheDude</span>You&#039;re welcome 
+<span id="time-span">22:36:14</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">22:36:20</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">22:36:26</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">22:36:32</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">22:36:40</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">22:36:46</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">22:36:54</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">22:37:01</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">22:37:07</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">22:37:17</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">22:37:23</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">22:37:31</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">22:37:39</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">22:37:46</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">22:37:53</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">22:38:00</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">22:38:05</span><span id="name-span">LloydTheDude</span>Yes I do. 
+<span id="time-span">22:38:11</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">22:38:16</span><span id="name-span">LloydTheDude</span>Yes! 
+<span id="time-span">22:38:27</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">22:38:38</span><span id="name-span">LloydTheDude</span>Hi there! Are you Andrew? 
+<span id="time-span">22:38:52</span><span id="name-span">Andrew</span>Well yes! How are you doing? 
+<span id="time-span">22:39:07</span><span id="name-span">LloydTheDude</span>I&#039;m doing quite well, thank you for asking. How about yourself? 
+<span id="time-span">22:39:21</span><span id="name-span">Andrew</span>I&#039;m doing quite alright thanks! What are you up to? 
+<span id="time-span">22:39:45</span><span id="name-span">LloydTheDude</span>I was just playing some Overwatch on my PS4. Now I&#039;m thinking about a movie. Doing anything exciting yourself today? 
+<span id="time-span">22:40:28</span><span id="name-span">Andrew</span>Kind of. I&#039;ve been playing a bit of Minecraft. I&#039;ve never touched Overwatch yet, is it on PC? 
+<span id="time-span">22:40:47</span><span id="name-span">LloydTheDude</span>It is, but I don&#039;t have a PC. Do you play anything else? 
+<span id="time-span">22:41:20</span><span id="name-span">Andrew</span>I mostly just play Minecraft, but lately I&#039;ve been very much into Mass Effect too. 
+<span id="time-span">22:41:31</span><span id="name-span">LloydTheDude</span>Andromeda? I heard it got some bad reviews. 
+<span id="time-span">22:42:05</span><span id="name-span">Andrew</span>It definitely did. It&#039;s still a pretty good game in my opinion. They just need to fix all the glitches and various weirdness. 
+<span id="time-span">22:42:25</span><span id="name-span">LloydTheDude</span>I&#039;m going to wait til next year before I buy it; give them ample chance to fix it. 
+<span id="time-span">22:42:44</span><span id="name-span">Andrew</span>That&#039;s probably a very good idea yeah. 
+<span id="time-span">22:43:02</span><span id="name-span">LloydTheDude</span>So what else do you do for fun, Andrew? 
+<span id="time-span">22:43:21</span><span id="name-span">Andrew</span>I mostly just play games honestly. What about you? 
+<span id="time-span">22:43:59</span><span id="name-span">LloydTheDude</span>The same frankly. I watch some TV too, mostly science-fiction. 
+<span id="time-span">22:44:45</span><span id="name-span">Andrew</span>Oh yeah. I do that too. I don&#039;t know of many good Sci-Fi TV shows though. 
+<span id="time-span">22:45:09</span><span id="name-span">LloydTheDude</span>What do you watch? 
+<span id="time-span">22:45:50</span><span id="name-span">Andrew</span>Game of Thrones and shows like that. I&#039;m eagerly waiting for the next season. 
+<span id="time-span">22:46:10</span><span id="name-span">LloydTheDude</span>What are your predictions for what will happen? 
+<span id="time-span">22:46:35</span><span id="name-span">Andrew</span>In what way? 
+<span id="time-span">22:46:58</span><span id="name-span">LloydTheDude</span>Well with the characters, do you predict any big fights or drama between anyone? 
+<span id="time-span">22:47:27</span><span id="name-span">Andrew</span>I&#039;m sure there will definitely be some fighting going on yeah. 
+<span id="time-span">22:48:07</span><span id="name-span">LloydTheDude</span>Do you think Cersei will survive the season? 
+<span id="time-span">22:49:16</span><span id="name-span">Andrew</span>I&#039;m not sure. I could see her die very early in the new season, or in the 9th episode. I don&#039;t think she&#039;ll be in the final season though, and if she is, not for long. 
+<span id="time-span">22:49:31</span><span id="name-span">LloydTheDude</span>Who do you think will kill her? 
+<span id="time-span">22:50:05</span><span id="name-span">Andrew</span>I&#039;m not really sure to be honest. 
+<span id="time-span">22:50:31</span><span id="name-span">LloydTheDude</span>I think I&#039;ve got enough from this Andrew. 
+<span id="time-span">22:50:42</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">22:50:52</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">22:50:59</span><span id="name-span">LloydTheDude</span>I think that was the AI. 
+<span id="time-span">22:51:07</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">22:51:12</span><span id="name-span">LloydTheDude</span>Yes 
+<span id="time-span">22:51:18</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">22:51:27</span><span id="name-span">LloydTheDude</span>Hi Andrew, how&#039;s it going buddy? 
+<span id="time-span">22:51:38</span><span id="name-span">Andrew</span>It&#039;s going alright! What about you? 
+<span id="time-span">22:51:56</span><span id="name-span">LloydTheDude</span>Not too bad, thank you. Been doing anything cool today? 
+<span id="time-span">22:52:16</span><span id="name-span">Andrew</span>Not a whole lot. Mostly playing games actually. You? 
+<span id="time-span">22:52:28</span><span id="name-span">LloydTheDude</span>Much of the same. Playing anything good? 
+<span id="time-span">22:52:52</span><span id="name-span">Andrew</span>Mostly Minecraft actually. Although I&#039;ve been very much into Mass Effect lately. 
+<span id="time-span">22:53:04</span><span id="name-span">LloydTheDude</span>How are you finding Mass Effect? 
+<span id="time-span">22:53:52</span><span id="name-span">Andrew</span>Andromeda? It&#039;s quite good honestly. I&#039;ve spent so much time on it. The glitches and lack of good facial animations are really annoying though. But they are trying to fix that. 
+<span id="time-span">22:54:16</span><span id="name-span">LloydTheDude</span>I heard as much, gonna be a while before I buy it though. Do much else when you&#039;re not playing games? 
+<span id="time-span">22:54:59</span><span id="name-span">Andrew</span>Other than that I&#039;m mostly working on college stuff. 
+<span id="time-span">22:55:11</span><span id="name-span">LloydTheDude</span>What are you studying for? 
+<span id="time-span">22:55:40</span><span id="name-span">Andrew</span>I&#039;m an undergrad. I study Biology. Are you in college too? 
+<span id="time-span">22:55:55</span><span id="name-span">LloydTheDude</span>I was, but that was a couple of years ago now. I was studying Linguistics.  
+<span id="time-span">22:56:30</span><span id="name-span">Andrew</span>That is pretty cool actually. What do you do now? 
+<span id="time-span">22:56:52</span><span id="name-span">LloydTheDude</span>I work in a call centre; I help business clients manage their energy and utility consumption. 
+<span id="time-span">22:57:17</span><span id="name-span">Andrew</span>That is quite different. 
+<span id="time-span">22:57:33</span><span id="name-span">LloydTheDude</span>Yeah, not many jobs in a lot of graduate fields these days. 
+<span id="time-span">22:58:07</span><span id="name-span">Andrew</span>Yeah that&#039;s quite a shame. In which country do you live? 
+<span id="time-span">22:58:34</span><span id="name-span">LloydTheDude</span>I&#039;m from England. Can&#039;t say I&#039;m proud of that but it is what it is. 
+<span id="time-span">22:58:50</span><span id="name-span">Andrew</span>Why wouldn&#039;t you be proud of it? 
+<span id="time-span">22:59:03</span><span id="name-span">LloydTheDude</span>It&#039;s a country of morons and narcissists and closet racists.  
+<span id="time-span">22:59:40</span><span id="name-span">Andrew</span>Well, I&#039;m sure the French would agree, but I&#039;m sure not everyone is like that. I mean, you&#039;re not so... 
+<span id="time-span">22:59:55</span><span id="name-span">LloydTheDude</span>I think I&#039;ve got enough from this Andrew. 
+<span id="time-span">23:00:06</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">23:00:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">23:00:26</span><span id="name-span">LloydTheDude</span>I&#039;m sure the first conversation was the AI. 
+<span id="time-span">23:00:32</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">23:00:43</span><span id="name-span">LloydTheDude</span>6 
+<span id="time-span">23:00:47</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">23:00:56</span><span id="name-span">LloydTheDude</span>No problem. Thank you. 
+<span id="time-span">23:01:05</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do it now. Otherwise you can now close this window. 

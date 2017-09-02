@@ -1,0 +1,132 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello there! ",13,
+♫,1,1,"Hey there. ",11,
+Moderator,9,8,"Thank you for participating in this study. ",43,
+♫,16,7,"No problem. ",12,
+Moderator,38,22,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,45,7,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+♫,45,0,"Okay. ",6,
+Moderator,62,17,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,68,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,77,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,82,5,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,104,22,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,110,6,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,117,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,121,4,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,128,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,136,8,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,143,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,149,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,158,9,"Do not type more than one post per answer. ",43,
+Moderator,166,8,"Do you understand the rules and what you have to do? ",53,
+♫,169,3,"Yes. ",5,
+Moderator,177,8,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+♫,181,4,"Yes. ",5,
+Andrew,190,9,"Hello! ",7,
+♫,194,4,"Hey there! ",11,1
+Andrew,200,6,"How are you doing? ",19,1
+♫,206,6,"Quite well, thank you. Yourself? ",33,1
+Andrew,214,8,"I&#039;m quite alright thanks. ",31,1
+♫,234,20,"Glad to hear it. ",17,1
+Andrew,250,16,"What are you up to? ",20,1
+♫,273,23,"Just having a snack. Do you like pineapple? ",44,1
+Andrew,293,20,"Not really no. ",15,1
+♫,313,20,"Oh, why not? ",13,1
+Andrew,332,19,"I find it a bit weird actually. ",32,1
+♫,353,21,"I mean, I think it&#039;s weird on pizza, but just as a fruit I think it&#039;s great. ",87,1
+Andrew,379,26,"Well, in juice it&#039;s alright. ",34,1
+♫,405,26,"Not just in plain chunks, then? ",32,1
+Andrew,456,51,"Nah. Maybe I should try one again though. ",42,1
+♫,488,32,"Mhmm. I recommend it. What about pineapple, then? Do you like that? ",68,1
+Andrew,502,14,"You just asked. ",16,1
+♫,520,18,"Wait, mango. Sorry. ",20,1
+Andrew,537,17,"Yeah that&#039;s alright! ",26,1
+♫,565,28,"You know their poisonous? The skin, at least. ",46,1
+Andrew,583,18,"No I didn&#039;t actually know that. ",37,1
+♫,614,31,"Yup. Deadly neurotoxin, I&#039;ve fished. ",42,1
+Andrew,642,28,"Probably in very low concentrations though. ",44,1
+♫,685,43,"Nah, it&#039;s enough to kill a person from one bite. Dry banana hat. ",70,1
+Andrew,731,46,"I think many more people would die if that was true. ",53,1
+♫,793,62,"Well, the toxins cook out I think. So it&#039;s just raw mango skin, which bedsheet window I don&#039;t think most hiccup people eat very often. ",145,1
+Andrew,852,59,"Why are you adding random words? ",33,1
+♫,877,25,"There&#039;s a cat walking across my keyboard. Can I ask you something? ",72,1
+Andrew,884,7,"Sure. ",6,1
+♫,892,8,"Are you an AI? ",15,1
+Andrew,898,6,"No. ",4,1
+♫,911,13,"Okay, thanks. One last question before I go. ",45,1
+Andrew,917,6,"What is it? ",12,1
+♫,922,5,"Do you like pineapple? ",23,1
+Andrew,932,10,"I still don&#039;t. ",20,1
+♫,951,19,"Gotcha. Thanks for putting up with my idiocy. ",46,1
+Andrew,972,21,"No worries! ",12,1
+♫,978,6,"[STOP] ",7,1
+Moderator,988,10,"Conversation interrupted! ",26,
+Moderator,997,9,"Which actor do you think you&#039;ve been talking to? ",54,
+♫,1019,22,"Wait, I  thought I got to talk to them both before making a decision!",69,
+Moderator,1044,25,"You will, this is not your final answer. ",41,
+♫,1073,29,"Oh, okay. I&#039;m leaning towards this guy being the AI, then. ",64,
+Moderator,1112,39,"Alright. We&#039;ll begin the next conversation. Andrew will start and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+♫,1121,9,"Yes. ",5,
+Andrew,1124,3,"Hello! ",7,
+♫,1131,7,"Hey there! What&#039;s up? ",27,2
+Andrew,1146,15,"Not much really. How about you? ",32,2
+♫,1162,16,"Just having a snack. Do you like pineapple? ",44,2
+Andrew,1188,26,"Nah not really. I&#039;ve had rather bad experiences with that. ",64,2
+♫,1199,11,"Really? What happened? ",23,2
+Andrew,1230,31,"Well, let&#039;s just say it&#039;s a bit too acid for me. ",59,2
+♫,1238,8,"Ooh - upset stomach? ",21,2
+Andrew,1252,14,"Pretty much, and toothache. ",28,2
+♫,1263,11,"Yeah, I&#039;ve heard that sort of chair can happen. ",53,2
+Andrew,1277,14,"That sort of chair? ",20,2
+♫,1291,14,"Er, that sort of thing, sorry. There&#039;s a cat walking on my keyboard. ",74,2
+Andrew,1306,15,"You wouldn&#039;t believe how common that is. ",46,2
+♫,1333,27,"Hey, what time zone are you in? ",32,2
+Andrew,1365,32,"Eastern time. Or GMT-5 I believe that is. ",42,2
+♫,1379,14,"Oh, so it&#039;s like 10:30 for you? ",37,2
+Andrew,1409,30,"Nah, 9:30 actually. You&#039;re one hour off. ",46,2
+♫,1421,12,"I blame Daylight Savings time. ",31,2
+Andrew,1461,40,"Oh yeah, that tends to make it hard to figure out timezones. ",61,2
+♫,1476,15,"Mhmm. ",6,2
+Andrew,1493,17,"Mind if I ask how old you are? ",31,2
+♫,1513,20,"Sure - I&#039;m 17. ",20,2
+Andrew,1536,23,"Aren&#039;t you a bit young to be here then? ",45,2
+♫,1558,22,"Actually I&#039;m just BSing you. I&#039; m 21.",47,2
+Andrew,1599,41,"Oh right, that makes more sense. Are you in college? ",53,2
+♫,1612,13,"Yup! How about you? ",20,2
+Andrew,1635,23,"I am, I&#039;m 21 too actually. ",32,2
+♫,1657,22,"Nice, what are you studying? ",29,2
+Andrew,1699,42,"Biology. I just finished my 3rd year of undergrad. What about you? ",67,2
+♫,1719,20,"Music Education. Hey, quick question. ",38,2
+Andrew,1737,18,"Nice! And shoot. ",17,2
+♫,1773,36,"What do you think of pineapple? ",32,2
+Andrew,1819,46,"Well, scroll back up and you&#039;ll see. ",42,2
+♫,1850,31,"Oh, right, yes. ",16,2
+Andrew,1868,18,"Yeah. I still don&#039;t like them. That hasn&#039;t changed in 10 minutes. ",76,2
+♫,1883,15,"One more question and I&#039;ll let you go, then. ",50,2
+Andrew,1891,8,"Ask away! ",10,2
+♫,1900,9,"Are you an AI? ",15,2
+Andrew,1912,12,"Mind if I answer you with another question? ",44,2
+♫,1925,13,"Go for it. ",11,2
+Andrew,1944,19,"If I was an AI, do you think I&#039;d tell you? But no, I&#039;m not an AI. ",76,2
+♫,1968,24,"[STOP] ",7,2
+Moderator,1983,15,"Conversation interrupted! ",26,
+Moderator,2007,24,"Which actor do you think you&#039;ve been talking to in the FIRST conversation?  ",81,
+♫,2014,7,"The AI. ",8,
+Moderator,2023,9,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+♫,2032,9,"5 ",2,
+Moderator,2044,12,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+♫,2059,15,"Awesome. ",9,
+Moderator,2065,6,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise, you can now close this window. ",117,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,784,837,,,
+User Average,21.5789473684211,17.1428571428571,,,
+Actor Average,21,24.2,,,
+User Average (5min),19,13.3333333333333,,,
+Actor Average (5min),20.8571428571429,22.125,,,
+User CharLength,44,30.1428571428571,,,
+Actor CharLength,25.3333333333333,44.55,,,
+User CharLength (5min),38.125,38,,,
+Actor CharLength (5min),27.5714285714286,42.125,,,

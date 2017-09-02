@@ -1,0 +1,6 @@
+Username: JIM
+Age: 20
+Gender: male
+IA: 3
+CS: 5
+E-Mail: 

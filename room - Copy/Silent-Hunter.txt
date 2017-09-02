@@ -1,0 +1,69 @@
+<span id="time-span">01:22:36</span><span id="name-span">Moderator</span>Hello Silent-Hunter! 
+<span id="time-span">01:22:41</span><span id="name-span">Silent-Hunter</span>Hello! 
+<span id="time-span">01:22:47</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">01:22:55</span><span id="name-span">Silent-Hunter</span>You&#039;re welcome. 
+<span id="time-span">01:23:03</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">01:23:09</span><span id="name-span">Silent-Hunter</span>Alright. 
+<span id="time-span">01:23:17</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">01:23:26</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">01:23:37</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">01:23:48</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">01:24:00</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">01:24:11</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">01:24:21</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">01:24:31</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">01:24:46</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">01:24:59</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">01:25:12</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">01:25:26</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">01:25:35</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">01:25:45</span><span id="name-span">Silent-Hunter</span>Yeah, sounds really straightforward to me. 
+<span id="time-span">01:25:59</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">01:26:12</span><span id="name-span">Silent-Hunter</span>Alright, I&#039;m ready. 
+<span id="time-span">01:26:24</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:26:32</span><span id="name-span">Silent-Hunter</span>Hello Andrew! 
+<span id="time-span">01:26:38</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">01:26:48</span><span id="name-span">Silent-Hunter</span>I&#039;m doing fairly well, how are you doing? 
+<span id="time-span">01:27:03</span><span id="name-span">Andrew</span>I&#039;m doing alright. Just talking to you right now. 
+<span id="time-span">01:27:36</span><span id="name-span">Silent-Hunter</span>Cool. So, do you have any hobbies? 
+<span id="time-span">01:28:01</span><span id="name-span">Andrew</span>Yes, I like sports. Baseball in particular. How about you? 
+<span id="time-span">01:28:27</span><span id="name-span">Silent-Hunter</span>I&#039;m interested in computers, fixing them, working with them, that stuff. 
+<span id="time-span">01:28:57</span><span id="name-span">Andrew</span>I never understood much about computers. Do you like any sports? 
+<span id="time-span">01:29:14</span><span id="name-span">Silent-Hunter</span>I like shuffleboard and billiards, yes. 
+<span id="time-span">01:29:31</span><span id="name-span">Andrew</span>Sounds nice! What are you up to tonight? 
+<span id="time-span">01:29:53</span><span id="name-span">Silent-Hunter</span>Just chatting with you, and waiting for my boyfriend to be ready to play a game. 
+<span id="time-span">01:30:29</span><span id="name-span">Andrew</span>What kind of game is it? 
+<span id="time-span">01:30:47</span><span id="name-span">Silent-Hunter</span>It&#039;s a computer game called Torchlight II, a fantasy game. 
+<span id="time-span">01:31:08</span><span id="name-span">Andrew</span>Never heard of it. Is it on steam? 
+<span id="time-span">01:31:25</span><span id="name-span">Silent-Hunter</span>Yes it is! You can look it up later if you like. 
+<span id="time-span">01:31:34</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:31:46</span><span id="name-span">Silent-Hunter</span>Alright! 
+<span id="time-span">01:31:56</span><span id="name-span">Moderator</span>Which actor do you think you were talking with? The human or the AI? 
+<span id="time-span">01:32:25</span><span id="name-span">Silent-Hunter</span>I would guess the human, I wouldn&#039;t expect the AI to know about Steam. Then again, I don&#039;t know what methods you&#039;ve coded it with. 
+<span id="time-span">01:33:21</span><span id="name-span">Moderator</span>Alright. You&#039;ll be talking now with the second Andrew. He will start the conversation. Then you will have 5 minutes again to talk to him. 
+<span id="time-span">01:33:37</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">01:33:48</span><span id="name-span">Silent-Hunter</span>Hello Andrew! 
+<span id="time-span">01:33:54</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">01:34:05</span><span id="name-span">Silent-Hunter</span>I&#039;m doing well, just sitting in bed on my laptop. 
+<span id="time-span">01:34:42</span><span id="name-span">Andrew</span>That kind of sounds like a weird position, but alright! 
+<span id="time-span">01:34:56</span><span id="name-span">Silent-Hunter</span>How are you doing? 
+<span id="time-span">01:35:30</span><span id="name-span">Andrew</span>I&#039;m doing well too. I&#039;m not sitting on my laptop though. 
+<span id="time-span">01:36:02</span><span id="name-span">Silent-Hunter</span>Well I&#039;m not actually sitting on it, I meant I&#039;m using it. 
+<span id="time-span">01:36:26</span><span id="name-span">Andrew</span>I know. I just found the sentence funny. What are you going to do tonight? 
+<span id="time-span">01:36:39</span><span id="name-span">Silent-Hunter</span>Well, I&#039;m going to play a game with my boyfriend. 
+<span id="time-span">01:36:52</span><span id="name-span">Andrew</span>Nice. What kind of game is it? 
+<span id="time-span">01:37:09</span><span id="name-span">Silent-Hunter</span>It&#039;s a computer fantasy game called Torchlight II. 
+<span id="time-span">01:37:30</span><span id="name-span">Andrew</span>I&#039;ve never heard of it. Is it on steam? 
+<span id="time-span">01:37:46</span><span id="name-span">Silent-Hunter</span>Yes it is, I can&#039;t remember how much it costs though. 
+<span id="time-span">01:38:09</span><span id="name-span">Andrew</span>I&#039;ll check it out later. I don&#039;t have much money to spend on games at the moment though. 
+<span id="time-span">01:38:38</span><span id="name-span">Silent-Hunter</span>I think it wasn&#039;t too much money. I hope you like it though. Do you have any hobbies? 
+<span id="time-span">01:38:46</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">01:38:58</span><span id="name-span">Silent-Hunter</span>Alright! 
+<span id="time-span">01:39:10</span><span id="name-span">Moderator</span>What is your final answer? Do you think the first conversation was the one with the human? Or was it with an Artificial Intelligence?  
+<span id="time-span">01:40:51</span><span id="name-span">Silent-Hunter</span>Hmmm... I think the second one was the robot, purely because it didn&#039;t understand that I wasn&#039;t literally sitting on my laptop. I know it changed its mind after I explained, but still. 
+<span id="time-span">01:41:04</span><span id="name-span">Moderator</span>Are you sure? 
+<span id="time-span">01:41:24</span><span id="name-span">Silent-Hunter</span>Yeah, I am. For the record though, it&#039;s very hard to tell and I could be totally wrong. 
+<span id="time-span">01:42:38</span><span id="name-span">Moderator</span>Alright thank you! The experiment is now over. If you have any comments, they will be noted. If you&#039;d like to see the results when they are ready, you can leave me your e-mail if you didn&#039;t before. 
+<span id="time-span">01:43:13</span><span id="name-span">Silent-Hunter</span>I did, but for good measure, it&#039;s silenthunter.vanguard@gmail.com and I would definitely like to see how the study goes. 
+<span id="time-span">01:43:40</span><span id="name-span">Moderator</span>Very well. Thank you again! You can now close this window. 
+<span id="time-span">01:43:44</span><span id="name-span">Silent-Hunter</span>My only comments are good job with it, I genuinely don&#039;t know how well I did at guessing! 

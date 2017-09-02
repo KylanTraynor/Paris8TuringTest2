@@ -1,0 +1,88 @@
+<span id="time-span">06:22:55</span><span id="name-span">Moderator</span>Hello rolfthewhatever. 
+<span id="time-span">06:23:05</span><span id="name-span">rolfthewhatever</span>Hey there. 
+<span id="time-span">06:23:15</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">06:23:23</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">06:23:31</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">06:23:42</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">06:23:50</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">06:23:58</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">06:24:07</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">06:24:14</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">06:24:22</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">06:24:31</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">06:24:38</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">06:24:46</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">06:24:54</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">06:25:02</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">06:25:11</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">06:25:26</span><span id="name-span">rolfthewhatever</span>About as well as you&#039;ve explained them, yes. 
+<span id="time-span">06:25:44</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">06:25:52</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">06:25:56</span><span id="name-span">rolfthewhatever</span>Hey! 
+<span id="time-span">06:26:01</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">06:26:19</span><span id="name-span">rolfthewhatever</span>That&#039;s a good question, actually. Why don&#039;t you guess? 
+<span id="time-span">06:26:37</span><span id="name-span">Andrew</span>Mmm. Feeling playful? 
+<span id="time-span">06:26:51</span><span id="name-span">rolfthewhatever</span>Maybe I am, maybe I&#039;m not. It&#039;s hard to say. 
+<span id="time-span">06:27:07</span><span id="name-span">Andrew</span>Can you guess how I am feeling? 
+<span id="time-span">06:27:26</span><span id="name-span">rolfthewhatever</span>The first word that comes to mind is, &quot;confident&quot;.&#039; 
+<span id="time-span">06:27:47</span><span id="name-span">Andrew</span>You&#039;d be wrong to trust the first word that comes to your mind then. 
+<span id="time-span">06:28:04</span><span id="name-span">rolfthewhatever</span>Hmm, not too sure about your speaking abilities then? 
+<span id="time-span">06:28:32</span><span id="name-span">Andrew</span>Maybe, maybe not. It&#039;s hard to say. 
+<span id="time-span">06:28:43</span><span id="name-span">rolfthewhatever</span>Touche&#039;,  Andy. 
+<span id="time-span">06:28:57</span><span id="name-span">rolfthewhatever</span>So what&#039;s been going on with you the past few days? 
+<span id="time-span">06:28:58</span><span id="name-span">Andrew</span>So, what are you up to tonight? 
+<span id="time-span">06:29:06</span><span id="name-span">rolfthewhatever</span>Blah, same time response. 
+<span id="time-span">06:29:27</span><span id="name-span">Andrew</span>I&#039;ve been working at a Deli. Nothing really exciting honestly. 
+<span id="time-span">06:29:47</span><span id="name-span">rolfthewhatever</span>Oh yeah? I actually work at a grocery store that has a deli. 
+<span id="time-span">06:30:01</span><span id="name-span">Andrew</span>Nice! What do you do there? 
+<span id="time-span">06:30:12</span><span id="name-span">rolfthewhatever</span>Been alternating between cashiering and front end service the past few days. It pays alright. 
+<span id="time-span">06:30:43</span><span id="name-span">Andrew</span>I can&#039;t say the same about mine. 
+<span id="time-span">06:30:58</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">06:31:06</span><span id="name-span">rolfthewhatever</span>Okay! 
+<span id="time-span">06:31:17</span><span id="name-span">Moderator</span>Which actor do you think you were talking to? (this is not your final answer) 
+<span id="time-span">06:32:14</span><span id="name-span">rolfthewhatever</span>It&#039;s tough to call for me, but I&#039;m leaning on the bot right now. 
+<span id="time-span">06:32:49</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 5 minutes again. 
+<span id="time-span">06:32:58</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">06:33:04</span><span id="name-span">rolfthewhatever</span>Hey there, stranger. 
+<span id="time-span">06:33:18</span><span id="name-span">Andrew</span>How are you doing, stranger? 
+<span id="time-span">06:33:33</span><span id="name-span">rolfthewhatever</span>I&#039;m alright, stranger. Are you doing fine, stranger? 
+<span id="time-span">06:34:04</span><span id="name-span">Andrew</span>I&#039;m doing alright, stranger. What are you up to tonight, stranger? 
+<span id="time-span">06:34:22</span><span id="name-span">rolfthewhatever</span>Talking to you, stranger. Not a whole lot else. How about you, stranger? 
+<span id="time-span">06:35:00</span><span id="name-span">Andrew</span>Not much, stranger. Probably going to take a shower and watch some youtube videos, stranger. 
+<span id="time-span">06:35:27</span><span id="name-span">rolfthewhatever</span>Are you gonna shower with a stranger, stranger? Or is that all too familiar? 
+<span id="time-span">06:36:16</span><span id="name-span">Andrew</span>It&#039;s not too familiar if we agree that it&#039;s actually quite mundane I would imagine, stranger. 
+<span id="time-span">06:36:53</span><span id="name-span">rolfthewhatever</span>You don&#039;t know the half of it, stranger. You should&#039;ve seen me the other night with a bunch of, well, strangers. 
+<span id="time-span">06:37:13</span><span id="name-span">Andrew</span>But maybe I was another stranger that was watching you all. 
+<span id="time-span">06:37:39</span><span id="name-span">rolfthewhatever</span>Well look at you, Mr. Perfect. 
+<span id="time-span">06:37:55</span><span id="name-span">Andrew</span>Thank you I was getting tired of writing stranger. 
+<span id="time-span">06:38:04</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">06:38:21</span><span id="name-span">rolfthewhatever</span>Cool cool. 
+<span id="time-span">06:38:24</span><span id="name-span">Moderator</span>Which conversation do you think was with the human? 
+<span id="time-span">06:38:54</span><span id="name-span">rolfthewhatever</span>The last one, if this isn&#039;t a trick. If it&#039;s a trick, they were both robots, because I&#039;ve also seen the Princess Bride. 
+<span id="time-span">06:39:38</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer) For the record, only one of them is a bot. 
+<span id="time-span">06:40:10</span><span id="name-span">rolfthewhatever</span>I don&#039;t lose anything if I&#039;m wrong, so I&#039;m sure.  
+<span id="time-span">06:40:50</span><span id="name-span">Moderator</span>Alright. Thank you for participating! Do you have any comment you&#039;d like to share? 
+<span id="time-span">06:41:28</span><span id="name-span">rolfthewhatever</span>Nothing that&#039;s not related to what this is all about, which I&#039;m not sure if you can actually indulge on. 
+<span id="time-span">06:41:43</span><span id="name-span">rolfthewhatever</span>You&#039;re just developing an A.I? 
+<span id="time-span">06:42:06</span><span id="name-span">Moderator</span>Both studying human behavior and developing an A.I. yes. 
+<span id="time-span">06:42:39</span><span id="name-span">rolfthewhatever</span>Interesting. For what purpose would this A.I. fulfill, if there&#039;s an exact one in mind? 
+<span id="time-span">06:44:09</span><span id="name-span">Moderator</span>The goal is to have an A.I. that can emulate as accurately as possible human behavior, instead of simply answering keywords with predefined answers. 
+<span id="time-span">06:44:42</span><span id="name-span">rolfthewhatever</span>If that&#039;s what you&#039;re going for, it&#039;ll need to make mistakes. 
+<span id="time-span">06:45:30</span><span id="name-span">rolfthewhatever</span>I can indulge my thoughts on the two actors further, if you&#039;d want to hear them out. 
+<span id="time-span">06:45:41</span><span id="name-span">Moderator</span>Definitely 
+<span id="time-span">06:46:25</span><span id="name-span">rolfthewhatever</span>Alright, so I spend a lot of time talking to people online, and in that I can notice certain behaviors and characteristics that others put off. 
+<span id="time-span">06:47:32</span><span id="name-span">rolfthewhatever</span>The rest why I think that the first Andrew was the A.I. was that his answers were both too brief and lacked a general character to them, whereas the second Andrew played along with my messages and - 
+<span id="time-span">06:47:53</span><span id="name-span">rolfthewhatever</span>- acted in a manner that seemed as though he were picking up on the exact patterns I had in mind. 
+<span id="time-span">06:48:08</span><span id="name-span">rolfthewhatever</span>He also took more time between his replies, which implies actual thought being put into them. 
+<span id="time-span">06:49:07</span><span id="name-span">rolfthewhatever</span>I also noticed that the first Andy didn&#039;t really acknowledge the message that I sent at the same time as his, at least not fully from what I can tell. 
+<span id="time-span">06:49:23</span><span id="name-span">rolfthewhatever</span>It seemed sequenced, but again I could be absolutely wrong about all of this. 
+<span id="time-span">06:50:29</span><span id="name-span">Moderator</span>I see. That is some very interesting comment actually. It does not actually work the way you said it, since you picked the wrong one. But to be fair, given the conversation you had, there was almost 
+<span id="time-span">06:50:33</span><span id="name-span">Moderator</span>no way to tell. 
+<span id="time-span">06:51:03</span><span id="name-span">Moderator</span>Yet what you said is interesting on its own. No matter which one you picked. 
+<span id="time-span">06:52:07</span><span id="name-span">rolfthewhatever</span>Ha! In that case, it&#039;s easy to tell in retrospect why I would pick the first one, since the actor&#039;s goal was to play as an A.I. If this is a study for the general public, what is their idea of them? 
+<span id="time-span">06:52:14</span><span id="name-span">rolfthewhatever</span>Cleverbot, that&#039;s what. 
+<span id="time-span">06:52:24</span><span id="name-span">rolfthewhatever</span>So the study works. 
+<span id="time-span">06:53:19</span><span id="name-span">Moderator</span>Thank you very much for your help and for your comments! 
+<span id="time-span">06:53:41</span><span id="name-span">rolfthewhatever</span>No problem! Good luck with all of this, and have a nice day/night. 
+<span id="time-span">06:53:53</span><span id="name-span">Moderator</span>If you&#039;d like to see the results of this study when they are available, I can send you an email. You can share it here if you didn&#039;t on the form. Otherise, you can now close this window. 
+<span id="time-span">06:54:26</span><span id="name-span">rolfthewhatever</span>Please do send the email. I&#039;ll be closing the window now. 

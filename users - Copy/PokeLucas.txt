@@ -1,0 +1,6 @@
+Username: PokeLucas
+Age: 18
+Gender: male
+IA: 7
+CS: 
+E-Mail: sergiocartagena98@hotmail.com

@@ -1,0 +1,54 @@
+<span id="time-span">00:17:27</span><span id="name-span">Renly</span>Howdy. 
+<span id="time-span">00:18:57</span><span id="name-span">Moderator</span>Hello Renly. 
+<span id="time-span">00:19:03</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">00:19:20</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">00:19:47</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">00:19:58</span><span id="name-span">Renly</span>Alright sounds good. 
+<span id="time-span">00:20:03</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">00:20:12</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">00:20:20</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">00:20:31</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">00:20:37</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">00:20:44</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">00:20:51</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">00:20:58</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">00:21:06</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">00:21:12</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">00:21:19</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">00:21:29</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">00:21:41</span><span id="name-span">Renly</span>I fully understand your guidelines. 
+<span id="time-span">00:21:57</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">00:22:08</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:22:30</span><span id="name-span">Renly</span>Hello Andrew, it is nice to meet you. 
+<span id="time-span">00:22:43</span><span id="name-span">Andrew</span>Nice to meet you too. How are you? 
+<span id="time-span">00:23:17</span><span id="name-span">Renly</span>I&#039;m doing well, how about yourself?  
+<span id="time-span">00:23:46</span><span id="name-span">Andrew</span>I&#039;m doing alright. What are you up to? 
+<span id="time-span">00:24:50</span><span id="name-span">Renly</span>Well most obviously I&#039;m participating in this experiment; other than that I&#039;m playing games to entertain myself 
+<span id="time-span">00:25:08</span><span id="name-span">Andrew</span>Oh? What kind of games? 
+<span id="time-span">00:26:49</span><span id="name-span">Renly</span>I&#039;ll give you a guess, three options. I&#039;m either playing: A.) A shooter, B.) A puzzle game, C.) A platformer. What do you think I&#039;m playing? 
+<span id="time-span">00:27:18</span><span id="name-span">Andrew</span>I have no idea? I&#039;d say a shooter. 
+<span id="time-span">00:27:48</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:28:19</span><span id="name-span">Moderator</span>Which actor do you think you were talking to? 
+<span id="time-span">00:28:29</span><span id="name-span">Moderator</span>(This is not your final answer) 
+<span id="time-span">00:28:38</span><span id="name-span">Renly</span>The Human  
+<span id="time-span">00:29:19</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin  and then you&#039;ll have 5 minutes again.
+<span id="time-span">00:29:26</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">00:29:41</span><span id="name-span">Renly</span>Hello Andrew how are you? 
+<span id="time-span">00:29:53</span><span id="name-span">Andrew</span>I&#039;m doing alright. How about you? 
+<span id="time-span">00:30:53</span><span id="name-span">Renly</span>That&#039;s good to hear Andrew, I&#039;m doing well. I need you to answer a question for me. I&#039;m playing some games to entertain myself what kind of game do you think I&#039;m playing. Guess blindly. You will need
+<span id="time-span">00:31:05</span><span id="name-span">Renly</span>Respond by giving me the letter and the title of the answer 
+<span id="time-span">00:31:56</span><span id="name-span">Renly</span>What am I playing Andrww?  A.) A shooter. B.) A platformer. C.) A puzzle Game.
+<span id="time-span">00:32:18</span><span id="name-span">Andrew</span>How am I supposed to know? I&#039;d say A. A shooter. 
+<span id="time-span">00:32:59</span><span id="name-span">Renly</span>Incorrect.  You&#039;re not supposed to know. Now just answer by either saying A,B or C
+<span id="time-span">00:33:17</span><span id="name-span">Andrew</span>B. 
+<span id="time-span">00:34:06</span><span id="name-span">Renly</span>That&#039;s the correct answer. Thank you for doing as I asked. The game I&#039;m playing is called Beyond Good and Evil. Have you heard of it? 
+<span id="time-span">00:34:31</span><span id="name-span">Andrew</span>No I haven&#039;t. What is it about? 
+<span id="time-span">00:35:02</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">00:35:23</span><span id="name-span">Moderator</span>Which of the two conversations do you think was with the human? 
+<span id="time-span">00:35:45</span><span id="name-span">Renly</span>The second was with the human and the first was with the A.I. 
+<span id="time-span">00:36:07</span><span id="name-span">Moderator</span>Are you sure? (This will be your final answer) 
+<span id="time-span">00:36:18</span><span id="name-span">Renly</span>That is my final answer. 
+<span id="time-span">00:36:37</span><span id="name-span">Moderator</span>Alright. Thank you for participating! Do you have any comments you&#039;d like to share? 
+<span id="time-span">00:36:58</span><span id="name-span">Renly</span>No thank you, I was happy to participate. 
+<span id="time-span">00:37:43</span><span id="name-span">Moderator</span>Alright. If you&#039;d like to see the results of this study when they are ready you can share your e-mail address here if you haven&#039;t in the form. Otherwise you can now close this window. 
+<span id="time-span">00:38:02</span><span id="name-span">Renly</span>Mavthelgtfox@gmail.com  

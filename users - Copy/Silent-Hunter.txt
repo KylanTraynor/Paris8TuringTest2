@@ -1,0 +1,6 @@
+Username: Silent-Hunter
+Age: 28
+Gender: male
+IA: 3
+CS: 6
+E-Mail: silenthunter.vanguard@gmail.com

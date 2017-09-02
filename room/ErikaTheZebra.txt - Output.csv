@@ -1,0 +1,98 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello ErikaTheZebra! ",21,
+Moderator,10,10,"Thank you for participating in this study! ",43,
+Moderator,30,20,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,35,5,"Are you able to read this? ",27,
+ErikaTheZebra,231,196,"I can now~  Sorry about that ",29,
+Moderator,252,21,"No problem. ",12,
+Moderator,260,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,276,16,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,286,10,"You&#039;ll be talking to him twice. ",37,
+Moderator,293,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,300,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,307,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,316,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,324,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,346,22,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,356,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,364,8,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,373,9,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,380,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,389,9,"Do not type more than one post per answer. ",43,
+Moderator,400,11,"Do you understand the rules and what you have to do? ",53,
+ErikaTheZebra,409,9,"Yes ",4,
+Moderator,415,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+ErikaTheZebra,424,9,"I am ready ",11,
+Andrew,433,9,"Hello! ",7,
+ErikaTheZebra,452,19,"Hello~ ",7,1
+Andrew,460,8,"How are you doing? ",19,1
+ErikaTheZebra,483,23,"I&#039;m alright, how&#039;re you? ",35,1
+Andrew,501,18,"I&#039;m doing quite alright too! What are you up to? ",54,1
+ErikaTheZebra,528,27,"Currently wasting time by watching youtube videos. ",51,1
+Andrew,554,26,"Oh yeah I know the feeling. I do that quite a lot as well. What kind of things do you watch? ",93,1
+ErikaTheZebra,601,47,"Right now, I&#039;m watching Joel from Vinesauce play that awful Klingon FMV game from a while back. ",101,1
+Andrew,631,30,"I don&#039;t think I&#039;ve heard of that game. I do like Vinesauce a lot too though! ",87,1
+ErikaTheZebra,658,27,"Which of the Vinesauce streamers is your favorite? ",51,1
+Andrew,726,68,"I&#039;m not really sure actually. It really depends on the video. ",67,1
+ErikaTheZebra,792,66,"Fair enough.  I think Vinny is my favorite out of the lot. ",59,1
+Andrew,813,21,"I definitely like his voice, and the corruption videos are quite awesome. ",74,1
+ErikaTheZebra,894,81,"I mostly like his garbage sunday streams.  Some of the stuff that people send him is truly terrible ",100,1
+Andrew,988,94,"That&#039;s very true yeah. Are there other youtubers you like to watch? I follow a lot of minecraft related ones myself. Game of Thrones theories are awesome too. ",164,1
+ErikaTheZebra,1037,49,"Honestly, aside from the core Vinesauce Streamsers and Idubbbbz, I don&#039;t closely follow any other youttubers. ",115,1
+Andrew,1095,58,"Ah I see. Do you play any video games, or do you prefer just watching others play? ",83,1
+ErikaTheZebra,1172,77,"I used to play a lot more games back in the day, but I don&#039;t much anymore.  I was playing Skyrim before hopping on here though. ",133,1
+Andrew,1208,36,"I liked Skyrim a lot. I&#039;ve spent a lot less time on it than I did on Oblivion though. ",91,1
+ErikaTheZebra,1279,71,"I actually didn&#039;t play through Oblivion properly until I finished Skyrim.  I appreciate how much more is in Oblivion than in Skyrim. ",138,1
+Andrew,1340,61,"The world mostly seemed a bit more vibrant and interesting to me. But I might be biased because it was my first Elders&#039; Scrolls. ",134,1
+Moderator,1364,24,"Time is up! ",12,
+Moderator,1382,18,"Which actor do you think you&#039;ve been talking to? ",54,
+ErikaTheZebra,1435,53,"Well, at first I wanted to say it was a human before of a grammatical error, but then it was constant, so I want to say it was the AI. ",135,
+Moderator,1465,30,"Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? ",141,
+ErikaTheZebra,1477,12,"yes ",4,
+Andrew,1487,10,"Hello! ",7,
+ErikaTheZebra,1496,9,"Hello~ ",7,2
+Andrew,1502,6,"How are you doing? ",19,2
+ErikaTheZebra,1511,9,"I ",2,2
+Andrew,1516,5,"You? ",5,2
+ErikaTheZebra,1537,21,"Whoops.  I&#039;m doing alright, how&#039;re you? ",50,2
+Andrew,1552,15,"I&#039;m doing quite alright too! What are you up to? ",54,2
+ErikaTheZebra,1577,25,"I&#039;m currently wasting time on youtube with various youtube videos ",71,2
+Andrew,1609,32,"Oh yeah, I do that a lot too actually. What are you watching? ",62,2
+ErikaTheZebra,1644,35,"At this current moment, just watching complete trash.  I&#039;ll be going back to watching Joel in a moment though. ",116,2
+Andrew,1662,18,"Joel? ",6,2
+ErikaTheZebra,1689,27,"One of the Vinesauce streamers.  Usually the second most popular of the lot ",76,2
+Andrew,1714,25,"Oh I see! I quite like Vinesauce actually. ",43,2
+ErikaTheZebra,1745,31,"Which of the Vinesauce  streamers is your favorite?",51,2
+Andrew,1774,29,"I don&#039;t know if I really have one actually. You? ",54,2
+ErikaTheZebra,1819,45,"That&#039;s a hard decision, but I think I&#039;d have to choose Vinny  ",72,2
+Andrew,1835,16,"Why Vinny? ",11,2
+ErikaTheZebra,1886,51,"Well, he pumps out the most content and he&#039;s generally a really funny guy, despite how much  he craps on himself.",118,2
+Andrew,1944,58,"Oh yeah I see. ",15,2
+ErikaTheZebra,2106,162,"[stop ]",7,2
+ErikaTheZebra,2118,12,"I believe  I have a guess",25,
+Moderator,2121,3,"Conversation Interrupted! ",26,
+ErikaTheZebra,2138,17,"The one I just talked to was the AI ",36,
+Moderator,2147,9,"On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? ",89,
+ErikaTheZebra,2159,12,"5 ",2,
+Moderator,2179,20,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2185,6,"If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  ",118,
+ErikaTheZebra,2208,23,"Oh, alrighty~  Did I guess right? ",34,
+Moderator,2230,22,"I can tell you after your comments, or if you don&#039;t have any I can tell you right now. ",92,
+ErikaTheZebra,2311,81,"I think the only comment I can make is that I mostly based my decision on the second Andrew&#039;s supposed lack of knowledge of Vinesauce.  There&#039;s no real reason to give an AI knowledge of a Let&#039;s Player",215,
+ErikaTheZebra,2327,16,"That&#039;s all I have to add ",30,
+Moderator,2351,24,"Alright. The AI was indeed the second one! ",43,
+ErikaTheZebra,2375,24,"Heh, who knew watching some obscure Let&#039;s Player would help me out. ",73,
+ErikaTheZebra,2378,3,"That was fun ",13,
+Moderator,2387,9,"Glad that you enjoyed it! ",26,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,888,610,,,
+User Average,48.7,41.5,,,
+Actor Average,42,22.6666666666667,,,
+User Average (5min),28.6,22.4285714285714,,,
+Actor Average (5min),30,18.5714285714286,,,
+User CharLength,79,57,,,
+Actor CharLength,86.6,29.8888888888889,,,
+User CharLength (5min),49,53.2857142857143,,,
+Actor CharLength (5min),64,34.7142857142857,,,

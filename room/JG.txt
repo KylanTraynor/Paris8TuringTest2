@@ -1,0 +1,95 @@
+<span id="time-span">21:49:25</span><span id="name-span">Moderator</span>Welcome JG 
+<span id="time-span">21:49:44</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">21:49:57</span><span id="name-span">Moderator</span>If you can read this, please say &quot;yes&quot; 
+<span id="time-span">21:49:59</span><span id="name-span">JG</span>Of course. 
+<span id="time-span">21:50:04</span><span id="name-span">JG</span>Yes 
+<span id="time-span">21:50:08</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">21:50:16</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">21:50:24</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">21:50:30</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">21:50:40</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">21:50:47</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">21:50:54</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">21:51:01</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">21:51:08</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">21:51:14</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">21:51:25</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">21:51:33</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">21:51:41</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">21:51:49</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">21:51:59</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">21:52:07</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">21:52:15</span><span id="name-span">JG</span>Yes 
+<span id="time-span">21:52:18</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">21:52:25</span><span id="name-span">JG</span>Yes 
+<span id="time-span">21:52:29</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">21:52:39</span><span id="name-span">JG</span>Hi there. 
+<span id="time-span">21:52:46</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">21:52:57</span><span id="name-span">JG</span>I am well.  How are you doing? 
+<span id="time-span">21:53:13</span><span id="name-span">Andrew</span>I&#039;m doing quite alright too. What are you up to? 
+<span id="time-span">21:53:32</span><span id="name-span">JG</span>I was about to start working on a college project. 
+<span id="time-span">21:53:49</span><span id="name-span">Andrew</span>Oh? What is it about? 
+<span id="time-span">21:54:07</span><span id="name-span">JG</span>It is about beach erosion along the North Carolina coastline. 
+<span id="time-span">21:54:37</span><span id="name-span">Andrew</span>Oh alright. Do you study geography then? 
+<span id="time-span">21:54:56</span><span id="name-span">JG</span>No I do not, I study meteorology.  
+<span id="time-span">21:55:26</span><span id="name-span">Andrew</span>Oh alright. I study biology myself. 
+<span id="time-span">21:55:47</span><span id="name-span">JG</span>Are you a college student? 
+<span id="time-span">21:56:10</span><span id="name-span">Andrew</span>Yes I am. I&#039;m an undergrad student. 
+<span id="time-span">21:56:31</span><span id="name-span">JG</span>What was your favorite part about going to college? 
+<span id="time-span">21:57:24</span><span id="name-span">Andrew</span>Getting to really choose what I want to do, finally. What about you, what was your favorite part? 
+<span id="time-span">21:58:16</span><span id="name-span">JG</span>My favorite part is the responsibility placed on my shoulders.  It really helped me to become the adult I am today.  Though the football games were awesome to attend. 
+<span id="time-span">21:58:45</span><span id="name-span">Andrew</span>I take it you&#039;re American? 
+<span id="time-span">21:59:10</span><span id="name-span">JG</span>I am an American, yes.  Born in North Carolina. 
+<span id="time-span">22:00:21</span><span id="name-span">Andrew</span>Oh yeah I had forgotten that your project was about North Carolina. Somehow the football games gave away that you were American more than that... 
+<span id="time-span">22:00:47</span><span id="name-span">JG</span>We do love our football, I played football in high school. 
+<span id="time-span">22:01:22</span><span id="name-span">Andrew</span>I&#039;m not really that much into sports myself. 
+<span id="time-span">22:02:10</span><span id="name-span">JG</span>So you probably couldn&#039;t tell me who was in the most recent Superbowl, could you? 
+<span id="time-span">22:02:27</span><span id="name-span">Andrew</span>Nope. I have absolutely no idea. 
+<span id="time-span">22:02:47</span><span id="name-span">JG</span>What are your goals for the rest of your life, Andrew? 
+<span id="time-span">22:03:29</span><span id="name-span">Andrew</span>For the rest of my life I have no idea, but I really want to do research on the brain, on the neurons and more precisely on learning. 
+<span id="time-span">22:04:10</span><span id="name-span">JG</span>I wish you the best of luck in that.  We are almost out off time I believe. 
+<span id="time-span">22:04:50</span><span id="name-span">Andrew</span>Thank you very much, same for you. And yes I believe we might be, but I&#039;m not entirely sure. Likely under 5 minutes though. 
+<span id="time-span">22:05:18</span><span id="name-span">JG</span>I believe I am ready to move on.  Nice speaking to you Andrew, take care.  
+<span id="time-span">22:05:29</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">22:05:42</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">22:05:53</span><span id="name-span">JG</span>Human 
+<span id="time-span">22:06:04</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">22:06:11</span><span id="name-span">JG</span>Yes 
+<span id="time-span">22:06:15</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">22:06:23</span><span id="name-span">JG</span>Hi there. 
+<span id="time-span">22:06:32</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">22:06:50</span><span id="name-span">JG</span>I am well, thanks for asking.  How are you? 
+<span id="time-span">22:07:07</span><span id="name-span">Andrew</span>I&#039;m doing quite alright too thanks. What are you up to? 
+<span id="time-span">22:07:33</span><span id="name-span">JG</span>I am about to head to the cafeteria for some dinner. 
+<span id="time-span">22:07:53</span><span id="name-span">Andrew</span>Oh I see. Are you in college? 
+<span id="time-span">22:08:22</span><span id="name-span">JG</span>I am in college, yes.  How about yourself?  Are you a college student? 
+<span id="time-span">22:08:43</span><span id="name-span">Andrew</span>I am actually yes. I study biology. What about you? 
+<span id="time-span">22:09:15</span><span id="name-span">JG</span>I am a meteorology student.  Which part of the body fascinates you the most? 
+<span id="time-span">22:09:52</span><span id="name-span">Andrew</span>Oh that&#039;s really cool! My favorite is definitely the brain. 
+<span id="time-span">22:10:45</span><span id="name-span">JG</span>That is very interesting, and certainly a tough subject.  What are some of your hobbies outside of school related things? 
+<span id="time-span">22:11:30</span><span id="name-span">Andrew</span>I love playing games, like Minecraft and lately Mass Effect. Do you like video games? 
+<span id="time-span">22:11:54</span><span id="name-span">JG</span>I do, I play League of Legends and Old School Runescape in my free time. 
+<span id="time-span">22:12:40</span><span id="name-span">Andrew</span>A lot of people seem to be into League of Legends. I&#039;ve never played it myself though. I didn&#039;t play Runescape either actually. 
+<span id="time-span">22:13:01</span><span id="name-span">JG</span>Do you like any sports? 
+<span id="time-span">22:13:28</span><span id="name-span">Andrew</span>I like swimming, but I can&#039;t say I&#039;m really into sports in general. Do you? 
+<span id="time-span">22:14:15</span><span id="name-span">JG</span>I love American football and hockey.  One of my favorite NFL teams were in the superbowl a couple months ago. 
+<span id="time-span">22:14:51</span><span id="name-span">Andrew</span>How well did they do? 
+<span id="time-span">22:15:24</span><span id="name-span">JG</span>They lost, it was a big collapse. 
+<span id="time-span">22:15:47</span><span id="name-span">Andrew</span>I&#039;m sorry to hear that. I hope they&#039;ll win next time. 
+<span id="time-span">22:16:29</span><span id="name-span">JG</span>Thanks, and I wish you the best of luck with your studies.  It has been nice talking with you. 
+<span id="time-span">22:17:09</span><span id="name-span">Andrew</span>Thank you very much. I wish you the best of luck too. I believe we might have some more time though. 
+<span id="time-span">22:17:55</span><span id="name-span">JG</span>Okay, then may I ask what your favorite food is? 
+<span id="time-span">22:18:17</span><span id="name-span">Andrew</span>Pizza, definitely. 
+<span id="time-span">22:18:49</span><span id="name-span">JG</span>Are you on either side of the New York Style vs. Chicago Style debate? 
+<span id="time-span">22:19:10</span><span id="name-span">Andrew</span>What is that? 
+<span id="time-span">22:19:38</span><span id="name-span">JG</span>Two different American pizza types.  New York Style is more thin crust, Chicago is deep dish. 
+<span id="time-span">22:19:57</span><span id="name-span">Andrew</span>Oh I see. I prefer the thin ones. 
+<span id="time-span">22:20:15</span><span id="name-span">JG</span>What about favorite toppings? 
+<span id="time-span">22:20:56</span><span id="name-span">Andrew</span>Usually I put some ham and ground beef on my pizza. 
+<span id="time-span">22:21:33</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">22:21:52</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">22:22:00</span><span id="name-span">JG</span>AI 
+<span id="time-span">22:22:12</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">22:22:22</span><span id="name-span">JG</span>5 
+<span id="time-span">22:22:37</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">22:22:54</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

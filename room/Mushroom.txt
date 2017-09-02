@@ -1,0 +1,86 @@
+<span id="time-span">18:13:33</span><span id="name-span">Mushroom</span>Hello 
+<span id="time-span">18:14:00</span><span id="name-span">Moderator</span>Hello Mushroom 
+<span id="time-span">18:14:08</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">18:14:18</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">18:14:23</span><span id="name-span">Mushroom</span>You&#039;re welcome. 
+<span id="time-span">18:14:24</span><span id="name-span">Mushroom</span>I am. 
+<span id="time-span">18:14:33</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">18:14:39</span><span id="name-span">Mushroom</span>Odds are I might eventually disconect because my connection is horrible. 
+<span id="time-span">18:14:40</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">18:14:45</span><span id="name-span">Moderator</span>Alright 
+<span id="time-span">18:14:52</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">18:14:59</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">18:15:05</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">18:15:20</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">18:15:27</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">18:15:35</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">18:15:41</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">18:15:48</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">18:15:56</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">18:16:02</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">18:16:10</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">18:16:17</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">18:16:24</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">18:16:31</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">18:16:44</span><span id="name-span">Mushroom</span>I think so! 
+<span id="time-span">18:16:52</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">18:17:08</span><span id="name-span">Mushroom</span>Sure, lets do dis. 
+<span id="time-span">18:17:14</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:17:17</span><span id="name-span">Mushroom</span>Hello. 
+<span id="time-span">18:17:22</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:17:26</span><span id="name-span">Mushroom</span>I am fine, what of you? 
+<span id="time-span">18:17:38</span><span id="name-span">Andrew</span>I&#039;m doing quite alright! What are you up to? 
+<span id="time-span">18:17:50</span><span id="name-span">Mushroom</span>I&#039;m cooking. 
+<span id="time-span">18:18:06</span><span id="name-span">Andrew</span>Oh cool, what are you making? 
+<span id="time-span">18:18:33</span><span id="name-span">Mushroom</span>Can you guess? 
+<span id="time-span">18:19:00</span><span id="name-span">Andrew</span>Well, it&#039;s not really an easy one; 
+<span id="time-span">18:20:05</span><span id="name-span">Mushroom</span>Let us leave it to chance, what comes in mind? 
+<span id="time-span">18:20:37</span><span id="name-span">Andrew</span>I&#039;m not really sure to be honest. 
+<span id="time-span">18:22:19</span><span id="name-span">Mushroom</span>I will make things easier for you, all of my ingredients are raw and will remain raw by the end of my cooking. 
+<span id="time-span">18:23:13</span><span id="name-span">Andrew</span>A salad? 
+<span id="time-span">18:23:50</span><span id="name-span">Mushroom</span>How about we change the something to something more simple now, what are you doing? 
+<span id="time-span">18:24:19</span><span id="name-span">Andrew</span>Well, I&#039;m just playing a game actually. 
+<span id="time-span">18:25:28</span><span id="name-span">Mushroom</span>What are you doing? 
+<span id="time-span">18:25:47</span><span id="name-span">Andrew</span>I&#039;m just playing a game. 
+<span id="time-span">18:27:09</span><span id="name-span">Mushroom</span>Yes are correct, it is infact a salad. What game are you playing? 
+<span id="time-span">18:27:36</span><span id="name-span">Andrew</span>I&#039;m playing Minecraft. Have you heard about it? 
+<span id="time-span">18:29:23</span><span id="name-span">Mushroom</span>I have heard of it, do you like it? 
+<span id="time-span">18:29:33</span><span id="name-span">Andrew</span>How do you mean? 
+<span id="time-span">18:29:52</span><span id="name-span">Mushroom</span>Do you like the game Minecraft? 
+<span id="time-span">18:30:11</span><span id="name-span">Andrew</span>Well yeah, it&#039;s probably one of my favorite games. 
+<span id="time-span">18:30:24</span><span id="name-span">Mushroom</span>Why do you like the game Minecraft? 
+<span id="time-span">18:30:59</span><span id="name-span">Andrew</span>It lets me get creative. I love building in it. It&#039;s like playing with LEGO, but better. 
+<span id="time-span">18:31:16</span><span id="name-span">Mushroom</span>Do you like LEGO? 
+<span id="time-span">18:31:26</span><span id="name-span">Andrew</span>I used to yes. 
+<span id="time-span">18:32:28</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:32:42</span><span id="name-span">Mushroom</span>Well, RIP! 
+<span id="time-span">18:32:44</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">18:33:52</span><span id="name-span">Mushroom</span>I feel like most of the time it was the Player, but a few times the Artificial Intelligence could have intercepted, unless I&#039;m so vague that it actually needed specified clarification from the Player.
+<span id="time-span">18:34:33</span><span id="name-span">Moderator</span>You&#039;ve only been talking to one of the two actors. Which one do you think it was so far? (You&#039;ll be able to change your answer after the next conversation) 
+<span id="time-span">18:35:05</span><span id="name-span">Mushroom</span>The Player. 
+<span id="time-span">18:35:32</span><span id="name-span">Moderator</span>Do you mean the human? Alright. 
+<span id="time-span">18:35:49</span><span id="name-span">Moderator</span>We&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? 
+<span id="time-span">18:36:05</span><span id="name-span">Mushroom</span>I am ready. 
+<span id="time-span">18:36:12</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:36:16</span><span id="name-span">Mushroom</span>Hello. 
+<span id="time-span">18:36:24</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:36:54</span><span id="name-span">Mushroom</span>Why are you asking? 
+<span id="time-span">18:37:13</span><span id="name-span">Andrew</span>Well it&#039;s usually the polite way to address someone. 
+<span id="time-span">18:37:57</span><span id="name-span">Mushroom</span>It is, do you often say &quot;What&#039;s up&quot; to somebody? 
+<span id="time-span">18:38:12</span><span id="name-span">Andrew</span>Watch me : What&#039;s up? 
+<span id="time-span">18:38:41</span><span id="name-span">Mushroom</span>The sky. 
+<span id="time-span">18:38:59</span><span id="name-span">Andrew</span>Right. And the ground is what&#039;s down. 
+<span id="time-span">18:41:11</span><span id="name-span">Mushroom</span>Pretty abnoxious response, isn&#039;t it. 
+<span id="time-span">18:41:38</span><span id="name-span">Andrew</span>Yeah it definitely is. But what are you actually up to? 
+<span id="time-span">18:41:54</span><span id="name-span">Mushroom</span>STOP 
+<span id="time-span">18:41:54</span><span id="name-span">Mushroom</span>STOP 
+<span id="time-span">18:42:12</span><span id="name-span">Moderator</span>Conversation Interrupted 
+<span id="time-span">18:42:20</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">18:42:55</span><span id="name-span">Mushroom</span>Human 
+<span id="time-span">18:43:03</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? 
+<span id="time-span">18:44:35</span><span id="name-span">Mushroom</span>Are you asking about the first question in general or the whole conversation? 
+<span id="time-span">18:45:11</span><span id="name-span">Moderator</span>No I mean, how confident are you that the first conversation was the one with the human? 
+<span id="time-span">18:45:58</span><span id="name-span">Mushroom</span>3/7 
+<span id="time-span">18:47:02</span><span id="name-span">Moderator</span>That&#039;s not an answer. You&#039;ve answered that the human was in the first conversation, and that the AI was in the second. On a scale from 1 to 7, how confident are you that you were right? 
+<span id="time-span">18:47:33</span><span id="name-span">Moderator</span>Just answer with one number. 
+<span id="time-span">18:49:27</span><span id="name-span">Moderator</span>Oh sorry, did you just mean 3? I was confused. 

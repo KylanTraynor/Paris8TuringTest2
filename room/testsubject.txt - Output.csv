@@ -1,0 +1,63 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello testsubject. ",19,
+testsubject,1,1,"Hello ",6,
+Moderator,20,19,"Thank you for participating in this study. ",43,
+Moderator,29,9,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,39,10,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,50,11,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,61,11,"You&#039;ll be talking to him twice. ",37,
+Moderator,70,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,78,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,87,9,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,96,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,103,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,113,10,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,123,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,132,9,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,140,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,150,10,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,158,8,"Do not type more than one post per answer. ",43,
+Moderator,164,6,"Do you understand the rules and what you have to do? ",53,
+testsubject,170,6,"Yes ",4,
+Moderator,177,7,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. ",87,
+Andrew,191,14,"Hello! ",7,
+testsubject,200,9,"Howdy ",6,1
+Andrew,209,9,"How are you doing? ",19,1
+testsubject,225,16,"I&#039;m well. What do you do for a living, or are you a student? ",66,1
+Andrew,249,24,"I&#039;m a student yes, I study biology. What about you? ",57,1
+testsubject,318,69,"I graduated, currently I work in credit repair. Which p okem0n is your favorite?  ",82,1
+Andrew,353,35,"Charizard, definitely. I&#039;m not sure to see what a credit repair is. ",73,1
+testsubject,383,30,"What is your native language?  ",31,1
+Andrew,401,18,"English. I&#039;m Canadian. ",28,1
+testsubject,420,19,"Please stop the conversation.  ",31,1
+Moderator,446,26,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+testsubject,453,7,"The AI ",7,
+Moderator,491,38,"Alright. We&#039;ll start the second conversation. Andrew will begin, and you&#039;ll have 15 minutes after your answer. ",121,
+Andrew,501,10,"Hello! ",7,
+testsubject,504,3,"Howdy ",6,2
+Andrew,511,7,"How are you doing? ",19,2
+testsubject,526,15,"I&#039;m well, are these questions scripted?  ",46,2
+Andrew,537,11,"No? ",4,2
+testsubject,554,17,"What do you do for a living, or are you a student? ",51,2
+Andrew,567,13,"I study biology. ",17,2
+testsubject,620,53,"What is your native language&gt;  ",34,2
+Andrew,628,8,"English. ",9,2
+testsubject,654,26,"Please stop the conversation.  ",31,2
+Moderator,673,19,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+testsubject,685,12,"The first conversation was the AI ",34,
+Moderator,691,6,"On a scale from 1 (not sure at all) to 7 (certain), how comfident are you of your answer? ",90,
+testsubject,703,12,"6 ",2,
+Moderator,712,9,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months. ",167,
+Moderator,727,15,"If you have any comments, feel free to share them here. Otherwise you can close the window. ",92,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,220,150,,,
+User Average,28.6,22.8,,,
+Actor Average,21.5,9.75,,,
+User Average (5min),28.6,22.8,,,
+Actor Average (5min),21.5,9.75,,,
+User CharLength,43.2,33.6,,,
+Actor CharLength,44.25,12.25,,,
+User CharLength (5min),43.2,33.6,,,
+Actor CharLength (5min),44.25,12.25,,,

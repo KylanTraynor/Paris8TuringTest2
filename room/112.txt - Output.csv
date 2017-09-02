@@ -1,0 +1,102 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+112,0,0,"Hello ",6,
+Moderator,9,9,"Hello 112 ",10,
+Moderator,17,8,"Thank you for participating in this study. ",43,
+112,24,7,"No problem ",11,
+112,33,9,"How are you doing tday? ",24,
+112,40,7,"today? ",7,
+Moderator,54,14,"I&#039;m good thank you. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",129,
+Moderator,64,10,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+112,66,2,"Sounds good ",12,
+Moderator,75,9,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,81,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,88,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,93,5,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,100,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,110,10,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,117,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,122,5,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,128,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,135,7,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,141,6,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,146,5,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,151,5,"Do not type more than one post per answer. ",43,
+Moderator,157,6,"Do you understand the rules and what you have to do? ",53,
+112,208,51,"yes i do, my only question is the [STOP] function. Does that just change me to  a different actor? ",99,
+Moderator,237,29,"Yes, it will stop the current conversation and proceed to the rest of the experiment. ",86,
+112,248,11,"Okay, I understand ",19,
+Moderator,270,22,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+112,283,13,"Yes ",4,
+Andrew,288,5,"Hello! ",7,
+112,294,6,"Hello Andrew ",13,1
+Andrew,299,5,"How are you doing? ",19,1
+112,305,6,"I am doing well ",16,1
+Andrew,317,12,"What are you up to? That&#039;s cool. ",38,1
+112,337,20,"I am just listen to some music  ",32,1
+Andrew,350,13,"What is it? ",12,1
+112,360,10,"Rolling Stones ",15,1
+Andrew,374,14,"Oh cool! ",9,1
+112,385,11,"Do you like them? ",18,1
+Andrew,421,36,"They are a classic, but I can&#039;t say I listen to them often. ",65,1
+112,441,20,"Whats your favorite song by them? ",34,1
+Andrew,472,31,"I guess Satisfaction. What&#039;s yours? ",41,1
+112,508,36,"Sympathy for the devil ",23,1
+Andrew,550,42,"I tend to listen to very different kinds of music most of the time. ",68,1
+112,565,15,"What do you like to listen to? ",31,1
+Andrew,589,24,"Mostly games music or symphonic metal. ",39,1
+112,608,19,"Whats your favorite artist? ",28,1
+Andrew,665,57,"I like Nightwish. I don&#039;t think I really have one. It depends on my mood. ",79,1
+112,715,50,"Do you play any video games ?",29,1
+Andrew,747,32,"I play that game way too much. Minecraft yeah. ",47,1
+112,773,26,"What do you like about it? ",27,1
+Andrew,830,57,"Do you play it too? The sense of community and being creative by building good looking things. ",95,1
+112,866,36,"[stop] ",7,1
+Moderator,884,18,"Conversation interrupted ",25,
+Moderator,902,18,"Which actor do you think you&#039;ve been talking to? ",54,
+112,909,7,"the AI ",7,
+Moderator,923,14,"Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? ",141,
+112,931,8,"Yes i am ",9,
+Andrew,935,4,"Hello! ",7,
+112,941,6,"Hey ",4,2
+Andrew,949,8,"How are you doing? ",19,2
+112,959,10,"I am doing well ",16,2
+Andrew,968,9,"Nice! What are you up to today? ",32,2
+112,990,22,"Just listening to music ",24,2
+Andrew,998,8,"What kind of music? ",20,2
+112,1003,5,"Rolling stones ",15,2
+Andrew,1029,26,"Ah alright. I can&#039;t say I listen to them much. ",52,2
+112,1043,14,"Do you have a favorite song by them? ",37,2
+Andrew,1105,62,"It&#039;s not really a favorite song, it&#039;s actually the only one I can recall is of them, and that I also happen to know its name : Satisfaction. ",151,2
+112,1128,23,"What do you like about it? ",27,2
+Andrew,1189,61,"The rhythm I guess. Again, that&#039;s the only one I really know of the Rolling Stones, so I&#039;m not a good critic. ",120,2
+112,1212,23,"Whats your favorite kind of music to listen to? ",48,2
+Andrew,1247,35,"It depends on my mood really. I love games music and metal symphonic though. ",77,2
+112,1273,26,"WHats your favorite band? ",26,2
+Andrew,1312,39,"Nightwish. I used to listen to them all the time. Less so now. I just listen to random music on youtube. ",105,2
+112,1329,17,"Wh ats your favorite game?",26,2
+Andrew,1359,30,"That would have to be Minecraft. I like many others, but that&#039;s the one I spend most of my time on. ",105,2
+112,1371,12,"What do you like about it? ",27,2
+Andrew,1407,36,"I love building. I also play on a server, which is a nice way to socialize a bit with others while building cool things. ",121,2
+112,1423,16,"[STOP] ",7,2
+Moderator,1443,20,"Conversation interrupted ",25,
+Moderator,1452,9,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+112,1457,5,"AI ",3,
+Moderator,1464,7,"On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? ",89,
+112,1468,4,"7 ",2,
+Moderator,1473,5,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,1479,6,"If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  ",118,
+112,1506,27,"I felt as if the first actor spoke akwardly ",44,
+112,1518,12,"Like the order of things he said seemed off ",44,
+Moderator,1551,33,"I see. Thank you again for your help! ",38,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,572,482,,,
+User Average,21.25,15.8181818181818,,,
+Actor Average,29.3636363636364,31.4,,,
+User Average (5min),15.5,14.7142857142857,,,
+Actor Average (5min),22.125,29,,,
+User CharLength,22.75,23.3636363636364,,,
+Actor CharLength,46.5454545454545,80.2,,,
+User CharLength (5min),22.75,24.4285714285714,,,
+Actor CharLength (5min),36.375,65.6666666666667,,,

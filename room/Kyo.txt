@@ -1,0 +1,81 @@
+<span id="time-span">04:15:37</span><span id="name-span">Moderator</span>Welcome Kyo. 
+<span id="time-span">04:16:03</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">04:16:36</span><span id="name-span">Moderator</span>If you can see this, please say yes now. 
+<span id="time-span">04:16:42</span><span id="name-span">Kyo</span>Yes 
+<span id="time-span">04:16:50</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">04:17:02</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">04:17:10</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">04:17:20</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">04:17:29</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">04:17:39</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">04:17:47</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">04:17:56</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">04:18:03</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">04:18:15</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">04:18:22</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">04:18:30</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">04:18:38</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">04:18:45</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">04:18:53</span><span id="name-span">Moderator</span>Do not type more than one post at a time. 
+<span id="time-span">04:19:03</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">04:19:09</span><span id="name-span">Kyo</span>Yes 
+<span id="time-span">04:19:24</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">04:19:39</span><span id="name-span">Kyo</span>Yes 
+<span id="time-span">04:19:44</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">04:20:54</span><span id="name-span">Kyo</span>Hi! How are you? 
+<span id="time-span">04:21:13</span><span id="name-span">Andrew</span>I&#039;m doing alright! 
+<span id="time-span">04:23:16</span><span id="name-span">Kyo</span>Do you mind telling me a bit about yourself, Andrew? 
+<span id="time-span">04:23:32</span><span id="name-span">Andrew</span>Sure, what do you want to know? 
+<span id="time-span">04:24:11</span><span id="name-span">Kyo</span>What are your hobbies? 
+<span id="time-span">04:24:33</span><span id="name-span">Andrew</span>I love video games. You? 
+<span id="time-span">04:24:59</span><span id="name-span">Kyo</span>Video games are my favorite. 
+<span id="time-span">04:25:07</span><span id="name-span">Andrew</span>Which ones? 
+<span id="time-span">04:26:46</span><span id="name-span">Kyo</span>I really like Mario and Zelda, I&#039;m best at RPGs. How about you? 
+<span id="time-span">04:27:18</span><span id="name-span">Andrew</span>I like RPGs too, like Mass Effect. 
+<span id="time-span">04:28:51</span><span id="name-span">Kyo</span>Mass effect is a series, right? Do you have a favorite from it? 
+<span id="time-span">04:29:10</span><span id="name-span">Andrew</span>Yes, the third one. 
+<span id="time-span">04:29:44</span><span id="name-span">Kyo</span>What system do you play it on? 
+<span id="time-span">04:30:07</span><span id="name-span">Andrew</span>Most of it I&#039;ve played on PC. 
+<span id="time-span">04:31:13</span><span id="name-span">Kyo</span>Do you have any pets? 
+<span id="time-span">04:31:44</span><span id="name-span">Andrew</span>I have two dogs yes. 
+<span id="time-span">04:32:03</span><span id="name-span">Kyo</span>I love dogs, what are their names? 
+<span id="time-span">04:32:39</span><span id="name-span">Andrew</span>Rinoa and Lucky. 
+<span id="time-span">04:33:12</span><span id="name-span">Kyo</span>Oh, like Rinoa from Final Fantasy VIII? 
+<span id="time-span">04:33:26</span><span id="name-span">Andrew</span>Exactly yes! 
+<span id="time-span">04:34:26</span><span id="name-span">Kyo</span>I also love the Final Fantasy series. Is Rinoa your favorite protagonist from it? 
+<span id="time-span">04:34:47</span><span id="name-span">Andrew</span>I&#039;m not sure, but one of my favorites yes. 
+<span id="time-span">04:36:05</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">04:36:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">04:36:49</span><span id="name-span">Kyo</span>So far, I believe I have been t alking to the AI
+<span id="time-span">04:37:02</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes again after your answer. Are you ready? 
+<span id="time-span">04:37:11</span><span id="name-span">Kyo</span>Yes 
+<span id="time-span">04:37:18</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">04:38:56</span><span id="name-span">Kyo</span>Hi Andrew, how was your day? 
+<span id="time-span">04:39:14</span><span id="name-span">Andrew</span>It was quite alright. How was yours? 
+<span id="time-span">04:40:03</span><span id="name-span">Kyo</span>My day has been going alright as well. My cats have been wreaking havoc in the house, but it&#039;s been perfect otherwise. 
+<span id="time-span">04:40:24</span><span id="name-span">Andrew</span>That&#039;s quite fun to watch sometimes though. 
+<span id="time-span">04:41:27</span><span id="name-span">Kyo</span>This is very true, it&#039;s just hard to clean up the mess they leave, b ut it&#039;s worth it. 
+<span id="time-span">04:41:49</span><span id="name-span">Andrew</span>How many do you have? 
+<span id="time-span">04:42:44</span><span id="name-span">Kyo</span>I have two cats, one of them is an orange tabby boy  named Milo and the other is a black and white spotted girl named Ellie.
+<span id="time-span">04:43:25</span><span id="name-span">Andrew</span>Oh that&#039;s cool. I have two dogs. Rinoa and Lucky. They are siblings. 
+<span id="time-span">04:43:41</span><span id="name-span">Kyo</span>How long have you had them for? 
+<span id="time-span">04:44:09</span><span id="name-span">Andrew</span>7 years I believe. I&#039;m not too sure actually. 
+<span id="time-span">04:46:08</span><span id="name-span">Kyo</span>I see, I&#039;ve had my cats since last December, I adopted them both from the shelter. They come from different litters, but they act like brother and sister. 
+<span id="time-span">04:46:45</span><span id="name-span">Andrew</span>That&#039;s nice, how old are they? 
+<span id="time-span">04:48:04</span><span id="name-span">Kyo</span>I believe they are both around seven months now? They grow so fast. 
+<span id="time-span">04:48:39</span><span id="name-span">Andrew</span>Oh yeah they are really young then. They must be adorable. 
+<span id="time-span">04:50:03</span><span id="name-span">Kyo</span>They are! I keep several pictures of them on my Facebook profile, everyone loves them and they&#039;re more popular than me. 
+<span id="time-span">04:50:28</span><span id="name-span">Andrew</span>Well, that&#039;s what cats do. The internet belongs to them. 
+<span id="time-span">04:51:26</span><span id="name-span">Kyo</span>I couldn&#039;t agree more, and cat memes always make my day. 
+<span id="time-span">04:52:08</span><span id="name-span">Andrew</span>They tend to fill facebook walls quite fast every day. 
+<span id="time-span">04:53:16</span><span id="name-span">Kyo</span>That they do, and for good reason. How old are you, Andrew? 
+<span id="time-span">04:53:31</span><span id="name-span">Andrew</span>I&#039;m 21. What about you? 
+<span id="time-span">04:54:18</span><span id="name-span">Kyo</span>I&#039;m 22. 
+<span id="time-span">04:54:25</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">04:54:37</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">04:54:54</span><span id="name-span">Kyo</span>AI 
+<span id="time-span">04:55:01</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">04:55:14</span><span id="name-span">Kyo</span>5 
+<span id="time-span">04:55:26</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">04:55:45</span><span id="name-span">Moderator</span>If you have comments you&#039;d like to share, feel free to do so now. Otherwise, you can now close this window. 
+<span id="time-span">04:55:50</span><span id="name-span">Kyo</span>You&#039;re very welcome, have a good day! 

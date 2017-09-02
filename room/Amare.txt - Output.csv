@@ -1,0 +1,89 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Amare. ",15,
+Moderator,13,13,"Thank you for participating in this study. ",43,
+Moderator,36,23,"If you can see this, please type &quot;yes&quot;. ",50,
+Amare,42,6,"Yes ",4,
+Moderator,54,12,"Perfect. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,66,12,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,74,8,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,95,21,"You&#039;ll be talking to him twice. ",37,
+Moderator,107,12,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,114,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,125,11,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,134,9,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,140,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,147,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,157,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,165,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,173,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,180,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,188,8,"Do not type more than one post per answer. ",43,
+Moderator,198,10,"Do you understand the rules and what you have to do? ",53,
+Amare,206,8,"Yes ",4,
+Moderator,219,13,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Amare,234,15,"Yes I am ready ",15,
+Andrew,239,5,"Hello! ",7,
+Amare,248,9,"Hello ",6,1
+Andrew,253,5,"How are you doing? ",19,1
+Amare,267,14,"I am doing good, and you? ",26,1
+Andrew,278,11,"I&#039;m doing quite alright thanks! What are you up to? ",57,1
+Amare,311,33,"I&#039;m not up to much right now , you? ",41,1
+Andrew,348,37,"Pretty much the same actually. I might play some video games though. Do you like games? ",88,1
+Amare,413,65,"I do like games, i just prefer going for walks. What games do you like? ",72,1
+Andrew,457,44,"I often play Minecraft, but lately I&#039;ve been playing a lot of Mass Effect. Walks are very good too, I should do that more often. ",134,1
+Amare,509,52,"I don&#039;t know much about Minecraft or Mass Effect, I play call of duty though ",82,1
+Andrew,547,38,"I played Black Ops once in multiplayer with a friend. ",54,1
+Amare,597,50,"I haven&#039;t played multiplayer, I play solo more than anything ",66,1
+Andrew,677,80,"Alright. When you go out to walk, do you wander about randomly or do you have really planned walks? ",100,1
+Amare,738,61,"On most days I wander around randomly, though I like planed walks with friends an family ",89,1
+Andrew,809,71,"Do you live in a city or more in the country side? I sometimes do random walks, but it&#039;s not really relaxing in a city. ",125,1
+Amare,880,71,"I Live between a city and the country, I prefer to walk towards the country ",76,1
+Andrew,974,94,"Yeah that makes sense. I lived in the country for a little while. Where I am now there are some nice peaceful areas though, especially around the University. ",158,1
+Amare,1078,104,"Yeah always nice to know of peaceful areas no mater where. Do you like to read? ",80,1
+Andrew,1099,21,"I do yes. I don&#039;t think I do it enough though. I always feel like I don&#039;t have enough time. ",102,1
+Moderator,1150,51,"Time is up! ",12,
+Amare,1157,7,"I understand that, I love reading, any chance I get I try but I usually wait till summer comes around ",102,
+Moderator,1168,11,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Amare,1186,18,"Artificial intelligence ",24,
+Moderator,1195,9,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Amare,1210,15,"I am ready ",11,
+Andrew,1213,3,"Hello! ",7,
+Amare,1220,7,"Hello ",6,2
+Andrew,1225,5,"How are you doing? ",19,2
+Amare,1242,17,"I&#039;m going good, and you? ",30,2
+Andrew,1253,11,"I&#039;m quite alright thanks! What are you up to? ",51,2
+Amare,1288,35,"Not much just relaxing currently, you? ",39,2
+Andrew,1314,26,"Pretty much the same. Considering playing games or something. ",62,2
+Amare,1360,46,"Games are fun, but I prefer walking on some days ",49,2
+Andrew,1403,43,"Yeah walks are very nice. Wish I did that more. How often do you go for walks? ",79,2
+Amare,1450,47,"At least four times a week, unless it&#039;s cold out ",54,2
+Andrew,1499,49,"Oh nice! Where do you live? It must often have a good weather. Can&#039;t say the same about Canada. ",101,2
+Amare,1557,58,"United States, we have some good weather at times  ",51,2
+Andrew,1620,63,"Oh right. You&#039;re lucky then. It gets really cold during Winter in Canada where I live, and winter lasts for about 6 months here! ",134,2
+Amare,1698,78,"Yeah, I don&#039;t care much for winter, but I do like traveling, i actually haven&#039;t been anywhere in Canada before ",121,2
+Andrew,1748,50,"You should, it can be really nice, especially in autumn. I believe we are quite famous for that season. ",104,2
+Amare,1832,84,"I would bet, I live close to Canada actually, a good few hours drive from the great lakes ",90,2
+Andrew,1865,33,"Oh ok. I live in London in the Ontario. ",40,2
+Amare,1925,60,"Oh,  sounds nice, I live in Steubenville Ohio ",46,2
+Andrew,1972,47,"Oh right. That&#039;s not too far from where I live then. Not too sure where Steubenville is in Ohio though. ",109,2
+Amare,2038,66,"I&#039;d explain but I don&#039;t have a map nearby, it&#039;s nice here though ",80,2
+Andrew,2067,29,"No worries. What are you up to tonight? ",40,2
+Moderator,2127,60,"Time is up! ",12,
+Moderator,2141,14,"Which actor do you think you&#039;ve been talking to in the first conversation? ",80,
+Amare,2161,20,"Artificial intelligence ",24,
+Moderator,2167,6,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Amare,2177,10,"3 ",2,
+Moderator,2192,15,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2211,19,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,851,847,,,
+User Average,51,49.8,,,
+Actor Average,44.5555555555556,35.6,,,
+User Average (5min),34.6,30.4,,,
+Actor Average (5min),27,26.8,,,
+User CharLength,59.7777777777778,56.6,,,
+Actor CharLength,93,73.9,,,
+User CharLength (5min),45.4,35.6,,,
+Actor CharLength (5min),70.4,62.4,,,

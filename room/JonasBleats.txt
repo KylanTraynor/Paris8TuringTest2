@@ -1,0 +1,75 @@
+<span id="time-span">04:58:32</span><span id="name-span">Moderator</span>Hello JonasBleats! 
+<span id="time-span">04:58:41</span><span id="name-span">Moderator</span>Thank you for participating in this study! 
+<span id="time-span">04:58:58</span><span id="name-span">JonasBleats</span>No problem! 
+<span id="time-span">04:59:05</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">04:59:14</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">04:59:34</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">04:59:54</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">05:00:05</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">05:00:14</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">05:00:33</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">05:00:42</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">05:00:49</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">05:00:57</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">05:01:07</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">05:01:16</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">05:01:24</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">05:01:32</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">05:01:39</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">05:01:47</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">05:02:09</span><span id="name-span">JonasBleats</span>When I say stop, it needs to be in the brackets, correct? 
+<span id="time-span">05:02:38</span><span id="name-span">Moderator</span>As long as it&#039;s explicit enough it&#039;s good. 
+<span id="time-span">05:02:46</span><span id="name-span">JonasBleats</span>Okay, then I&#039;m good. 
+<span id="time-span">05:02:59</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">05:03:06</span><span id="name-span">JonasBleats</span>Yes. 
+<span id="time-span">05:03:14</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">05:03:24</span><span id="name-span">JonasBleats</span>Hey, how is it going? 
+<span id="time-span">05:03:39</span><span id="name-span">Andrew</span>I&#039;m doing alright! How about you? 
+<span id="time-span">05:04:05</span><span id="name-span">JonasBleats</span>I&#039;m doing fairly good, just relaxing before work tomorrow. Trying my best to take it easy. What are you up to? 
+<span id="time-span">05:05:07</span><span id="name-span">Andrew</span>Relaxing a bit before going to bed. Watching random youtube videos until I&#039;m too tired to keep watching them. 
+<span id="time-span">05:05:35</span><span id="name-span">JonasBleats</span>Oh neat, what video has your current attention? 
+<span id="time-span">05:06:20</span><span id="name-span">Andrew</span>Right now it&#039;s a minecraft youtuber. He&#039;s building a beautiful castle. 
+<span id="time-span">05:07:12</span><span id="name-span">JonasBleats</span>That&#039;s pretty cool. Why do you think it&#039;s beautiful, though? 
+<span id="time-span">05:07:49</span><span id="name-span">Andrew</span>It&#039;s very detailed and feels quite realistic. He&#039;s also using angles in an interesting way. 
+<span id="time-span">05:08:22</span><span id="name-span">JonasBleats</span>Huh, I guess I wouldn&#039;t ever think of something from Minecraft as being realistic. I&#039;ve never been a big fan of the game myself. 
+<span id="time-span">05:09:07</span><span id="name-span">Andrew</span>Well, he uses a modded version of it, so that might be why. I&#039;m a big fan of the game myself. 
+<span id="time-span">05:09:28</span><span id="name-span">JonasBleats</span>What is your favorite feature of the game? 
+<span id="time-span">05:10:09</span><span id="name-span">Andrew</span>Just the fact that you can do almost anything if you&#039;ve got some imagination. 
+<span id="time-span">05:11:04</span><span id="name-span">JonasBleats</span>Do you have magic in the game at all? 
+<span id="time-span">05:12:04</span><span id="name-span">Andrew</span>To some extent yes. But by default not a lot for your player. You might have to fight magical enemies though. 
+<span id="time-span">05:12:42</span><span id="name-span">JonasBleats</span>I prefer high fantasy games myself, I like shooting lightning bolts. 
+<span id="time-span">05:13:25</span><span id="name-span">Andrew</span>Well, it turns out you can modify the game enough to do just that. I play on a server which has spells as a part of its battle system. 
+<span id="time-span">05:14:42</span><span id="name-span">JonasBleats</span>That&#039;s pretty cool. My favorite game at the moment just happens to be the Witcher and Dark Souls. 
+<span id="time-span">05:15:23</span><span id="name-span">Andrew</span>I&#039;ve never played any of those, but I&#039;ve heard good things about both, and I&#039;ve also watched others play them. 
+<span id="time-span">05:16:05</span><span id="name-span">JonasBleats</span>Any reason you haven&#039;t tried them out? 
+<span id="time-span">05:17:13</span><span id="name-span">Andrew</span>Lack of interest for Dark Souls, and lack of funds for the Witcher. It annoys me how slow the dialogs are in Dark Souls for example. 
+<span id="time-span">05:18:15</span><span id="name-span">JonasBleats</span>Yeah, but there is less dialogue in Dark Souls than in the Witcher, and it&#039;s less essential to actually enjoying the game. 
+<span id="time-span">05:18:33</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">05:18:47</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">05:20:14</span><span id="name-span">JonasBleats</span>I think it was the AI. 
+<span id="time-span">05:20:45</span><span id="name-span">Moderator</span>Alright, we&#039;ll begin the next conversation. Andrew will start, then you&#039;ll have 15 minutes again after your answer. Are you ready? 
+<span id="time-span">05:20:51</span><span id="name-span">JonasBleats</span>Yes 
+<span id="time-span">05:20:57</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">05:21:08</span><span id="name-span">JonasBleats</span>Hey there! How is your night going? 
+<span id="time-span">05:21:44</span><span id="name-span">Andrew</span>What about yours? It&#039;s quite alright so far. 
+<span id="time-span">05:23:17</span><span id="name-span">JonasBleats</span>Mine has been kinda boring. Been playing Minecraft. 
+<span id="time-span">05:24:17</span><span id="name-span">Andrew</span>It&#039;s actually one of my favorite games! Oh that&#039;s a shame, what are you doing in it? 
+<span id="time-span">05:26:01</span><span id="name-span">JonasBleats</span>Trying to figure out what I need to build a portal. 
+<span id="time-span">05:26:45</span><span id="name-span">Andrew</span>Just obsidian and a flint and steel. 
+<span id="time-span">05:27:09</span><span id="name-span">JonasBleats</span>What is the flint and steel for? 
+<span id="time-span">05:27:46</span><span id="name-span">Andrew</span>You just click on the obsidian with it to activate the portal. 
+<span id="time-span">05:29:22</span><span id="name-span">JonasBleats</span>Got it. So what do you tend to do in Minecraft. 
+<span id="time-span">05:29:56</span><span id="name-span">Andrew</span>I&#039;m a rather good builder. I mostly just spend my time building. 
+<span id="time-span">05:30:52</span><span id="name-span">JonasBleats</span>Are there any other games you enjoy? 
+<span id="time-span">05:31:35</span><span id="name-span">Andrew</span>I also like Dragon Age, and I finished the last Mass Effect recently. Yeah. 
+<span id="time-span">05:32:35</span><span id="name-span">JonasBleats</span>What do you like about those games? 
+<span id="time-span">05:33:44</span><span id="name-span">Andrew</span>Do you like those too? How your choices matter, and mostly the stories. 
+<span id="time-span">05:34:27</span><span id="name-span">JonasBleats</span>I&#039;m not a huge fan of Mass Effect. Dragon Age is okay. I&#039;m more of a Dark Souls and Witcher player myself. 
+<span id="time-span">05:35:41</span><span id="name-span">Andrew</span>Witcher has a very good story for what I&#039;ve heard. Dark Souls isn&#039;t really my kind of game. I heard good things about both. 
+<span id="time-span">05:36:16</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">05:36:33</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">05:36:57</span><span id="name-span">JonasBleats</span>First conversation was an AI I think. 
+<span id="time-span">05:37:23</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain) how confident are you of your answer? 
+<span id="time-span">05:37:43</span><span id="name-span">JonasBleats</span>I&#039;d say a 4. 
+<span id="time-span">05:38:02</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">05:38:09</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now, otherwise, you can now close this window.  

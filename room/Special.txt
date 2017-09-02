@@ -1,0 +1,95 @@
+<span id="time-span">02:23:05</span><span id="name-span">Moderator</span>Welcome Special. 
+<span id="time-span">02:23:23</span><span id="name-span">Special</span>Hello? 
+<span id="time-span">02:23:27</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">02:23:37</span><span id="name-span">Special</span>Of course! 
+<span id="time-span">02:23:47</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">02:23:54</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">02:24:12</span><span id="name-span">Special</span>Sounds good 
+<span id="time-span">02:24:16</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">02:24:23</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">02:24:29</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">02:24:44</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">02:24:52</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">02:24:52</span><span id="name-span">Special</span>Ok 
+<span id="time-span">02:25:02</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">02:25:10</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">02:25:20</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">02:25:30</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">02:25:38</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">02:25:48</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">02:25:58</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">02:26:06</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">02:26:14</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">02:26:25</span><span id="name-span">Special</span>Yes 
+<span id="time-span">02:26:49</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. 
+<span id="time-span">02:26:55</span><span id="name-span">Moderator</span>Are you ready? 
+<span id="time-span">02:27:00</span><span id="name-span">Special</span>Yeah sure 
+<span id="time-span">02:27:15</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:27:21</span><span id="name-span">Special</span>Hi there 
+<span id="time-span">02:27:29</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:27:55</span><span id="name-span">Special</span>I&#039;m pretty tired actually, but nothing new. How about you? 
+<span id="time-span">02:28:07</span><span id="name-span">Andrew</span>Pretty much the same. 
+<span id="time-span">02:28:18</span><span id="name-span">Special</span>Long day? 
+<span id="time-span">02:28:33</span><span id="name-span">Andrew</span>Yeah actually. 
+<span id="time-span">02:28:52</span><span id="name-span">Special</span>Mind if I ask what made it a long day for you? 
+<span id="time-span">02:29:06</span><span id="name-span">Andrew</span>Had a lot of work to do. 
+<span id="time-span">02:29:56</span><span id="name-span">Special</span>I get that 
+<span id="time-span">02:30:17</span><span id="name-span">Andrew</span>What are you up to tonight? 
+<span id="time-span">02:31:33</span><span id="name-span">Special</span>Nothing special, I plan on just staying in tonight  
+<span id="time-span">02:31:47</span><span id="name-span">Andrew</span>Relaxing? 
+<span id="time-span">02:31:59</span><span id="name-span">Special</span>Exactly  
+<span id="time-span">02:32:08</span><span id="name-span">Andrew</span>I should probably do that too. 
+<span id="time-span">02:32:43</span><span id="name-span">Special</span>But you have to be part of this experiment 
+<span id="time-span">02:33:00</span><span id="name-span">Andrew</span>I&#039;ll wait for it to be done of course. 
+<span id="time-span">02:33:34</span><span id="name-span">Special</span>Well then I&#039;m that case, yeah you should relax afterwards 
+<span id="time-span">02:34:21</span><span id="name-span">Andrew</span>I definitely will. What do you like to do in general? 
+<span id="time-span">02:35:43</span><span id="name-span">Special</span>I like to hang out with my best friend 
+<span id="time-span">02:36:09</span><span id="name-span">Andrew</span>Sounds quite nice! 
+<span id="time-span">02:37:22</span><span id="name-span">Special</span>Yeah it can be, what do you like to do? 
+<span id="time-span">02:37:41</span><span id="name-span">Andrew</span>Playing video games mostly. 
+<span id="time-span">02:38:05</span><span id="name-span">Special</span>What is you favorite video game? 
+<span id="time-span">02:38:29</span><span id="name-span">Andrew</span>I&#039;d say Minecraft. 
+<span id="time-span">02:38:43</span><span id="name-span">Special</span>Why minecraft? 
+<span id="time-span">02:39:01</span><span id="name-span">Andrew</span>Mostly socializing. 
+<span id="time-span">02:39:38</span><span id="name-span">Special</span>So not so much the gameplay, more about the social aspects of the game, yeah? 
+<span id="time-span">02:40:18</span><span id="name-span">Andrew</span>Well, the gameplay isn&#039;t too bad either, but yes. 
+<span id="time-span">02:41:15</span><span id="name-span">Special</span>Interesting - do you play on any multiplayer servers? 
+<span id="time-span">02:41:44</span><span id="name-span">Andrew</span>Only private ones with friends. 
+<span id="time-span">02:42:25</span><span id="name-span">Special</span>You make me believe that you are human  to be quite honest with you 
+<span id="time-span">02:42:34</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:42:54</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">02:43:20</span><span id="name-span">Special</span>I think I was talking to the human actor 
+<span id="time-span">02:43:40</span><span id="name-span">Moderator</span>Alright, we&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">02:43:56</span><span id="name-span">Special</span>Yes 
+<span id="time-span">02:44:04</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">02:44:15</span><span id="name-span">Special</span>Hi there 
+<span id="time-span">02:44:25</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">02:45:05</span><span id="name-span">Special</span>I&#039;m alright - you? 
+<span id="time-span">02:45:22</span><span id="name-span">Andrew</span>I&#039;m alright too. A bit tired though. 
+<span id="time-span">02:45:47</span><span id="name-span">Special</span>Long day? 
+<span id="time-span">02:46:13</span><span id="name-span">Andrew</span>Yeah pretty much. A lot of work to do. 
+<span id="time-span">02:46:58</span><span id="name-span">Special</span>What do you do? If  you don&#039;t mind me asking
+<span id="time-span">02:47:24</span><span id="name-span">Andrew</span>I study biology. Neurosciences to be accurate. 
+<span id="time-span">02:48:21</span><span id="name-span">Special</span>Reading that made me feel tired, I can understand why you feel the way you do 
+<span id="time-span">02:48:55</span><span id="name-span">Andrew</span>Exactly! It&#039;s interesting though. Just... a lot to do. 
+<span id="time-span">02:50:24</span><span id="name-span">Special</span>What is your &quot;dream job&quot; given what you are currently studying  
+<span id="time-span">02:51:45</span><span id="name-span">Andrew</span>I&#039;d want to do research. To understand how we think and how neurons work, basically. Maybe someday become professor. 
+<span id="time-span">02:53:11</span><span id="name-span">Special</span>That&#039;s daunting 
+<span id="time-span">02:53:22</span><span id="name-span">Andrew</span>What about you? What do you do? 
+<span id="time-span">02:53:59</span><span id="name-span">Special</span>I&#039;m just trying to graduate high school right now, then I can worry about my college studies 
+<span id="time-span">02:54:24</span><span id="name-span">Andrew</span>What do you want to do in college? 
+<span id="time-span">02:55:05</span><span id="name-span">Special</span>I have no clue really. I have time to sort all that out during the summer though 
+<span id="time-span">02:55:30</span><span id="name-span">Andrew</span>Nothing specific you&#039;re interested in? Even in general? 
+<span id="time-span">02:56:49</span><span id="name-span">Special</span>Do you understand how daunting it truly is to ask an 18 year old to decide what they want to do for the rest of their lives? 
+<span id="time-span">02:57:23</span><span id="name-span">Andrew</span>Maybe because you don&#039;t think about it the right way. What do you want to do now? 
+<span id="time-span">02:59:08</span><span id="name-span">Special</span>I&#039;ve been considering becoming a firefighter honestly, it just seems like something I would do 
+<span id="time-span">02:59:17</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">02:59:35</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">02:59:51</span><span id="name-span">Special</span>The AI  
+<span id="time-span">03:00:28</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">03:00:54</span><span id="name-span">Special</span>For the first conversation? I&#039;m at about 6.5 there 
+<span id="time-span">03:01:40</span><span id="name-span">Moderator</span>I&#039;m sorry I can only give whole numbers. Which one should it be, 6 or 7? 
+<span id="time-span">03:01:53</span><span id="name-span">Special</span>Go with 7 
+<span id="time-span">03:02:16</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">03:02:34</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now, otherwise you can now close this window. 
+<span id="time-span">03:02:35</span><span id="name-span">Special</span>Ok 

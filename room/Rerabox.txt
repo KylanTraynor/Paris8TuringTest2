@@ -1,0 +1,56 @@
+<span id="time-span">17:46:57</span><span id="name-span">Moderator</span>Hello Rerabox 
+<span id="time-span">17:47:07</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">17:47:27</span><span id="name-span">Moderator</span>Are you able to read this? 
+<span id="time-span">17:48:35</span><span id="name-span">Rerabox</span>Yeah sorry, had to disable an addon for Chrome, it mae me unable to type 
+<span id="time-span">17:48:48</span><span id="name-span">Moderator</span>Alright no problem. 
+<span id="time-span">17:48:54</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">17:49:03</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">17:49:13</span><span id="name-span">Rerabox</span>Alright 
+<span id="time-span">17:49:15</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">17:49:22</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">17:49:34</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">17:49:41</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">17:49:49</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">17:49:55</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">17:50:02</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">17:50:07</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">17:50:14</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">17:50:22</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">17:50:29</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">17:50:36</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">17:50:44</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">17:50:49</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">17:50:53</span><span id="name-span">Rerabox</span>Yes 
+<span id="time-span">17:50:57</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">17:51:03</span><span id="name-span">Rerabox</span>Yes I am 
+<span id="time-span">17:51:17</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">17:51:27</span><span id="name-span">Rerabox</span>Hey there! 
+<span id="time-span">17:51:35</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">17:51:55</span><span id="name-span">Rerabox</span>I am doing well, you? 
+<span id="time-span">17:52:10</span><span id="name-span">Andrew</span>I&#039;m doing quite alright. What are you up to? 
+<span id="time-span">17:52:50</span><span id="name-span">Rerabox</span>Meh, not much, talking to you, for one. Other than that, kinda relaxing, watching Youtube. 
+<span id="time-span">17:53:08</span><span id="name-span">Andrew</span>Just random videos? I do that a lot. 
+<span id="time-span">17:54:01</span><span id="name-span">Rerabox</span>Yeah, what kind of videos do you watch, what Youtubers? 
+<span id="time-span">17:55:23</span><span id="name-span">Andrew</span>I watch many things, not particularly from specific youtubers. A lot of minecraft videos, game reviews or let&#039;s plays, science things and politics. What about you? 
+<span id="time-span">17:56:14</span><span id="name-span">Rerabox</span>Meh, I don&#039;t know, I kinda watch whatever floats my boat. Some days I watch Gaming, other days I watch Top 10 videos. 
+<span id="time-span">17:56:56</span><span id="name-span">Andrew</span>Right. Do you play video games? Or do you just like watching others play? 
+<span id="time-span">17:57:43</span><span id="name-span">Rerabox</span>I do a bit of both. 
+<span id="time-span">17:57:59</span><span id="name-span">Andrew</span>Any specific game you like a lot? 
+<span id="time-span">17:58:34</span><span id="name-span">Rerabox</span>Well, Payday 2 has been a hit, but I wish I had a job to get money so I can buy more games. Do you have a job? 
+<span id="time-span">17:59:12</span><span id="name-span">Andrew</span>I don&#039;t at the moment. I just finished the school year and I&#039;m hoping to get a summer job. 
+<span id="time-span">17:59:26</span><span id="name-span">Rerabox</span>Any specific Summer Job you are looking for? 
+<span id="time-span">18:00:37</span><span id="name-span">Andrew</span>Not really no. Anything that gives me a decent pay. I worked at a KFC during the year though and wouldn&#039;t mind continuing something like that. 
+<span id="time-span">18:01:40</span><span id="name-span">Rerabox</span>Hmmm good, now what exactly is your favorite place to eat. Personally, McDonalds is banging, I always get like 2 Large Fries and a 3 Piece Chicken Select meal. 
+<span id="time-span">18:02:38</span><span id="name-span">Andrew</span>McDonalds kinda sucks where I live, I tend to prefer KFC or Wendy&#039;s. 
+<span id="time-span">18:06:38</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:06:55</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">18:29:13</span><span id="name-span">Rerabox</span>I believe it was the AI 
+<span id="time-span">18:29:38</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready?  
+<span id="time-span">18:30:07</span><span id="name-span">Rerabox</span>Yes 
+<span id="time-span">18:30:12</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:30:49</span><span id="name-span">Rerabox</span>Hey dude! 
+<span id="time-span">18:30:58</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:31:20</span><span id="name-span">Rerabox</span>Pretty well, how about you? 
+<span id="time-span">18:31:38</span><span id="name-span">Andrew</span>I&#039;m doing quite alright thanks! What are you up to? 
+<span id="time-span">18:32:04</span><span id="name-span">Rerabox</span>Eh, just relaxing, playing on my 3DS, what are you doing? 
+<span id="time-span">18:32:39</span><span id="name-span">Andrew</span>Not much really. Listening to some music. Which game are you playing? 

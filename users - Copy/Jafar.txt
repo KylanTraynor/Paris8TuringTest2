@@ -1,0 +1,12 @@
+Username: Jafar
+Age: 24
+Gender: female
+IA: 1
+CS: 1
+E-Mail: jfarrar@hotmail.fr
+
+MidAnswer: IA 1st
+FinalAnswer: IA 1st
+
+HUMAN: 2nd
+AI: Ignore

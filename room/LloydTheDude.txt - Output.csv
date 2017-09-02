@@ -1,0 +1,101 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome LloydTheDude ",21,
+Moderator,30,30,"Thank you for participating in this study. ",43,
+LloydTheDude,31,1,"Hello! ",7,
+LloydTheDude,35,4,"You&#039;re welcome ",20,
+Moderator,41,6,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,47,6,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,53,6,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,59,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,67,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,73,6,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,81,8,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,88,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,94,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,104,10,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,110,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,118,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,126,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,133,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,140,7,"Do not type more than one post per answer. ",43,
+Moderator,147,7,"Do you understand the rules and what you have to do? ",53,
+LloydTheDude,152,5,"Yes I do. ",10,
+Moderator,158,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+LloydTheDude,163,5,"Yes! ",5,
+Andrew,174,11,"Hello! ",7,
+LloydTheDude,185,11,"Hi there! Are you Andrew? ",26,1
+Andrew,199,14,"Well yes! How are you doing? ",29,1
+LloydTheDude,214,15,"I&#039;m doing quite well, thank you for asking. How about yourself? ",69,1
+Andrew,228,14,"I&#039;m doing quite alright thanks! What are you up to? ",57,1
+LloydTheDude,252,24,"I was just playing some Overwatch on my PS4. Now I&#039;m thinking about a movie. Doing anything exciting yourself today? ",122,1
+Andrew,295,43,"Kind of. I&#039;ve been playing a bit of Minecraft. I&#039;ve never touched Overwatch yet, is it on PC? ",104,1
+LloydTheDude,314,19,"It is, but I don&#039;t have a PC. Do you play anything else? ",62,1
+Andrew,347,33,"I mostly just play Minecraft, but lately I&#039;ve been very much into Mass Effect too. ",88,1
+LloydTheDude,358,11,"Andromeda? I heard it got some bad reviews. ",44,1
+Andrew,392,34,"It definitely did. It&#039;s still a pretty good game in my opinion. They just need to fix all the glitches and various weirdness. ",131,1
+LloydTheDude,412,20,"I&#039;m going to wait til next year before I buy it; give them ample chance to fix it. ",88,1
+Andrew,431,19,"That&#039;s probably a very good idea yeah. ",44,1
+LloydTheDude,449,18,"So what else do you do for fun, Andrew? ",40,1
+Andrew,468,19,"I mostly just play games honestly. What about you? ",51,1
+LloydTheDude,506,38,"The same frankly. I watch some TV too, mostly science-fiction. ",63,1
+Andrew,552,46,"Oh yeah. I do that too. I don&#039;t know of many good Sci-Fi TV shows though. ",79,1
+LloydTheDude,576,24,"What do you watch? ",19,1
+Andrew,617,41,"Game of Thrones and shows like that. I&#039;m eagerly waiting for the next season. ",83,1
+LloydTheDude,637,20,"What are your predictions for what will happen? ",48,1
+Andrew,662,25,"In what way? ",13,1
+LloydTheDude,685,23,"Well with the characters, do you predict any big fights or drama between anyone? ",81,1
+Andrew,714,29,"I&#039;m sure there will definitely be some fighting going on yeah. ",68,1
+LloydTheDude,754,40,"Do you think Cersei will survive the season? ",45,1
+Andrew,823,69,"I&#039;m not sure. I could see her die very early in the new season, or in the 9th episode. I don&#039;t think she&#039;ll be in the final season though, and if she is, not for long. ",183,1
+LloydTheDude,838,15,"Who do you think will kill her? ",32,1
+Andrew,872,34,"I&#039;m not really sure to be honest. ",39,1
+LloydTheDude,898,26,"I think I&#039;ve got enough from this Andrew. ",47,1
+Moderator,909,11,"Conversation interrupted! ",26,
+Moderator,919,10,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+LloydTheDude,926,7,"I think that was the AI. ",25,
+Moderator,934,8,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+LloydTheDude,939,5,"Yes ",4,
+Andrew,945,6,"Hello! ",7,
+LloydTheDude,954,9,"Hi Andrew, how&#039;s it going buddy? ",38,2
+Andrew,965,11,"It&#039;s going alright! What about you? ",41,2
+LloydTheDude,983,18,"Not too bad, thank you. Been doing anything cool today? ",56,2
+Andrew,1003,20,"Not a whole lot. Mostly playing games actually. You? ",53,2
+LloydTheDude,1015,12,"Much of the same. Playing anything good? ",41,2
+Andrew,1039,24,"Mostly Minecraft actually. Although I&#039;ve been very much into Mass Effect lately. ",86,2
+LloydTheDude,1051,12,"How are you finding Mass Effect? ",33,2
+Andrew,1099,48,"Andromeda? It&#039;s quite good honestly. I&#039;ve spent so much time on it. The glitches and lack of good facial animations are really annoying though. But they are trying to fix that. ",187,2
+LloydTheDude,1123,24,"I heard as much, gonna be a while before I buy it though. Do much else when you&#039;re not playing games? ",107,2
+Andrew,1166,43,"Other than that I&#039;m mostly working on college stuff. ",58,2
+LloydTheDude,1178,12,"What are you studying for? ",27,2
+Andrew,1207,29,"I&#039;m an undergrad. I study Biology. Are you in college too? ",64,2
+LloydTheDude,1222,15,"I was, but that was a couple of years ago now. I was studying Linguistics.  ",76,2
+Andrew,1257,35,"That is pretty cool actually. What do you do now? ",50,2
+LloydTheDude,1279,22,"I work in a call centre; I help business clients manage their energy and utility consumption. ",94,2
+Andrew,1304,25,"That is quite different. ",25,2
+LloydTheDude,1320,16,"Yeah, not many jobs in a lot of graduate fields these days. ",60,2
+Andrew,1354,34,"Yeah that&#039;s quite a shame. In which country do you live? ",62,2
+LloydTheDude,1381,27,"I&#039;m from England. Can&#039;t say I&#039;m proud of that but it is what it is. ",83,2
+Andrew,1397,16,"Why wouldn&#039;t you be proud of it? ",38,2
+LloydTheDude,1410,13,"It&#039;s a country of morons and narcissists and closet racists.  ",67,2
+Andrew,1447,37,"Well, I&#039;m sure the French would agree, but I&#039;m sure not everyone is like that. I mean, you&#039;re not so... ",119,2
+LloydTheDude,1462,15,"I think I&#039;ve got enough from this Andrew. ",47,2
+Moderator,1473,11,"Conversation interrupted! ",26,
+Moderator,1483,10,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+LloydTheDude,1493,10,"I&#039;m sure the first conversation was the AI. ",49,
+Moderator,1499,6,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+LloydTheDude,1510,11,"6 ",2,
+Moderator,1514,4,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+LloydTheDude,1523,9,"No problem. Thank you. ",23,
+Moderator,1532,9,"If you have any comments you&#039;d like to share, feel free to do it now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,713,508,,,
+User Average,21.7142857142857,16.25,,,
+Actor Average,32.3076923076923,29.2727272727273,,,
+User Average (5min),16.8571428571429,14.5714285714286,,,
+Actor Average (5min),25.1428571428571,29.1666666666667,,,
+User CharLength,56.1428571428571,60.75,,,
+Actor CharLength,74.5384615384615,71.1818181818182,,,
+User CharLength (5min),64.4285714285714,54,,,
+Actor CharLength (5min),72,81.5,,,

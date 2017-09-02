@@ -1,0 +1,82 @@
+<span id="time-span">13:22:53</span><span id="name-span">Moderator</span>Welcome Kiya_Drakon 
+<span id="time-span">13:23:06</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">13:23:27</span><span id="name-span">Moderator</span>If you can see this, please say &quot;Yes&quot; 
+<span id="time-span">13:23:37</span><span id="name-span">Kiya_Drakon</span>Yes 
+<span id="time-span">13:23:48</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">13:23:56</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">13:24:03</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">13:24:12</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">13:24:19</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">13:24:25</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">13:24:40</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">13:24:46</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">13:24:54</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">13:24:58</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">13:25:04</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">13:25:12</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">13:25:18</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">13:25:24</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">13:25:32</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">13:25:38</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">13:25:56</span><span id="name-span">Kiya_Drakon</span>Yes. 
+<span id="time-span">13:26:12</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">13:26:29</span><span id="name-span">Kiya_Drakon</span>Yes, I&#039;m ready. 
+<span id="time-span">13:26:35</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">13:26:47</span><span id="name-span">Kiya_Drakon</span>Hi there. 
+<span id="time-span">13:26:54</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">13:27:08</span><span id="name-span">Kiya_Drakon</span>I&#039;m doing good, how are you? 
+<span id="time-span">13:27:21</span><span id="name-span">Andrew</span>I&#039;m doing quite alright! What are you up to? 
+<span id="time-span">13:27:54</span><span id="name-span">Kiya_Drakon</span>Not much, watching televisi on. What are you up too?
+<span id="time-span">13:28:20</span><span id="name-span">Andrew</span>I&#039;m just playing a bit of Minecraft. What are you watching? 
+<span id="time-span">13:29:07</span><span id="name-span">Kiya_Drakon</span>Minecraft is a fun game, I&#039;ve played it before and I&#039;m just watching Dragonheart. 
+<span id="time-span">13:29:43</span><span id="name-span">Andrew</span>Oh that&#039;s really cool, I loved that movie. Which one are you watching? 
+<span id="time-span">13:30:05</span><span id="name-span">Kiya_Drakon</span>The first one! 
+<span id="time-span">13:30:29</span><span id="name-span">Andrew</span>The good one then. Draco is quite awesome. 
+<span id="time-span">13:31:12</span><span id="name-span">Kiya_Drakon</span>He is, he and that movie are  reason I got into loving dragons and such.
+<span id="time-span">13:31:52</span><span id="name-span">Andrew</span>Understandable. I love dragons too actually. Especially the western kind with four legs and wings. 
+<span id="time-span">13:32:20</span><span id="name-span">Kiya_Drakon</span>Those are my favorite also! 
+<span id="time-span">13:32:33</span><span id="name-span">Andrew</span>What do you like about them? 
+<span id="time-span">13:33:42</span><span id="name-span">Kiya_Drakon</span>They are just so cool, being able to fly and breath fire... Or ice and etc. Also,  their different colors and looks are always unique.
+<span id="time-span">13:34:14</span><span id="name-span">Andrew</span>I like how they are usually very wise too. 
+<span id="time-span">13:34:56</span><span id="name-span">Kiya_Drakon</span>Oh yes, they are wise indeed. 
+<span id="time-span">13:35:24</span><span id="name-span">Andrew</span>Both wise and strong is a nice balance. Dragons are just that. 
+<span id="time-span">13:36:19</span><span id="name-span">Kiya_Drakon</span>No kidding, it&#039;s why it&#039;d be amazing  if they were around today.
+<span id="time-span">13:37:03</span><span id="name-span">Andrew</span>I&#039;m afraid we&#039;d end up killing them. We humans don&#039;t like not being on top of all the other species. 
+<span id="time-span">13:38:04</span><span id="name-span">Kiya_Drakon</span>Yeah... It&#039;s really sad and a shame we have to be that way. 
+<span id="time-span">13:38:35</span><span id="name-span">Andrew</span>Anyways, what are you up to today? 
+<span id="time-span">13:39:11</span><span id="name-span">Kiya_Drakon</span>Not a whole lot really, today&#039;s gonna be pretty slow. 
+<span id="time-span">13:39:50</span><span id="name-span">Andrew</span>Probably the same for me actually. You said you like Minecraft, what did you like to do in it? 
+<span id="time-span">13:41:26</span><span id="name-span">Kiya_Drakon</span>Well, it&#039;s just fun to mess around and build whatever, sometimes it&#039;s more fun just to try and survive the nights when the enemies come out. 
+<span id="time-span">13:41:51</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">13:42:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">13:42:55</span><span id="name-span">Kiya_Drakon</span>I think it was the human actor. 
+<span id="time-span">13:43:21</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes  Are you ready? 
+<span id="time-span">13:43:30</span><span id="name-span">Kiya_Drakon</span>Yes. 
+<span id="time-span">13:43:34</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">13:43:43</span><span id="name-span">Kiya_Drakon</span>Hi there! 
+<span id="time-span">13:43:48</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">13:44:04</span><span id="name-span">Kiya_Drakon</span>I&#039;m doing really good, how are you? 
+<span id="time-span">13:44:24</span><span id="name-span">Andrew</span>Nice! I&#039;m doing quite alright too. What are you up to? 
+<span id="time-span">13:45:14</span><span id="name-span">Kiya_Drakon</span>Just relaxing and watching a movie, what about you? 
+<span id="time-span">13:45:41</span><span id="name-span">Andrew</span>Playing Minecraft a little bit. I&#039;m not doing much at the moment. 
+<span id="time-span">13:46:28</span><span id="name-span">Kiya_Drakon</span>Yeah, same here really. Today is a pretty slow day for me from the looks of things. 
+<span id="time-span">13:47:18</span><span id="name-span">Andrew</span>Which movie are you watching? It&#039;s going to be a slow day to me too. 
+<span id="time-span">13:48:06</span><span id="name-span">Kiya_Drakon</span>Jurassic Park, the first one! Also, sorry to hear that, hope your day gets more exciting. 
+<span id="time-span">13:48:43</span><span id="name-span">Andrew</span>Oh a classic! That&#039;s really cool, I liked this movie a lot. 
+<span id="time-span">13:49:36</span><span id="name-span">Kiya_Drakon</span>Yeah, dinosaurs are always cool! Especially the raptors in those movies. 
+<span id="time-span">13:50:17</span><span id="name-span">Andrew</span>I quite like the T-rex myself. 
+<span id="time-span">13:50:58</span><span id="name-span">Kiya_Drakon</span>O h yes, the T-rex is a favorite for MANY people, heh.
+<span id="time-span">13:51:50</span><span id="name-span">Andrew</span>I quite liked the latest one too. Did you? 
+<span id="time-span">13:52:56</span><span id="name-span">Kiya_Drakon</span>Very much so! Always a fan of Chris Pratt and the ending of it was epic  too.
+<span id="time-span">13:53:59</span><span id="name-span">Andrew</span>What will you be doing today? Do you have any plans? And of course yeah, Chris Pratt is awesome. 
+<span id="time-span">13:54:50</span><span id="name-span">Kiya_Drakon</span>Not really, likely just play games and such. 
+<span id="time-span">13:55:07</span><span id="name-span">Andrew</span>Which games do you like? 
+<span id="time-span">13:56:21</span><span id="name-span">Kiya_Drakon</span>I like alot of games... Rracing, FPS, adventure games and such. Been playing alot  of Skyrim lately.
+<span id="time-span">13:56:38</span><span id="name-span">Kiya_Drakon</span>Racing, sorry for the typo. 
+<span id="time-span">13:57:38</span><span id="name-span">Andrew</span>It was quite nice, I played Skyrim a while ago. I&#039;ve never really been much of a fan though. 
+<span id="time-span">13:58:24</span><span id="name-span">Kiya_Drakon</span>Aah alright, it&#039;s not for everyone I know. What is your favorite game? 
+<span id="time-span">13:58:49</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">13:59:04</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation?  
+<span id="time-span">14:00:00</span><span id="name-span">Kiya_Drakon</span>Artificial Intelligence 
+<span id="time-span">14:00:11</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">14:00:30</span><span id="name-span">Moderator</span>If you have any comments, feel free to share them now. Otherwise you can now close this window. 

@@ -1,0 +1,100 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Blue,0,0,"Hi ",3,
+Moderator,38,38,"Welcome Blue. ",14,
+Moderator,53,15,"Thank you for participating in this study. ",43,
+Blue,55,2,"Hi ",3,
+Blue,57,2,"h ",2,
+Moderator,71,14,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,83,12,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,90,7,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,96,6,"You&#039;ll be talking to him twice. ",37,
+Moderator,103,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,111,8,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,126,15,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,132,6,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,141,9,"You will not be talking twice with the same Actor. ",51,
+Moderator,147,6,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,153,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,158,5,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,166,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,172,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,177,5,"Do not type more than one post at a time. ",42,
+Moderator,184,7,"Do you understand the rules and what you have to do? ",53,
+Blue,201,17,"Yes ",4,
+Moderator,214,13,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Blue,250,36,"Yes ",4,
+Andrew,259,9,"Hello! ",7,
+Blue,262,3,"Hi ",3,1
+Andrew,267,5,"How are you doing? ",19,1
+Blue,278,11,"Good, you? ",11,1
+Andrew,290,12,"I&#039;m doing alright thanks! What are you up to? ",51,1
+Blue,301,11,"Im on f-list, heard of it? ",27,1
+Andrew,315,14,"Not really no. What is it? ",27,1
+Blue,358,43,"It&#039;s a roleplaying site ",29,1
+Andrew,373,15,"Oh nice! Like D&amp;D? ",23,1
+Blue,396,23,"Kinda yea ",10,1
+Blue,407,11,"But its for like kinky things ",30,1
+Moderator,419,12,"Please avoid Double Posts. ",27,1
+Blue,427,8,"Sorry ",6,1
+Andrew,440,13,"Oh ok. Kinky can be nice. ",26,1
+Blue,471,31,"You kinky in any way? ",22,1
+Andrew,487,16,"I&#039;m sure anyone is to some extent. ",40,1
+Blue,511,24,"You mind sharing? Ill share one of mine if you share one. ",58,1
+Andrew,526,15,"I&#039;d prefer not to. ",24,1
+Blue,551,25,"Aww hehe come on  ",18,1
+Andrew,574,23,"No thank you. What are you up to tonight? ",42,1
+Blue,585,11,"Nothing much really ",20,1
+Blue,630,45,"Stop ",5,1
+Andrew,630,0,"Do you play video games? ",25,1
+Moderator,637,7,"Conversation Interrupted. ",26,
+Moderator,651,14,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Blue,659,8,"Human. ",7,
+Moderator,688,29,"Alright. We&#039;ll start the next conversation. Andrew will begin, then you&#039;ll have 15 minutes after your answer. Are you ready? ",135,
+Blue,693,5,"Yes ",4,
+Andrew,701,8,"Hello! ",7,
+Blue,710,9,"Hi ",3,2
+Andrew,717,7,"How are you doing? ",19,2
+Blue,727,10,"I&#039;m good thanks, you? ",27,2
+Andrew,737,10,"I&#039;m doing alright. ",24,2
+Blue,748,11,"What are you doing? ",20,2
+Andrew,763,15,"Not much. Playing Minecraft. ",29,2
+Blue,776,13,"Thats cool. ",12,2
+Andrew,787,11,"You play it? ",13,2
+Blue,828,41,"Yea ",4,2
+Andrew,851,23,"Single player or online? ",25,2
+Blue,861,10,"Online ",7,2
+Andrew,880,19,"Nice! What kind of server? ",27,2
+Blue,901,21,"Roleplay ",9,2
+Andrew,914,13,"That&#039;s cool. ",18,2
+Blue,933,19,"Im on a website called f-list, heard of it? ",44,2
+Andrew,941,8,"Not really no. ",15,2
+Blue,1001,60,"Its a roleplaying fetish site ",30,2
+Andrew,1016,15,"Kinky! ",7,2
+Blue,1060,44,"You got any kinks? ",19,2
+Andrew,1080,20,"Yeah I guess. ",14,2
+Blue,1102,22,"Ill tell you one of mine if you tell me one of yours ",53,2
+Andrew,1115,13,"Nah thanks. ",12,2
+Blue,1179,64,"aww ",4,2
+Andrew,1211,32,"Sorry. ",7,2
+Blue,1230,19,"its ok ",7,2
+Andrew,1256,26,"What are you going to do this evening? ",39,2
+Blue,1262,6,"stop ",5,2
+Moderator,1272,10,"Conversation Interrupted! ",26,
+Moderator,1282,10,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Blue,1292,10,"AI ",3,
+Moderator,1300,8,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Blue,1329,29,"7 ",2,
+Moderator,1351,22,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,1380,29,"If you have any comments you&#039;d like to share, feel free to do it now. Otherwise, you can now close this window. ",117,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,368,552,,,
+User Average,20.5,24.9285714285714,,,
+Actor Average,12.5555555555556,16.3076923076923,,,
+User Average (5min),19,21.5555555555556,,,
+Actor Average (5min),12.8571428571429,13.25,,,
+User CharLength,19.9166666666667,17.4285714285714,,,
+Actor CharLength,30.7777777777778,19.1538461538462,,,
+User CharLength (5min),21.4,17.3333333333333,,,
+Actor CharLength (5min),30,21.25,,,

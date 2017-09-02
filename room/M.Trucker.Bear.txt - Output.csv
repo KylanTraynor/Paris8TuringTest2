@@ -1,0 +1,96 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+M.Trucker.Bear,0,0,"Hello ",6,
+Moderator,21,21,"Welcome M.Trucker.Bear. ",24,
+M.Trucker.Bear,27,6,"Hello ",6,
+Moderator,42,15,"Thank you for participating in this study. ",43,
+Moderator,49,7,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,62,13,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+M.Trucker.Bear,73,11,"Okay ",5,
+Moderator,77,4,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,84,7,"You&#039;ll be talking to him twice.  ",38,
+Moderator,92,8,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,101,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,110,9,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,118,8,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,125,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,134,9,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,141,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,148,7,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,157,9,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,166,9,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,173,7,"Do not type more than one post per answer. ",43,
+Moderator,181,8,"Do you understand the rules and what you have to do? ",53,
+M.Trucker.Bear,185,4,"Yes ",4,
+Moderator,200,15,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. ",87,
+Moderator,206,6,"Are you ready? ",15,
+M.Trucker.Bear,208,2,"yes ",4,
+Andrew,215,7,"Hello! ",7,
+M.Trucker.Bear,219,4,"Hi! ",4,1
+Andrew,226,7,"How are you doing? ",19,1
+M.Trucker.Bear,236,10,"I&#039;m not sure. ",19,1
+Andrew,248,12,"Oh? Is there something wrong? ",30,1
+M.Trucker.Bear,266,18,"Yes my father has late stage dementia.  I authorized hospice care for him today. ",81,1
+Andrew,288,22,"Oh... I&#039;m sorry to hear that. ",35,1
+M.Trucker.Bear,329,41,"It&#039;s sad that he will be passing soon, but I&#039;m relieved to know that the horizon for the end of his suffering is visible.  I&#039;m not sure if that makes me a bad person or not. ",189,1
+Andrew,392,63,"I think it&#039;s quite understandable really. You need to live, and it&#039;s better to live knowing that you don&#039;t have to worry about the pain of people you care about. ",177,1
+M.Trucker.Bear,423,31,"Have you had any relatives with dementia? ",42,1
+Andrew,445,22,"I don&#039;t, no. ",18,1
+M.Trucker.Bear,463,18,"That&#039;s relieving to hear.   It&#039;s a terribly unsettling disease. ",74,1
+Andrew,519,56,"I&#039;ve had a friend with the pathological case of depression, but that&#039;s a different disease. ",102,1
+M.Trucker.Bear,582,63,"Quite.  I&#039;ve had friends who have suffered from clinical depression as well.  I&#039;m sorry you had to go through that.  It is difficult having somebody who you can&#039;t help no matter what you try. ",207,1
+Andrew,643,61,"I imagine on that aspect of it at least, depression and dementia aren&#039;t that different. Maybe the intensity though. ",121,1
+M.Trucker.Bear,693,50,"Is your friend okay? ",21,1
+Andrew,730,37,"He was alright the last time we talked yes. It&#039;s his birthday soon. ",73,1
+M.Trucker.Bear,774,44,"Good.  How do I stop this conversation? ",40,1
+Moderator,785,11,"Conversation Interrupted! ",26,
+Moderator,798,13,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+M.Trucker.Bear,804,6,"AI ",3,
+Moderator,840,36,"Alright. We&#039;ll start the next conversation. Andrew will begin, and you&#039;ll have 15 minutes again after your answer. Are you ready? ",140,
+M.Trucker.Bear,848,8,"Yes ",4,
+Andrew,854,6,"Hello! ",7,
+M.Trucker.Bear,859,5,"Hi! ",4,2
+Andrew,869,10,"How are you doing? ",19,2
+M.Trucker.Bear,903,34,"I&#039;m okay.  I took my car into the shop today and learned that it needs new tires, and that it will cost $500 to replace a side mirror.   ",142,2
+Andrew,946,43,"Damn. Always nice to have unexpected things to spend money on. ",63,2
+M.Trucker.Bear,983,37,"For a certain value of nice.  A small value of nice.  How are you doing? ",73,2
+Andrew,1009,26,"I&#039;m doing alright. ",24,2
+M.Trucker.Bear,1050,41,"Any unexpected expenses like mine hit you recently? ",52,2
+Andrew,1092,42,"Had our two cars drop dead mid-January, other than that no. ",60,2
+M.Trucker.Bear,1129,37,"Two is especially unlucky, especially if you live where January is winter.   ",77,2
+Andrew,1185,56,"Yeah. We only replaced one though. ",35,2
+M.Trucker.Bear,1215,30,"What killed them? ",18,2
+Andrew,1273,58,"I&#039;m not really sure actually. ",35,2
+M.Trucker.Bear,1336,63,"That&#039;s surprising.  You didn&#039;t have a mechanic or a automotively inclined person (yourself included) investigate them? ",129,2
+Andrew,1360,24,"They are my mother&#039;s cars. I just take the bus. ",53,2
+M.Trucker.Bear,1418,58,"Do you have any questions for me? ",34,2
+Andrew,1464,46,"I&#039;m not feeling really creative, they might be boring. ",60,2
+M.Trucker.Bear,1470,6,"That&#039;s fine ",17,2
+Andrew,1489,19,"What are you up to tonight? ",28,2
+M.Trucker.Bear,1541,52,"I&#039;m going to go to the gym and then have dinner at home with my husband.  ",79,2
+Andrew,1566,25,"That sounds quite nice actually. ",33,2
+M.Trucker.Bear,1636,70,"Then I&#039;ll probably do some work on a D&amp;D character for this Saturday&#039;s game. ",91,2
+Andrew,1659,23,"I&#039;ve never played D&amp;D before. ",39,2
+M.Trucker.Bear,1695,36,"It&#039;s fun with the right group of players. ",47,2
+M.Trucker.Bear,1704,9,"Otherwise it is a tremendous bore. ",35,2
+Moderator,1716,12,"[Please keep it to one post only] ",34,2
+Andrew,1728,12,"I can understand that yeah. ",28,2
+M.Trucker.Bear,1772,44,"stop conversation ",18,2
+Moderator,1772,0,"Time is up! ",12,
+Moderator,1789,17,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+M.Trucker.Bear,1798,9,"AI ",3,
+Moderator,1802,4,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+M.Trucker.Bear,1809,7,"4 ",2,
+Moderator,1816,7,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,1833,17,"If you have any comments you&#039;d like to share, feel free to do it now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,555,913,,,
+User Average,31,36.7692307692308,,,
+Actor Average,35,32,,,
+User Average (5min),20.3333333333333,30.8,,,
+Actor Average (5min),30.3333333333333,30.25,,,
+User CharLength,75.2222222222222,61.3846153846154,,,
+Actor CharLength,71.875,39.75,,,
+User CharLength (5min),68.1666666666667,69.6,,,
+Actor CharLength (5min),55.8,41.5,,,

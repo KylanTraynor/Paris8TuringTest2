@@ -1,0 +1,6 @@
+Username: Kouta
+Age: 22
+Gender: male
+IA: 2
+CS: 5
+E-Mail: Vengard@live.co.uk

@@ -1,0 +1,97 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Midgardian! ",20,
+Moderator,21,21,"Thank you for participating in this study. ",43,
+Moderator,29,8,"Please say &quot;Yes&quot; if you can see this. ",48,
+Midgardian,64,35,"Yes ",4,
+Moderator,80,16,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,87,7,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,95,8,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,104,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,115,11,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,122,7,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,133,11,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,140,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,146,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,155,9,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,162,7,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,171,9,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,179,8,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,186,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,194,8,"Do not type more than one post per answer. ",43,
+Moderator,201,7,"Do you understand the rules and what you have to do? ",53,
+Midgardian,211,10,"Yes, I do. ",11,
+Moderator,217,6,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Midgardian,224,7,"Yes. ",5,
+Andrew,232,8,"Hello! ",7,
+Midgardian,238,6,"Hi! ",4,1
+Andrew,245,7,"How are you doing? ",19,1
+Midgardian,255,10,"Fine, you? ",11,1
+Andrew,278,23,"I&#039;m doing fine too thanks! What are you up to? ",52,1
+Midgardian,292,14,"Nothing really, just talking to you. ",37,1
+Andrew,320,28,"I hope I won&#039;t bore you too much then! ",44,1
+Midgardian,339,19,"No you won&#039;t, I think. ",28,1
+Andrew,376,37,"What do you like to do? I mean, playing games, reading books, things like that? ",80,1
+Midgardian,424,48,"I like reading books actually, thanks for asking, but I couldn&#039;t do that for a long time because of school. ",113,1
+Andrew,476,52,"Yeah I feel the same about books. I feel like I don&#039;t read enough, yet I never feel like I have enough time to start one. ",127,1
+Midgardian,550,74,"What was the last book you read? ",33,1
+Andrew,601,51,"It&#039;s a book about dragons. It&#039;s called... Dragons! Surprising isn&#039;t it? ",87,1
+Midgardian,641,40,"Yeah, shocking even.  ",22,1
+Andrew,680,39,"Anyways, what about you? ",25,1
+Midgardian,758,78,"Nothing exciting about me. Just being lazy at the moment. ",58,1
+Andrew,813,55,"Well, being lazy is good from time to time. ",44,1
+Midgardian,866,53,"Yes, I usually hated being lazy, but lately I concluded that we need it from time to time. ",91,1
+Andrew,913,47,"It&#039;s better than running everywhere and ending up so stressed you can&#039;t do anything about it. ",104,1
+Midgardian,1006,93,"Yes, definitely, because I didn&#039;t rested so much, I was feeling so stressed lately. That&#039;s not good. ",111,1
+Andrew,1040,34,"Why were you so stressed? ",26,1
+Midgardian,1062,22,"Because of the lectures and exams and writing thesis etc. ",58,1
+Andrew,1080,18,"Oh right, it&#039;s this period of the year isn&#039;t it? ",59,1
+Midgardian,1098,18,"Yes, sadly it is. ",18,1
+Andrew,1126,28,"It&#039;s always so annoying. ",30,1
+Moderator,1143,17,"Time is up! ",12,
+Moderator,1159,16,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Midgardian,1173,14,"Human ",6,
+Moderator,1190,17,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? ",138,
+Midgardian,1220,30,"Yes ",4,
+Andrew,1226,6,"Hello! ",7,
+Midgardian,1250,24,"Hi! ",4,2
+Andrew,1261,11,"How are you doing? ",19,2
+Midgardian,1273,12,"Fine, I guess. ",15,2
+Andrew,1298,25,"Doesn&#039;t sound like it. Is there something wrong? ",54,2
+Midgardian,1367,69,"Oh no, not really, just I&#039;m tired a bit. How are you doing by the way? ",76,2
+Andrew,1393,26,"Oh alright. Sorry about that. I&#039;m doing alright. A bit tired too actually. ",80,2
+Midgardian,1433,40,"Oh really, you should rest, if you try to hard, it gets more stressing eventually. ",83,2
+Andrew,1480,47,"Yeah I should. But for now I&#039;ve got to be here! What are you up to? ",73,2
+Midgardian,1563,83,"Nothing actually, just resting and letting the stress go away. Next week my exams start so these are my final free days. ",121,2
+Andrew,1618,55,"Oh right. It&#039;s that period of the year. I&#039;m sorry to hear that, but at least once they&#039;re done you&#039;ll be free again. ",137,2
+Midgardian,1662,44,"Yeah, I hope so. Otherwise, I could blow out out of stress.  ",61,2
+Andrew,1720,58,"Stress can help if it&#039;s only from time to time. But when it spreads over weeks or more, it really starts becoming dangerous. ",130,2
+Midgardian,1748,28,"Are you stressed too? ",22,2
+Andrew,1782,34,"Yeah I am. I&#039;ve got a couple of deadlines getting closer and closer every day. ",84,2
+Midgardian,1830,48,"So what&#039;s your part in this study, are you just helping or are you in the team? ",85,2
+Andrew,1870,40,"I&#039;m just helping yeah. I study Biology actually. ",54,2
+Midgardian,1919,49,"Really? My major is Biology too. ",33,2
+Andrew,1952,33,"Oh nice! Which part are you most specifically interested in? Neurology for me. ",79,2
+Midgardian,2007,55,"I&#039;m interested in neurology too, but I want to study in animal behaviour and cognition. ",93,2
+Andrew,2061,54,"Animal cognition? Or animal behaviour and cognition in general? ",64,2
+Midgardian,2090,29,"In general, but I&#039;m not sure how am I going to study them both or mix them&ccedil; ",88,2
+Andrew,2139,49,"That&#039;s a pretty awesome Major actually. I wish you luck and success! ",74,2
+Moderator,2159,20,"Time is up! ",12,
+Moderator,2175,16,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Midgardian,2232,57,"Human ",6,
+Moderator,2244,12,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Midgardian,2290,46,"6 ",2,
+Moderator,2325,35,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Midgardian,2335,10,"Thanks. ",8,
+Moderator,2342,7,"If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. ",116,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,888,889,,,
+User Average,39.5833333333333,43.7272727272727,,,
+Actor Average,34.9166666666667,39.2727272727273,,,
+User Average (5min),19.4,36.25,,,
+Actor Average (5min),29.4,27.25,,,
+User CharLength,48.6666666666667,61.9090909090909,,,
+Actor CharLength,58.0833333333333,77.0909090909091,,,
+User CharLength (5min),38.6,44.5,,,
+Actor CharLength (5min),64.4,56.5,,,

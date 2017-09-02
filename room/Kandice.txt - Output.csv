@@ -1,0 +1,132 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Hello Kandice. ",15,
+Kandice,1,1,"Hello? ",7,
+Moderator,5,4,"Thank you for participating in this study. ",43,
+Kandice,12,7,"No problem! ",12,
+Moderator,22,10,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,29,7,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Kandice,30,1,"Okay! ",6,
+Moderator,49,19,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,58,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,64,6,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,70,6,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,77,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,82,5,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,89,7,"You will not be talking twice with the same Actor. ",51,
+Moderator,96,7,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,106,10,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,112,6,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,119,7,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,126,7,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,132,6,"Do not type more than one post per answer. ",43,
+Moderator,140,8,"Do you understand the rules and what you have to do? ",53,
+Kandice,146,6,"I do ",5,
+Moderator,151,5,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Kandice,160,9,"yup ",4,
+Andrew,167,7,"Hello! ",7,
+Kandice,174,7,"Hey there! How&#039;re you? ",28,1
+Andrew,183,9,"I&#039;m doing alright! How about you? ",39,1
+Kandice,195,12,"I&#039;m pretty well. Tired from a long work week.  ",52,1
+Andrew,231,36,"Oh yeah I know what you mean. What does your work consist in? ",62,1
+Kandice,251,20,"I don&#039;t understand. Are you not a native english speaker? ",63,1
+Andrew,276,25,"Well I&#039;m Canadian actually. Sorry I just mean what do you do for work? ",76,1
+Kandice,305,29,"I sell auto parts. You didn&#039;t answer my question, though.  ",64,1
+Andrew,337,32,"Yeah I&#039;m a native English speaker. I&#039;m just having a long day. ",73,1
+Kandice,376,39,"Okay. Not sure what being canadian has to do with whether or not you&#039;re a native english speaker, though.  ",112,1
+Andrew,408,32,"Well Canadians speak English. Not all of Canadians mind you. I see your point. ",79,1
+Kandice,433,25,"[stop] ",7,1
+Moderator,448,15,"Conversation interrupted. ",26,
+Moderator,458,10,"Which actor do you think you&#039;ve been talking to? ",54,
+Kandice,468,10,"The non-human. ",15,
+Moderator,477,9,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Kandice,486,9,"Yes ",4,
+Andrew,494,8,"Hello! ",7,
+Kandice,500,6,"Hey there. Whats good? ",23,2
+Andrew,524,24,"Plenty of stuff! How are you doing? ",36,2
+Kandice,538,14,"I&#039;m alright, just tired after a long work week.  ",54,2
+Andrew,578,40,"Mind if I ask what you do? Yeah I know what you mean. ",54,2
+Kandice,610,32,"I sell auto parts at a Big 3 Dealership. ",41,2
+Andrew,649,39,"I&#039;m a student myself. Oh that&#039;s cool! ",48,2
+Kandice,669,20,"What school? ",13,2
+Andrew,689,20,"University of Western Ontario. ",31,2
+Kandice,716,27,"So you&#039;re just a hip skip and a jump away from where I&#039;m at, other side of the river.  ",97,2
+Andrew,755,39,"Where are you? Oh? ",19,2
+Kandice,795,40,"I&#039;m in Detroit area. Hows the area been since they closed Ontario Assembly for the Chrysler Minivans? ",107,2
+Andrew,864,69,"At least not at University, nothing much changed really. ",57,2
+Kandice,884,20,"You&#039;re positive about that? ",33,2
+Andrew,905,21,"I guess yeah. ",14,2
+Kandice,937,32,"No big change when they closed it down in 2010? ",48,2
+Andrew,992,55,"Not that I noticed at least. ",29,2
+Kandice,1033,41,"Are you from Ontario? ",22,2
+Andrew,1059,26,"But to be honest I didn&#039;t know it had even closed so... yeah. ",67,2
+Kandice,1086,27,"You know which plant im talking about, right? ",46,2
+Andrew,1179,93,"I don&#039;t really follow politics, or car issues. Not really. ",64,2
+Kandice,1252,73,"I mean, its a huge building. Youve probably driven by it on 401 a bunch.  ",74,2
+Andrew,1288,36,"I might have. I never paid attention to it though. ",51,2
+Kandice,1325,37,"Okay. For the second time, are you from ontario? ",49,2
+Andrew,1354,29,"Yes I am. I&#039;ve lived in London since I was born. ",54,2
+Moderator,1408,54,"Time is up! ",12,
+Kandice,1420,12,"Thnak god ",10,
+Moderator,1427,7,"Which actor do you think you&#039;ve been talking to in the first conversation? ",80,
+Kandice,1454,27,"Hard to say. Neither one seems to have ever spoken english before. First one was a human.  ",91,
+Moderator,1469,15,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Kandice,1483,14,"four ",5,
+Moderator,1492,9,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,1497,5,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+Kandice,1526,29,"Yeah, so both of them have a very poor grasp on the English language.  ",71,
+Andrew,1539,13,"What makes you think so? ",25,
+Kandice,1540,1,"Very poor comprehension.  ",26,
+Kandice,1582,42,"They both either are not native speakers, or are incredibly rude.  ",67,
+Andrew,1620,38,"Do you have specific quotes? Or was it just in general? ",56,
+Kandice,1654,34,"AndrewOh yeah I know what you mean. What does your work consist in? KandiceI don&#039;t understand. Are you not a native english speaker? AndrewWell I&#039;m Canadian actually. Sorry I just mean what do you do ",210,
+Kandice,1689,35,"KandiceAre you from Ontario? AndrewBut to be honest I didn&#039;t know it had even closed so... yeah. KandiceYou know which plant im talking about, right? AndrewI don&#039;t really follow politics, or car issue",210,
+Moderator,1736,47,"I&#039;m not sure what makes it all seem rude, but your comment is noted. ",74,
+Kandice,1740,4,"Both avoided questions. I was very put off by this. Please tag this for people, like myself, who can be triggered by this.  ",124,
+Kandice,1806,66,"Do you not think that avoiding questions in a conversation is rude? ",68,
+Moderator,1847,41,"I&#039;d like to apologize in the name of this study if these sentences felt misplaced or hurtful, it certainly wasn&#039;t the intention behind them. ",151,
+Kandice,1853,6,"And not just stating that you don&#039;t feel comfortable answering them, but requiring me to ask a second time to get a concrete answer.  ",139,
+Moderator,1856,3,"And yes, it can be. ",20,
+Kandice,1873,17,"So what about them avoiding questions was not rude? ",52,
+Moderator,1912,39,"I think they might have believed that they were giving you more information that way, than just a binary yes no answer. ",120,
+Kandice,1994,82,"They&#039;re both terribly misinformed. I sincerely hope that the selection for actors is not at all a reflection of the university, because it sure seems that way.  ",166,
+Kandice,2081,87,"Will you be warning future volunteers of all of the possible triggers? I&#039;m curios as to why I did not get any trigger warnings.  ",134,
+Moderator,2106,25,"Conveying an accurate amount of information about Ontario wasn&#039;t quite the scope of this study, and such specific questions have never come up before. We were indeed not prepared enough on this topic.",205,
+Moderator,2168,62,"I deeply apologize for the emotional stress this caused you. In case you&#039;d like to know, you were right, the AI was indeed the second one. ",144,
+Kandice,2217,49,"You need to include all applicable trigger warnings. Others are not as robust as I am.  ",88,
+Kandice,2236,19,"How can I contact someone to insure that this happens? ",55,
+Moderator,2241,5,"What do you mean by that exactly, if you don&#039;t mind? ",58,
+Moderator,2257,16,"About the triggers I mean. ",27,
+Kandice,2274,17,"You don&#039;t know what trigger warnings are? ",47,
+Moderator,2331,57,"I don&#039;t know the specific term, but I might know what it means, I&#039;d just like to know exactly what you mean so that I don&#039;t guess wrong. ",152,
+Kandice,2361,30,"For instance, one of the trigger warnings that needs to be included is &quot;Male Name&quot; ",93,
+Kandice,2387,26,"Some people may be put off by the name andrew, or male names in general. An option needs to be given.  ",103,
+Kandice,2399,12,"Another is &quot;Question Avoidance&quot; ",42,
+Kandice,2447,48,"Also, speaking of question avoidance, I&#039;ll ask AGAIN, How can I contact someone to insure that this (trigger warning implementation)  happens? ",148,
+Moderator,2467,20,"You don&#039;t need to. You&#039;re doing that right now. ",58,
+Kandice,2511,44,"So if i take this survey again in a day, I&#039;ll receive extensive trigger warnings? ",87,
+Kandice,2523,12,"I&#039;m sorry, i misused the word survey.  ",44,
+Kandice,2535,12,"I hope you understand what I meant.  ",37,
+Moderator,2579,44,"No, this study can&#039;t be changed without introducing a bias, but it will be added in future studies. This is the first time a situation like this has happened in more than 120 people across two years. ",205,
+Kandice,2618,39,"You&#039;re not studying a wide enough demographic.  ",53,
+Kandice,2658,40,"When will i receive notification of implementation and my compensation? ",72,
+Moderator,2686,28,"I&#039;m sorry, what? ",22,
+Kandice,2709,23,"When will I be notified that you implemented trigger warnings? ",63,
+Kandice,2737,28,"When will I receive compensation for emotional distress? ",57,
+Moderator,2812,75,"As I said, we can&#039;t implement this in the current study. And for the compensation, the only thing I can offer is to pull out this conversation from this study, as well as your answers in the survey. ",204,
+Moderator,2843,31,"I mean form. ",13,
+Kandice,2890,47,"So you think that you can potentially terrorize people with no repercussions? I understand. Please send me an E-mail to the provided address when you do the next study, complete with trigger warnings.",200,
+Kandice,2927,37,"You need not say anything else. Goodbye.  ",42,
+Moderator,2965,38,"I do not think that. But Goodbye, and sorry again. ",51,
+Moderator,2976,11,"You can now close this window. ",31,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,259,854,,,
+User Average,22,30.75,,,
+Actor Average,26.8,40.9166666666667,,,
+User Average (5min),22,23.1666666666667,,,
+Actor Average (5min),26.8,32.4,,,
+User CharLength,54.3333333333333,50.5833333333333,,,
+Actor CharLength,65.8,43.6666666666667,,,
+User CharLength (5min),54.3333333333333,55.8333333333333,,,
+Actor CharLength (5min),65.8,37.6,,,

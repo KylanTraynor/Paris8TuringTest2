@@ -1,0 +1,76 @@
+<span id="time-span">17:52:35</span><span id="name-span">Moderator</span>Welcome Amare. 
+<span id="time-span">17:52:48</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">17:53:11</span><span id="name-span">Moderator</span>If you can see this, please type &quot;yes&quot;. 
+<span id="time-span">17:53:17</span><span id="name-span">Amare</span>Yes 
+<span id="time-span">17:53:29</span><span id="name-span">Moderator</span>Perfect. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">17:53:41</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">17:53:49</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">17:54:10</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">17:54:22</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">17:54:29</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">17:54:40</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">17:54:49</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">17:54:55</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">17:55:02</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">17:55:12</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">17:55:20</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">17:55:28</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">17:55:35</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">17:55:43</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">17:55:53</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">17:56:01</span><span id="name-span">Amare</span>Yes 
+<span id="time-span">17:56:14</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">17:56:29</span><span id="name-span">Amare</span>Yes I am ready 
+<span id="time-span">17:56:34</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">17:56:43</span><span id="name-span">Amare</span>Hello 
+<span id="time-span">17:56:48</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">17:57:02</span><span id="name-span">Amare</span>I am doing good, and you? 
+<span id="time-span">17:57:13</span><span id="name-span">Andrew</span>I&#039;m doing quite alright thanks! What are you up to? 
+<span id="time-span">17:57:46</span><span id="name-span">Amare</span>I&#039;m not up to much right now , you? 
+<span id="time-span">17:58:23</span><span id="name-span">Andrew</span>Pretty much the same actually. I might play some video games though. Do you like games? 
+<span id="time-span">17:59:28</span><span id="name-span">Amare</span>I do like games, i just prefer going for walks. What games do you like? 
+<span id="time-span">18:00:12</span><span id="name-span">Andrew</span>I often play Minecraft, but lately I&#039;ve been playing a lot of Mass Effect. Walks are very good too, I should do that more often. 
+<span id="time-span">18:01:04</span><span id="name-span">Amare</span>I don&#039;t know much about Minecraft or Mass Effect, I play call of duty though 
+<span id="time-span">18:01:42</span><span id="name-span">Andrew</span>I played Black Ops once in multiplayer with a friend. 
+<span id="time-span">18:02:32</span><span id="name-span">Amare</span>I haven&#039;t played multiplayer, I play solo more than anything 
+<span id="time-span">18:03:52</span><span id="name-span">Andrew</span>Alright. When you go out to walk, do you wander about randomly or do you have really planned walks? 
+<span id="time-span">18:04:53</span><span id="name-span">Amare</span>On most days I wander around randomly, though I like planed walks with friends an family 
+<span id="time-span">18:06:04</span><span id="name-span">Andrew</span>Do you live in a city or more in the country side? I sometimes do random walks, but it&#039;s not really relaxing in a city. 
+<span id="time-span">18:07:15</span><span id="name-span">Amare</span>I Live between a city and the country, I prefer to walk towards the country 
+<span id="time-span">18:08:49</span><span id="name-span">Andrew</span>Yeah that makes sense. I lived in the country for a little while. Where I am now there are some nice peaceful areas though, especially around the University. 
+<span id="time-span">18:10:33</span><span id="name-span">Amare</span>Yeah always nice to know of peaceful areas no mater where. Do you like to read? 
+<span id="time-span">18:10:54</span><span id="name-span">Andrew</span>I do yes. I don&#039;t think I do it enough though. I always feel like I don&#039;t have enough time. 
+<span id="time-span">18:11:45</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:11:52</span><span id="name-span">Amare</span>I understand that, I love reading, any chance I get I try but I usually wait till summer comes around 
+<span id="time-span">18:12:03</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">18:12:21</span><span id="name-span">Amare</span>Artificial intelligence 
+<span id="time-span">18:12:30</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">18:12:45</span><span id="name-span">Amare</span>I am ready 
+<span id="time-span">18:12:48</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">18:12:55</span><span id="name-span">Amare</span>Hello 
+<span id="time-span">18:13:00</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">18:13:17</span><span id="name-span">Amare</span>I&#039;m going good, and you? 
+<span id="time-span">18:13:28</span><span id="name-span">Andrew</span>I&#039;m quite alright thanks! What are you up to? 
+<span id="time-span">18:14:03</span><span id="name-span">Amare</span>Not much just relaxing currently, you? 
+<span id="time-span">18:14:29</span><span id="name-span">Andrew</span>Pretty much the same. Considering playing games or something. 
+<span id="time-span">18:15:15</span><span id="name-span">Amare</span>Games are fun, but I prefer walking on some days 
+<span id="time-span">18:15:58</span><span id="name-span">Andrew</span>Yeah walks are very nice. Wish I did that more. How often do you go for walks? 
+<span id="time-span">18:16:45</span><span id="name-span">Amare</span>At least four times a week, unless it&#039;s cold out 
+<span id="time-span">18:17:34</span><span id="name-span">Andrew</span>Oh nice! Where do you live? It must often have a good weather. Can&#039;t say the same about Canada. 
+<span id="time-span">18:18:32</span><span id="name-span">Amare</span>United States, we have some good weather at times  
+<span id="time-span">18:19:35</span><span id="name-span">Andrew</span>Oh right. You&#039;re lucky then. It gets really cold during Winter in Canada where I live, and winter lasts for about 6 months here! 
+<span id="time-span">18:20:53</span><span id="name-span">Amare</span>Yeah, I don&#039;t care much for winter, but I do like traveling, i actually haven&#039;t been anywhere in Canada before 
+<span id="time-span">18:21:43</span><span id="name-span">Andrew</span>You should, it can be really nice, especially in autumn. I believe we are quite famous for that season. 
+<span id="time-span">18:23:07</span><span id="name-span">Amare</span>I would bet, I live close to Canada actually, a good few hours drive from the great lakes 
+<span id="time-span">18:23:40</span><span id="name-span">Andrew</span>Oh ok. I live in London in the Ontario. 
+<span id="time-span">18:24:40</span><span id="name-span">Amare</span>Oh,  sounds nice, I live in Steubenville Ohio 
+<span id="time-span">18:25:27</span><span id="name-span">Andrew</span>Oh right. That&#039;s not too far from where I live then. Not too sure where Steubenville is in Ohio though. 
+<span id="time-span">18:26:33</span><span id="name-span">Amare</span>I&#039;d explain but I don&#039;t have a map nearby, it&#039;s nice here though 
+<span id="time-span">18:27:02</span><span id="name-span">Andrew</span>No worries. What are you up to tonight? 
+<span id="time-span">18:28:02</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">18:28:16</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the first conversation? 
+<span id="time-span">18:28:36</span><span id="name-span">Amare</span>Artificial intelligence 
+<span id="time-span">18:28:42</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">18:28:52</span><span id="name-span">Amare</span>3 
+<span id="time-span">18:29:07</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">18:29:26</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

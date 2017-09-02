@@ -1,0 +1,21 @@
+<span id="time-span">22:15:41</span><span id="name-span">Moderator</span>Welcome Fyrezi. 
+<span id="time-span">22:15:55</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">22:16:17</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">22:16:28</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">22:16:38</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">22:16:44</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">22:16:51</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">22:17:00</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">22:17:07</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">22:17:15</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">22:17:21</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">22:17:29</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">22:17:37</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">22:17:46</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">22:17:54</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">22:18:01</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">22:18:09</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">22:18:15</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">22:21:33</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">22:28:28</span><span id="name-span">Moderator</span>[Session Paused - Say RESUME to continue] 
+<span id="time-span">02:19:38</span><span id="name-span">Moderator</span>[Session Closed] 

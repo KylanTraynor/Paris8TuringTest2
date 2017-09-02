@@ -1,0 +1,95 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Kiya_Drakon ",20,
+Moderator,13,13,"Thank you for participating in this study. ",43,
+Moderator,34,21,"If you can see this, please say &quot;Yes&quot; ",48,
+Kiya_Drakon,44,10,"Yes ",4,
+Moderator,55,11,"In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",104,
+Moderator,63,8,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,70,7,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,79,9,"You&#039;ll be talking to him twice. ",37,
+Moderator,86,7,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,92,6,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,107,15,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,113,6,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,121,8,"You will not be talking twice with the same Actor. ",51,
+Moderator,125,4,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,131,6,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,139,8,"Whenever you have made your decision, you are able to stop the conversation. ",77,
+Moderator,145,6,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,151,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,159,8,"Do not type more than one post per answer. ",43,
+Moderator,165,6,"Do you understand the rules and what you have to do? ",53,
+Kiya_Drakon,183,18,"Yes. ",5,
+Moderator,199,16,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Kiya_Drakon,216,17,"Yes, I&#039;m ready. ",21,
+Andrew,222,6,"Hello! ",7,
+Kiya_Drakon,234,12,"Hi there. ",10,1
+Andrew,241,7,"How are you doing? ",19,1
+Kiya_Drakon,255,14,"I&#039;m doing good, how are you? ",34,1
+Andrew,268,13,"I&#039;m doing quite alright! What are you up to? ",50,1
+Kiya_Drakon,301,33,"Not much, watching televisi on. What are you up too?",52,1
+Andrew,327,26,"I&#039;m just playing a bit of Minecraft. What are you watching? ",65,1
+Kiya_Drakon,374,47,"Minecraft is a fun game, I&#039;ve played it before and I&#039;m just watching Dragonheart. ",92,1
+Andrew,410,36,"Oh that&#039;s really cool, I loved that movie. Which one are you watching? ",76,1
+Kiya_Drakon,432,22,"The first one! ",15,1
+Andrew,456,24,"The good one then. Draco is quite awesome. ",43,1
+Kiya_Drakon,499,43,"He is, he and that movie are  reason I got into loving dragons and such.",72,1
+Andrew,539,40,"Understandable. I love dragons too actually. Especially the western kind with four legs and wings. ",99,1
+Kiya_Drakon,567,28,"Those are my favorite also! ",28,1
+Andrew,580,13,"What do you like about them? ",29,1
+Kiya_Drakon,649,69,"They are just so cool, being able to fly and breath fire... Or ice and etc. Also,  their different colors and looks are always unique.",134,1
+Andrew,681,32,"I like how they are usually very wise too. ",43,1
+Kiya_Drakon,723,42,"Oh yes, they are wise indeed. ",30,1
+Andrew,751,28,"Both wise and strong is a nice balance. Dragons are just that. ",63,1
+Kiya_Drakon,806,55,"No kidding, it&#039;s why it&#039;d be amazing  if they were around today.",74,1
+Andrew,850,44,"I&#039;m afraid we&#039;d end up killing them. We humans don&#039;t like not being on top of all the other species. ",116,1
+Kiya_Drakon,911,61,"Yeah... It&#039;s really sad and a shame we have to be that way. ",65,1
+Andrew,942,31,"Anyways, what are you up to today? ",35,1
+Kiya_Drakon,978,36,"Not a whole lot really, today&#039;s gonna be pretty slow. ",59,1
+Andrew,1017,39,"Probably the same for me actually. You said you like Minecraft, what did you like to do in it? ",95,1
+Kiya_Drakon,1113,96,"Well, it&#039;s just fun to mess around and build whatever, sometimes it&#039;s more fun just to try and survive the nights when the enemies come out. ",151,1
+Moderator,1138,25,"Time is up! ",12,
+Moderator,1163,25,"Which actor do you think you&#039;ve been talking to (This is not your final answer) ",85,
+Kiya_Drakon,1202,39,"I think it was the human actor. ",32,
+Moderator,1228,26,"Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes  Are you ready? ",120,
+Kiya_Drakon,1237,9,"Yes. ",5,
+Andrew,1241,4,"Hello! ",7,
+Kiya_Drakon,1250,9,"Hi there! ",10,2
+Andrew,1255,5,"How are you doing? ",19,2
+Kiya_Drakon,1271,16,"I&#039;m doing really good, how are you? ",41,2
+Andrew,1291,20,"Nice! I&#039;m doing quite alright too. What are you up to? ",60,2
+Kiya_Drakon,1341,50,"Just relaxing and watching a movie, what about you? ",52,2
+Andrew,1368,27,"Playing Minecraft a little bit. I&#039;m not doing much at the moment. ",71,2
+Kiya_Drakon,1415,47,"Yeah, same here really. Today is a pretty slow day for me from the looks of things. ",84,2
+Andrew,1465,50,"Which movie are you watching? It&#039;s going to be a slow day to me too. ",74,2
+Kiya_Drakon,1513,48,"Jurassic Park, the first one! Also, sorry to hear that, hope your day gets more exciting. ",90,2
+Andrew,1550,37,"Oh a classic! That&#039;s really cool, I liked this movie a lot. ",65,2
+Kiya_Drakon,1603,53,"Yeah, dinosaurs are always cool! Especially the raptors in those movies. ",73,2
+Andrew,1644,41,"I quite like the T-rex myself. ",31,2
+Kiya_Drakon,1685,41,"O h yes, the T-rex is a favorite for MANY people, heh.",54,2
+Andrew,1737,52,"I quite liked the latest one too. Did you? ",43,2
+Kiya_Drakon,1803,66,"Very much so! Always a fan of Chris Pratt and the ending of it was epic  too.",77,2
+Andrew,1866,63,"What will you be doing today? Do you have any plans? And of course yeah, Chris Pratt is awesome. ",97,2
+Kiya_Drakon,1917,51,"Not really, likely just play games and such. ",45,2
+Andrew,1934,17,"Which games do you like? ",25,2
+Kiya_Drakon,2008,74,"I like alot of games... Rracing, FPS, adventure games and such. Been playing alot  of Skyrim lately.",100,2
+Kiya_Drakon,2025,17,"Racing, sorry for the typo. ",28,2
+Andrew,2085,60,"It was quite nice, I played Skyrim a while ago. I&#039;ve never really been much of a fan though. ",98,2
+Kiya_Drakon,2131,46,"Aah alright, it&#039;s not for everyone I know. What is your favorite game? ",76,2
+Moderator,2156,25,"Time is up! ",12,
+Moderator,2171,15,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Kiya_Drakon,2227,56,"Artificial Intelligence ",24,
+Moderator,2238,11,"Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",168,
+Moderator,2257,19,"If you have any comments, feel free to share them now. Otherwise you can now close this window. ",96,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,879,881,,,
+User Average,42.9230769230769,43.1666666666667,,,
+Actor Average,27.75,37.2,,,
+User Average (5min),28.5,34,,,
+Actor Average (5min),21.2,27.8,,,
+User CharLength,62.7692307692308,60.8333333333333,,,
+Actor CharLength,61.0833333333333,58.3,,,
+User CharLength (5min),45.8333333333333,55.4,,,
+Actor CharLength (5min),50.6,56,,,

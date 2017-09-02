@@ -1,0 +1,6 @@
+Username: ChaotixRocker
+Age: 24
+Gender: male
+IA: 6
+CS: 3
+E-Mail: microroamer@gmail.com

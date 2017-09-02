@@ -1,0 +1,77 @@
+<span id="time-span">15:46:50</span><span id="name-span">Moderator</span>Welcome Biggs. 
+<span id="time-span">15:46:54</span><span id="name-span">Biggs</span>Hi 
+<span id="time-span">15:46:55</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">15:47:02</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">15:47:07</span><span id="name-span">Biggs</span>No problemo 
+<span id="time-span">15:47:09</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">15:47:15</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">15:47:16</span><span id="name-span">Biggs</span>Ok 
+<span id="time-span">15:47:21</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">15:47:29</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">15:47:35</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">15:47:41</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">15:47:49</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">15:47:55</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">15:48:00</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">15:48:15</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">15:48:16</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation. 
+<span id="time-span">15:48:23</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">15:48:30</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">15:48:35</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">15:48:43</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">15:48:53</span><span id="name-span">Biggs</span>Yep 
+<span id="time-span">15:49:01</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">15:49:15</span><span id="name-span">Biggs</span>Yep 
+<span id="time-span">15:49:18</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">15:49:30</span><span id="name-span">Biggs</span>Hii 
+<span id="time-span">15:49:36</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">15:49:44</span><span id="name-span">Biggs</span>Tired but well! 
+<span id="time-span">15:49:57</span><span id="name-span">Andrew</span>Aw why is that? 
+<span id="time-span">15:50:21</span><span id="name-span">Biggs</span>Havent been up too long! Still wiping sleep from my eyes 
+<span id="time-span">15:50:39</span><span id="name-span">Andrew</span>Oh I see! Hopefully you had a good night though. 
+<span id="time-span">15:50:54</span><span id="name-span">Biggs</span>I did! And yourself? 
+<span id="time-span">15:51:21</span><span id="name-span">Andrew</span>I did actually yeah! Did you have any cool dreams? 
+<span id="time-span">15:52:07</span><span id="name-span">Biggs</span>Nah I rarely dream just black sleep. 
+<span id="time-span">15:52:41</span><span id="name-span">Andrew</span>Oh alright. I can&#039;t say I&#039;ve had any in a while actually. Or at least I don&#039;t remember them when I wake up. 
+<span id="time-span">15:52:59</span><span id="name-span">Biggs</span>Dont think many do!  
+<span id="time-span">15:53:28</span><span id="name-span">Andrew</span>I used to dream a lot actually for a while. I think it just happens more when you&#039;re relaxed. 
+<span id="time-span">15:53:43</span><span id="name-span">Biggs</span>Fair nuff 
+<span id="time-span">15:53:51</span><span id="name-span">Andrew</span>What are you up to? 
+<span id="time-span">15:54:14</span><span id="name-span">Biggs</span>Helping with this survey! 
+<span id="time-span">15:54:40</span><span id="name-span">Andrew</span>I meant the rest of the day. I&#039;m sure you won&#039;t be talking here forever! 
+<span id="time-span">15:55:04</span><span id="name-span">Biggs</span>Might play league of legends. You play? 
+<span id="time-span">15:55:20</span><span id="name-span">Andrew</span>Not that game no. I play Minecraft though. 
+<span id="time-span">15:55:54</span><span id="name-span">Biggs</span>Oh? Creative or survival? 
+<span id="time-span">15:56:05</span><span id="name-span">Andrew</span>A bit of both actually. It depends on my mood. 
+<span id="time-span">15:56:24</span><span id="name-span">Biggs</span>Ah 
+<span id="time-span">15:56:36</span><span id="name-span">Andrew</span>I take it you play it too? 
+<span id="time-span">15:56:57</span><span id="name-span">Biggs</span>Not much anymore. Just lost my zeal for it 
+<span id="time-span">15:57:18</span><span id="name-span">Biggs</span>Stop conversation. 
+<span id="time-span">15:57:29</span><span id="name-span">Moderator</span>Conversation Interrupted! 
+<span id="time-span">15:57:39</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to (This is not your final answer) 
+<span id="time-span">15:57:48</span><span id="name-span">Biggs</span>AI 
+<span id="time-span">15:57:55</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the next conversation. Andrew will begin and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">15:58:08</span><span id="name-span">Biggs</span>Yes 
+<span id="time-span">15:58:13</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">15:58:23</span><span id="name-span">Biggs</span>Hai! 
+<span id="time-span">15:58:31</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">15:58:40</span><span id="name-span">Biggs</span>Im alright yourself? 
+<span id="time-span">15:59:06</span><span id="name-span">Andrew</span>I&#039;m doing alright too. What are you up to today? 
+<span id="time-span">15:59:21</span><span id="name-span">Biggs</span>Not sure might play league later! 
+<span id="time-span">15:59:53</span><span id="name-span">Andrew</span>It sounds fun. I know a lot of people who do. 
+<span id="time-span">16:00:01</span><span id="name-span">Biggs</span>Cool! 
+<span id="time-span">16:00:28</span><span id="name-span">Andrew</span>I&#039;m probably just going to be playing Minecraft. Do you play that? 
+<span id="time-span">16:00:56</span><span id="name-span">Biggs</span>Used to, not anymore though 
+<span id="time-span">16:01:26</span><span id="name-span">Andrew</span>What made you quit? Alright. 
+<span id="time-span">16:02:02</span><span id="name-span">Biggs</span>Just lost its appeal 
+<span id="time-span">16:02:29</span><span id="name-span">Andrew</span>It can get quite boring if you play alone. Did you play on a server? 
+<span id="time-span">16:02:35</span><span id="name-span">Biggs</span>Nah 
+<span id="time-span">16:03:12</span><span id="name-span">Andrew</span>Alright. Anything else than League of Legend that you like to do? 
+<span id="time-span">16:03:16</span><span id="name-span">Biggs</span>Stop 
+<span id="time-span">16:03:26</span><span id="name-span">Moderator</span>Conversation interrupted 
+<span id="time-span">16:03:47</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the FIRST conversation?  
+<span id="time-span">16:04:06</span><span id="name-span">Biggs</span>Human 
+<span id="time-span">16:04:13</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">16:04:28</span><span id="name-span">Biggs</span>5 
+<span id="time-span">16:04:36</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given your e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">16:04:58</span><span id="name-span">Moderator</span>If you have some comments you&#039;d like to share, feel free to do so now. Otherwise you can now close this window. 

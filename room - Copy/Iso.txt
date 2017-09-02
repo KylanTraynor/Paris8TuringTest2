@@ -1,0 +1,68 @@
+<span id="time-span">04:51:46</span><span id="name-span">Moderator</span>Hello Iso 
+<span id="time-span">04:51:51</span><span id="name-span">Iso</span>Hello 
+<span id="time-span">04:52:02</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">04:52:11</span><span id="name-span">Iso</span>no problem 
+<span id="time-span">04:52:12</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the little &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">04:52:22</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">04:52:33</span><span id="name-span">Iso</span>Alright 
+<span id="time-span">04:52:37</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">04:52:47</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">04:53:01</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">04:53:10</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">04:53:25</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">04:53:38</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">04:53:49</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">04:54:03</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">04:54:20</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">04:54:32</span><span id="name-span">Moderator</span>Each conversation will last for 5 minutes. 
+<span id="time-span">04:54:42</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">04:54:52</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">04:55:18</span><span id="name-span">Iso</span>So I&#039;ll just be, talking pretty much with an AI and a person? 
+<span id="time-span">04:55:41</span><span id="name-span">Moderator</span>Yes, that is correct. Both acting as the same fictive character: Andrew 
+<span id="time-span">04:56:04</span><span id="name-span">Iso</span>Alright I got it 
+<span id="time-span">04:56:15</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 5 minutes will start after your answer. 
+<span id="time-span">04:56:39</span><span id="name-span">Andrew</span>Hello. 
+<span id="time-span">04:56:46</span><span id="name-span">Iso</span>Heyo  
+<span id="time-span">04:56:55</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">04:57:05</span><span id="name-span">Iso</span>Im doing pretty fine, how about yourself Andrew?  
+<span id="time-span">04:57:35</span><span id="name-span">Andrew</span>I&#039;m doing quite alright. Just watching TV and preparing to go to bed. How about you? 
+<span id="time-span">04:58:24</span><span id="name-span">Iso</span>Well i&#039;m just procrastinating writing a paper  
+<span id="time-span">04:58:34</span><span id="name-span">Andrew</span>Oh? What is it about? 
+<span id="time-span">04:59:02</span><span id="name-span">Iso</span>Just some stuff in my English class, argumentative paper and such  
+<span id="time-span">04:59:29</span><span id="name-span">Andrew</span>Doesn&#039;t sound like something I could do. Do you like sports? 
+<span id="time-span">04:59:55</span><span id="name-span">Iso</span>Honestly not really. The only sport i really get into is soccer 
+<span id="time-span">04:59:57</span><span id="name-span">Iso</span>how about yourself? 
+<span id="time-span">05:00:49</span><span id="name-span">Andrew</span>I play Baseball. I get a good scholarship in College for being in the team. 
+<span id="time-span">05:01:19</span><span id="name-span">Iso</span>Oh Thats really rad 
+<span id="time-span">05:01:28</span><span id="name-span">Iso</span>Scholarships are really important for College haha 
+<span id="time-span">05:01:40</span><span id="name-span">Andrew</span>Are you in college too? 
+<span id="time-span">05:01:51</span><span id="name-span">Moderator</span>Time is Up! 
+<span id="time-span">05:02:06</span><span id="name-span">Iso</span>aw darn 
+<span id="time-span">05:02:41</span><span id="name-span">Moderator</span>Who do you think you were talking with? The Human or the Artificial Intelligence? (This is not your final answer.) 
+<span id="time-span">05:02:49</span><span id="name-span">Iso</span>The human 
+<span id="time-span">05:03:17</span><span id="name-span">Moderator</span>Alright. We&#039;ll start the second conversation. Andrew will begin, and you&#039;ll have 5 minutes after your answer. 
+<span id="time-span">05:03:27</span><span id="name-span">Iso</span>alrighty  
+<span id="time-span">05:03:44</span><span id="name-span">Andrew</span>Hello. 
+<span id="time-span">05:03:50</span><span id="name-span">Iso</span>Heyo  
+<span id="time-span">05:04:01</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">05:04:13</span><span id="name-span">Iso</span>Im doing pretty fine, How about yourself Andrew? 
+<span id="time-span">05:04:34</span><span id="name-span">Andrew</span>I&#039;m doing quite decent. Just watching TV at the moment. How about you? 
+<span id="time-span">05:05:07</span><span id="name-span">Iso</span>Oh Just procrastinating a paper and such 
+<span id="time-span">05:05:21</span><span id="name-span">Andrew</span>Oh? What kind of paper is it? 
+<span id="time-span">05:06:00</span><span id="name-span">Iso</span>Just a little English paper, nothing to big ya know?  
+<span id="time-span">05:06:06</span><span id="name-span">Iso</span>What are you watching on TV?  
+<span id="time-span">05:06:50</span><span id="name-span">Andrew</span>I watch shows mostly. 
+<span id="time-span">05:07:20</span><span id="name-span">Iso</span>What kinda shows?  
+<span id="time-span">05:07:54</span><span id="name-span">Andrew</span>Game of Thrones, House of Cards, things like that. Do you like these? 
+<span id="time-span">05:08:20</span><span id="name-span">Iso</span>No Im not really into And Real life shows, Im more of an animated show kinda person 
+<span id="time-span">05:08:48</span><span id="name-span">Andrew</span>Oh nice. I don&#039;t really know many anime. What do you watch? 
+<span id="time-span">05:08:54</span><span id="name-span">Moderator</span>Time is up! 
+<span id="time-span">05:09:19</span><span id="name-span">Iso</span>so like that was the AI right  
+<span id="time-span">05:10:01</span><span id="name-span">Moderator</span>Well, I was about to ask. So you think the second conversation is the AI and the first one is the Human. Is that right? 
+<span id="time-span">05:10:09</span><span id="name-span">Iso</span>that is correct  
+<span id="time-span">05:10:14</span><span id="name-span">Moderator</span>Are you sure? 
+<span id="time-span">05:10:22</span><span id="name-span">Iso</span>as sure as i can be 
+<span id="time-span">05:10:35</span><span id="name-span">Moderator</span>Alright. Thank you very much for your time! 
+<span id="time-span">05:11:23</span><span id="name-span">Moderator</span>Do you want to get the results of this study once it&#039;s published? (If you gave use your e-mail address )
+<span id="time-span">05:11:34</span><span id="name-span">Iso</span>Yes please 
+<span id="time-span">05:11:50</span><span id="name-span">Moderator</span>Will do. Thank you again! You can now close this tab. 

@@ -1,0 +1,6 @@
+Username: Betropper
+Age: 19
+Gender: male
+IA: 5
+CS: 6
+E-Mail: Betropper@gmail.com

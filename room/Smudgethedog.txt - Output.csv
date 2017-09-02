@@ -1,0 +1,110 @@
+Author,TimeStamp,Delay,Message,Characters,Conversation
+Moderator,0,0,"Welcome Smudgethedog ",21,
+Moderator,14,14,"Thank you for participating in this study. ",43,
+Moderator,25,11,"Are you able to read this? ",27,
+Smudgethedog,30,5,"I am ",5,
+Moderator,41,11,"Alright. In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. ",113,
+Moderator,47,6,"Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. ",146,
+Moderator,57,10,"You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. ",131,
+Moderator,74,17,"You&#039;ll be talking to him twice. ",37,
+Moderator,83,9,"The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. ",139,
+Moderator,92,9,"In the other, it will be played by an Artificial Intelligence we are developing. ",81,
+Moderator,99,7,"We will call the Human and the Artificial Intelligence the Actors. ",67,
+Moderator,106,7,"The order in which you&#039;ll be talking to each Actor is random. ",67,
+Moderator,112,6,"You will not be talking twice with the same Actor. ",51,
+Moderator,127,15,"Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. ",120,
+Moderator,135,8,"Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. ",151,
+Moderator,144,9,"Whenever you have made your decision, you are able to stop the conversation by saying [STOP] ",93,
+Moderator,150,6,"Each conversation will last for 15 minutes maximum if you do not decide to stop it before. ",91,
+Moderator,156,6,"Please, keep your posts to text only (No smileys, no links... etc) ",67,
+Moderator,162,6,"Do not type more than one post per answer. ",43,
+Moderator,168,6,"Do you understand the rules and what you have to do? ",53,
+Smudgethedog,178,10,"Yes, but I have some questions. ",32,
+Moderator,186,8,"Sure. What are they? ",21,
+Smudgethedog,221,35,"I assume that I&#039;m allowed to ask questions of the Actors? ",63,
+Moderator,245,24,"You should only talk to the character, not the actors themselves. ",66,
+Moderator,293,48,"But yes, you&#039;re able to ask questions to Andrew ",53,
+Smudgethedog,320,27,"That&#039;s what I meant. Like I&#039;m allowed to ask &quot;Andrew, how old are you&quot; or &quot;Andrew, do you have a faith that you adhere to?&quot; ",154,
+Moderator,331,11,"You can do that yes. ",21,
+Smudgethedog,383,52,"Excellent. whe I am don with the conversation, I use [stop] correct? ",69,
+Moderator,392,9,"That is correct. ",17,
+Smudgethedog,402,10,"Alright. Ready. ",16,
+Moderator,429,27,"Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? ",102,
+Smudgethedog,442,13,"Yes, I am ready. ",17,
+Andrew,447,5,"Hello! ",7,
+Smudgethedog,457,10,"Good Morning, Andrew. ",22,1
+Andrew,467,10,"How are you doing? ",19,1
+Smudgethedog,486,19,"I am slowly dying, but otherwise in an acceptable state of health.  ",68,1
+Andrew,508,22,"That... doesn&#039;t sound really good. What&#039;s wrong? ",59,1
+Smudgethedog,560,52,"There&#039;s nothing wrong, once a human is born, they start to die, right? ",76,1
+Andrew,583,23,"True. I just expected something worse than that. ",49,1
+Smudgethedog,615,32,"What about yourself, Andrew; how are you? ",42,1
+Andrew,637,22,"I guess I&#039;m slowly dying too. But other than that I&#039;m doing alright! ",79,1
+Smudgethedog,661,24,"Do you have a religion that you practice? ",42,1
+Andrew,672,11,"Not really no. Do you? ",23,1
+Smudgethedog,693,21,"Yes. I identify as heathen.  ",29,1
+Andrew,745,52,"I&#039;m not sure what that is actually. Mind explaining? ",58,1
+Smudgethedog,791,46,"I worship the old gods of northern Europe. Thor, Loki, Odin, Baldur, Hel, Frigg.. ",82,1
+Andrew,821,30,"Oh cool, I didn&#039;t know people who believed in them were called that. ",74,1
+Smudgethedog,902,81,"They are called that or Asatru. Asatru is the more official term, but heathen is a term we use in a sort-of self deprecating manner as it&#039;s what the Christians labeled us.  ",178,1
+Andrew,948,46,"Right. So, what did you think of the Thor movies? Was that blasphemy? ",70,1
+Smudgethedog,1023,75,"It is not blasphemy because it takes place in an alternate universe. You will find that, in general, Asatru folk are less likely to take offense to someone mocking their religion or not understanding.",200,1
+Andrew,1067,44,"That&#039;s nice. I&#039;ve always been interested in northern Europe myths. ",77,1
+Smudgethedog,1135,68,"May I ask how old you are, Andrew? ",35,1
+Andrew,1177,42,"Sure, I&#039;m 21! What about you, how old are you? ",52,1
+Smudgethedog,1200,23,"I&#039;m 28. What was your first memory? ",41,1
+Andrew,1231,31,"I&#039;m not really sure actually. Do you think about yours? ",61,1
+Smudgethedog,1265,34,"Yes, It&#039;s something that I&#039;ve thought about a lot because it&#039;s something that psychology courses ask about where I am. ",134,1
+Andrew,1335,70,"I&#039;m sure that memory must have been rebuilt a good amount of times then and has little in common with what it actually was. ",129,1
+Moderator,1361,26,"Time is up! ",12,
+Smudgethedog,1376,15,"Ok. ",4,
+Moderator,1377,1,"Which actor do you think you&#039;ve been talking to? ",54,
+Smudgethedog,1392,15,"I&#039;d go with AI. ",21,
+Moderator,1408,16,"Alright. We&#039;ll begin the second conversation. Andrew will start again and then you&#039;ll have 15 minutes after your answer. Are you ready? ",146,
+Smudgethedog,1419,11,"Yes ",4,
+Andrew,1425,6,"Hello! ",7,
+Smudgethedog,1456,31,"Howdy! How&#039;s it goin&#039; Andrew? ",40,2
+Andrew,1470,14,"I&#039;m doing quite alright! How about you? ",45,2
+Smudgethedog,1490,20,"I&#039;m slowly dying, but otherwise just fine. ",48,2
+Andrew,1514,24,"Oh damn. Mind if I ask why? ",28,2
+Smudgethedog,1552,38,"Because, when a human is born, they start to die, thus any human that you meet will be dying at some rate. Slower is arguably better. ",134,2
+Andrew,1585,33,"I suppose that&#039;s true. Fair enough. What are you up to? ",61,2
+Smudgethedog,1614,29,"Helping out a friend and waiting for my husband to get home. ",61,2
+Andrew,1651,37,"Oh that&#039;s cool! What are you helping your friend with? ",60,2
+Smudgethedog,1692,41,"A school project. ",18,2
+Andrew,1715,23,"What is that project about? If you don&#039;t mind me asking. ",62,2
+Smudgethedog,1752,37,"Psychology and human history. ",30,2
+Andrew,1776,24,"That sounds really cool! I study Biology. ",42,2
+Smudgethedog,1831,55,"Interesting. That gives me an idea... Can you give me a brief example of structure versus function? ",100,2
+Andrew,1863,32,"What do you mean exactly? ",26,2
+Smudgethedog,1904,41,"Just a simple example of how something has evolved to perform a specific function on any species.  ",99,2
+Andrew,1960,56,"Teeth for example. Some are made to tear and some are made to crush. They don&#039;t have the same shape. ",106,2
+Smudgethedog,2059,99,"Exactly. That&#039;s a good example. My favorite example is the ears on an elephant. Large and highly vascular to allow heat exchange ",134,2
+Andrew,2081,22,"That&#039;s a good one too yes! ",32,2
+Smudgethedog,2103,22,"When did you start studying biology? ",37,2
+Andrew,2129,26,"3 years ago. I&#039;m an undergrad student. ",44,2
+Smudgethedog,2158,29,"Very cool At a University in France, I&#039;m guessing? ",56,2
+Andrew,2197,39,"I study at the university of Western Ontario, in Canada. I live there. ",71,2
+Smudgethedog,2229,32,"Very cool. Ontario is nice in spring and fall. I&#039;m not a fan of their Summers or Winters. ",95,2
+Andrew,2259,30,"Yeah me neither. Very hot and very cold. Polar opposites. ",58,2
+Smudgethedog,2332,73,"Exactly. I live in Florida. Fall and winter are the only tolerable months. ",75,2
+Andrew,2363,31,"Very wet too I imagine, not even talking about the storms. ",59,2
+Moderator,2371,8,"Time is up! ",12,
+Moderator,2383,12,"Which actor do you think you&#039;ve been talking to in the first conversation?  ",81,
+Smudgethedog,2394,11,"The human. ",11,
+Moderator,2398,4,"On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? ",90,
+Smudgethedog,2441,43,"I answered incorrectly. The first conversation was the AI, the second conversation was the Human. I&#039;d scale my confidence as a 5 on both. ",143,
+Moderator,2470,29,"Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  ",167,
+Moderator,2483,13,"If you have any comments you&#039;d like to share, you can do so now. Otherwise you can close this window. ",107,
+,,,,,
+Summary,,,,,
+,First Conversation,Second Conversation,,,
+Duration,878,907,,,
+User Average,40.4166666666667,42.0769230769231,,,
+Actor Average,33.5833333333333,30,,,
+User Average (5min),26.3333333333333,32.6666666666667,,,
+Actor Average (5min),23.3333333333333,26.2,,,
+User CharLength,79.0833333333333,71.3076923076923,,,
+Actor CharLength,62.5,52.9166666666667,,,
+User CharLength (5min),46.5,55.1666666666667,,,
+Actor CharLength (5min),47.8333333333333,51.2,,,

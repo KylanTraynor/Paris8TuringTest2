@@ -1,0 +1,119 @@
+<span id="time-span">03:11:32</span><span id="name-span">Moderator</span>Hello there! 
+<span id="time-span">03:11:33</span><span id="name-span">♫</span>Hey there. 
+<span id="time-span">03:11:41</span><span id="name-span">Moderator</span>Thank you for participating in this study. 
+<span id="time-span">03:11:48</span><span id="name-span">♫</span>No problem. 
+<span id="time-span">03:12:10</span><span id="name-span">Moderator</span>In the next posts, I&#039;ll be going over the rules of the &quot;game&quot; you&#039;re about to play. 
+<span id="time-span">03:12:17</span><span id="name-span">Moderator</span>Once I&#039;ll be done, I&#039;ll ask you if you&#039;ve understood the rules, and if you haven&#039;t I&#039;ll explain them in different words. 
+<span id="time-span">03:12:17</span><span id="name-span">♫</span>Okay. 
+<span id="time-span">03:12:34</span><span id="name-span">Moderator</span>You&#039;re about to talk to Andrew. Andrew is a fictive character that has been completely created for the purpose of this study. 
+<span id="time-span">03:12:40</span><span id="name-span">Moderator</span>You&#039;ll be talking to him twice. 
+<span id="time-span">03:12:49</span><span id="name-span">Moderator</span>The only difference between the two conversations you&#039;ll have with him, is that in one of them Andrew will be played by a real human. 
+<span id="time-span">03:12:54</span><span id="name-span">Moderator</span>In the other, it will be played by an Artificial Intelligence we are developing. 
+<span id="time-span">03:13:16</span><span id="name-span">Moderator</span>We will call the Human and the Artificial Intelligence the Actors. 
+<span id="time-span">03:13:22</span><span id="name-span">Moderator</span>The order in which you&#039;ll be talking to each Actor is random. 
+<span id="time-span">03:13:29</span><span id="name-span">Moderator</span>You will not be talking twice with the same Actor. 
+<span id="time-span">03:13:33</span><span id="name-span">Moderator</span>Both the Artificial Intelligence and the Human will try to portray the same Andrew in the most convincing way they can. 
+<span id="time-span">03:13:40</span><span id="name-span">Moderator</span>Your goal is simple. After talking to the two actors, you&#039;ll have to guess which one was the Artificial Intelligence and which one was the Human. 
+<span id="time-span">03:13:48</span><span id="name-span">Moderator</span>Whenever you have made your decision, you are able to stop the conversation by saying [STOP] 
+<span id="time-span">03:13:55</span><span id="name-span">Moderator</span>Each conversation will last for 15 minutes maximum if you do not decide to stop it before. 
+<span id="time-span">03:14:01</span><span id="name-span">Moderator</span>Please, keep your posts to text only (No smileys, no links... etc) 
+<span id="time-span">03:14:10</span><span id="name-span">Moderator</span>Do not type more than one post per answer. 
+<span id="time-span">03:14:18</span><span id="name-span">Moderator</span>Do you understand the rules and what you have to do? 
+<span id="time-span">03:14:21</span><span id="name-span">♫</span>Yes. 
+<span id="time-span">03:14:29</span><span id="name-span">Moderator</span>Good. Andrew will start the conversation. The 15 minutes will start after your answer. Are you ready? 
+<span id="time-span">03:14:33</span><span id="name-span">♫</span>Yes. 
+<span id="time-span">03:14:42</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:14:46</span><span id="name-span">♫</span>Hey there! 
+<span id="time-span">03:14:52</span><span id="name-span">Andrew</span>How are you doing? 
+<span id="time-span">03:14:58</span><span id="name-span">♫</span>Quite well, thank you. Yourself? 
+<span id="time-span">03:15:06</span><span id="name-span">Andrew</span>I&#039;m quite alright thanks. 
+<span id="time-span">03:15:26</span><span id="name-span">♫</span>Glad to hear it. 
+<span id="time-span">03:15:42</span><span id="name-span">Andrew</span>What are you up to? 
+<span id="time-span">03:16:05</span><span id="name-span">♫</span>Just having a snack. Do you like pineapple? 
+<span id="time-span">03:16:25</span><span id="name-span">Andrew</span>Not really no. 
+<span id="time-span">03:16:45</span><span id="name-span">♫</span>Oh, why not? 
+<span id="time-span">03:17:04</span><span id="name-span">Andrew</span>I find it a bit weird actually. 
+<span id="time-span">03:17:25</span><span id="name-span">♫</span>I mean, I think it&#039;s weird on pizza, but just as a fruit I think it&#039;s great. 
+<span id="time-span">03:17:51</span><span id="name-span">Andrew</span>Well, in juice it&#039;s alright. 
+<span id="time-span">03:18:17</span><span id="name-span">♫</span>Not just in plain chunks, then? 
+<span id="time-span">03:19:08</span><span id="name-span">Andrew</span>Nah. Maybe I should try one again though. 
+<span id="time-span">03:19:40</span><span id="name-span">♫</span>Mhmm. I recommend it. What about pineapple, then? Do you like that? 
+<span id="time-span">03:19:54</span><span id="name-span">Andrew</span>You just asked. 
+<span id="time-span">03:20:12</span><span id="name-span">♫</span>Wait, mango. Sorry. 
+<span id="time-span">03:20:29</span><span id="name-span">Andrew</span>Yeah that&#039;s alright! 
+<span id="time-span">03:20:57</span><span id="name-span">♫</span>You know their poisonous? The skin, at least. 
+<span id="time-span">03:21:15</span><span id="name-span">Andrew</span>No I didn&#039;t actually know that. 
+<span id="time-span">03:21:46</span><span id="name-span">♫</span>Yup. Deadly neurotoxin, I&#039;ve fished. 
+<span id="time-span">03:22:14</span><span id="name-span">Andrew</span>Probably in very low concentrations though. 
+<span id="time-span">03:22:57</span><span id="name-span">♫</span>Nah, it&#039;s enough to kill a person from one bite. Dry banana hat. 
+<span id="time-span">03:23:43</span><span id="name-span">Andrew</span>I think many more people would die if that was true. 
+<span id="time-span">03:24:45</span><span id="name-span">♫</span>Well, the toxins cook out I think. So it&#039;s just raw mango skin, which bedsheet window I don&#039;t think most hiccup people eat very often. 
+<span id="time-span">03:25:44</span><span id="name-span">Andrew</span>Why are you adding random words? 
+<span id="time-span">03:26:09</span><span id="name-span">♫</span>There&#039;s a cat walking across my keyboard. Can I ask you something? 
+<span id="time-span">03:26:16</span><span id="name-span">Andrew</span>Sure. 
+<span id="time-span">03:26:24</span><span id="name-span">♫</span>Are you an AI? 
+<span id="time-span">03:26:30</span><span id="name-span">Andrew</span>No. 
+<span id="time-span">03:26:43</span><span id="name-span">♫</span>Okay, thanks. One last question before I go. 
+<span id="time-span">03:26:49</span><span id="name-span">Andrew</span>What is it? 
+<span id="time-span">03:26:54</span><span id="name-span">♫</span>Do you like pineapple? 
+<span id="time-span">03:27:04</span><span id="name-span">Andrew</span>I still don&#039;t. 
+<span id="time-span">03:27:23</span><span id="name-span">♫</span>Gotcha. Thanks for putting up with my idiocy. 
+<span id="time-span">03:27:44</span><span id="name-span">Andrew</span>No worries! 
+<span id="time-span">03:27:50</span><span id="name-span">♫</span>[STOP] 
+<span id="time-span">03:28:00</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">03:28:09</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to? 
+<span id="time-span">03:28:31</span><span id="name-span">♫</span>Wait, I  thought I got to talk to them both before making a decision!
+<span id="time-span">03:28:56</span><span id="name-span">Moderator</span>You will, this is not your final answer. 
+<span id="time-span">03:29:25</span><span id="name-span">♫</span>Oh, okay. I&#039;m leaning towards this guy being the AI, then. 
+<span id="time-span">03:30:04</span><span id="name-span">Moderator</span>Alright. We&#039;ll begin the next conversation. Andrew will start and then you&#039;ll have 15 minutes after your answer. Are you ready? 
+<span id="time-span">03:30:13</span><span id="name-span">♫</span>Yes. 
+<span id="time-span">03:30:16</span><span id="name-span">Andrew</span>Hello! 
+<span id="time-span">03:30:23</span><span id="name-span">♫</span>Hey there! What&#039;s up? 
+<span id="time-span">03:30:38</span><span id="name-span">Andrew</span>Not much really. How about you? 
+<span id="time-span">03:30:54</span><span id="name-span">♫</span>Just having a snack. Do you like pineapple? 
+<span id="time-span">03:31:20</span><span id="name-span">Andrew</span>Nah not really. I&#039;ve had rather bad experiences with that. 
+<span id="time-span">03:31:31</span><span id="name-span">♫</span>Really? What happened? 
+<span id="time-span">03:32:02</span><span id="name-span">Andrew</span>Well, let&#039;s just say it&#039;s a bit too acid for me. 
+<span id="time-span">03:32:10</span><span id="name-span">♫</span>Ooh - upset stomach? 
+<span id="time-span">03:32:24</span><span id="name-span">Andrew</span>Pretty much, and toothache. 
+<span id="time-span">03:32:35</span><span id="name-span">♫</span>Yeah, I&#039;ve heard that sort of chair can happen. 
+<span id="time-span">03:32:49</span><span id="name-span">Andrew</span>That sort of chair? 
+<span id="time-span">03:33:03</span><span id="name-span">♫</span>Er, that sort of thing, sorry. There&#039;s a cat walking on my keyboard. 
+<span id="time-span">03:33:18</span><span id="name-span">Andrew</span>You wouldn&#039;t believe how common that is. 
+<span id="time-span">03:33:45</span><span id="name-span">♫</span>Hey, what time zone are you in? 
+<span id="time-span">03:34:17</span><span id="name-span">Andrew</span>Eastern time. Or GMT-5 I believe that is. 
+<span id="time-span">03:34:31</span><span id="name-span">♫</span>Oh, so it&#039;s like 10:30 for you? 
+<span id="time-span">03:35:01</span><span id="name-span">Andrew</span>Nah, 9:30 actually. You&#039;re one hour off. 
+<span id="time-span">03:35:13</span><span id="name-span">♫</span>I blame Daylight Savings time. 
+<span id="time-span">03:35:53</span><span id="name-span">Andrew</span>Oh yeah, that tends to make it hard to figure out timezones. 
+<span id="time-span">03:36:08</span><span id="name-span">♫</span>Mhmm. 
+<span id="time-span">03:36:25</span><span id="name-span">Andrew</span>Mind if I ask how old you are? 
+<span id="time-span">03:36:45</span><span id="name-span">♫</span>Sure - I&#039;m 17. 
+<span id="time-span">03:37:08</span><span id="name-span">Andrew</span>Aren&#039;t you a bit young to be here then? 
+<span id="time-span">03:37:30</span><span id="name-span">♫</span>Actually I&#039;m just BSing you. I&#039; m 21.
+<span id="time-span">03:38:11</span><span id="name-span">Andrew</span>Oh right, that makes more sense. Are you in college? 
+<span id="time-span">03:38:24</span><span id="name-span">♫</span>Yup! How about you? 
+<span id="time-span">03:38:47</span><span id="name-span">Andrew</span>I am, I&#039;m 21 too actually. 
+<span id="time-span">03:39:09</span><span id="name-span">♫</span>Nice, what are you studying? 
+<span id="time-span">03:39:51</span><span id="name-span">Andrew</span>Biology. I just finished my 3rd year of undergrad. What about you? 
+<span id="time-span">03:40:11</span><span id="name-span">♫</span>Music Education. Hey, quick question. 
+<span id="time-span">03:40:29</span><span id="name-span">Andrew</span>Nice! And shoot. 
+<span id="time-span">03:41:05</span><span id="name-span">♫</span>What do you think of pineapple? 
+<span id="time-span">03:41:51</span><span id="name-span">Andrew</span>Well, scroll back up and you&#039;ll see. 
+<span id="time-span">03:42:22</span><span id="name-span">♫</span>Oh, right, yes. 
+<span id="time-span">03:42:40</span><span id="name-span">Andrew</span>Yeah. I still don&#039;t like them. That hasn&#039;t changed in 10 minutes. 
+<span id="time-span">03:42:55</span><span id="name-span">♫</span>One more question and I&#039;ll let you go, then. 
+<span id="time-span">03:43:03</span><span id="name-span">Andrew</span>Ask away! 
+<span id="time-span">03:43:12</span><span id="name-span">♫</span>Are you an AI? 
+<span id="time-span">03:43:24</span><span id="name-span">Andrew</span>Mind if I answer you with another question? 
+<span id="time-span">03:43:37</span><span id="name-span">♫</span>Go for it. 
+<span id="time-span">03:43:56</span><span id="name-span">Andrew</span>If I was an AI, do you think I&#039;d tell you? But no, I&#039;m not an AI. 
+<span id="time-span">03:44:20</span><span id="name-span">♫</span>[STOP] 
+<span id="time-span">03:44:35</span><span id="name-span">Moderator</span>Conversation interrupted! 
+<span id="time-span">03:44:59</span><span id="name-span">Moderator</span>Which actor do you think you&#039;ve been talking to in the FIRST conversation?  
+<span id="time-span">03:45:06</span><span id="name-span">♫</span>The AI. 
+<span id="time-span">03:45:15</span><span id="name-span">Moderator</span>On a scale from 1 (not sure at all) to 7 (certain), how confident are you of your answer? 
+<span id="time-span">03:45:24</span><span id="name-span">♫</span>5 
+<span id="time-span">03:45:36</span><span id="name-span">Moderator</span>Alright thank you for your participation! If you&#039;ve given you e-mail, we&#039;ll send you some information about the results of this study in the coming months.  
+<span id="time-span">03:45:51</span><span id="name-span">♫</span>Awesome. 
+<span id="time-span">03:45:57</span><span id="name-span">Moderator</span>If you have any comments you&#039;d like to share, feel free to do so now. Otherwise, you can now close this window. 
